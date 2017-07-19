@@ -1,17 +1,23 @@
-title: happy-birthday
+---
 hero_image: images/banner.png
-description: happy-birthday description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "games, jokes/pranks, music/sound, photography, physical computing, robots, space"
-technologies: "electronics, physical computing, html/css, scratch, python"
-site_areas:
+title: Happy Birthday
+description: Learn how to make a customised birthday card.
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+interests: ''
+technologies: html/css
+site_areas: codeclub, webdev
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+- title: Introduction
+- title: What is HTML?
+- title: 'Challenge: Add another paragraph'
+- title: What is CSS?
+- title: 'Challenge: Add more style'
+- title: Making a birthday card
+- title: 'Challenge: Create a personalised card'
+
