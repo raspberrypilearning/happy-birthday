@@ -1,28 +1,14 @@
-## What is CSS?
+--- challenge ---
+## Challenge: Add another paragraph
+Can you add a 3rd paragraph of text to your webpage, below the other 2? Remember that your new paragraph should start with a `<p>` tag, and end with `</p>`.
 
-CSS stands for __Cascading Style Sheets__, and is the language used to style webpages and make them look nice. You can link your webpage to a CSS file in the `<head>` of an HTML document like this:
+Here's how your webpage should look:
 
-![screenshot](images/birthday-css-link.png)
+![screenshot](images/birthday-paragraph.png)
 
-
-
-+ CSS lists all of the __properties__ for a particular tag. Click the 'style.css' tab to see the CSS for your webpage.
-
-	![screenshot](images/birthday-css-tab.png)
-
-+ Find this code:
-
-	```
-	p {
-		color: black;
-	}
-	```
-
-	This CSS code has one property for paragraphs, which is that the text colour should be black.
-
-+ Change the word 'black' in the CSS to 'blue'. You should see the text colour of all paragraphs change to blue.
-
-	![screenshot](images/birthday-edit-css.png)
+Can you add __bold__ and <u>underlined</u> text to your new paragraph? You should use `<u>` and `</u>` for underlined text.
 
 
 
+
+--- /challenge ---
