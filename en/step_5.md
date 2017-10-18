@@ -1,28 +1,29 @@
 ## What is CSS?
 
-CSS stands for __Cascading Style Sheets__, and is the language used to style webpages and make them look nice. You can link your webpage to a CSS file in the `<head>` of an HTML document like this:
+CSS stands for **Cascading Style Sheets**, and is the language used to style webpages and make them look nice.
+
+This code links your webpage to a CSS file.
+
++ Can you find this code in the `<head>` of the HTML document?
 
 ![screenshot](images/birthday-css-link.png)
 
+CSS lists all of the **properties** for a particular tag.
 
-
-+ CSS lists all of the __properties__ for a particular tag. Click the 'style.css' tab to see the CSS for your webpage.
++ Click the 'style.css' tab to see the CSS for your webpage.
 
 	![screenshot](images/birthday-css-tab.png)
 
 + Find this code:
 
-	```
-	p {
-		color: black;
-	}
-	```
+```html
+p {
+	color: black;
+}
+```
 
-	This CSS code has one property for paragraphs, which is that the text colour should be black.
+This CSS code has a property for paragraphs (p), which says that the text colour should be black. Notice the American spelling - 'color'.
 
 + Change the word 'black' in the CSS to 'blue'. You should see the text colour of all paragraphs change to blue.
 
-	![screenshot](images/birthday-edit-css.png)
-
-
-
+![screenshot](images/birthday-edit-css.png)
