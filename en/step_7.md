@@ -4,7 +4,7 @@ Let's use what you've learnt about HTML and CSS to make your own custom birthday
 
 + Open this Trinket: [jumpto.cc/web-card](http://jumpto.cc/web-card){:target="_blank"}.
 
-Don't worry if you don't understand all of the code. This birthday card looks pretty boring, so you're going to make some changes to this HTML and CSS.
+We've written a lot of code to get you started off, but this birthday card looks pretty boring, so you're going to make some changes to this HTML and CSS.
 
 + Click the button on the front of the card, and you should see it open to reveal the inside.
 
@@ -23,9 +23,9 @@ Don't worry if you don't understand all of the code. This birthday card looks pr
 
 ![screenshot](images/birthday-card-sun.png)
 --- /hint ---
---- /hint ---
+--- /hints ---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy`.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa` or `snowman` if you would prefer to make a Christmas card.
 
 You can also edit the CSS of the birthday card.
 
