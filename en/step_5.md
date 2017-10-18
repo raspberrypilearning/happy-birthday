@@ -2,9 +2,7 @@
 
 CSS stands for **Cascading Style Sheets**, and is the language used to style webpages and make them look nice.
 
-This code links your webpage to a CSS file.
-
-+ Can you find this code in the `<head>` of the HTML document?
++ This code links your webpage to a CSS file. See if you can find it in the `<head>` of the HTML document:
 
 ![screenshot](images/birthday-css-link.png)
 
