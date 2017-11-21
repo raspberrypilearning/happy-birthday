@@ -46,9 +46,11 @@ Here are some more:
 
 ![screenshot](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo your changes, you can click the menu button and then click 'Reset'. Try it!
++ If you have made a mistake and want to undo all of your changes, you can click the menu button and then click 'Reset'.
 
 ![screenshot](images/birthday-reset.png)
+
+To undo just the last thing you did, you can press the <kbd>Ctrl + Z</kbd> keys together.
 
 
 ### You don't need a Trinket account to save your projects!
