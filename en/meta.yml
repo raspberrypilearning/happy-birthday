@@ -4,19 +4,19 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-title: Happy Birthday
-description: Learn how to make a customised birthday card.
+curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Happy birthday
+description: Learn how to make a customised birthday card
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
 interests: ''
 technologies: html/css
 site_areas: codeclub, webdev
 steps:
 - title: Introduction
+- title: What you will need
 - title: What is HTML?
-- title: 'Challenge: Add another paragraph'
+- title: 'Challenge: add another paragraph'
 - title: What is CSS?
-- title: 'Challenge: Add more style'
+- title: 'Challenge: add more styles'
 - title: Making a birthday card
-- title: 'Challenge: Create a personalised card'
-
+- title: 'Challenge: create a personalised card'
