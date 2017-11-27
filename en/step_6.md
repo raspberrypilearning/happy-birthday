@@ -1,5 +1,5 @@
 --- challenge ---
-## Challenge: Add more style
+## Challenge: add more style
 
 + Can you make the paragraphs of text orange?
 
