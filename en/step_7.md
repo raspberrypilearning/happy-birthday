@@ -2,19 +2,19 @@
 
 Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
 
-+ Open this Trinket: [jumpto.cc/web-card](http://jumpto.cc/web-card){:target="_blank"}.
++ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
-We've written a lot of code to get you started off, but this birthday card looks pretty boring, so you're going to make some changes to this HTML and CSS.
+We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
 
 + Click the button on the front of the card, and you should see it open to reveal the inside.
 
 ![screenshot](images/birthday-click.png)
 
-+ Go to line 14 of the code. Try editing the text in the HTML to customise the card.
++ Go to line 14 of the HTML code. Try editing the text to customise your card.
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Can you find the HTML for the robot image, and change the word `robot` to `sun`?
++ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
 
 --- hints ---
 --- hint ---
@@ -25,17 +25,17 @@ We've written a lot of code to get you started off, but this birthday card looks
 --- /hint ---
 --- /hints ---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa` or `snowman` if you would prefer to make a Christmas card.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
 
-You can also edit the CSS of the birthday card.
+You can also edit the CSS code of the birthday card.
 
-+ Click on the tab for “style.css”. The first part is all of the CSS styles for the `outside` of the card.
++ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
 
 + Change the `background-color` to `lightgreen`.
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
 ![screenshot](images/birthday-card-size.png)
 
@@ -43,4 +43,7 @@ You can also edit the CSS of the birthday card.
 
 ![screenshot](images/birthday-card-font.png)
 
-You can use other fonts like <span style="font-family: Arial;">arial</span>, <span style="font-family: impact;">Impact</span> and <span style="font-family: tahoma;">Tahoma</span>.
+You can use other fonts, for example:
++ `<span style="font-family: Arial;">arial</span>`
++ `<span style="font-family: impact;">Impact</span>`
++ `<span style="font-family: tahoma;">Tahoma</span>`
