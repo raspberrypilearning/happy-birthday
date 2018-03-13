@@ -1,3 +1,4 @@
+---
 hero_image: images/happy-birthday.png
 theme: turquoise
 duration: 2
@@ -5,17 +6,26 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Alles Gute zum Geburtstag
-description: In diesem Projekt wirst du die Grundlagen von HTML & CSS kennenlernen, indem du lernst eine individuelle Geburtstagskarte zu machen.
-original_url: https://projects.raspberrypi.org/en/projects/happy-birthday
+title: Happy birthday
+description: Make an online birthday card on a webpage
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
 interests: 'art and design'
 technologies: html/css
 site_areas: codeclub, webdev
 steps:
-- title: Einleitung
-- title: Was ist HTML?
-- title: 'Aufgabe: Füge einen Absatz hinzu'
-- title: Was ist CSS?
-- title: 'Aufgabe: Mehrere Stile hinzufügen'
-- title: Eine Gebutstagskarte machen
-- title: 'Aufgabe: Mache eine personalisierte Karte'
+  - 
+    title: Introduction
+  - 
+    title: What you will need
+  - 
+    title: What is HTML?
+  - 
+    title: 'Challenge: add another paragraph'
+  - 
+    title: What is CSS?
+  - 
+    title: 'Challenge: add more styles'
+  - 
+    title: Making a birthday card
+  - 
+    title: 'Challenge: create a personalised card'

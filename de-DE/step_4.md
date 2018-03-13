@@ -1,23 +1,15 @@
-## Was ist CSS?
+\--- challenge \---
 
-CSS steht für __Cascading Style Sheets__ (gestufte Gestaltungsbögen), und ist die Sprache um Web-Seiten zu gestalten und nett aussehen zu lassen. Im `<head>`-Abschnitt eines HTML-Dokuments kannst du es so mit einer CSS-Datei verlinken:
+## Challenge: add another paragraph
 
-![screenshot](images/birthday-css-link.png)
+- Can you add a third paragraph of text to your webpage, below the other two?
 
-+ CSS listet alle __properties__ (Eigenschaften) eines gewissen 'tags' auf. Klicke auf den Reiter 'style.css' um das CSS für deine Web-Seite zu sehen.
+Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
 
-	![screenshot](images/birthday-css-tab.png)
+Here's how your webpage might look:
 
-+ Finde diesen Code:
+![screenshot](images/birthday-paragraph.png)
 
-	```
-	p {
-		color: black;
-	}
-	```
+Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
 
-	Dieser CSS-Code hat eine Eigenschaft für Absätze, die die Schriftfarbe auf schwarz setzt.
-
-+ Ändere das Wort 'black' im CSS zu 'blue'. Nun solltest du sehen, dass die Farbe aller Absätze auf blau geändert wird.
-
-	![screenshot](images/birthday-edit-css.png)
+\--- /challenge \---
