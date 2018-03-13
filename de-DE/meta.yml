@@ -6,26 +6,26 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Happy birthday
-description: Make an online birthday card on a webpage
-original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+title: Alles Gute zum Geburtstag
+description: Erstelle eine Online-Geburtstagskarte auf einer Webseite
+original_url: https://projects.raspberrypi.org/en/projects/happy-birthday
 interests: 'art and design'
 technologies: html/css
 site_areas: codeclub, webdev
 steps:
   - 
-    title: Introduction
+    title: Einleitung
   - 
-    title: What you will need
+    title: Was du brauchen wirst
   - 
-    title: What is HTML?
+    title: Was ist HTML?
   - 
-    title: 'Challenge: add another paragraph'
+    title: 'Zusatzaufgabe: Füge einen weiteren Absatz hinzu'
   - 
-    title: What is CSS?
+    title: Was ist CSS?
   - 
-    title: 'Challenge: add more styles'
+    title: 'Zusatzaufgabe: Füge weitere Stile hinzu'
   - 
-    title: Making a birthday card
+    title: Eine Geburtstagskarte machen
   - 
-    title: 'Challenge: create a personalised card'
+    title: 'Zusatzaufgabe: Erstelle eine personalisierte Karte'
