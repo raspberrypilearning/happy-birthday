@@ -13,19 +13,11 @@ interests: 'art and design'
 technologies: html/css
 site_areas: codeclub, webdev
 steps:
-  - 
-    title: Einleitung
-  - 
-    title: Was du brauchen wirst
-  - 
-    title: Was ist HTML?
-  - 
-    title: 'Zusatzaufgabe: Füge einen weiteren Absatz hinzu'
-  - 
-    title: Was ist CSS?
-  - 
-    title: 'Zusatzaufgabe: Füge weitere Stile hinzu'
-  - 
-    title: Eine Geburtstagskarte machen
-  - 
-    title: 'Zusatzaufgabe: Erstelle eine personalisierte Karte'
+- title: Einleitung
+- title: Was du brauchen wirst
+- title: Was ist HTML?
+- title: 'Zusatzaufgabe: Füge einen weiteren Absatz hinzu'
+- title: Was ist CSS?
+- title: 'Zusatzaufgabe: Füge weitere Stile hinzu'
+- title: Eine Geburtstagskarte machen
+- title: 'Zusatzaufgabe: Erstelle eine personalisierte Karte'
