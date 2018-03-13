@@ -1,0 +1,31 @@
+---
+hero_image: images/happy-birthday.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Feliz cumpleaños
+description: Hacer una tarjeta de cumpleaños en línea por una página web
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+interests: 'art and design'
+technologies: html/css
+site_areas: codeclub, webdev
+steps:
+  - 
+    title: Introducción
+  - 
+    title: Lo que necesitarás
+  - 
+    title: '¿Qué es HTML?'
+  - 
+    title: 'Desafío: añadir otro párrafo'
+  - 
+    title: '¿Qué es CSS?'
+  - 
+    title: 'Desafío: añadir más estilos'
+  - 
+    title: Hacer una tarjeta de cumpleaños
+  - 
+    title: 'Desafío: crea una tarjeta personalizada'
