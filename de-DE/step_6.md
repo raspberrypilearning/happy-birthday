@@ -1,4 +1,4 @@
-\--- challenge \---
+--- challenge ---
 
 ## Aufgabe: Füge weitere Stile hinzu
 
@@ -8,4 +8,4 @@
 
 ![screenshot](images/birthday-more-style.png)
 
-\--- /challenge \---
+--- /challenge ---
