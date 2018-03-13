@@ -7,8 +7,7 @@ In diesem Projekt lernst du HTML und CSS kennen, indem du lernst, wie du deine e
 Klicke auf die Schaltfläche, um die Geburtstagskarte zu öffnen:
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+  <iframe src="https://trinket.io/embed/html/196ebbe373?runMode=autorun" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   <img src="images/birthday-final.png">
 </div>
 
