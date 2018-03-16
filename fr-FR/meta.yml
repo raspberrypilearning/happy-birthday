@@ -13,9 +13,9 @@ technologies: html/css
 site_areas: codeclub, webdev
 steps:
 - title: Introduction
-- title: C'est quoi HTML?
+- title: "C'est quoi HTML?"
 - title: 'Défi: Ajoute un autre paragraphe'
-- title: CSS, c'est quoi?
+- title: "CSS, c'est quoi?"
 - title: 'Défi: Encore plus de styles!'
-- title: Fabriquer une carte d'anniversaire
+- title: "Fabriquer une carte d'anniversaire"
 - title: 'Défi: Crée une carte personalisé'
