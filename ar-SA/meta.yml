@@ -1,0 +1,22 @@
+hero_image: images/happy-birthday.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: عيد ميلاد سعيد
+description: تعلَّم كيف تصمم بطاقة عيد ميلاد مخصصة.
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+interests: 'art and design'
+technologies: html/css
+site_areas: codeclub, webdev
+steps:
+- title: المقدمة
+- title: ما ستحتاج إليه
+- title: ما المقصود بـ HTML؟
+- title: 'التحدي: إضافة فقرة أخرى'
+- title: ما المقصود بـ CSS؟
+- title: 'التحدي: إضافة أنماط أخرى'
+- title: تصميم بطاقة عيد ميلاد
+- title: 'التحدي: إنشاء بطاقة خاصة'
