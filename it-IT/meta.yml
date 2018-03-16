@@ -13,9 +13,9 @@ technologies: html/css
 site_areas: codeclub, webdev
 steps:
 - title: Introduzione
-- title: Cos’è l’HTML?
+- title: "Cos'è l'HTML?"
 - title: 'Sfida: Aggiungi un altro paragrafo'
-- title: Cos’è il CSS?
+- title: "Cos'è il CSS?"
 - title: 'Sfida: Aggiungi più stile'
 - title: Creazione di un biglietto di auguri
 - title: 'Sfida: Crea un biglietto personalizzato'
