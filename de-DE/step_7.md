@@ -16,12 +16,15 @@ Um loszulegen haben wir eine Menge Code geschrieben, aber die Geburtstagskarte s
 
 + Findest du den HTML-Code für das Roboterbild finden und das Wort `robot` zu `sun` ändern?
 
-\--- hints \--- \--- hint \---
+--- hints --- 
+--- hint ---
 
 + Such den Code in Zeile 17.
 + Ändere das Wort `robot` zu `sun` und du wirst sehen, dass sich das Bild ändert!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png) 
+--- /hint --- 
+--- /hints ---
 
 Du kannst auch die Wörter `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, oder `trophy` für eine Geburtstagskarte verwenden, oder `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, oder `snowman` wenn du eine Weihnachtskarte machen willst.
 
