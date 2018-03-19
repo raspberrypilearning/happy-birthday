@@ -1,6 +1,10 @@
 ## Einleitung
 
-In diesem Projekt erhalten Kinder eine Einführung in 'HTML-tags' und CSS-Eigenschaften. Sie werden 'tags' und Eigenschaften ändern, um ihre eigene, individualisierte Grußkarte zu machen.
+In diesem Projekt lernst du HTML und CSS kennen, indem du lernst, wie du deine eigene Geburtstagskarte gestalten kannst.
+
+### Was du machen wirst
+
+Klicke auf die Schaltfläche, um die Geburtstagskarte zu öffnen:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,42 +12,14 @@ In diesem Projekt erhalten Kinder eine Einführung in 'HTML-tags' und CSS-Eigens
   <img src="images/birthday-final.png">
 </div>
 
-## Online Quellen
+### Was du lernen wirst
 
-Wir empfehlen die Verwendung von [trinket](https://trinket.io/) um HTML & CSS online zu schreiben. Dieses Projekt enthält die folgenden trinkets:
+Dieses Projekt umfasst Elemente aus den folgenden Themen des [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum) {:Ziel="_leer"}:
 
-+ ['Intro to HTML and CSS' starting point](https://trinket.io/html/850a678202)
-+ ['Birthday Card' starting point  -- jumpto.cc/web-card](http://jumpto.cc/web-card)
++ [Entwurf von grundlegenden 2D- and 3D-Gütern](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-Kinder können auch dieses leere trinket verwenden [(jumpto.cc/trinket-blank)](http://jumpto.cc/trinket-blank) um ihr eigenes HTML & CSS zu schreiben, oder sie können alternativ die Vorlage  [(jumpto.cc/trinket-template)](http://jumpto.cc/trinket-template) benutzen.
+### Zusätzliche Informationen für Pädagogen
 
-Es gibt auch ein trinket, das Beispiellösungen zu den Aufgabe enthält:
+Wenn Sie dieses Projekt ausdrucken müssen, verwenden Sie bitte die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
-+ ['Birthday Card' Finished](https://trinket.io/html/e996dc0380)
-
-## Offline Quellen
-Wenn sie es wünschen, kann dieses Projekt auch  [offline fertiggestellt](../html-css.html) werden. Sie erhalten die Projekt-Quellendurch klicken auf den 'Download Project Materials' Link für dieses Projekt. Diese Link enthält einen Ordner 'Project Resources', der die Quellen enthält, die die Kinder benötigen um das Projekt offline abzuschließen. Stellen sie sicher, dass jedes Kind eine Kopie dieser Quellen erhält. Dieser Ordner enthält die folgenden Dateien:
-
-+ Intro.html
-+ Template/template.html
-+ Template/style.css
-+ Birthday Card/BirthdayCard.html
-+ Birthday Card/style.css
-+ Birthday Card/script.js
-+ Birthday Card/10 x .png images
-
-Die fertigen Versionen der Aufgaben dieses Projekts finden sie im Ordner 'Club Leader Resources', der folgendes enthält:
-
-+ BirthdayCardFinished.html
-+ style.css
-+ script.js
-+ rainbow.png
-+ dinosaur.png
-
-## Lernziele
-+ Dieses Projekt führt in 'HTML-tags' und CSS-Eigenschaften ein. Es erlaubt Kinder den Inhalt und das Aussehen zu verändern.
-
-## Aufgaben
-+ "Einen Absatz hinzufügen" - einen 'HTML-tag' zu einem Dokument hinzufügen;
-+ "Mehrere Stile hinzufügen" - CSS-Eigenschaften ändern;
-+ "Mache eine personalisierte Karte" - HTML und CSS ändern um eine Grußkarte zu machen.
+Verwenden Sie den Link in der Fußzeile, um auf das GitHub-Repo für dieses Projekt zuzugreifen. Dieses enthält alle Ressourcen (einschließlich eines Beispiels für ein abgeschlossenes Projekt) im Ordner "de/resources".
