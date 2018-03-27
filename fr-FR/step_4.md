@@ -4,8 +4,6 @@ CSS veux dire __Cascading Style Sheets__ (En Francais, page de style en cascade)
 
 ![screenshot](images/birthday-css-link.png)
 
-## Liste d'activités { .check}
-
 + CSS liste toutes les __propriétés__ pour un tag en particulier. Clique sur l'onglet 'style.css' pour voir le CSS de ta page.
 
 	![screenshot](images/birthday-css-tab.png)
