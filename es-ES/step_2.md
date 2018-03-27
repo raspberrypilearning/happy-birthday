@@ -2,12 +2,7 @@
 
 HTML son las siglas de __HyperText Markup Language__ (Lenguaje de Marcas de Hipertexto), y es el lenguaje que se usa para crear páginas web. ¡Vamos a ver un ejemplo!
 
-+ Tendrás que usar una página web llamada Trinket para escribir HTML. Abre este Trinket: <a href="http://jumpto.cc/web-intro" target="_blank">jumpto.cc/web-intro</a>. Si estás leyendo este proyecto online, también puedes usar la versión incrustada de Trinket que aparece a continuación:
-
-<div class="trinket">
-	<iframe src="https://trinket.io/embed/html/850a678202?runMode=autorun" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
++ Tendrás que usar una página web llamada Trinket para escribir HTML. Abre este Trinket: <a href="http://jumpto.cc/web-intro" target="_blank">jumpto.cc/web-intro</a>. 
 
 + El código que aparece a la izquierda del Trinket es HTML. A la derecha, aparece la página web que se crea con el código HTML.
 
