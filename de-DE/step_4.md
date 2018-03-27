@@ -1,4 +1,4 @@
-\--- challenge \---
+--- challenge ---
 
 ## Aufgabe: Füge einen weiteren Absatz hinzu
 
@@ -12,4 +12,4 @@ So könnte deine Webseite aussehen:
 
 Kannst du Textteile in deinem neuen Absatz **fett** und <u>unterstrichen</u> auszeichnen? Verwende `<u>` und `</u>` Tags für unterstrichenen Text.
 
-\--- /challenge \---
+--- /challenge ---
