@@ -14,7 +14,7 @@ Klicke auf die Schaltfläche, um die Geburtstagskarte zu öffnen:
 
 ### Was du lernen wirst
 
-Dieses Projekt umfasst Elemente aus den folgenden Themen des [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){:target="_blank"}:
+Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Entwurf von grundlegenden 2D- and 3D-Gütern](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
