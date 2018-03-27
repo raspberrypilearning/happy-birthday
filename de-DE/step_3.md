@@ -22,9 +22,10 @@ HTML verwendet **Tags** um Webseiten zu erstellen. Schau dir diesen Code in Zeil
 
 + Können Sie andere Tags finden?
 
-## \--- collapse \---
-
-## title: Antwort
+--- collapse ---
+---
+title: Antwort
+---
 
 Ein anderes Tag, das du vielleicht entdeckt hast, ist `<b>`, was für ** fett** steht:
 
@@ -40,7 +41,7 @@ Hier sind noch einige:
 
 ![screenshot](images/birthday-head-body.png)
 
-\--- /collapse \---
+--- /collapse ---
 
 + Ändere etwas in einem der Textabsätze in der HTML-Datei (links). Klicke auf **Click To Run** und du solltest eine Änderung auf deiner Webseite sehen (auf der rechten Seite)!
 
