@@ -6,4 +6,4 @@
 
 ### Software
 
-Dieses Projekt kann in einem Webbrowser mit [ trinket.io ](https://trinket.io) {:target="_blank"} abgeschlossen werden.
+Dieses Projekt kann in einem Webbrowser mit [ trinket.io ](https://trinket.io){:target="_blank"} abgeschlossen werden.
