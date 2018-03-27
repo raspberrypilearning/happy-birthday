@@ -26,7 +26,6 @@ HTML verwendet **Tags** um Webseiten zu erstellen. Schau dir diesen Code in Zeil
 ---
 title: Antwort
 ---
-
 Ein anderes Tag, das du vielleicht entdeckt hast, ist `<b>`, was für ** fett** steht:
 
 ```html
