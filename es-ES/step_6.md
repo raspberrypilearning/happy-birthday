@@ -4,10 +4,6 @@ Vamos a usar lo que has aprendido sobre HTML y CSS para crear tu propia tarjeta 
 
 + Abre este Trinket: <a href="http://jumpto.cc/web-card" target="_blank">jumpto.cc/web-card</a>, o usa la versión incrustada que aparece más abajo si estás leyendo este proyecto online.
 
-<div class="trinket">
-	<iframe src="https://trinket.io/embed/html/90506676c9?runMode=autorun" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-</div>
-
 No te preocupes si no entiendes todo el código. Esta tarjeta de cumpleaños es bastante aburrida, así que vamos a hacer algunos cambios en este HTML y CSS.
 
 + Haz clic en el botón que hay delante de la tarjeta, y verás cómo se abre y muestra la parte interior.
