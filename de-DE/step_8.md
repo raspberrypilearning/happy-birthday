@@ -1,4 +1,4 @@
-\--- challenge \---
+--- challenge ---
 
 ## Aufgabe: Erstelle eine personalisierte Karte
 
@@ -14,4 +14,4 @@ Du findest weitere CSS-Farbnamen [hier](http://jumpto.cc/colours){:target="_blan
 
 ![screenshot](images/birthday-share.png)
 
-\--- /challenge \---
+--- /challenge ---
