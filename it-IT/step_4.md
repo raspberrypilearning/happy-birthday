@@ -1,11 +1,23 @@
---- challenge ---
-## Sfida: Aggiungi un altro paragrafo
-Riusciresti ad aggiungere un 3° paragrafo di testo alla pagina Web, al di sotto degli altri 2? Ricorda che il nuovo paragrafo deve iniziare con il tag `<p>` e terminare con `</p>`.
+## Cos’è il CSS?
 
-Ecco come dovrebbe presentarsi la tua pagina Web:
+CSS significa __Cascading Style Sheets__. È il linguaggio utilizzato per lo stile delle pagine Web e renderle più belle. Puoi collegare la pagina Web a un file CSS nell’`<head>` di un documento HTML nel modo seguente:
 
-![screenshot](images/birthday-paragraph.png)
+![screenshot](images/birthday-css-link.png)
 
-Riusciresti ad aggiungere testo in __grassetto__ e <u>sottolineato</u> nel nuovo paragrafo? Per sottolineare del testo, devi utilizzare `<u>` e `</u>`.
++ Il CSS elenca tutte le __proprietà__ di un tag particolare. Fai clic sulla scheda "style.css" per visualizzare il CSS della tua pagina Web.
 
---- /challenge ---
+	![screenshot](images/birthday-css-tab.png)
+
++ Trova questo codice:
+
+	```
+	p {
+		color: black;
+	}
+	```
+
+	Questo codice CSS attribuisce una proprietà ai paragrafi, ossia che il colore del testo sia nero.
+
++ Nel CSS, cambia la parola "black" con "blue". Vedrai che il colore del testo di tutti i paragrafi diventerà blu.
+
+	![screenshot](images/birthday-edit-css.png)
