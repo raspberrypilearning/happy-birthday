@@ -1,47 +1,47 @@
-## Making a birthday card
+## Een verjaardagskaart maken
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Laten we gebruiken wat je hebt geleerd over HTML en CSS om je eigen aangepaste verjaardagskaart te maken.
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Open [deze trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+We hebben veel code geschreven om je op weg te helpen, maar de verjaardagskaart ziet er tot nu toe vrij saai uit, dus je gaat enkele wijzigingen aanbrengen in de HTML- en CSS-code.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Klik op de knop aan de voorkant van de kaart en je zou hem open moeten zien om de binnenkant te onthullen.
 
 ![screenshot](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Ga naar regel 14 van de HTML-code. Probeer de tekst te bewerken om je kaart aan te passen.
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Kun je de HTML-code voor de robotafbeelding vinden en de ` robot ` veranderen in een ` zon `?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Kijk op regel 17 om de code te vinden.
++ Verander het woord ` robot ` in ` sun ` en je ziet de afbeelding veranderen!
 
 ![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Je zou elk van deze woorden kunnen gebruiken `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, of `trophy` voor een verjaardagskaart of `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, of `snowman` als je een kerstkaart wilt maken.
 
-You can also edit the CSS code of the birthday card.
+Je kunt ook de CSS-code van de verjaardagskaart bewerken.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Klik op het tabblad voor ` style.css `. Het eerste deel bevat alle CSS-stijlen voor de ** outside (buitenkant) ** van de kaart.
 
-+ Change the `background-color` to `lightgreen`.
++ Verander de ` background-color (achtergrondkleur) ` tot ` lichtgreen `.
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ U kunt ook de grootte van een afbeelding wijzigen. Ga naar de ` #outside-pic ` CSS-code en wijzig de breedte ` with ` en de hoogte ` height ` van de afbeelding op de buitenkant tot ` 200px ` (`px ` staat voor pixels).
 
 ![screenshot](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ Het lettertype kan ook gewijzigd worden. Ga naar de `#outside-title` CSS en wijzig het lettertype `font-family` in ` Comic Sans MS ` en de lettergrootte `font-size` in ` 16pt `.
 
 ![screenshot](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Je kunt ook andere lettertypen gebruiken, bijvoorbeeld:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
