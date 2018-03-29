@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## Challenge: voeg meer stijlen toe
 
-+ Can you make the paragraphs of text orange?
++ Kun je de alinea's met tekst oranje (orange) maken?
 
-+ Can you make the background grey by changing the `body` property?
++ Kunt je de achtergrond grijs (grey) maken door de eigenschap van de ` body ` te veranderen?
 
 ![screenshot](images/birthday-more-style.png)
 
