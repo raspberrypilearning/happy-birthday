@@ -2,15 +2,15 @@
 
 ## Challenge: een persoonlijke kaart maken
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ Gebruik alles wat je over HTML en CSS heeft geleerd om je gepersonaliseerde kaart af te maken. En het hoeft geen verjaardagskaart te zijn, het kan een kerstkaart of een kaart voor een andere gelegenheid zijn!
 
-Here's an example:
+Hier is een voorbeeld:
 
 ![screenshot](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Je kunt [hier](http://jumpto.cc/colours) {: target = "_blank"} meer CSS kleurnamen vinden.
 
-+ Once you've finished your card, you can share or email it to someone.
++ Zodra je klaar bent met jouw kaart, kunt je deze delen of naar iemand e-mailen.
 
 ![screenshot](images/birthday-share.png)
 
