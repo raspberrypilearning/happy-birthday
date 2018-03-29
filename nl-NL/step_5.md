@@ -1,18 +1,18 @@
-## What is CSS?
+## Wat is CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS staat voor ** Cascading Style Sheets **, en het is een taal die wordt gebruikt om webpagina's te stijlen (op te maken) om ze er leuk uit te laten zien.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Deze code koppelt je webpagina aan een CSS-bestand - kijk of je het in de `<head>` van het HTML-document kunt vinden:
 
 ![screenshot](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS geeft alle ** properties (eigenschappen) ** voor een bepaald label weer.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ Klik op de `style.css ` tab om de CSS-code voor je webpagina te zien.
     
     ![screenshot](images/birthday-css-tab.png)
 
-+ Find this code:
++ Zoek deze code:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Deze CSS-code bepaalt een eigenschap voor alinea's (`p`), waarin staat dat de tekstkleur zwart moet zijn. Let op de Amerikaanse spelling voor kleur: 'color'.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ Wijzig het woord 'black' in de CSS-code in 'blue' (blauw). Je zou de tekstkleur van alle alinea's naar blauw moeten zien veranderen.
 
 ![screenshot](images/birthday-edit-css.png)
