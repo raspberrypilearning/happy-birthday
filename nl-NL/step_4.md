@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## Challenge: voeg een nieuw alinea toe
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- Kun je onder de andere twee paragrafen een derde paragraaf toevoegen?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+Vergeet niet dat je nieuwe alinea moet beginnen met een `<p>` tag en eindigen met ` </p>` tag.
 
-Here's how your webpage might look:
+Zo ziet je webpagina eruit:
 
 ![screenshot](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+Kunt je **bold (vet) ** en <u> underlined (onderstreepte) </u> tekst aan je nieuwe paragraaf toevoegen? Gebruik `<u>` en ` </u>` tags voor onderstreepte tekst.
 
 \--- /challenge \---
