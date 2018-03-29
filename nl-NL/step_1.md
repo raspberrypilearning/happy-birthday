@@ -1,10 +1,10 @@
-## Introduction
+## Inleiding
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+In dit project maak je kennis met HTML en CSS door te leren hoe je je eigen aangepaste verjaardagskaart kunt maken.
 
-### What you will make
+### Wat ga je maken
 
-Click the button to open the birthday card:
+Klik op de knop om de verjaardagskaart te openen:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Click the button to open the birthday card:
   <img src="images/birthday-final.png">
 </div>
 
-### What you will learn
+### Wat ga je leren
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dit project behandelt elementen uit de volgende onderdelen van de[Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Ontwerp standaard 2D- en 3D-items](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
 
-### Additional information for educators
+### Aanvullende informatie voor clubleiders
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/happy-birthday/print) {:target="_ blank"} .
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Gebruik de link in de voettekst om toegang te krijgen tot de GitHub-repo voor dit project, deze bevat alle bestanden (inclusief een voltooid projectvoorbeeld) in de map 'nl / bestanden'.
