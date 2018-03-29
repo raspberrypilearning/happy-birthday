@@ -54,10 +54,10 @@ Om alleen het laatste wat je deed ongedaan te maken, kun je tegelijkertijd op de
 
 ### Je hebt geen Trinket-account nodig om je projecten op te slaan!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Als je geen Trinket-account hebt, klik dan op de ** pijl-omlaag naast Share ** en vervolgens op ** Link **. Hiermee krijg je een link die je kunt opslaan en later kunt openen. Je moet dit elke keer doen nadat er wijzigingen zijn aangebracht omdat de link steeds verandert!
 
 ![screenshot](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+De eenvoudigste manier, als je een Trinket-account hebt, om je webpagina op te slaan is door op de **Remix ** knop te klikken. Hiermee wordt een kopie van de trinket in je profiel opgeslagen.
 
 ![screenshot](images/birthday-remix.png)
