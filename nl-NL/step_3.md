@@ -1,58 +1,58 @@
-## What is HTML?
+## Wat is HTML?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML staat voor ** Hypertext Markup Language **, de taal die wordt gebruikt om webpagina's te maken. Laten we een voorbeeld bekijken!
 
-You'll be using a website called trinket.io to write HTML code.
+Je gaat een website genaamd trinket.io gebruiken om HTML-code te schrijven.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Open [deze trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
-The project should look like this:
+Het project zou er als volgt uit moeten zien:
 
 ![screenshot](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+De code die je links ziet, is HTML. Aan de rechterkant van de trinket kun je de webpagina zien die de HTML-code heeft gemaakt.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+HTML gebruikt ** tags ** om webpagina's te bouwen. Zoek naar deze HTML-code op regel 8 van je code:
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p> Hoi, mijn naam is Cor.</p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`<p>` is een voorbeeld van een tag en is een afkorting voor ** alinea (paragraph) **. Je kunt een alinea met `<p>` starten en een alinea met beëindigen `</p>`.
 
-+ Can you spot any other tags?
++ Kun jij andere tags ontdekken?
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Antwoord
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+Een andere tag die je mogelijk gezien hebt, is `<b>`, wat staat voor ** vetgedrukt (bold) **:
 
 ```html
 <b>running</b>
 ```
 
-Here are some more:
+Hier zijn er nog meer:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `<html>` en ` </html>` markeren het begin en het einde van het HTML-document
++ `<head>` en ` </head>` is waar dingen zoals CSS komen (we komen daar later op terug)
++ `<body>` en ` </body>` is waar je website-inhoud komt
 
 ![screenshot](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ Breng een wijziging in een van de alinea's met tekst aan ( in het HTML-bestand aan de linkerkant). Klik op ** Click To Run **, en je zou je webpagina (aan de rechterkant) moeten zien veranderen!
 
 ![screenshot](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ Als je een fout hebt gemaakt en al je wijzigingen ongedaan wilt maken, kunt je klikken op de ** menu ** knop en vervolgens op ** Reset **.
 
 ![screenshot](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+Om alleen het laatste wat je deed ongedaan te maken, kun je tegelijkertijd op de ` Ctrl ` en ` z ` toets drukken.
 
-### You don't need a Trinket account to save your projects!
+### Je hebt geen Trinket-account nodig om je projecten op te slaan!
 
 If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
