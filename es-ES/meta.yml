@@ -1,17 +1,17 @@
 ---
-hero_image: images/happy-birthday.png
+hero_image: images/banner.png
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Feliz cumpleaños
-description: Hacer una tarjeta de cumpleaños en línea por una página web
-original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
-interests: art
-technologies: html-css-javascript
-site_areas: projects
+curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Feliz Cumpleaños
+description: Aprende a crear una tarjeta de cumpleaños personalizada.
+original_url: https://projects.raspberrypi.org/en/projects/happy-birthday
+interests: art and design
+technologies: html/css
+site_areas: codeclub, webdev
 hardware: ''
 software: html-css-javascript
 version: 4
@@ -20,16 +20,16 @@ steps:
   - 
     title: Introducción
   - 
-    title: Lo que necesitarás
-  - 
     title: '¿Qué es HTML?'
   - 
-    title: 'Desafío: añadir otro párrafo'
+    title: 'Reto: Añade otro párrafo'
   - 
     title: '¿Qué es CSS?'
   - 
-    title: 'Desafío: añadir más estilos'
+    title: 'Reto: Añade más estilo'
   - 
-    title: Hacer una tarjeta de cumpleaños
+    title: Crear una tarjeta de cumpleaños
+  - 
+    title: 'Reto: Crea una tarjeta personalizada'
   - 
     title: 'Desafío: crea una tarjeta personalizada'
