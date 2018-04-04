@@ -1,17 +1,17 @@
 ---
-hero_image: images/happy-birthday.png
+hero_image: images/banner.png
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Happy birthday
-description: Make an online birthday card on a webpage
-original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
-interests: art
-technologies: html-css-javascript
-site_areas: projects
+curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Joyeux Anniversaire
+description: Apprendre à créer une carte de vœux customisée.
+original_url: https://projects.raspberrypi.org/en/projects/happy-birthday
+interests: art and design
+technologies: html/css
+site_areas: codeclub, webdev
 hardware: ''
 software: html-css-javascript
 version: 4
@@ -20,16 +20,16 @@ steps:
   - 
     title: Introduction
   - 
-    title: What you will need
+    title: C'est quoi HTML?
   - 
-    title: What is HTML?
+    title: 'Défi: Ajoute un autre paragraphe'
   - 
-    title: 'Challenge: add another paragraph'
+    title: CSS, c'est quoi?
   - 
-    title: What is CSS?
+    title: 'Défi: Encore plus de styles!'
   - 
-    title: 'Challenge: add more styles'
+    title: Fabriquer une carte d'anniversaire
   - 
-    title: Making a birthday card
+    title: 'Défi: Crée une carte personalisé'
   - 
     title: 'Challenge: create a personalised card'
