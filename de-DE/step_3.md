@@ -4,7 +4,7 @@ HTML steht für ** Hypertext Markup Language ** die Sprache, mit der Webseiten e
 
 Du wirst eine Website namens trinket.io verwenden, um HTML-Code zu schreiben.
 
-+ Öffne [dieses trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Öffne [dieses trinket](https://trinket.io/html/9d29e4537e){:target="_blank"}.
 
 Das Projekt sollte so aussehen:
 
