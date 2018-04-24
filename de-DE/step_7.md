@@ -2,7 +2,7 @@
 
 Lass uns das, was du über HTML und CSS gelernt hast, verwenden, um deine eigene Geburtstagskarte zu erstellen.
 
-+ Öffne dieses [trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Öffne dieses [trinket](https://trinket.io/html/4238d02d95){:target="_blank"}.
 
 Um loszulegen haben wir eine Menge Code geschrieben, aber die Geburtstagskarte sieht bisher ziemlich langweilig aus, also wirst du einige Änderungen am HTML- und CSS-Code vornehmen.
 
