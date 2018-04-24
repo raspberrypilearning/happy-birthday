@@ -7,7 +7,7 @@ In diesem Projekt lernst du HTML und CSS kennen, indem du lernst, wie du deine e
 Klicke auf die Schaltfläche, um die Geburtstagskarte zu öffnen:
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/a05c66129b?outputOnly=true" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   </iframe>
   <img src="images/birthday-final.png">
 </div>
@@ -20,6 +20,6 @@ Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digit
 
 ### Zusätzliche Informationen für Pädagogen
 
-Wenn Sie dieses Projekt ausdrucken müssen, verwenden Sie bitte die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+Wenn Sie dieses Projekt ausdrucken müssen, verwenden Sie bitte die [druckerfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/happy-birthday/print){:target="_blank"} .
 
 Verwenden Sie den Link in der Fußzeile, um auf das GitHub-Repo für dieses Projekt zuzugreifen. Dieses enthält alle Ressourcen (einschließlich eines Beispiels für ein abgeschlossenes Projekt) im Ordner "de/resources".
