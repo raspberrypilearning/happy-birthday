@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: een persoonlijke kaart maken
+## Uitdaging: een persoonlijke kaart maken
 
-+ Gebruik alles wat je over HTML en CSS heeft geleerd om je gepersonaliseerde kaart af te maken. En het hoeft geen verjaardagskaart te zijn, het kan een kerstkaart of een kaart voor een andere gelegenheid zijn!
++ Gebruik alles wat je over HTML en CSS hebt geleerd om je gepersonaliseerde kaart af te maken. En het hoeft geen verjaardagskaart te zijn, het kan een kerstkaart of een kaart voor een andere gelegenheid zijn!
 
 Hier is een voorbeeld:
 
