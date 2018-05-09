@@ -18,7 +18,7 @@ HTML gebruikt ** tags ** om webpagina's te bouwen. Zoek naar deze HTML-code op r
 <p> Hoi, mijn naam is Cor.</p>
 ```
 
-`<p>` is een voorbeeld van een tag en is een afkorting voor ** alinea (paragraph) **. Je kunt een alinea met `<p>` starten en een alinea met beëindigen `</p>`.
+`<p>` is een voorbeeld van een tag en is een afkorting voor ** alinea (paragraph) **. Je kunt een alinea met `<p>` starten en een alinea beëindigen met `</p>`.
 
 + Kun jij andere tags ontdekken?
 
