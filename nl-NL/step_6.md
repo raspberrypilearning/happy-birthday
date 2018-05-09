@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: voeg meer stijlen toe
+## Uitdaging: voeg meer stijlen toe
 
 + Kun je de alinea's met tekst oranje (orange) maken?
 
