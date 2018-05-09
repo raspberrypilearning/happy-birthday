@@ -22,4 +22,4 @@ Dit project behandelt elementen uit de volgende onderdelen van de[Raspberry Pi D
 
 Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/happy-birthday/print) {:target="_ blank"} .
 
-Gebruik de link in de voettekst om toegang te krijgen tot de GitHub-repo voor dit project, deze bevat alle bestanden (inclusief een voltooid projectvoorbeeld) in de map 'nl / bestanden'.
+Gebruik de link in de voettekst om toegang te krijgen tot de GitHub-repo voor dit project, deze bevat alle bestanden (inclusief een voltooid projectvoorbeeld) in de map 'nl/resources'.
