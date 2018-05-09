@@ -6,7 +6,7 @@ Laten we gebruiken wat je hebt geleerd over HTML en CSS om je eigen aangepaste v
 
 We hebben veel code geschreven om je op weg te helpen, maar de verjaardagskaart ziet er tot nu toe vrij saai uit, dus je gaat enkele wijzigingen aanbrengen in de HTML- en CSS-code.
 
-+ Klik op de knop aan de voorkant van de kaart en je zou hem open moeten zien om de binnenkant te onthullen.
++ Klik op de knop aan de voorkant van de kaart en je zou hem open moeten zien gaan om de binnenkant te onthullen.
 
 ![screenshot](images/birthday-click.png)
 
@@ -14,7 +14,7 @@ We hebben veel code geschreven om je op weg te helpen, maar de verjaardagskaart 
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Kun je de HTML-code voor de robotafbeelding vinden en de ` robot ` veranderen in een ` zon `?
++ Kun je de HTML-code voor de robotafbeelding vinden en de ` robot ` veranderen in een ` zon (sun) `?
 
 \--- hints \--- \--- hint \---
 
@@ -29,11 +29,11 @@ Je kunt ook de CSS-code van de verjaardagskaart bewerken.
 
 + Klik op het tabblad voor ` style.css `. Het eerste deel bevat alle CSS-stijlen voor de ** outside (buitenkant) ** van de kaart.
 
-+ Verander de ` background-color (achtergrondkleur) ` tot ` lichtgreen `.
++ Verander de ` background-color (achtergrondkleur) ` naar ` lightgreen (lichtgroen)`.
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ U kunt ook de grootte van een afbeelding wijzigen. Ga naar de ` #outside-pic ` CSS-code en wijzig de breedte ` with ` en de hoogte ` height ` van de afbeelding op de buitenkant tot ` 200px ` (`px ` staat voor pixels).
++ Je kunt ook de grootte van een afbeelding wijzigen. Ga naar de ` #outside-pic ` CSS-code en wijzig de breedte ` with ` en de hoogte ` height ` van de afbeelding op de buitenkant tot ` 200px ` (`px ` staat voor pixels).
 
 ![screenshot](images/birthday-card-size.png)
 
