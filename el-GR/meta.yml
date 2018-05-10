@@ -1,0 +1,35 @@
+---
+hero_image: εικόνες / happy-birthday.png
+theme: τουρκουάζ
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, σχεδιασμός-1, προγραμματισμός-0, phys-comp-0, κατασκευή-0, κοινότητα-0
+title: Χαρούμενα γενέθλια
+description: Κάντε μια ηλεκτρονική κάρτα γενεθλίων σε μια ιστοσελίδα
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+interests: τέχνη
+technologies: html-css-javascript
+site_areas: έργα
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Εισαγωγή
+  - 
+    title: Τι θα χρειαστείτε
+  - 
+    title: Τι είναι το HTML;
+  - 
+    title: 'Πρόκληση: προσθέστε μια άλλη παράγραφο'
+  - 
+    title: Τι είναι το CSS;
+  - 
+    title: 'Πρόκληση: προσθέστε περισσότερα στυλ'
+  - 
+    title: Δημιουργία κάρτας γενεθλίων
+  - 
+    title: 'Πρόκληση: Δημιουργήστε μια εξατομικευμένη κάρτα'
