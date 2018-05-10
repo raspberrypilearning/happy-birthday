@@ -26,7 +26,7 @@ HTML gebruikt **tags** om webpagina's te bouwen. Zoek naar deze HTML-code op reg
 ---
 title: Antwoord
 ---
-Een andere tag die je mogelijk gezien hebt, is `<b>`, wat staat voor ** vetgedrukt (bold) **:
+Een andere tag die je mogelijk gezien hebt, is `<b>`, wat staat voor **vetgedrukt (bold)**:
 
 ```html
 <b>running</b>
