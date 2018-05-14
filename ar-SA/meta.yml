@@ -1,7 +1,7 @@
 hero_image: images/happy-birthday.png
 theme: turquoise
 duration: 2
-listed: true
+listed: false
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
