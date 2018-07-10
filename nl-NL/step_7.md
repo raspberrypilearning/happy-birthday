@@ -14,12 +14,12 @@ We hebben veel code geschreven om je op weg te helpen, maar de verjaardagskaart 
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Kun je de HTML-code voor de robotafbeelding vinden en de ` robot ` veranderen in een ` zon (sun) `?
++ Kun je de HTML-code voor de robotafbeelding vinden en de `robot` veranderen in een `zon (sun)`?
 
 --- hints --- --- hint ---
 
 + Kijk op regel 17 om de code te vinden.
-+ Verander het woord ` robot ` in ` sun ` en je ziet de afbeelding veranderen!
++ Verander het woord `robot` in `sun` en je ziet de afbeelding veranderen!
 
 ![screenshot](images/birthday-card-sun.png) --- /hint --- --- /hints ---
 

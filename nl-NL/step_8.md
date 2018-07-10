@@ -15,3 +15,8 @@ Je kunt [hier](http://jumpto.cc/colours){:target="_blank"} meer CSS kleurnamen v
 ![screenshot](images/birthday-share.png)
 
 --- /challenge ---
+***
+### Door de community geleverde vertaling
+Dit project werd vertaald door **Cor Groot** en gecontroleerd door **Marijn van der Zee**.
+
+Onze geweldige vertalers helpen ons om kinderen over de hele wereld de kans te geven te leren coderen. Jij kunt ons helpen nog meer kinderen te bereiken door onze projecten te vertalen - lees meer op [rpf.io/translators](https://rpf.io/translators).
