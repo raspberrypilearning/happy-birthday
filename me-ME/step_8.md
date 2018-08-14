@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: create a personalised card
+## Izazov: napravi sopstvenu čestitku
 
 + Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
 
