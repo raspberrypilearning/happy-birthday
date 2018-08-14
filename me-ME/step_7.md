@@ -14,18 +14,18 @@ Na početku smo napisali mnogo kôda, ali rođendanska čestitka izgleda prilič
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Da li možeš da pronađeš HTML kôd za sliku robota i da promijeniš riječ `robot` u `sunce`?
++ Da li možeš da pronađeš HTML kôd za sliku robota i da promijeniš riječ `robot` u `sun`?
 
 \--- hints \--- \--- hint \---
 
 + Da nađeš kôd, pogledaj 17. red.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Promijeni riječ `robot` u `sun` i vidjećeš da se slika promijenila!
 
 ![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Možeš da koristiš bilo koju od sljedećih riječi za rođendansku čestitku: `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea` ili `trophy`. Ili, ako želiš da napraviš božićnu čestitku, možeš koristiti neku od ovih riječi: `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa` ili `snowman`.
 
-You can also edit the CSS code of the birthday card.
+Možeš da modifikuješ i CSS kôd rođendanske čestitke.
 
 + Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
 
