@@ -1,47 +1,47 @@
-## Making a birthday card
+## Створення листівки
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Давайте використаємо ваші знання про HTML та CSS для створення вашої власної листівки.
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Відкрийте [цей трінкет](http://jumpto.cc/web-card){:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Ми написали багато коду, щоб почати, але листівка виглядає досить нудно, тому вам потрібно внести деякі зміни в код HTML та CSS.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Натисніть кнопку перед листівкою, і вона відкриється, щоб ви побачили середину.
 
-![screenshot](images/birthday-click.png)
+![скріншот](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Перейдіть до рядка 14 HTML-коду. Спробуйте відредагувати текст, щоб змінити листівку.
 
-![screenshot](images/birthday-card-html.png)
+![скріншот](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Зможете знайти HTML-код для картинки робота і змінити слово `robot` на `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Дивіться на рядок 17, щоб знайти код.
++ Змініть слово `robot` на `sun` і побачите як змінюється картинка!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![скріншот](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Використовуйте будь-яке з слів `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman`, якщо хочете зробити різдвяну листівку.
 
-You can also edit the CSS code of the birthday card.
+Ви також можете редагувати код CSS листівки.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Клацніть на вкладку `style.css`. Перша частина - це всі стилі CSS для **outside** листівки.
 
-+ Change the `background-color` to `lightgreen`.
++ Змініть `background-color` на `lightgreen`.
 
-![screenshot](images/birthday-card-outside.png)
+![скріншот](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ Ви також можете змінити розмір картинки. Перейдіть на код `#outside-pic` CSS і змініть `width` та `height` зовнішньої картинки на `200px` (`px` означає пікселі).
 
-![screenshot](images/birthday-card-size.png)
+![скріншот](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ Можна також змінити шрифт. Перейдіть до `#outside-title` CSS і змініть `font-family` на `Comic Sans MS` та `font-size` на `16pt`.
 
-![screenshot](images/birthday-card-font.png)
+![скріншот](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Ви можете використовувати інші шрифти, наприклад:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
