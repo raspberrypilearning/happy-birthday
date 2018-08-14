@@ -10,15 +10,15 @@ Na početku smo napisali mnogo kôda, ali rođendanska čestitka izgleda prilič
 
 ![screenshot](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Pređi na 14. red kôda. Pokušaj da urediš tekst čestitke prema sopstvenoj želji.
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Da li možeš da pronađeš HTML kôd za sliku robota i da promijeniš riječ `robot` u `sunce`?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
++ Da nađeš kôd, pogledaj 17. red.
 + Change the word `robot` to `sun`, and you'll see the image change!
 
 ![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
