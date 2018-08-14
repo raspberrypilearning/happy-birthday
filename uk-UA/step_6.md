@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## Завдання: додати більше стилів
 
-+ Can you make the paragraphs of text orange?
++ Чи можете ви зробити текст оранжевим?
 
-+ Can you make the background grey by changing the `body` property?
++ Чи зможете ви зробити сірий фон, змінивши властивості `body`?
 
-![screenshot](images/birthday-more-style.png)
+![скріншот](images/birthday-more-style.png)
 
 \--- /challenge \---
