@@ -2,7 +2,7 @@
 
 Laten we gebruiken wat je hebt geleerd over HTML en CSS om je eigen aangepaste verjaardagskaart te maken.
 
-+ Open [deze trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Open [deze trinket](https://trinket.io/html/ab93911377){:target="_blank"}.
 
 We hebben veel code geschreven om je op weg te helpen, maar de verjaardagskaart ziet er tot nu toe vrij saai uit, dus je gaat enkele wijzigingen aanbrengen in de HTML- en CSS-code.
 
