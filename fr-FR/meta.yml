@@ -11,25 +11,25 @@ description: Apprendre à créer une carte de vœux customisée.
 original_url: https://projects.raspberrypi.org/en/projects/happy-birthday
 interests: art and design
 technologies: html/css
-site_areas: codeclub, webdev
+site_areas: projets
 hardware: ''
 software: html-css-javascript
 version: 4
-last_tested: 2017-01-01
+last_tested: 01/01/2017
 steps:
   - 
     title: Introduction
   - 
-    title: C'est quoi HTML?
+    title: Ce dont tu auras besoin
+  - 
+    title: Qu'est-ce que le HTML ?
   - 
     title: 'Défi: Ajoute un autre paragraphe'
   - 
-    title: 'CSS, c''est quoi?'
+    title: Qu'est-ce que le CSS ?
   - 
-    title: 'Défi: Encore plus de styles!'
+    title: 'Défi: Ajouter plus de styles'
   - 
-    title: 'Fabriquer une carte d''anniversaire'
+    title: Faire une carte d'anniversaire
   - 
-    title: 'Défi: Crée une carte personalisé'
-  - 
-    title: 'Challenge: create a personalised card'
+    title: 'Défi: créer une carte personnalisée'
