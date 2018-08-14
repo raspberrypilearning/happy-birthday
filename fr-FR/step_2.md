@@ -1,9 +1,9 @@
-## What you will need
+## Ce dont tu auras besoin
 
-### Hardware
+### Matériel informatique
 
-+ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
++ Un ordinateur capable d'accéder à [trinket.io](https://trinket.io){:target="_blank"}
 
-### Software
+### Logiciel
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
+Ce projet peut être complété dans un navigateur Web en utilisant [trinket.io](https://trinket.io){:target="_blank"}.
