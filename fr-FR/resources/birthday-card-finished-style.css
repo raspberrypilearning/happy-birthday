@@ -1,4 +1,4 @@
-#outside {
+#exterieur {
   z-index: 1;
   position: absolute;
   background-color: lightgreen;
@@ -9,23 +9,23 @@
   transform-origin: 0;
 }
 
-.open-card {
+.ouvrir-carte {
   transform: rotateY(90deg);
 }
 
-#outside-title {
+#titre-exterieur {
   color: blue;
   font-family: Arial;
   font-size: 30pt;
   text-align: center;
 }
 
-#outside-pic {
+#img-exterieur {
   width: 300px;
   height: 150px;
 }
 
-#outside-help {
+#aide-exterieur {
   color: black;
   font-family: Courier;
   font-size: 12pt;
@@ -33,7 +33,7 @@
   padding: 20px;
 }
 
-#inside {
+#interieur {
   z-index: 0;
   position: absolute;
   background-color: lightyellow;
@@ -42,14 +42,14 @@
   text-align: center;
 }
 
-#inside-title {
+#titre-interieur {
   color: blue;
   font-family: Arial;
   font-size: 22pt;
   text-align: center;
 }
 
-#inside-pic {
+#img-interieur {
   width: 150px;
   height: 100px;
 }
