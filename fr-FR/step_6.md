@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- challange \---
 
-## Challenge: add more styles
+## Défi: Ajouter plus de styles
 
-+ Can you make the paragraphs of text orange?
++ Peux-tu rendre les textes des paragraphes oranges ?
 
-+ Can you make the background grey by changing the `body` property?
++ Peux-tu changer la couleur de fond en gris en modifiant les propriétés de `body` ?
 
-![screenshot](images/birthday-more-style.png)
+![capture d'écran](images/birthday-more-style.png)
 
 \--- /challenge \---
