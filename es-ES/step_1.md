@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto, conocerás HTML y CSS por el método de aprender cómo hacer tu propia tarjeta de cumpleaños personalizada.
+En este proyecto, conocerás HTML y CSS al aprender cómo hacer tu propia tarjeta de cumpleaños personalizada.
 
 ### Lo que crearás
 
@@ -16,7 +16,7 @@ Toca el botón para abrir la tarjeta de cumpleaños:
 
 Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [ Diseño de activos básicos en 2D y 3D ](https://www.raspberrypi.org/curriculum/design/creator) {: target = "_ blank"}.
++ [Diseño de elementos básicos en 2D y 3D ](https://www.raspberrypi.org/curriculum/design/creator) {: target = "_ blank"}.
 
 ### Información adicional para los educadores
 
