@@ -1,10 +1,10 @@
-## Introduction
+## Introdução
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+Neste projeto, você será introduzido ao HTML e ao CSS aprendendo a fazer seu próprio cartão de aniversário personalizado.
 
-### What you will make
+### O que você vai fazer
 
-Click the button to open the birthday card:
+Clique no botão para abrir o cartão de aniversário:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Click the button to open the birthday card:
   <img src="images/birthday-final.png">
 </div>
 
-### What you will learn
+### O que você vai aprender
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Fabricação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_ blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Faça ilustrações 2D e 3D básicas](https://www.raspberrypi.org/curriculum/design/creator) {:target="_blank"}.
 
-### Additional information for educators
+### Informações adicionais para educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_ blank"} .
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'pt-br/resources'.
