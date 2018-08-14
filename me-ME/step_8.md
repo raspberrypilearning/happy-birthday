@@ -10,7 +10,7 @@ Evo primjera:
 
 Više CSS naziva boja možeš naći [ovdje](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Once you've finished your card, you can share or email it to someone.
++ Kada završiš svoju čestitku, možeš je podijeliti ili je nekome poslati elektronskom poštom.
 
 ![screenshot](images/birthday-share.png)
 
