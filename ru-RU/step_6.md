@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## Задача: добавить больше стилей
 
-+ Can you make the paragraphs of text orange?
++ Можешь ли ты сделать абзацы текста оранжевыми?
 
-+ Can you make the background grey by changing the `body` property?
++ Ты можешь сделать фон серым, изменив значение свойства тега `body`?
 
 ![screenshot](images/birthday-more-style.png)
 
