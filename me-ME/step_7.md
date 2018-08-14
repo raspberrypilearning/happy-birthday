@@ -33,15 +33,15 @@ Možeš da modifikuješ i CSS kôd rođendanske čestitke.
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ Možeš promijeniti i veličinu slike. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ Možeš promijeniti i veličinu slike. Pređi na CSS kôd `#outside-pic` i promijeni `width` (širinu) i `height` (visinu) spoljašnje slike na `200px` (`px` označava piksele).
 
 ![screenshot](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ Takođe se može promijeniti font. Idi na `#outside-title` CSS-a i promijeni `font-family` (tip fonta) u ` Comic Sans MS` i `font-size` (veličinu fonta) na `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Možeš koristiti i druge fontove, na primjer:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
