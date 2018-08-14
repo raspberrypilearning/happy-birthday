@@ -2,11 +2,11 @@
 
 讓我們使用您已經了解的有關HTML和CSS的知識來製作自己的生日賀卡。
 
-+ 打開 [這個飾品](http://jumpto.cc/web-card){：target =“_ blank”}。
++ 打開 [this trinket](http://jumpto.cc/web-card)。
 
-我們已經寫了很多代碼來幫助您開始，但生日賀卡看起來很無聊，因此您將對HTML和CSS代碼進行一些更改。
+我們已經寫了很多代碼來幫助您起步，但生日賀卡看起來還是很單調，因此您將要對HTML和CSS代碼進行一些修改。
 
-+ 點擊卡正面的按鈕，你應該看到它打開揭示裡面。
++ 點擊卡片正面的按鈕，你應該會看到它打開以顯示內容。
 
 ![截圖](images/birthday-click.png)
 
