@@ -1,47 +1,47 @@
-## Making a birthday card
+## Создание открытки ко дню рождения
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Давай используем то, что ты уже знаешь о HTML и CSS, чтобы создать свою собственную открытку.
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Открой [вот это](http://jumpto.cc/web-card){:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Вначале мы написали много кода, но открытка ко дню рождения выглядит довольно скучной, поэтому тебе нужно внести некоторые изменения в код HTML и CSS.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Нажми кнопку на основной стороне открытки, и она должна открыться, показывая своё содержимое.
 
 ![screenshot](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Перейди к строке 14 HTML-кода. Попробуй отредактировать текст, чтобы настроить свою открытку.
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Можешь ли ты найти код HTML для изображения робота и заменить слово `robot` (робот) словом `sun` (солнце)?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Чтобы найти код, обрати внимание на строку 17.
++ Замени слово `robot` (робот) на слово `sun` (солнце) и ты увидишь, как картинка станет другой!
 
 ![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Ты можешь использовать любое из следующих слов для открытки ко дню рождения: `boy` (мальчик), `diamond` (брильянт), `dinosaur` (динозавр), `flowers` (цветы), `girl` (девочка), `rainbow` (радуга), `robot` (робот), `spaceship` (космический корабль), `sun` (Солнце), `tea` (чай) или, если ты хочешь сделать рождественскую открытку, то используй эти: `trophy` (награда), `cracker`, `elf` (эльф), `penguin` (пингвин), `present` (подарок), `reindeer` (северный олень), `santa` (Санта-Клаус) или `snowman` (снеговик).
 
-You can also edit the CSS code of the birthday card.
+Ты также можешь отредактировать CSS-код своей открытки.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Нажми на вкладку `style.css`. Первая часть - это все стили CSS для **внешней** части открытки.
 
-+ Change the `background-color` to `lightgreen`.
++ Измени значение тега `background-color` (цвет фона) на `lightgreen` (салатовый).
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ Ты также можешь изменить размер картинки. Перейди к блоку `#outside-pic` и измени значение тегов `width` (ширина) и `height` (высота) для картинки на обложке до `200px` (`px` обозначает пиксели).
 
 ![screenshot](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ Также можно изменить шрифт. Перейди к блоку `#outside-title` и измени значение тега `font-family` (гарнитура шрифта, то есть название семьи шрифтов) на `Comic Sans MS` и `font-size` (кегль или размер шрифта) на `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Ты можешь использовать и другие шрифты, например:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
