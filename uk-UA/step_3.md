@@ -1,63 +1,63 @@
-## What is HTML?
+## Що таке HTML?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML означає **Мова розмітки гіпертекстових документів**. використовується для створення веб-сторінок. Давайте подивимось на приклад!
 
-You'll be using a website called trinket.io to write HTML code.
+Ви використовуватимете сайт trinket.io щоб написати HTML-код.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Відкрийте [цей трінкет](http://jumpto.cc/web-intro){:target="_blank"}.
 
-The project should look like this:
+Проект повинен виглядати так:
 
-![screenshot](images/birthday-starter.png)
+![скріншот](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+Код, який ви бачите ліворуч - це HTML. Праворуч від трінкета, ви бачите веб-сторінку, яку зробив цей HTML код.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+HTML використовує **теги** для створення веб-сторінок. Шукайте цей HTML код у 8 рядку вашого коду:
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p>Привіт. Я Енді.</p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`<p>` це приклад тегу, і скорочено це **параграф**. Можете починати параграф з`<p>`, і закінчувати з `</p>`.
 
-+ Can you spot any other tags?
++ Чи бачите ви інші теги?
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Відповідь
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+Ще один тег, який ви могли помітити це `<b>`, який означає **жирний**:
 
 ```html
-<b>running</b>
+<b>працює</b>
 ```
 
-Here are some more:
+Ось ще кілька:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `<html>`і`</html>` позначають початок та кінець документу HTML
++ `<head>`і`</head>` це місце, де є CSS (до цього ми дійдемо пізніше)
++ `<body>` та `</body>` тут міститься наповнення сайту
 
-![screenshot](images/birthday-head-body.png)
+![скріншот](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ Змініть щось в одному з абзаців тексту у документі HTML (ліворуч). Натисніть **Запуск**, і ви маєте побачити зміни на вашій сторінці (праворуч)!
 
-![screenshot](images/birthday-edit-html.png)
+![скріншот](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ Якщо ви зробили помилку і хочете відмінити всі свої зміни, ви можете натиснути **меню**, а потім натиснути **Скинути**.
 
-![screenshot](images/birthday-reset.png)
+![скріншот](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+Щоб скасувати лише останнє, що ви зробили, можна натиснути клавіші ` Ctrl` і `z` одночасно.
 
-### You don't need a Trinket account to save your projects!
+### Вам не потрібен обліковий запис Trinket, щоб зберегти ваші проекти!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Якщо у вас немає облікового запису Trinket, натисніть стрілку **вниз** та натисніть **Посилання**. Ви отримаєте посилання, яке можна зберегти, і повернутись пізніше. Вам потрібно буде це робити щоразу після внесення змін, бо посилання зміниться!
 
-![screenshot](images/birthday-link.png)
+![скріншот](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+Якщо у вас є обліковий запис Trinket, найпростіший спосіб зберегти вашу веб-сторінку - натиснути **Remix** у верхній частині трінкета. Це збереже копію трінкета у вашому профілі.
 
-![screenshot](images/birthday-remix.png)
+![скріншот](images/birthday-remix.png)
