@@ -1,8 +1,8 @@
-/**
+/ **
  * StyleFix 1.0.3 & PrefixFree 1.0.7
  * @author Lea Verou
  * MIT license
- */
+ * /
 
 (function(){
 
@@ -153,9 +153,9 @@ var self = window.StyleFix = {
 	}
 };
 
-/**************************************
+/ **************************************
  * Process styles
- **************************************/
+ ************************************** /
 (function(){
 	setTimeout(function(){
 		$('link[rel="stylesheet"]').forEach(StyleFix.link);
@@ -319,7 +319,7 @@ var self = window.PrefixFree = {
 	}
 	
 	self.prefix = '-' + highest.prefix + '-';
-	self.Prefix = StyleFix.camelCase(self.prefix);
+	self.Prefix = StyleFix.camelCase (self.prefix);
 	
 	self.properties = [];
 
