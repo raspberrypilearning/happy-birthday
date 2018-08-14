@@ -1,16 +1,16 @@
 \--- challenge \---
 
-## Challenge: create a personalised card
+## Задача: создать свою особенную открытку
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ Используй всё, что тебе стало известно о HTML и CSS, чтобы закончить создание своей особенной открытки. Эта открытка не обязательно должна быть ко дню рождения, она может быть посвящена Рождеству или другому празднику или событию!
 
-Here's an example:
+Вот пример:
 
 ![screenshot](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Больше названий цветов CSS ты можешь найти [здесь](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Once you've finished your card, you can share or email it to someone.
++ Как только ты закончишь создание своей открытки, ты можешь поделиться ею или отправить ее кому-то.
 
 ![screenshot](images/birthday-share.png)
 
