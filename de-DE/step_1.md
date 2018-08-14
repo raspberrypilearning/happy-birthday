@@ -1,6 +1,6 @@
 ## Einleitung
 
-In diesem Projekt lernst du HTML und CSS kennen, indem du lernst, wie du deine eigene Geburtstagskarte gestalten kannst.
+In diesem Projekt wirst du mit HTML und CSS vertraut gemacht, indem du lernst, wie du deine eigene Geburtstagskarte gestalten kannst.
 
 ### Was du machen wirst
 
@@ -14,7 +14,7 @@ Klicke auf die Schaltfläche, um die Geburtstagskarte zu öffnen:
 
 ### Was du lernen wirst
 
-Dieses Projekt umfasst Elemente aus den folgenden Themen des [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum) {:Ziel="_leer"}:
+Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digital Making Lehrplans](http://rpf.io/curriculum) {:target="_blank"}:
 
 + [Entwurf von grundlegenden 2D- and 3D-Gütern](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
