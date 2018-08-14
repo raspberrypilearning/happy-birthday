@@ -27,13 +27,13 @@ Možeš da koristiš bilo koju od sljedećih riječi za rođendansku čestitku: 
 
 Možeš da modifikuješ i CSS kôd rođendanske čestitke.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Klikni na karticu za `style.css`. Čitav prvi dio čine CSS stilovi za **spoljašnji dio** (outside) čestitke.
 
-+ Change the `background-color` to `lightgreen`.
++ Promijeni `background-color` (boju pozadine) u `lightgreen` (svijetlozelenu).
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ Možeš promijeniti i veličinu slike. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
 ![screenshot](images/birthday-card-size.png)
 
