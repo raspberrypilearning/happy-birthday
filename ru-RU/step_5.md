@@ -1,18 +1,18 @@
-## What is CSS?
+## Что такое CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS означает **Cascading Style Sheets (Каскадные таблицы стилей)**, это язык, используемый для создания красивых веб-страниц.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Этот код связывает твою веб-страницу с файлом CSS - посмотри, можешь ли ты найти его в блоке `<head>` HTML-документа:
 
 ![screenshot](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+В CSS указываются все **свойства** для конкретного тега.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ Нажми на вкладке `style.css`, чтобы увидеть код CSS для твоей веб-страницы.
     
     ![screenshot](images/birthday-css-tab.png)
 
-+ Find this code:
++ Найди этот код:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Этот CSS-код определяет свойство для абзацев (`p`), в котором говорится, что цвет текста должен быть черным.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ Измените в коде CSS слово «black» (чёрный) на «blue» (синий). Цвет текста всех абзацев должен поменяться на синий.
 
 ![screenshot](images/birthday-edit-css.png)
