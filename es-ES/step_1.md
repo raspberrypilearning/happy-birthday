@@ -7,7 +7,7 @@ En este proyecto, conocerás HTML y CSS al aprender cómo hacer tu propia tarjet
 Toca el botón para abrir la tarjeta de cumpleaños:
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/d152cbeab3?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/397b33274a?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/birthday-final.png">
 </div>

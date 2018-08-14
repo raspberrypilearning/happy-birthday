@@ -4,7 +4,7 @@ HTML significa **Lenguaje de marcado de hipertexto**, el lenguaje que utilizan p
 
 Utilizarás un sitio web que se llama trinket.io para escribir el código HTML.
 
-+ Abre [este trinket](https://trinket.io/html/397b33274a){:target="_blank"}.
++ Abre [este trinket](https://trinket.io/html/d152cbeab3){:target="_blank"}.
 
 El proyecto debería parecerse a esto:
 
@@ -18,7 +18,7 @@ HTML usa **etiquetas** para construir páginas web. Busca este código HTML en l
 <p>Hola. Me llamo Andy.</p>
 ```
 
-`<p>` es un ejemplo de una etiqueta, y es la abreviatura de **párrafo**. Puedes comenzar un párrafo con `<p>` y finalizar un párrafo con ` </p>`.
+`<p>` es un ejemplo de una etiqueta, y es la abreviatura de **párrafo**. Puedes comenzar un párrafo con `<p>` y finalizar un párrafo con `</p>`.
 
 + ¿Puedes encontrar algunas etiquetas más?
 
@@ -34,9 +34,9 @@ Otra etiqueta que quizás has encontrado es `<b>`, que significa **negrita**:
 
 Estos son algunos ejemplos más:
 
-+ `<html>` y ` </html>` marcan el inicio y el final del documento HTML
-+ `<head>` y ` </head>` es donde se ponen cosas como CSS (hablarámos de eso más adelante)
-+ `<body>` y ` </body>` es donde se pone el contenido de tu sitio web
++ `<html>` y `</html>` marcan el inicio y el final del documento HTML
++ `<head>` y `</head>` es donde se ponen cosas como CSS (hablarámos de eso más adelante)
++ `<body>` y `</body>` es donde se pone el contenido de tu sitio web
 
 ![screenshot](images/birthday-head-body.png)
 
@@ -50,7 +50,7 @@ Estos son algunos ejemplos más:
 
 ![screenshot](images/birthday-reset.png)
 
-Para deshacer solo lo último que hiciste, puedes pulsar las teclas ` Ctrl` y ` z ` al mismo tiempo.
+Para deshacer solo lo último que hiciste, puedes pulsar las teclas `Ctrl` y `z` al mismo tiempo.
 
 ### ¡No necesitas una cuenta de Trinket para guardar tus proyectos!
 

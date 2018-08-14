@@ -2,7 +2,7 @@
 
 Vamos usar o que você aprendeu sobre HTML e CSS para criar seu próprio cartão de aniversário personalizado.
 
-+ Abra [ este trinket ](http://jumpto.cc/web-card){:target="_blank"}.
++ Abra [ este trinket ](https://trinket.io/html/17ee05db3b){:target="_blank"}.
 
 Nós já escrevemos muito código para você pegar o jeito, mas o cartão de aniversário parece bem entediante até agora, então você vai fazer algumas mudanças no código HTML e CSS.
 
@@ -21,7 +21,7 @@ Nós já escrevemos muito código para você pegar o jeito, mas o cartão de ani
 + Olhe na linha 17 para encontrar o código.
 + Altere a palavra `robot` para `sun`, e você verá a imagem mudar!
 
-![screenshot](images/birthday-card-sun.png) ---/hints --- --- /hint ---
+![screenshot](images/birthday-card-sun.png) ---/hint --- --- /hints ---
 
 Você pode usar as palavras em inglês `boy` (menino), `diamond` (diamante), `dinosaur` (dinossauro), `flowers` (flores), `girl` (garota), `rainbow` (arco-íris), `robot` (robô), `spaceship` (espaçonave), `sun` (sol), `tea` (chá), ou `trophy`(troféu) para um cartão de aniversário, ou `cracker` (biscoito), `elf` (elfo), `penguin` (pinguim), `present` (presente), `reindeer` (rena), `santa` (papai noel), or `snowman` (boneco de neve) se preferir fazer um cartão de Natal.
 
@@ -37,7 +37,7 @@ Você também pode editar o código CSS do cartão de aniversário.
 
 ![screenshot](images/birthday-card-size.png)
 
-+ A fonte também pode ser alterada. Vá para o CSS ` #outside-title` (título exterior) e altere a `font-family` (família de fontes) para `Comic Sans MS` e o `font-size` (tamanho da fonte) para `16pt `.
++ A fonte também pode ser alterada. Vá para o CSS `#outside-title` (título exterior) e altere a `font-family` (família de fontes) para `Comic Sans MS` e o `font-size` (tamanho da fonte) para `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
