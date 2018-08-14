@@ -1,47 +1,47 @@
-## Making a birthday card
+## Fazendo um cartão de aniversário
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Vamos usar o que você aprendeu sobre HTML e CSS para criar seu próprio cartão de aniversário personalizado.
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Abra [ este trinket ](http://jumpto.cc/web-card) {:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Nós já escrevemos muito código para você pegar o jeito, mas o cartão de aniversário parece bem entediante até agora, então você vai fazer algumas mudanças no código HTML e CSS.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Clique no botão na capa do cartão e você o verá abrir para revelar seu interior.
 
 ![screenshot](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Vá para a linha 14 do código HTML. Tente editar o texto para personalizar seu cartão.
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Você consegue encontrar o código HTML relativo à imagem do robô e alterar a palavra ` robot ` (robô, em inglês) para `sun ` (sol, em inglês)?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Olhe na linha 17 para encontrar o código.
++ Altere a palavra ` robot ` para ` sun`, e você verá a imagem mudar!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png) \---/hints \--- \--- /hint \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Você pode usar as palavras em inglês `boy` (menino), `diamond` (diamante), `dinosaur` (dinossauro), `flowers` (flores), `girl` (garota), `rainbow` (arco-íris), `robot` (robô), `spaceship` (espaçonave), `sun` (sol), `tea` (chá), ou `trophy`(troféu) para um cartão de aniversário, ou `cracker` (biscoito), `elf` (elfo), `penguin` (pinguim), `present` (presente), `reindeer` (rena), `santa` (papai noel), or `snowman` (boneco de neve) se preferir fazer um cartão de Natal.
 
-You can also edit the CSS code of the birthday card.
+Você também pode editar o código CSS do cartão de aniversário.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Clique na guia ` style.css `. A primeira parte tem todos os estilos CSS para a ** capa** do cartão.
 
-+ Change the `background-color` to `lightgreen`.
++ Altere a cor de fundo `background-color` para ` lightgreen ` (verde claro, em inglês).
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ Você também pode alterar o tamanho de uma imagem. Vá para o Código CSS` #outside-pic ` e altere `width` (a largura) e ` height` (a altura) da imagem externa para ` 200 px ` (`px ` significa pixels).
 
 ![screenshot](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ A fonte também pode ser alterada. Vá para o CSS ` #outside-title` (título exterior) e altere a `font-family` (família de fontes) para ` Comic Sans MS ` e o ` font-size` (tamanho da fonte) para ` 16pt `.
 
 ![screenshot](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Você pode usar outras fontes, por exemplo:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
