@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## Задача: добавить еще один абзац
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- Можешь ли ты добавить третий абзац текста на свою веб-страницу, чтобы он был ниже двух других?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+Помни, что твой новый абзац будет начинаться тегом `<p>` и заканчиваться тегом `</p>`.
 
-Here's how your webpage might look:
+Вот как выглядит твоя веб-страница:
 
 ![screenshot](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+Можешь ли ты добавить в свой новый абзац **полужирный (bold)** и <u>подчёркнутый (underlined)</u> текст? Для подчёркнутого текста используй теги `<u>` и `</u>`.
 
 \--- /challenge \---
