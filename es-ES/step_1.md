@@ -1,43 +1,25 @@
 ## Introducción
 
-En este proyecto, la clase empezará a usar las etiquetas de HTML y las propiedades de CSS. También se editarán etiquetas y propiedades para crear una tarjeta de felicitación personalizada.
+En este proyecto, conocerás HTML y CSS al aprender cómo hacer tu propia tarjeta de cumpleaños personalizada.
 
-## Recursos online
+### Lo que crearás
 
-Recomendamos usar [trinket](https://trinket.io/) para escribir HTML y CSS online. Este proyecto contiene los siguientes trinkets:
+Toca el botón para abrir la tarjeta de cumpleaños:
 
-+ ['Introducción a HTML y CSS' punto de partida](https://trinket.io/html/850a678202)
-+ ['Tarjeta de Cumpleaños' punto de partida  -- jumpto.cc/web-card](http://jumpto.cc/web-card)
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/html/d152cbeab3?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+  <img src="images/birthday-final.png">
+</div>
 
-La clase también puede usar este trinket vacío [(jumpto.cc/trinket-blank)](http://jumpto.cc/trinket-blank) para escribir su propio HTML y CSS, o esta plantilla [(jumpto.cc/trinket-template)](http://jumpto.cc/trinket-template).
+### Lo que aprenderás
 
-Existe un trinket que contiene un ejemplo de solución a los retos del proyecto:
+Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ ['Tarjeta de Cumpleaños' Acabada](https://trinket.io/html/e996dc0380)
++ [Diseño de elementos básicos en 2D y 3D ](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-## Recursos offline
-Si lo preferís, este proyecto puede [completarse offline](../html-css.html). Podéis acceder a los recursos del proyecto haciendo clic en el enlace 'Descargar Materiales del Proyecto'. Este proyecto contiene una carpeta llamada 'Recursos del Proyecto', que incluye recursos que la clase necesitará para completar el proyecto offline. Toda la clase debería tener acceso a una copia de estos recursos. Esta carpeta contiene los siguientes archivos:
+### Información adicional para los educadores
 
-+ Intro.html
-+ Plantilla/plantilla.html
-+ Plantilla/estilo.css
-+ Tarjeta de Cumpleaños/TarjetaCumpleaños.html
-+ Tarjeta de Cumpleaños/estilo.css
-+ Tarjeta de Cumpleaños/script.js
-+ Tarjeta de Cumpleaños/10 imágenes .png
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/es-ES/projects/happy-birthday/print){:target="_blank"} .
 
-También podéis encontrar una versión finalizada de los retos de este proyecto en la carpeta 'Recursos para el líder del Club', que contiene:
-
-+ TarjetaCumpleañosAcabada.html
-+ estilo.css
-+ script.js
-+ arcoíris.png
-+ dinosaurio.png
-
-## Objetivos de aprendizaje
-+ Este proyecto es una introducción a las etiquetas de HTML y a las propiedades de CSS, y permite a la clase editar contenidos y estilos.
-
-## Retos
-+ "Añade otro párrafo" - añadir una etiqueta de HTML a un documento;
-+ "Añade más estilo" - editar estilos de CSS;
-+ "Crea una tarjeta personalizada" - editar HTML y CSS para crear una tarjeta de felicitación.
+Usa el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluso un ejemplo de un proyecto terminado) en la carpeta 'es-ES/resources'.

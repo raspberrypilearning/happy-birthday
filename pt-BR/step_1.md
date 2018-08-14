@@ -1,3 +1,25 @@
-Esta é uma versão mais antiga do **Feliz Aniversário**. No momento, ele não inclui o conteúdo mais recente, nem os recursos do usuário do site de projetos. Este projeto estará temporariamente disponível neste [formato](images/Happy Birthday.pdf) antes de ser arquivado. 
+## Introdução
 
-Precisamos da sua ajuda para atualizar e traduzir projetos como este! Se você puder nos ajudar, por favor [nos informe aqui](https://rpf.io/translators). 
+Neste projeto, você será introduzido ao HTML e ao CSS aprendendo a fazer seu próprio cartão de aniversário personalizado.
+
+### O que você vai fazer
+
+Clique no botão para abrir o cartão de aniversário:
+
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/html/34a8b8b32b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+  <img src="images/birthday-final.png">
+</div>
+
+### O que você vai aprender
+
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Fabricação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+
++ [Faça ilustrações 2D e 3D básicas](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
+
+### Informações adicionais para educadores
+
+Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/pt-BR/projects/happy-birthday/print){:target="_blank"} .
+
+Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'pt-BR/resources'.
