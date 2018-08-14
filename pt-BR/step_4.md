@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## Desafio: adicione outro parágrafo
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- Você consegue adicionar um terceiro parágrafo de texto à sua página, abaixo dos outros dois?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+Lembre-se de que seu novo parágrafo deve começar com uma tag `<p>` e terminar com uma tag` </p>`.
 
-Here's how your webpage might look:
+Veja aqui como sua página web deve ficar:
 
 ![screenshot](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+Você consegue adicionar texto ** em negrito** e <u> sublinhado</u> a seu novo parágrafo? Use as tags `<u>` e ` </u>` para texto sublinhado.
 
 \--- /challenge \---
