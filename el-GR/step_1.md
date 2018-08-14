@@ -1,10 +1,10 @@
 ## Εισαγωγή
 
-Σε αυτό το έργο, θα εισαχθείτε σε HTML και CSS μαθαίνοντας πώς να φτιάξετε τη δική σας προσαρμοσμένη κάρτα γενεθλίων.
+Σε αυτό το έργο, θα κάνεις μία εισαγωγή σε HTML και CSS μαθαίνοντας πώς να φτιάξεις τη δική σου προσαρμοσμένη κάρτα γενεθλίων.
 
-### Τι θα κάνετε
+### Τι θα φτιάξεις
 
-Κάντε κλικ στο κουμπί για να ανοίξετε την κάρτα γενεθλίων:
+Κάνε κλικ στο κουμπί για να ανοίξεις την κάρτα γενεθλίων:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@
   <img src="images/birthday-final.png">
 </div>
 
-### Τι θα μάθετε
+### Τι θα μάθεις
 
-Αυτό το πρόγραμμα καλύπτει στοιχεία από τις ακόλουθες πτυχές του μαθήματος [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Curriculum Making](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Σχεδιασμός βασικών στοιχείων 2D και 3D](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Σχεδιασμός βασικών στοιχείων 2D και 3D](https://www.raspberrypi.org/curriculum/design/creator)"{:target="_blank"}.
 
 ### Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
-Αν χρειαστεί να εκτυπώσετε αυτό το έργο, χρησιμοποιήστε την έκδοση [φιλική προς τον εκτυπωτή](https://projects.raspberrypi.org/en/projects/happy-birthday/print){: target = "_ blank"}.
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/happy-birthday/print)"{:target="_blank"} .
 
-Χρησιμοποιήστε το σύνδεσμο στο υποσέλιδο για να αποκτήσετε πρόσβαση στο repo GitHub για αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός έργου που έχει ολοκληρωθεί στο παράδειγμα) στο φάκελο 'en / resources'.
+Χρησιμοποίησε το σύνδεσμο στο υποσέλιδο για να αποκτήσεις πρόσβαση στο αποθετήριο GitHub για αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός έργου που έχει ολοκληρωθεί στο παράδειγμα) στο φάκελο 'en/resources'.
