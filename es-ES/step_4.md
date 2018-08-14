@@ -4,12 +4,12 @@
 
 - ¿Puedes agregar un tercer párrafo de texto a tu página web, debajo de los otros dos?
 
-Recuerdas que tu nuevo párrafo debe comenzar con la etiqueta `<p>` y finalizar con ` </p>`.
+Recuerda que tu nuevo párrafo debe comenzar con la etiqueta `<p>`y finalizar con la etiqueta ` </p>`.
 
-Así es como se ve tu página web:
+Tu página web podría tener este aspecto:
 
-![captura de pantalla](images/birthday-paragraph.png)
+![screenshot](images/birthday-paragraph.png)
 
-¿Puedes agregar texto ** negrito ** y <u> subrayado </u> a tu nuevo párrafo? Usa las etiquetas `<u>` y ` </u>` para el texto subrayado.
+¿Puedes agregar texto en **negrita** y <u> subrayado </u> a tu nuevo párrafo? Usa las etiquetas `<u>` y ` </u>` para el texto subrayado.
 
 \--- /challenge \---
