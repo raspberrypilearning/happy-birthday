@@ -1,18 +1,18 @@
-## What is CSS?
+## O que é CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS (Cascading Style Sheets) significa ** Folhas de Estilo em Cascata ** e é uma linguagem usada para estilizar páginas Web e torná-las bonitas.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Esse código vincula sua página da Web a um arquivo CSS - veja se você pode encontrá-lo no tag `<head>` do documento HTML:
 
 ![screenshot](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+O CSS lista todas as **propriedades ** para uma tag específica.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ Clique na aba ` style.css ` tab para ver o código CSS da sua página da web.
     
     ![screenshot](images/birthday-css-tab.png)
 
-+ Find this code:
++ Encontre este código:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Este código CSS determina uma propriedade para parágrafos (` p `), a qual diz que a cor do texto deve ser preta. Observe a ortografia em inglês americano: 'color'.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ Altere a palavra "black" (preto) no código CSS para "blue" (azul). Você deverá ver a cor do texto de todos os parágrafos mudar para azul.
 
 ![screenshot](images/birthday-edit-css.png)
