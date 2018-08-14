@@ -1,7 +1,7 @@
-function open_card() {
-  document.getElementById('outside').className = 'open-card';
+function ouvrir_carte() {
+  document.getElementById('exterieur').className = 'ouvrir-carte';
 }
 
-function close_card() {
-  document.getElementById('outside').className = '';
+function fermer_carte() {
+  document.getElementById('exterieur').className = '';
 }
