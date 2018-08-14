@@ -1,21 +1,21 @@
-## What is HTML?
+## Co to jest HTML?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML oznacza ** Hypertext Markup Language **, język używany do tworzenia stron internetowych. Spójrzmy na przykład!
 
-You'll be using a website called trinket.io to write HTML code.
+Będziesz używać strony o nazwie trinket.io do pisania kodu HTML.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Otwórz [ten fragment kodu](http://jumpto.cc/web-intro){:target="_blank"}.
 
-The project should look like this:
+Projekt powinien wyglądać następująco:
 
 ![screenshot](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+Kod widoczny po lewej stronie to HTML. W panelu po prawej stronie możesz zobaczyć stronę, którą wykonał kod HTML.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+HTML używa **znaczników** do tworzenia stron internetowych. Poszukaj tego kodu HTML w wierszu 8:
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p>Cześć. Mam na imię Andy.</p>
 ```
 
 `<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
