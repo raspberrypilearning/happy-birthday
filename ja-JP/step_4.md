@@ -1,15 +1,15 @@
-\--- challenge \---
+\---挑戦\---
 
-## Challenge: add another paragraph
+## 課題：別の段落を追加する
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- あなたのウェブページに、他の2つの下のテキストの3番目の段落を追加できますか？
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+新しい段落は `<p>` タグで始まり、 `</p>` タグで終わることを覚えておいてください。
 
-Here's how your webpage might look:
+あなたのウェブページがどのように見えるかは次のとおりです：
 
-![screenshot](images/birthday-paragraph.png)
+![スクリーンショット](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+あなたは追加することができます **大胆な** と <u>下線付き</u> あなたの新しい段落にテキストを？下線付きテキストには `<u>` と `</u>` タグを使用します。
 
-\--- /challenge \---
+\--- /チャレンジ\---
