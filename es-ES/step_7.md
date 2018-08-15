@@ -8,11 +8,11 @@ Hemos escrito un montón de código para que comiences, pero la tarjeta de cumpl
 
 + Toca el botón de la tarjeta, y deberías ver como se abre para revelar el interior.
 
-![screenshot](images/birthday-click.png)
+![captura de pantalla](images/birthday-click.png)
 
 + Ve a la línea 14 del código HTML. Prueba a editar el texto para personalizar tu tarjeta.
 
-![screenshot](images/birthday-card-html.png)
+![captura de pantalla](images/birthday-card-html.png)
 
 + ¿Puedes encontrar el código HTML para la imagen del robot y cambiar la palabra `robot` a `sun`?
 
@@ -21,7 +21,7 @@ Hemos escrito un montón de código para que comiences, pero la tarjeta de cumpl
 + Mira en la línea 17 para encontrar el código.
 + Cambia la palabra `robot` por `sun`, y verás que la imagen cambia!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![captura de pantalla](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
 Puedes user cualquieras de las palabras siguientes `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, o `trophy` para una tarjeta de cumpleaños, o `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, o `snowman` si prefieres hacer una tarjeta de Navidad.
 
@@ -31,15 +31,15 @@ También puedes editar el código CSS de la tarjeta de cumpleaños.
 
 + Cambia `background-color` a `lightgreen`.
 
-![screenshot](images/birthday-card-outside.png)
+![captura de pantalla](images/birthday-card-outside.png)
 
-+ También puedes cambiar el tamaño de la imagen. Va al `#outside-pic` del código CSS, y cambia la `width` y la `height` de la imagen exterior a `200px` (`px` representa píxeles).
++ También puedes cambiar el tamaño de la imagen. Ve al código CSS `#outside-pic` y cambia el `width` y la `height` de la imagen exterior a `200px` (`px` representa píxeles).
 
-![screenshot](images/birthday-card-size.png)
+![captura de pantalla](images/birthday-card-size.png)
 
-+ También se puede cambiar la fuente. Ve al `#outside-title` del CSS y cambia la `font-family` a `Comic Sans MS` y el `font-size` a `16pt`.
++ También se puede cambiar la fuente. Ve al código CSS `#outside-title` y cambia la `font-family` a `Comic Sans MS` y el `font-size` a `16pt`.
 
-![screenshot](images/birthday-card-font.png)
+![captura de pantalla](images/birthday-card-font.png)
 
 Puedes usar otras fuentes, por ejemplo:
 
