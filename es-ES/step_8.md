@@ -6,12 +6,12 @@
 
 Aquí está un ejemplo:
 
-![screenshot](images/birthday-final.png)
+![captura de pantalla](images/birthday-final.png)
 
 Puedes encontrar más nombres de colores de CSS [aquí](http://jumpto.cc/colours) {: target = "_ blank"}.
 
-+ Cuando has terminado tu tarjeta, puedes compartirla o enviarla por correo electrónico a alguien.
++ Cuando hayas terminado tu tarjeta, puedes compartirla o enviarla por correo electrónico a alguien.
 
-![screenshot](images/birthday-share.png)
+![captura de pantalla](images/birthday-share.png)
 
 \--- /challenge \---
