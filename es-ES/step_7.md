@@ -10,7 +10,7 @@ Hemos escrito un montón de código para que comiences, pero la tarjeta de cumpl
 
 ![screenshot](images/birthday-click.png)
 
-+ Va a la línea 14 del código HTML. Prueba a editar el texto para personalizar tu tarjeta.
++ Ve a la línea 14 del código HTML. Prueba a editar el texto para personalizar tu tarjeta.
 
 ![screenshot](images/birthday-card-html.png)
 
@@ -18,12 +18,12 @@ Hemos escrito un montón de código para que comiences, pero la tarjeta de cumpl
 
 \--- hints \--- \--- hint \---
 
-+ Mira a la línea 17 para encontrar el código.
++ Mira en la línea 17 para encontrar el código.
 + Cambia la palabra `robot` por `sun`, y verás que la imagen cambia!
 
 ![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-Puedes user cualquieras de las palabras siguientes `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, o `trophy` para una tarjeta de cumpleaños, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, o `snowman`si prefieres hacer una tarjeta de Navidad.
+Puedes user cualquieras de las palabras siguientes `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, o `trophy` para una tarjeta de cumpleaños, o `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, o `snowman` si prefieres hacer una tarjeta de Navidad.
 
 También puedes editar el código CSS de la tarjeta de cumpleaños.
 
