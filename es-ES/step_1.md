@@ -2,7 +2,7 @@
 
 En este proyecto, conocerás HTML y CSS al aprender cómo hacer tu propia tarjeta de cumpleaños personalizada.
 
-### Lo que crearás
+### Lo que harás
 
 Toca el botón para abrir la tarjeta de cumpleaños:
 
