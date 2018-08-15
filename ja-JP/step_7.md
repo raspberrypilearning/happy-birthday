@@ -1,48 +1,48 @@
-## Making a birthday card
+## バースデーカードを作る
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+独自のカスタムバースデーカードを作るためにHTMLとCSSについて学んだことを使ってみましょう。
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ [この小物](http://jumpto.cc/web-card){{target = "_ blank"}にしてください。
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+私たちはあなたのために多くのコードを書いていますが、これまでのバースデーカードはかなり退屈なので、HTMLコードとCSSコードを少し変更します。
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ カードの前面にあるボタンをクリックすると、内部が表示されます。
 
-![screenshot](images/birthday-click.png)
+![スクリーンショット](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ HTMLコードの14行目に移動します。テキストを編集してカードをカスタマイズしてみてください。
 
-![screenshot](images/birthday-card-html.png)
+![スクリーンショット](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ あなたは、ロボット画像のHTMLコードを見つけて、 `ロボット` を `太陽`変更できますか？
 
-\--- hints \--- \--- hint \---
+\---ヒント\---ヒント\---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ 17行目を見てコードを見つけてください。
++ 単語を変更して `ロボット` に `日`、あなたがイメージチェンジを参照してくださいよ！
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![スクリーンショット](images/birthday-card-sun.png) \--- /ヒント\--- \--- /ヒント\---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+あなたは、単語のいずれかを使用することができる `少年`、 `ダイヤモンド`、 `恐竜`、 `花`、 `女の子`、 `虹`、 `、ロボット`、 `宇宙船`、 `太陽`、 `茶`、又は `トロフィーを` 誕生日カード、または `クラッカー`、 `エルフ`、 `ペンギン`、 `本`、 `トナカイ`、 `サンタ`、又は `雪だるま` あなたはクリスマスカードを作ることを好む場合。
 
-You can also edit the CSS code of the birthday card.
+また、バースデーカードのCSSコードを編集することもできます。
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ `style.css`タブをクリックします。最初の部分は、のためにCSSスタイルのすべてで **外** カードの。
 
-+ Change the `background-color` to `lightgreen`.
++ `背景色` を `明るい緑色`ます。
 
-![screenshot](images/birthday-card-outside.png)
+![スクリーンショット](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ 画像のサイズを変更することもできます。 `＃outside-pic` CSSコードに行き、外側の画像の `幅` と `高さ` を `200px` （`ピクセル` はピクセルを表す）に変更します。
 
-![screenshot](images/birthday-card-size.png)
+![スクリーンショット](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ フォントも変更できます。 `＃outside-title` CSSに行き、 `font-family` を `Comic Sans MS` に、 `font-size` to `16pt`ます。
 
-![screenshot](images/birthday-card-font.png)
+![スクリーンショット](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+たとえば、次のような他のフォントを使用することができます。
 
-+ `<span style="font-family: Arial;">arial</span>`
-+ `<span style="font-family: impact;">Impact</span>`
-+ `<span style="font-family: tahoma;">Tahoma</span>`
++ `<span style="font-family: Arial;">アリア</span>`
++ `<span style="font-family: impact;">影響</span>`
++ `<span style="font-family: tahoma;">タホマ</span>`
