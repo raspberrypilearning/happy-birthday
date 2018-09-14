@@ -7,7 +7,7 @@ Yn y prosiect yma fe fyddi di'n cael dy gyflwyno i HTML a CSS trwy ddysgu sut i 
 Clicia'r botwm i agor y garden pen-blwydd:
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html332900c89b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/332900c89b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/birthday-final.png">
 </div>
