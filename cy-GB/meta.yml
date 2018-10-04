@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Happy birthday
-description: Make an online birthday card on a webpage
+title: Pen-blwydd Hapus
+description: Creu carden pen-blwydd ar dudalen gwe
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
 interests: art
 technologies: html-css-javascript
@@ -18,18 +18,18 @@ version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Cyflwyniad
   - 
-    title: What you will need
+    title: Beth fyddi di ei angen
   - 
-    title: What is HTML?
+    title: Beth yw HTML?
   - 
-    title: 'Challenge: add another paragraph'
+    title: 'Her: ychwanegu paragraff arall'
   - 
-    title: What is CSS?
+    title: Beth yw CSS?
   - 
-    title: 'Challenge: add more styles'
+    title: 'Her: ychwanegu mwy o steiliau'
   - 
-    title: Making a birthday card
+    title: Gwneud carden pen-blwydd
   - 
-    title: 'Challenge: create a personalised card'
+    title: 'Her: creu carden unigryw'
