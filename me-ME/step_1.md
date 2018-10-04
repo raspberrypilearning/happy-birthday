@@ -1,6 +1,6 @@
 ## Uvod
 
-U ovom projektu upoznaćeš se sa HTML-om i CSS-om tako što ćeš naučiti kako da izradiš sopstvenu rođendansku čestitku.
+U ovom projektu upoznaćeš se sa HTML-om i CSS-om i naučiti kako da izradiš sopstvenu rođendansku čestitku.
 
 ### Šta ćeš napraviti
 
