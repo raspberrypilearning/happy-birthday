@@ -2,7 +2,7 @@
 
 ## Izazov: napravi sopstvenu čestitku
 
-+ Iskoristi sve što si do sada naučio/naučila o HTML-u i CSS-u da dovršiš izradu sopstvene čestitke. Ne mora da bude rođendanska čestitka, može biti čestitka za Božić ili za bilo koju drugu priliku!
++ Iskoristi sve što si do sada naučio/naučila o HTML-u i CSS-u da dovršiš izradu sopstvene čestitke. Čestitka ne mora da bude rođendanska, može biti čestitka za Božić ili za bilo koju drugu priliku!
 
 Evo primjera:
 
