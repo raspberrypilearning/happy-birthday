@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## 과제: 다른 문단 추가
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- 당신의 웹 페이지에 다른 2 개의 텍스트 아래에 세 번째 문단을 추가 할 수 있습니까?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+새로운 문단은 `<p>`로 시작해서, `</p>`로 끝나야 한다는 사실을 기억하십시오.
 
-Here's how your webpage might look:
+당신의 웹페이지는 아래와 같이 생겼습니다:
 
-![screenshot](images/birthday-paragraph.png)
+![스크린샷](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+**굵은 글씨**와 <u>밑줄 친 글씨</u>를 구현할 수 있습니까? `<u>`와 `</u>`으로 구현하십시오.
 
 \--- /challenge \---
