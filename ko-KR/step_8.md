@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: create a personalised card
+## 과제: 자신만의 카드 만들기
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ 지금까지 배운 HTML과 CSS 지식을 총동원하여, 자신만의 카드를 제작해 보세요. 꼭 생일카드일 필요는 없으며, 크리스마스 카드나 다른 행사를 위한 카드를 제작해도 됩니다!
 
-Here's an example:
+아래 예제를 참고하세요:
 
-![screenshot](images/birthday-final.png)
+![스크린샷](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+더 많은 CSS 색상을 [여기서](http://jumpto.cc/colours){:target="_blank"} 찾을 수 있습니다.
 
-+ Once you've finished your card, you can share or email it to someone.
++ 카드를 작성한 후에 이메일로 다른 사람과 카드를 공유해 보세요.
 
-![screenshot](images/birthday-share.png)
+![스크린샷](images/birthday-share.png)
 
 \--- /challenge \---
