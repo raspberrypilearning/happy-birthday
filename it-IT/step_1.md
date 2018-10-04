@@ -1,10 +1,10 @@
-## Introduction
+## Introduzione
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+In questo progetto, verrai introdotto ad HTML e CSS imparando come creare il tuo biglietto da visita personalizzato.
 
-### What you will make
+### Che cosa creerai
 
-Click the button to open the birthday card:
+Fai clic sul pulsante per aprire il biglietto d'auguri:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Click the button to open the birthday card:
   <img src="images/birthday-final.png">
 </div>
 
-### What you will learn
+### Che cosa imparerai
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Risorse base di progettazione 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Additional information for educators
+### Informazioni aggiuntive per gli educatori
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+Se hai bisogno di stampare questo progetto, per favore usa la [versione stampabile](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Clicca sul link a piè di pagina per accedere alla repository di GitHub relativa a questo progetto, che contiene tutte le risorse necessarie (incluso un esempio di progetto completo) nella cartella 'en/resources'.
