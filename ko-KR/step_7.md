@@ -1,47 +1,47 @@
-## Making a birthday card
+## 생일 카드 만들기
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+그럼 지금까지 배운 HTML과 CSS를 이용하여 자신만의 생일 카드를 만들어 봅시다.
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ [trinket 열기](http://jumpto.cc/web-card){:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+지금까지 많은 Code를 작성했으나, 생일 카드는 지금까지 꽤 지루해 보였으므로 아래와 같이 HTML 및 CSS 코드를 일부 변경해야 합니다.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ 카드 앞면의 버튼을 클릭하면 내부가 보이도록 열립니다.
 
-![screenshot](images/birthday-click.png)
+![스크린샷](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ HTML Code의 14행으로 이동하여, 자신만의 문구를 쓰세요.
 
-![screenshot](images/birthday-card-html.png)
+![스크린샷](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ HTML Code에서 `robot` 이미지를 `sun` 이미지로 바꾸세요.
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ 17행에 있는 코드를 보세요.
++ `robot`을 `sun`으로 바꾸면, 이미지가 바뀝니다!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![스크린샷](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+`boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` 를 생일 카드에 쓸 수 있으며, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, `snowman` 를 크리스마스 카드에 쓸 수 있습니다.
 
-You can also edit the CSS code of the birthday card.
+생일 카드의 CSS 코드도 수정해야 합니다.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ `style.css` 탭을 클릭하여, **outside(바깥쪽)** 스타일을 수정하십시오.
 
-+ Change the `background-color` to `lightgreen`.
++ `background-color`를 `lightgreen`으로 바꾸세요.
 
-![screenshot](images/birthday-card-outside.png)
+![스크린샷](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ 이미지 사이즈도 변경할 수 있는데, `#outside-pic` CSS 코드에서 `width`(너비)와 `height`(높이) 값을 수정하여, 바깥 쪽에 있는 이미지를 `200px`로 수정합니다. (`px`는 픽셀을 의미합니다.)
 
-![screenshot](images/birthday-card-size.png)
+![스크린샷](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ 폰트는 `#outside-title` 에서 `font-family`를 수정하면 되는데, `Comic Sans MS` 글씨체로 수정할 수 있으며, `font-size` 를 `16pt`로 수정할 수 있습니다.
 
-![screenshot](images/birthday-card-font.png)
+![스크린샷](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+다른 폰트를 사용하고 싶으시다면 아래와 같이 코드를 작성하시면 됩니다.
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
