@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## 과제: 더 많은 스타일 추가
 
-+ Can you make the paragraphs of text orange?
++ 문단의 색깔을 주황색으로 바꿀 수 있나요?
 
-+ Can you make the background grey by changing the `body` property?
++ `body` 부분의 배경 색깔을 회색으로 바꿀 수 있나요?
 
-![screenshot](images/birthday-more-style.png)
+![스크린샷](images/birthday-more-style.png)
 
 \--- /challenge \---
