@@ -1,18 +1,18 @@
-## What is CSS?
+## Che cos'è CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS sta per ** Fogli di stile a cascata (Cascading Style Sheets) ** ed è un linguaggio usato per disegnare pagine web e renderle belle.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Questo codice collega la tua pagina web a un file CSS - vedi se riesci a trovarlo nel `<head>` del documento HTML:
 
-![screenshot](images/birthday-css-link.png)
+![schermata](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS elenca tutte le **proprietà** per un determinato tag.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ Fare clic sulla scheda "`Style. CSS`" per vedere il codice CSS per la tua pagina Web.
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![schermata](images/birthday-css-tab.png)
 
-+ Find this code:
++ Trova questo codice:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Questo codice CSS determina una proprietà per i paragrafi (`p`), che dice che il colore del testo deve essere nero. Si noti l'ortografia americana: 'color'.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ Sostituisci la parola 'black' nel codice CSS con 'blue'. Si dovrebbe vedere il colore del testo di tutti i paragrafi cambiare in blu.
 
-![screenshot](images/birthday-edit-css.png)
+![schermata](images/birthday-edit-css.png)
