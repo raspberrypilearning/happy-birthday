@@ -1,16 +1,16 @@
 ## Izrada rođendanske čestitke
 
-Iskoristimo to što već znaš o HTML-u i CSS-u da napraviš svoju sopstvenu rođendansku čestitiku.
+Iskoristi svoje znanje o HTML-u i CSS-u da napraviš svoju sopstvenu rođendansku čestitiku.
 
 + Otvori [ovaj trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
-Na početku smo napisali mnogo kôda, ali rođendanska čestitka izgleda prilično dosadno, pa ćeš zato napraviti neke izmjene u HTML i CSS kôdu.
+Već smo napisali mnogo kôda za tebe, ali rođendanska čestitka za sada izgleda prilično dosadno, pa ćeš zato napraviti neke izmjene u HTML i CSS kôdu.
 
 + Klikni na dugme na prednjoj strani čestitke i vidjećeš kako se otvara i pokazuje unutrašnju stranu.
 
 ![screenshot](images/birthday-click.png)
 
-+ Pređi na 14. red kôda. Pokušaj da urediš tekst čestitke prema sopstvenoj želji.
++ Idi na 14. red kôda. Pokušaj da urediš tekst čestitke prema sopstvenoj želji.
 
 ![screenshot](images/birthday-card-html.png)
 
@@ -25,9 +25,9 @@ Na početku smo napisali mnogo kôda, ali rođendanska čestitka izgleda prilič
 
 Možeš da koristiš bilo koju od sljedećih riječi za rođendansku čestitku: `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea` ili `trophy`. Ili, ako želiš da napraviš božićnu čestitku, možeš koristiti neku od ovih riječi: `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa` ili `snowman`.
 
-Možeš da modifikuješ i CSS kôd rođendanske čestitke.
+Možeš da izmijeniš i CSS kôd rođendanske čestitke.
 
-+ Klikni na karticu za `style.css`. Čitav prvi dio čine CSS stilovi za **spoljašnji dio** (outside) čestitke.
++ Klikni na karticu `style.css`. U prvom dijelu su svi CSS stilovi za **spoljašnji dio** (outside) čestitke.
 
 + Promijeni `background-color` (boju pozadine) u `lightgreen` (svijetlozelenu).
 
@@ -37,7 +37,7 @@ Možeš da modifikuješ i CSS kôd rođendanske čestitke.
 
 ![screenshot](images/birthday-card-size.png)
 
-+ Takođe se može promijeniti font. Idi na `#outside-title` CSS-a i promijeni `font-family` (tip fonta) u ` Comic Sans MS` i `font-size` (veličinu fonta) na `16pt`.
++ Takođe se može promijeniti font. Idi na CSS `#outside-title` i promijeni `font-family` (tip fonta) u ` Comic Sans MS` i `font-size` (veličinu fonta) na `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
