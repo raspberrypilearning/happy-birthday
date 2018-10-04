@@ -1,63 +1,63 @@
-## What is HTML?
+## HTML이란?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML은 **Hypertext Markup Language**의 약자로, 웹 페이지를 제작하는데 사용되는 프로그래밍 언어입니다. 예제를 보도록 하겠습니다!
 
-You'll be using a website called trinket.io to write HTML code.
+Trinket.io 서비스 또한 HTML Code로 작성되어 있어, 여러분이 열람할 수 있습니다.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ [trinket 열기](http://jumpto.cc/web-intro){:target="_blank"}
 
-The project should look like this:
+프로젝트는 아래와 같이 보일 것입니다:
 
-![screenshot](images/birthday-starter.png)
+![스크린샷](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+왼쪽에서 볼 수 있는 Code는 HTML이고, 오른쪽에 HTML 코드가 만든 웹페이지가 표시됩니다.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+HTML에서는 웹 페이지를 만들 때 **태그**를 사용합니다. Code의 8번째 행 다음에 HTML Code가 있습니다.
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p>안녕, 내 이름은 앤디라고 해</p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`<p>`은 HTML에서의 tag이며, paragraph의 약자로 **문단**을 의미합니다. `<p>` 태그와 `</p>` 태그 사이에 위치하는 내용이 하나의 문단을 구성합니다.
 
-+ Can you spot any other tags?
++ 다른 태그를 찾을 수 있습니까?
 
 ## \--- collapse \---
 
-## title: Answer
+## 제목: 답변
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+`<b>` 태그는 **이와 같이 글씨를 굵게 하라는 태그로 쓰입니다.**
 
 ```html
-<b>running</b>
+<b>작동 중. 손대지 마세요!</b>
 ```
 
-Here are some more:
+태그에 대해 조금 더 설명하자면:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `<html>`과 `</html>`은 HTML 문서의 시작과 끝을 의미합니다.
++ `<head>`과 `</head>`은 CSS 문서가 들어가는 곳입니다. (자세한 내용은 나중에 살펴보도록 하겠습니다.)
++ `<body>` 과 `</body>`은 웹사이트의 내용이 들어가는 곳입니다.
 
-![screenshot](images/birthday-head-body.png)
+![스크린샷](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ HTML 파일을 왼쪽에서 수정한 후, **실행** 버튼을 클릭하면 오른쪽에서 변경된 홈페이지를 보실 수 있습니다.
 
-![screenshot](images/birthday-edit-html.png)
+![스크린샷](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ 만약, 홈페이지를 잘못 만들어서 내용을 전부 수정해야 하는 경우, ** 메뉴** 버튼의 **Reset** 을 클릭하십시오.
 
-![screenshot](images/birthday-reset.png)
+![스크린샷](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+마지막으로 한 작업을 되돌리고 싶은 경우 `Ctrl` 과 `z` 키를 같이 눌러 수정하시면 됩니다.
 
-### You don't need a Trinket account to save your projects!
+### 프로젝트를 저장하기 위해 Trinket 계정이 필요하지 않습니다!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+만약, Trinket 계정을 가지고 있지 않다면 **오른쪽 하단**의 **링크를 클릭하세요.** URL 링크를 제공하여 진행 중인 프로젝트를 계속 진행할 수 있습니다. 프로젝트를 변경할 때 매번 수행해야 하며, 링크도 매번 달라집니다!
 
-![screenshot](images/birthday-link.png)
+![스크린샷](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+만약 Trinket 계정을 가지고 계신다면, Trinket 상단의 **Remix** 버튼을 클릭하십시오. 당신의 프로필에 프로젝트 복사본을 저장할 것입니다.
 
-![screenshot](images/birthday-remix.png)
+![스크린샷](images/birthday-remix.png)
