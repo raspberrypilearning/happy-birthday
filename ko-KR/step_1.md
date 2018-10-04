@@ -1,10 +1,10 @@
-## Introduction
+## 소개
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+이 프로젝트에서는, HTML과 CSS를 이용해서 자신만의 생일 카드를 만들어 보도록 하겠습니다.
 
-### What you will make
+### 만들 작품
 
-Click the button to open the birthday card:
+버튼을 눌러 생일 카드를 엽니다.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Click the button to open the birthday card:
   <img src="images/birthday-final.png">
 </div>
 
-### What you will learn
+### 배울 지식
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+이 프로젝트는 [라즈베리 파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum){:target="_blank"}: 중 아래의 과정에 있는 요소들을 다룹니다.
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [2D와 3D 디자인](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Additional information for educators
+### 교사들을 위한 부가 설명
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+이 프로젝트를 프린트하고자 한다면, [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} 을 사용하십시오.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+밑에 있는 링크를 사용하여 Github 리포지토리에 들어가서, 'en/resources'에 들어가면 프로젝트에 관한 모든 참조자료(완성된 예시 프로젝트 포함) 를 열람할 수 있습니다.
