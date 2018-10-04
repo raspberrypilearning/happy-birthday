@@ -1,63 +1,63 @@
-## What is HTML?
+## Cos'è l'HTML?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML sta per ** Hypertext Markup Language **, la lingua utilizzata per creare pagine Web. Diamo un'occhiata ad un esempio!
 
-You'll be using a website called trinket.io to write HTML code.
+Utilizzerai un sito Web chiamato trinket.io per scrivere codice HTML.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Apri [questo trinket](http://jumpto.cc/web-intro)"}.
 
-The project should look like this:
+Il progetto dovrebbe assomigliare a questo:
 
 ![screenshot](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+Il codice che puoi vedere a sinistra è HTML. A destra del trinket, puoi vedere la pagina web creata dal codice HTML.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+HTML utilizza i tag ** ** per costruire pagine web. Cerca questo codice HTML sulla riga 8 del tuo codice:
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p> Ciao. Mi chiamo Andy. </p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`<p>` è un esempio di tag ed è abbreviazione di ** paragrafo ** . Puoi iniziare un paragrafo con `<p>` e terminare un paragrafo con ` </p>` .
 
-+ Can you spot any other tags?
++ Riesci a individuare altri tag?
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Risposta
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+Un altro tag che potresti aver individuato è `<b>`, che sta per ** in grassetto **:
 
 ```html
-<b>running</b>
+<b> in esecuzione </b>
 ```
 
-Here are some more:
+Eccone altri:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `<html>` e ` </html>` segna l'inizio e la fine del documento HTML
++ `<head>` e ` </head>` è dove vanno cose come i CSS (ci arriveremo più tardi)
++ `<body>` e ` </body>` è dove va il contenuto del tuo sito web
 
 ![screenshot](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ Apporta una modifica a uno dei paragrafi di testo nel file HTML (a sinistra). Fai clic su ** Esegui ** e dovresti vedere la tua pagina web cambiare (a destra)!
 
 ![screenshot](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ Se hai fatto un errore e vuoi annullare tutte le modifiche, puoi fare clic sul pulsante **menu** e quindi fare clic su ** Ripristina **.
 
 ![screenshot](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+Per annullare solo l'ultima cosa che hai fatto, puoi premere i tasti ` Ctrl ` e ` z ` insieme.
 
-### You don't need a Trinket account to save your projects!
+### Non hai bisogno di un account Trinket per salvare i tuoi progetti!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Se non hai un account Trinket, fai click sulla freccia che punta verso il **basso** e clicca su **Link**. Questo comando ti darà un link che puoi salvare e che potrai aprire di nuovo più tardi. Dovrai fare questa cosa ogni volta che apporti delle modifiche, perché il link cambierà di volta in volta!
 
 ![screenshot](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+Se hai un account Trinket, il modo più semplice per salvare la pagina Web è fare clic sul pulsante ** Remix ** sulla parte superiore del trinket. Questo salverà una copia del trinket sul tuo profilo.
 
 ![screenshot](images/birthday-remix.png)
