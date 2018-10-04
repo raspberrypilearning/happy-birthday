@@ -10,12 +10,12 @@ Projekat treba da izgleda ovako:
 
 ![screenshot](images/birthday-starter.png)
 
-Kôd koji vidiš na lijevoj strani je HTML. Na desnoj strani trinketa možeš da vidiš veb-stranicu koju je napravio je HTML kôd.
+Kôd koji vidiš na lijevoj strani je HTML. Na desnoj strani trinketa možeš da vidiš veb-stranicu koju je napravio HTML kôd.
 
 HTML koristi **oznake** (tags) za izradu veb-stranica. Pogledaj ovaj HTML kôd u osmom redu svog kôda:
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p>Zdravo. Zovem se Andrija.</p>
 ```
 
 `<p>` je primjer oznake, i to je skraćenica za **paragraph** (pasus). Pasus možeš da započneš oznakom `<p>` i da ga završiš oznakom `</p>`.
@@ -29,20 +29,20 @@ HTML koristi **oznake** (tags) za izradu veb-stranica. Pogledaj ovaj HTML kôd u
 Jedna od oznaka koju možeš da uočiš je oznaka `<b>` koja znači **bold** (podebljano):
 
 ```html
-<b>running</b>
+<b>trčim</b>
 ```
 
 Evo još nekoliko primjera:
 
-+ `<html>` i `</html>` označava početak i kraj HTML dokumenta
-+ `<head>` i `</head>` gdje se unose stvari kao što je CSS (do toga ćemo doći kasnije)
-+ `<body>` i `</body>` gdje se unosi sadržaj veb-stranice
++ `<html>` i `</html>` označavaju početak i kraj HTML dokumenta
++ `<head>` i `</head>` - ovdje se unose stvari kao što je CSS (do toga ćemo doći kasnije)
++ `<body>` i `</body>` - ovdje se unosi sadržaj veb-stranice
 
 ![screenshot](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Napravi izmjenu u jednom pasusu teksta u HTML datoteci (lijevo). Klikni na **Run** i trebalo bi da vidiš promjenu na svojoj veb-stranici (desno)!
++ Napravi izmjenu u jednom pasusu teksta u HTML dokumentu (lijevo). Klikni na **Run** i trebalo bi da vidiš promjenu na svojoj veb-stranici (desno)!
 
 ![screenshot](images/birthday-edit-html.png)
 
@@ -54,7 +54,7 @@ Da poništiš samo ono što si posljednje uradio/uradila, možeš istovremeno da
 
 ### Nije ti potreban Trinket nalog da sačuvaš svoje projekte!
 
-Ako nemaš Trinket nalog, klikni na strelicu **nadolje**, a zatim klikni na **Link**. Dobićeš link koji možeš sačuvati i vratititi se na njega kasnije. Biće potrebno da to uradiš svaki put kada praviš izmjene, pošto će se link promijeniti!
+Ako nemaš Trinket nalog, klikni na strelicu **nadolje**, a zatim klikni na **Link**. Dobićeš link koji možeš sačuvati i vratititi se na njega kasnije. Biće potrebno da to uradiš svaki put kada napraviš izmjene, pošto će se link promijeniti!
 
 ![screenshot](images/birthday-link.png)
 
