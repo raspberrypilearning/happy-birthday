@@ -1,18 +1,18 @@
-## What is CSS?
+## CSS란?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS는 **Cascading Style Sheets**의 약자로, 사람의 옷과 액세서리 같이 꾸미는 역할을 담당한다고 할 수 있습니다.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ CSS 파일은 HTML 문서 내 링크로 연결되며, `<head>` 부분에서 찾을 수 있습니다.
 
-![screenshot](images/birthday-css-link.png)
+![스크린샷](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS에서는 모든 태그의 **속성**을 부여합니다.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ `style.css`탭을 클릭하여 웹페이지의 CSS Code를 수정하세요.
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![스크린샷](images/birthday-css-tab.png)
 
-+ Find this code:
++ 아래 Code를 찾으세요.
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+이 CSS Code는 문단을 의미하는 태그인 `p`의 텍스트 색깔을 검정색으로 지정하라는 것을 의미합니다. (미국에서 색깔은 'color'라고 합니다.)
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ 'black'을 'blue'로 바꿔 문단의 색깔을 파란색으로 바꿔 보세요. 모든 문단의 색깔이 파란색으로 바뀌는지 확인하시기 바랍니다.
 
-![screenshot](images/birthday-edit-css.png)
+![스크린샷](images/birthday-edit-css.png)
