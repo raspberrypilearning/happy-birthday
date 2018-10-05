@@ -6,4 +6,4 @@
 
 ### 소프트웨어
 
-이 프로젝트는 [trinket.io](https://trinket.io){:target="_blank"} 사이트로 완성할 수 있습니다.
+이 프로젝트는 [trinket.io](https://trinket.io){:target="_blank"} 사이트에서 완성할 수 있습니다.
