@@ -1,8 +1,8 @@
-## HTML이란?
+## HTML이란 무엇인가요?
 
 HTML은 **Hypertext Markup Language**의 약자로, 웹 페이지를 제작하는데 사용되는 프로그래밍 언어입니다. 예제를 보도록 하겠습니다!
 
-Trinket.io 서비스 또한 HTML Code로 작성되어 있어, 여러분이 열람할 수 있습니다.
+Trinket.io를 이용해서 HTML 코드를 작성할 수 있습니다.
 
 + [trinket 열기](http://jumpto.cc/web-intro){:target="_blank"}
 
