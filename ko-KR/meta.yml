@@ -5,7 +5,7 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, 디자인-1, 프로그래밍-0, 피지컬 컴퓨팅-0, 제조-0, 커뮤니티-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: 생일 축하해요
 description: 웹 페이지에서 온라인 생일 카드 만들기
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
