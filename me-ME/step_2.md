@@ -4,6 +4,6 @@
 
 + Računar sa pristupom sajtu [trinket.io](https://trinket.io){:target="_blank"}
 
-### Software
+### Softver
 
-Ovaj projekat može biti izrađen u veb-pregledaču, koristeći [trinket.io](https://trinket.io).
+Ovaj projekat može biti izrađen u veb-pregledaču, koristeći [trinket.io](https://trinket.io){:target="_blank"}.
