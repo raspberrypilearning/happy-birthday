@@ -1,27 +1,27 @@
-## What is CSS?
+## Hva er CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS står for **Cascading Style Sheets**, og det er et språk som brukes til å utforme nettsider og få dem til å se bra ut.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Denne koden kobler din nettside til en CSS-fil - se om du finner den i `<head>` av HTML-dokumentet:
 
-![screenshot](images/birthday-css-link.png)
+![skjermbilde](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS lister alle **egenskaper** for en bestemt tag.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ Klikk på `style.css` fanen for å se CSS-koden for websiden din.
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![skjermbilde](images/birthday-css-tab.png)
 
-+ Find this code:
++ Finn denne koden:
 
 ```html
 p {
-    color: black;
+    farge: svart;
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Denne CSS-koden bestemmer en egenskap for avsnitt (`s.`), som sier at tekstfargen skal være svart. Legg merke til den amerikanske stavemåten: 'farge'.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ Endre ordet "svart" i CSS-koden til "blå". Du bør se tekstfargen på alle avsnittene endres til blå.
 
-![screenshot](images/birthday-edit-css.png)
+![skjermbilde](images/birthday-edit-css.png)
