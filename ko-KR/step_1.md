@@ -22,4 +22,4 @@
 
 이 프로젝트를 프린트하고자 한다면, [프린트용 버전](https://projects.raspberrypi.org/ko-KR/projects/happy-birthday/print){:target="_blank"} 을 사용하십시오.
 
-아래에 있는 링크를 사용하여 Github 리포지토리에 들어가서, 'en/resources'에 들어가면 프로젝트에 관한 모든 참조자료(완성된 예시 프로젝트 포함) 를 열람할 수 있습니다.
+아래에 있는 링크를 사용하여 Github 리포지토리에 들어가서, 'ko-KR/resources'에 들어가면 프로젝트에 관한 모든 참조자료(완성된 예시 프로젝트 포함) 를 열람할 수 있습니다.
