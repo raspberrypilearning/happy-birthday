@@ -1,15 +1,15 @@
-\--- challenge \---
+\--- utfordring \---
 
-## Challenge: add another paragraph
+## Utfordring: Legg til et annet avsnitt
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- Kan du legge til et tredje avsnitt med tekst på nettsiden din, under de to andre?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+Husk at ditt nye avsnitt skal begynne med en `<p>` tag, og slutt med `</p>` taggen.
 
-Here's how your webpage might look:
+Slik ser websiden din ut:
 
-![screenshot](images/birthday-paragraph.png)
+![skjermbilde](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+Kan du legge til **fet** og <u>understreket</u> tekst til ditt nye avsnitt? Bruk `<u>` og `</u>` koder for understreket tekst.
 
-\--- /challenge \---
+\--- /utfordring \---
