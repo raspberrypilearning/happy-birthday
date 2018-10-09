@@ -1,17 +1,17 @@
-\--- challenge \---
+\--- utfordring \---
 
-## Challenge: create a personalised card
+## Utfordring: Lag et personlig kort
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ Bruk alt du har lært om HTML og CSS for å fullføre et personlig kort. Og det trenger ikke å være et bursdagskort, det kan være en til jul eller en annen anledning!
 
-Here's an example:
+Her er et eksempel:
 
-![screenshot](images/birthday-final.png)
+![skjermbilde](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Du finner flere CSS-fargenavn [her](http://jumpto.cc/colours){: target = "_ blank"}.
 
-+ Once you've finished your card, you can share or email it to someone.
++ Når du er ferdig med kortet ditt, kan du dele eller sende det til noen.
 
-![screenshot](images/birthday-share.png)
+![skjermbilde](images/birthday-share.png)
 
-\--- /challenge \---
+\--- /utfordring \---
