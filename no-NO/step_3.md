@@ -1,63 +1,63 @@
-## What is HTML?
+## Hva er HTML?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML står for **Hypertext Markup Language**, språket som brukes til å lage websider. La oss ta en titt på et eksempel!
 
-You'll be using a website called trinket.io to write HTML code.
+Du bruker et nettsted kalt trinket.io for å skrive HTML-kode.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Åpne [denne trinket](http://jumpto.cc/web-intro){: target = "_ blank"}.
 
-The project should look like this:
+Prosjektet skal se slik ut:
 
-![screenshot](images/birthday-starter.png)
+![skjermbilde](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+Koden som du kan se til venstre er HTML. På høyre side av pyntet kan du se nettsiden som HTML-koden har laget.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
-
-```html
-<p>Hi. My name is Andy.</p>
-```
-
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
-
-+ Can you spot any other tags?
-
-## \--- collapse \---
-
-## title: Answer
-
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+HTML bruker **koder** å bygge nettsider. Se etter denne HTML-koden på linje 8 i koden din:
 
 ```html
-<b>running</b>
+<p>Hei. Jeg heter Andy.</p>
 ```
 
-Here are some more:
+`<p>` er et eksempel på en tag, og er kort for **avsnitt**. Du kan starte et avsnitt med `<p>`, og avslutte et avsnitt med `</p>`.
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ Kan du se noen andre tagger?
 
-![screenshot](images/birthday-head-body.png)
+## \--- kollaps \---
 
-\--- /collapse \---
+## tittel: Svar
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
+En annen tag du kanskje har sett er `<b>`, som står for **fet**:
 
-![screenshot](images/birthday-edit-html.png)
+```html
+<b>kjører</b>
+```
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
+Her er noen flere:
 
-![screenshot](images/birthday-reset.png)
++ `<html>` og `</html>` markere start og slutt på HTML-dokumentet
++ `<head>` og `</head>` er der ting som CSS går (vi kommer til det senere)
++ `<body>` og `</body>` er hvor innholdet på nettstedet ditt går
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+![skjermbilde](images/birthday-head-body.png)
 
-### You don't need a Trinket account to save your projects!
+\--- / kollaps \---
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
++ Gjør en endring til et av avsnittene i teksten i HTML-filen (til venstre). Klikk **Kjør**, og du bør se endringen av nettsiden din (til høyre)!
 
-![screenshot](images/birthday-link.png)
+![skjermbilde](images/birthday-edit-html.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
++ Hvis du har gjort en feil og vil fortryde alle endringene dine, kan du klikke på **menyen** knappen og deretter klikke **Tilbakestill**.
 
-![screenshot](images/birthday-remix.png)
+![skjermbilde](images/birthday-reset.png)
+
+For å angre akkurat det siste du gjorde, kan du trykke på `Ctrl` og `z` taster sammen.
+
+### Du trenger ikke en Trinket-konto for å lagre prosjektene dine!
+
+Hvis du ikke har en Trinket-konto, klikker du **pilen** og deretter **Link**. Dette gir deg en link som du kan lagre og komme tilbake til senere. Du må gjøre dette hver gang du gjør endringer, da linken vil endres!
+
+![skjermbilde](images/birthday-link.png)
+
+Hvis du har en Trinket-konto, er den enkleste måten å lagre nettsiden din, å klikke på **Remix** knappen på toppen av trinket. Dette vil lagre en kopi av pyntegjenstander på profilen din.
+
+![skjermbilde](images/birthday-remix.png)
