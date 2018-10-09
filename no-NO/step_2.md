@@ -1,9 +1,9 @@
-## What you will need
+## Hva du trenger
 
-### Hardware
+### maskinvare
 
-+ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
++ En datamaskin som er i stand til å få tilgang til [trinket.io](https://trinket.io){: target = "_ blank"}
 
-### Software
+### programvare
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
+Dette prosjektet kan fullføres i en nettleser med [trinket.io](https://trinket.io){: target = "_ blank"}.
