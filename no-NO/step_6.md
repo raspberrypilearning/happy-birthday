@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- utfordring \---
 
-## Challenge: add more styles
+## Utfordring: Legg til flere stiler
 
-+ Can you make the paragraphs of text orange?
++ Kan du gjøre tekstens avsnitt oransje?
 
-+ Can you make the background grey by changing the `body` property?
++ Kan du lage bakgrunnen grå ved å endre `kropp` eiendom?
 
-![screenshot](images/birthday-more-style.png)
+![skjermbilde](images/birthday-more-style.png)
 
-\--- /challenge \---
+\--- /utfordring \---
