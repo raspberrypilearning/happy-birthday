@@ -1,48 +1,48 @@
-## Making a birthday card
+## Gjør et bursdagskort
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+La oss bruke det du har lært om HTML og CSS for å lage ditt eget tilpassede bursdagskort.
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Åpne [denne trinket](http://jumpto.cc/web-card){: target = "_ blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Vi har skrevet mye kode for å komme i gang, men bursdagskortet ser ganske kjedelig ut så langt, så du skal gjøre noen endringer i HTML- og CSS-koden.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Klikk på knappen på forsiden av kortet, og du bør se den åpen for å avsløre innsiden.
 
-![screenshot](images/birthday-click.png)
+![skjermbilde](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Gå til linje 14 i HTML-koden. Prøv å redigere teksten for å tilpasse kortet ditt.
 
-![screenshot](images/birthday-card-html.png)
+![skjermbilde](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Kan du finne HTML-koden for roboten bildet, og endre ordet `robot` til `sol`?
 
-\--- hints \--- \--- hint \---
+\--- tips \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Se på linje 17 for å finne koden.
++ Endre ordet `robot` til `sol`, og du vil se bildet endres!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![skjermbilde](images/birthday-card-sun.png) \--- / hint \--- \--- / hint \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Du kan bruke noen av ordene `gutt`, `diamant`, `dinosaur`, `blomster`, `jente`, `regnbue`, `robot`, `romskip`, `sol`, `te`eller `trofé` for et bursdagskort, eller `cracker`, `elve`, `pingvin`, `stede`, `reindeer`, `santa`eller `snømann` hvis du foretrekker å lage et julekort.
 
-You can also edit the CSS code of the birthday card.
+Du kan også redigere CSS-koden på bursdagskortet.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Klikk på fanen for `style.css`. Den første delen er alle CSS-stilene for de **utvendige** på kortet.
 
-+ Change the `background-color` to `lightgreen`.
++ Endre `bakgrunnsfargen` til `lysegrønn`.
 
-![screenshot](images/birthday-card-outside.png)
+![skjermbilde](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ Du kan også endre størrelsen på et bilde. Gå til `# outside-pic` CSS-koden, og endre `bredde` og `høyde` av utvendig bilde til `200px` (`px` står for piksler).
 
-![screenshot](images/birthday-card-size.png)
+![skjermbilde](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ Skriften kan endres også. Gå til `# utenfor tittelen` CSS og endre `font-familien` til `Comic Sans MS` og `skriftstørrelsen` til `16pt`.
 
-![screenshot](images/birthday-card-font.png)
+![skjermbilde](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Du kan bruke andre skrifter, for eksempel:
 
 + `<span style="font-family: Arial;">arial</span>`
-+ `<span style="font-family: impact;">Impact</span>`
++ `<span style="font-family: impact;">Påvirkning</span>`
 + `<span style="font-family: tahoma;">Tahoma</span>`
