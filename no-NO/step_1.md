@@ -2,7 +2,7 @@
 
 I dette prosjektet blir du introdusert til HTML og CSS ved å lære å lage ditt eget tilpassede bursdagskort.
 
-### Hva du vil gjøre
+### Hva du vil lage
 
 Klikk på knappen for å åpne bursdagskortet:
 
@@ -14,12 +14,12 @@ Klikk på knappen for å åpne bursdagskortet:
 
 ### Hva du vil lære
 
-Dette prosjektet dekker elementer fra følgende tråder av [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+Dette prosjektet dekker elementer fra følgende deler av [Raspberry Pi Digital Skaper Læreplan](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design grunnleggende 2D og 3D-eiendeler](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Utforme grunnleggende 2D og 3D eiendeler](https://www.raspberrypi.org/curriculum/design/creator) {:target="_blank"}.
 
 ### Tilleggsinformasjon for lærere
 
-Hvis du trenger å skrive ut dette prosjektet, bruk [utskriftsvennlig versjon](https://projects.raspberrypi.org/en/projects/happy-birthday/print){: target = "_ blank"}.
+Hvis du trenger å skrive ut dette prosjektet, bruk [utskriftsvennlig versjon](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"}.
 
-Bruk lenken i footer for å få tilgang til GitHub repo for dette prosjektet, som inneholder alle ressurser (inkludert et eksempel ferdig prosjekt) i mappen 'en / ressurser'.
+Bruk lenken i bunnteksten for å få tilgang til GitHub repo for dette prosjektet, som inneholder alle ressurser (inkludert et ferdig eksempel prosjekt) i mappen 'no/resources'.
