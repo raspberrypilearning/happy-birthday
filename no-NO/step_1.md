@@ -22,4 +22,4 @@ Dette prosjektet dekker elementer fra følgende deler av [Raspberry Pi Digital S
 
 Hvis du trenger å skrive ut dette prosjektet, bruk [utskriftsvennlig versjon](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"}.
 
-Bruk lenken i bunnteksten for å få tilgang til GitHub repo for dette prosjektet, som inneholder alle ressurser (inkludert et ferdig eksempel prosjekt) i mappen 'no/resources'.
+Bruk lenken i bunnteksten for å få tilgang til GitHub repo for dette prosjektet, som inneholder alle ressurser (inkludert et ferdig eksempel prosjekt) i mappen 'no-NO/resources'.
