@@ -2,8 +2,8 @@
 
 ### Maskinvare
 
-+ En datamaskin som er i stand til å få tilgang til [trinket.io](https://trinket.io){: target = "_ blank"}
++ En datamaskin med tilgang til [trinket.io](https://trinket.io){:target="_blank"}
 
-### programvare
+### Programvare
 
 Dette prosjektet kan fullføres i en nettleser med [trinket.io](https://trinket.io){:target="_blank"}.
