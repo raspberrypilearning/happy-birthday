@@ -10,7 +10,7 @@ Već smo napisali mnogo kôda za tebe, ali rođendanska čestitka za sada izgled
 
 ![screenshot](images/birthday-click.png)
 
-+ Idi na 14. red kôda. Pokušaj da urediš tekst čestitke prema sopstvenoj želji.
++ Idi na 14. red HTML kôda. Pokušaj da urediš tekst čestitke prema sopstvenoj želji.
 
 ![screenshot](images/birthday-card-html.png)
 
