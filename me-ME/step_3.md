@@ -46,7 +46,7 @@ Evo još nekoliko primjera:
 
 ![screenshot](images/birthday-edit-html.png)
 
-+ Ako napraviš grešku i želiš da poništiš sve svoje izmjene, možeš da klikneš na dugme **meni**, a zatim na **Reset**.
++ Ako napraviš grešku i želiš da poništiš sve svoje izmjene, možeš da klikneš na dugme **menu**, a zatim na **Reset**.
 
 ![screenshot](images/birthday-reset.png)
 
