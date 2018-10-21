@@ -4,7 +4,7 @@ Iskoristi svoje znanje o HTML-u i CSS-u da napraviš svoju sopstvenu rođendansk
 
 + Otvori [ovaj trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
-Već smo napisali mnogo kôda za tebe, ali rođendanska čestitka za sada izgleda prilično dosadno, pa ćeš zato napraviti neke izmjene u HTML i CSS kôdu.
+Već smo napisali mnogo kôda za tebe, ali rođendanska čestitka za sada izgleda prilično dosadno, pa ćeš zato napraviti neke izmjene u HTML kôdu i CSS kôdu.
 
 + Klikni na dugme na prednjoj strani čestitke i vidjećeš kako se otvara i pokazuje unutrašnju stranu.
 
