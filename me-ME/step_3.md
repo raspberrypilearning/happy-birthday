@@ -58,6 +58,6 @@ Ako nemaš Trinket nalog, klikni na strelicu **nadolje**, a zatim klikni na **Li
 
 ![screenshot](images/birthday-link.png)
 
-Ako imaš Trinket nalog, najlakši način da sačuvaš svoju veb-stranicu je da klikneš na dugme **Remix** koje se nalazi u gornjem dijelu Trinketa. Tako će kopija trinketa biti sačuvana na tvom profilu.
+Ako imaš Trinket nalog, najlakši način da sačuvaš svoju veb-stranicu je da klikneš na dugme **Remix** koje se nalazi u gornjem dijelu trinketa. Tako će kopija trinketa biti sačuvana na tvom profilu.
 
 ![screenshot](images/birthday-remix.png)
