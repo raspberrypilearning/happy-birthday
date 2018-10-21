@@ -1,12 +1,12 @@
 ## Izrada rođendanske čestitke
 
-Iskoristi svoje znanje o HTML-u i CSS-u da napraviš svoju sopstvenu rođendansku čestitiku.
+Iskoristi svoje znanje o HTML-u i CSS-u da napraviš svoju sopstvenu rođendansku čestitku.
 
 + Otvori [ovaj trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
 Već smo napisali mnogo kôda za tebe, ali rođendanska čestitka za sada izgleda prilično dosadno, pa ćeš zato napraviti neke izmjene u HTML kôdu i CSS kôdu.
 
-+ Klikni na dugme na prednjoj strani čestitke i vidjećeš kako se otvara i pokazuje unutrašnju stranu.
++ Klikni na dugme na prednjoj strani čestitke i vidjećeš kako se otvara i pokazuje se unutrašnja strana.
 
 ![screenshot](images/birthday-click.png)
 
@@ -14,7 +14,7 @@ Već smo napisali mnogo kôda za tebe, ali rođendanska čestitka za sada izgled
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Da li možeš da pronađeš HTML kôd za sliku robota i da promijeniš riječ `robot` u `sun`?
++ Možeš li da pronađeš HTML kôd za sliku robota i da promijeniš riječ `robot` u `sun`?
 
 \--- hints \--- \--- hint \---
 
