@@ -8,7 +8,7 @@ CSS je skraćenica za **Cascading Style Sheets** (Kaskadne liste stilova) i to j
 
 CSS navodi sva **svojstva** za pojedinu oznaku.
 
-+ Klikni na `style.css` karticu da pogledaš CSS kôd za svoju veb-stranicu.
++ Klikni na `style.css` karticu da vidiš CSS kôd za svoju veb-stranicu.
     
     ![screenshot](images/birthday-css-tab.png)
 
