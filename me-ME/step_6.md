@@ -4,7 +4,7 @@
 
 + Možeš li da napraviš da pasusi teksta budu narandžaste boje?
 
-+ Da li možeš da napraviš da pozadina bude siva, tako što ćeš izmijeniti svojstvo oznake `body`?
++ Možeš li da napraviš da pozadina bude siva, tako što ćeš izmijeniti svojstvo za `body`?
 
 ![screenshot](images/birthday-more-style.png)
 
