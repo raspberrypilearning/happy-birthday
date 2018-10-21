@@ -37,7 +37,7 @@ Možeš da izmijeniš i CSS kôd rođendanske čestitke.
 
 ![screenshot](images/birthday-card-size.png)
 
-+ Takođe se može promijeniti font. Idi na CSS `#outside-title` i promijeni `font-family` (tip fonta) u ` Comic Sans MS` i `font-size` (veličinu fonta) na `16pt`.
++ Takođe se može promijeniti font. Idi na CSS `#outside-title` i promijeni `font-family` (porodicu fontova) u ` Comic Sans MS` i `font-size` (veličinu fonta) na `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
