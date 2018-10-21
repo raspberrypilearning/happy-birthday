@@ -2,7 +2,7 @@
 
 ## Izazov: dodaj još jedan pasus
 
-- Da li možeš, ispod dva postojeća, da dodaš treći pasus teksta svojoj veb-stranici?
+- Da li možeš, ispod dva postojeća, da dodaš treći pasus teksta na svoju veb-stranicu?
 
 Ne zaboravi da tvoj novi pasus treba da počne oznakom `<p>` i da se završi oznakom `</p>`.
 
