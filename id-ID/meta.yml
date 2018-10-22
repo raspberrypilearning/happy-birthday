@@ -1,0 +1,35 @@
+---
+hero_image: images / happy-birthday.png
+theme: pirus
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, desain-1, pemrograman-0, phys-comp-0, manufacture-0, community-0
+title: Selamat ulang tahun
+description: Buat kartu ulang tahun online di halaman web
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+interests: seni
+technologies: html-css-javascript
+site_areas: proyek
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2017-01-01
+steps:
+  - 
+    title: pengantar
+  - 
+    title: Apa yang Anda butuhkan
+  - 
+    title: Apa itu HTML?
+  - 
+    title: 'Tantangan: tambahkan paragraf lain'
+  - 
+    title: Apa itu CSS?
+  - 
+    title: 'Tantangan: tambahkan lebih banyak gaya'
+  - 
+    title: Membuat kartu ulang tahun
+  - 
+    title: 'Tantangan: buat kartu yang dipersonalisasi'
