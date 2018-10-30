@@ -1,0 +1,27 @@
+---
+hero_image: images/happy-birthday.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Srećan rođendan
+description: Napravi online rođendansku čestitku na veb-stranici.
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2017-01-01
+steps:
+  - title: Uvod
+  - title: Šta će ti biti potrebno
+  - title: Šta je HTML?
+  - title: 'Izazov: dodaj još jedan pasus'
+  - title: Šta je CSS?
+  - title: 'Izazov: dodaj više stilova'
+  - title: Izrada rođendanske čestitke
+  - title: 'Izazov: napravi sopstvenu čestitku'
