@@ -1,0 +1,35 @@
+---
+hero_image: images / happy-birthday.png
+theme: türkiissinine
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, disain-1, programmeerimine-0, phys-comp-0, production-0, community-0
+title: Palju õnne sünnipäevaks
+description: Tehke veebisaidil sünnipäevakaart
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+interests: art
+technologies: html-css-javascript
+site_areas: projektid
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Sissejuhatus
+  - 
+    title: Mida peate
+  - 
+    title: Mis on HTML?
+  - 
+    title: 'Väljakutse: lisada teine ​​lõik'
+  - 
+    title: Mis on CSS?
+  - 
+    title: 'Väljakutse: lisage rohkem stiile'
+  - 
+    title: Sünnipäevakaardi tegemine
+  - 
+    title: 'Väljakutse: luua isikupärastatud kaart'
