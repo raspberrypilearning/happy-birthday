@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## Izazov: dodajte još jedan odlomak
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- Možete li dodati treći stavak teksta na svoju web stranicu, ispod dva druga?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+Zapamtite da vaš novi odlomak treba započeti oznakom `<p>`, a završava s ` </p>` označiti.
 
-Here's how your webpage might look:
+Evo kako bi vaša web-stranica mogla izgledati:
 
 ![screenshot](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+Možete li dodati **bold** i <u>underline</u> tekst na svoj novi odlomak? Koristite `<u>` i ` </u>` oznake za podcrtani tekst.
 
 \--- /challenge \---
