@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## Izazov: dodajte više stilova
 
-+ Can you make the paragraphs of text orange?
++ Možete li izraditi odlomke teksta narančaste?
 
-+ Can you make the background grey by changing the `body` property?
++ Možete li napraviti pozadinu sivom promjenom `body` svojstva?
 
 ![screenshot](images/birthday-more-style.png)
 
