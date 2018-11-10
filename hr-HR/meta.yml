@@ -1,6 +1,6 @@
 ---
 hero_image: images/happy-birthday.png
-theme: turquoise
+theme: tirkizna
 duration: 2
 listed: true
 ingredient: false
@@ -9,9 +9,9 @@ curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Sretan rođendan
 description: U ovom projektu upoznat ćemo se s HTML-om i CSS-om tako što ćemo izraditi rođendansku čestitku.
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
-interests: art
+interests: umjetnost
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projekti
 hardware: ''
 software: html-css-javascript
 version: 4
@@ -20,16 +20,16 @@ steps:
   - 
     title: Sretan rođendan
   - 
-    title: What you will need
+    title: Ono što će vam trebati
   - 
-    title: What is HTML?
+    title: Što je HTML?
   - 
-    title: 'Challenge: add another paragraph'
+    title: 'Izazov: dodajte još jedan odlomak'
   - 
-    title: What is CSS?
+    title: Što je CSS?
   - 
-    title: 'Challenge: add more styles'
+    title: 'Izazov: Dodavanje više stilova'
   - 
-    title: Making a birthday card
+    title: Izrada rođendanske čestitke
   - 
-    title: 'Challenge: create a personalised card'
+    title: 'Izazov: izradite personaliziranu karticu'
