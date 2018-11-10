@@ -1,47 +1,47 @@
-## Making a birthday card
+## Izrada rođendanske čestitke
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Koristimo ono što ste naučili o HTML-u i CSS-u kako biste napravili svoju vlastitu prilagođenu rođendansku čestitku.
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Otvorite [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Napisali smo puno koda da bismo mogli započeti, ali rođendanska kartica dosad je dosadno dosadna, pa ćete napraviti neke izmjene u HTML i CSS kodu.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Kliknite gumb na prednjoj strani kartice i vidjet ćete da je otvorena za otkrivanje iznutra.
 
 ![screenshot](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Idite na redak 14 HTML koda. Pokušajte uređivati ​​tekst kako biste prilagodili svoju karticu.
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Možete li pronaći HTML kôd za sliku robota i promijeniti riječ `robot` do `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Pogledajte liniju 17 da biste pronašli kôd.
++ Promijenite riječ `robot` do `sun`, i vidjet ćete promjenu slike!
 
 ![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Možete upotrijebiti bilo koju od riječi `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, ili `trophy` za rođendansku čestitku, ili `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, ili `snowman` ako želite izraditi božičnu čestitku.
 
-You can also edit the CSS code of the birthday card.
+Također možete urediti CSS kôd rođendanske čestitke.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Kliknite karticu za `style.css`, Prvi dio su svi CSS stilovi za **outside** kartice.
 
-+ Change the `background-color` to `lightgreen`.
++ Promijenite `background-color` u `lightgreen`.
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ Također možete promijeniti veličinu slike. Idite na `#vanjsku-pic` CSS koda i promijenite `width` i `height` vanjske slike na `200px` (`px` označava piksele).
 
 ![screenshot](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ Font se može promijeniti. Idite na `#outside-title` CSS i promijenite ` font-family` do `Comic Sans MS` i `font-size` na `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Možete koristiti druge fontove, na primjer:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
