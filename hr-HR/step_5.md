@@ -1,18 +1,18 @@
-## What is CSS?
+## Što je CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS označava **Cascading Style Sheets**, a to je jezik koji se upotrebljava za izradu web stranica i izgleda lijepo.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Ovaj kôd povezuje vašu web stranicu s CSS datotekom - pogledajte možete li ga pronaći u `<head>` HTML dokumenta:
 
 ![screenshot](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS navodi sve **properties** za određenu oznaku.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ Kliknite na `style.css` da biste vidjeli CSS kôd za svoju web stranicu.
     
     ![screenshot](images/birthday-css-tab.png)
 
-+ Find this code:
++ Pronađite ovaj kôd:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Ovaj CSS kôd određuje entitet za stavke (`p`), koji kaže da boja teksta mora biti crna. Obavijestite američki pravopis: "boja".
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ Promijenite riječ "crno" u CSS kodu na "plavo". Trebali biste vidjeti boju teksta svih odlomaka u plavoj boji.
 
 ![screenshot](images/birthday-edit-css.png)
