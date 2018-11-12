@@ -127,7 +127,7 @@ var self = window.StyleFix = {
 		// Umetnuti stilski listovi
 		$('style').forEach(StyleFix.styleElement);
 		
-		// Inline styles
+		// Inline stilovi
 		$('[style]').forEach(StyleFix.styleAttribute);
 	},
 	
@@ -154,7 +154,7 @@ var self = window.StyleFix = {
 };
 
 /**************************************
- * Process styles
+ * Stilovi procesa
  **************************************/
 (function(){
 	setTimeout(function(){
