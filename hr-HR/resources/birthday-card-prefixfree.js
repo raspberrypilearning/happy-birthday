@@ -43,14 +43,14 @@ var self = window.StyleFix = {
 				if(css && link.parentNode && (!xhr.status || xhr.status < 400 || xhr.status > 600)) {
 					css = self.fix(css, true, link);
 					
-					// Convert relative URLs to absolute, if needed
+					// Pretvaranje relativnih URL-ova na apsolutnu, ako je potrebno
 					if(base) {
 						css = css.replace(/url\(\s*?((?:"|')?)(.+?)\1\s*?\)/gi, function($0, quote, url) {
 							if(/^([a-z]{3,10}:|#)/i.test(url)) { // Absolute & or hash-relative
 								return $0;
 							}
 							else if(/^\/\//.test(url)) { // Scheme-relative
-								// May contain sequences like /../ and /./ but those DO work
+								// Može sadržavati sekvence poput /../ i /./, ali one ne funkcioniraju
 								return 'url("' + base_scheme + url + '")';
 							}
 							else if(/^\//.test(url)) { // Domain-relative
@@ -65,7 +65,7 @@ var self = window.StyleFix = {
 							}
 						});
 
-						// behavior URLs shoudn’t be converted (Issue #19)
+						// ponašanje URL-ova ne treba pretvoriti (Izdanje # 19)
 						// base should be escaped before added to RegExp (Issue #81)
 						var escaped_base = base.replace(/([\\\^\$*+[\]?{}.=!:(|)])/g,"\\$1");
 						css = css.replace(RegExp('\\b(behavior:\\s*?url\\(\'?"?)' + escaped_base, 'gi'), '$1');
@@ -80,7 +80,7 @@ var self = window.StyleFix = {
 					parent.insertBefore(style, link);
 					parent.removeChild(link);
 					
-					style.media = link.media; // Duplicate is intentional. See issue #31
+					style.media = link.media; Duplikat je namjeran. Pogledajte izdanje # 31
 				}
 		};
 
@@ -88,7 +88,7 @@ var self = window.StyleFix = {
 			xhr.open('GET', url);
 			xhr.send(null);
 		} catch (e) {
-			// Fallback to XDomainRequest if available
+			// Povratak na XDomainRequest ako je dostupan
 			if (typeof XDomainRequest != "undefined") {
 				xhr = new XDomainRequest();
 				xhr.onerror = xhr.onprogress = function() {};
@@ -121,10 +121,10 @@ var self = window.StyleFix = {
 	},
 	
 	process: function() {
-		// Linked stylesheets
+		// Povezani stilski listovi
 		$('link[rel="stylesheet"]:not([data-inprogress])').forEach(StyleFix.link);
 		
-		// Inline stylesheets
+		// Umetnuti stilski listovi
 		$('style').forEach(StyleFix.styleElement);
 		
 		// Inline styles
