@@ -2,7 +2,7 @@
 
 ## Utfordring: Lag et personlig kort
 
-+ Bruk alt du har lært om HTML og CSS for å fullføre et personlig kort. Og det trenger ikke å være et bursdagskort, det kan være en til jul eller en annen anledning!
++ Bruk alt du har lært om HTML og CSS for å lage ferdig et personlig kort. Det trenger ikke å være et bursdagskort, det kan være kort til jul eller til annen anledning!
 
 Her er et eksempel:
 
