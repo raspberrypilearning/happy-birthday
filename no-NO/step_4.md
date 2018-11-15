@@ -4,7 +4,7 @@
 
 - Kan du legge til et tredje avsnitt med tekst på nettsiden din, under de to andre?
 
-Husk at ditt nye avsnitt skal begynne med en `<p>` tag, og slutt med `</p>` taggen.
+Husk at ditt nye avsnitt skal begynne med en `<p>` kode, og slutte med `</p>` koden.
 
 Slik ser websiden din ut:
 
