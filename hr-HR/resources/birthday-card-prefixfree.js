@@ -296,7 +296,7 @@ var self = window.PrefixFree = {
 		return StyleFix.camelCase(property) in dummy;
 	}
 	
-	// Some browsers have numerical indices for the properties, some don't
+	// Neki preglednici imaju numeričke indekse za svojstva, neki ne
 	if(style.length > 0) {
 		for(var i=0; i<style.length; i++) {
 			iterate(style[i])
@@ -308,7 +308,7 @@ var self = window.PrefixFree = {
 		}
 	}
 
-	// Find most frequently used prefix
+	// Pronađite najčešće korišteni prefiks
 	var highest = {uses:0};
 	for(var prefix in prefixes) {
 		var uses = prefixes[prefix];
@@ -323,7 +323,7 @@ var self = window.PrefixFree = {
 	
 	self.properties = [];
 
-	// Get properties ONLY supported with a prefix
+	// Nabavite samo svojstva podržana prefiksom
 	for(var i=0; i<properties.length; i++) {
 		var property = properties[i];
 		
@@ -336,7 +336,7 @@ var self = window.PrefixFree = {
 		}
 	}
 	
-	// IE fix
+	// IE ispravak
 	if(self.Prefix == 'Ms' 
 	  && !('transform' in dummy) 
 	  && !('MsTransform' in dummy) 
@@ -348,10 +348,10 @@ var self = window.PrefixFree = {
 })();
 
 /**************************************
- * Values
+ * Vrijednosti
  **************************************/
 (function() {
-// Values that might need prefixing
+// Vrijednosti koje možda trebaju prefiksiranje
 var functions = {
 	'linear-gradient': {
 		property: 'backgroundImage',
@@ -377,8 +377,8 @@ functions['repeating-radial-gradient'] =
 functions['radial-gradient'] =
 functions['linear-gradient'];
 
-// Note: The properties assigned are just to *test* support. 
-// The keywords will be prefixed everywhere.
+// Napomena: Dodijeljene svojstva su samo za * test * podršku. 
+// Ključne riječi bit će prefiksane posvuda.
 var keywords = {
 	'initial': 'color',
 	'zoom-in': 'cursor',
@@ -415,7 +415,7 @@ for (var func in functions) {
 	
 	if (!supported(value, property)
 	  && supported(self.prefix + value, property)) {
-		// It's supported, but with a prefix
+		// Podržano je, ali s prefiksom
 		self.functions.push(func);
 	}
 }
@@ -425,7 +425,7 @@ for (var keyword in keywords) {
 
 	if (!supported(keyword, property)
 	  && supported(self.prefix + keyword, property)) {
-		// It's supported, but with a prefix
+		// Podržano je, ali s prefiksom
 		self.keywords.push(keyword);
 	}
 }
@@ -433,7 +433,7 @@ for (var keyword in keywords) {
 })();
 
 /**************************************
- * Selectors and @-rules
+ * Birači i @-pravila
  **************************************/
 (function() {
 
