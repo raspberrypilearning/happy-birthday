@@ -179,7 +179,7 @@ if(!window.StyleFix || !window.getComputedStyle) {
 	return;
 }
 
-// Private helper
+// Privatni pomagač
 function fix(what, before, after, replacement, css) {
 	what = self[what];
 	
@@ -246,12 +246,12 @@ var self = window.PrefixFree = {
 		return value;
 	},
 	
-	// Warning: Prefixes no matter what, even if the selector is supported prefix-less
+	// Upozorenje: Prefiks bez obzira na to, čak i ako je selektor podržan bez prefiksa
 	prefixSelector: function(selector) {
 		return selector.replace(/^:{1,2}/, function($0) { return $0 + self.prefix })
 	},
 	
-	// Warning: Prefixes no matter what, even if the property is supported prefix-less
+	// Upozorenje: Prefiks bez obzira na to, čak i ako je selektor podržan bez prefiksa
 	prefixProperty: function(property, camelCase) {
 		var prefixed = self.prefix + property;
 		
@@ -260,7 +260,7 @@ var self = window.PrefixFree = {
 };
 
 /**************************************
- * Properties
+ * Postavke
  **************************************/
 (function() {
 	var prefixes = {},
@@ -269,7 +269,7 @@ var self = window.PrefixFree = {
 		style = getComputedStyle(document.documentElement, null),
 		dummy = document.createElement('div').style;
 	
-	// Why are we doing this instead of iterating over properties in a .style object? Cause Webkit won't iterate over those.
+	// Zašto to radimo umjesto da ponavljamo na svojstvima u .style objektu? Zato što se Webkit neće ponavljati.
 	var iterate = function(property) {
 		if(property.charAt(0) === '-') {
 			properties.push(property);
@@ -280,7 +280,7 @@ var self = window.PrefixFree = {
 			// Count prefix uses
 			prefixes[prefix] = ++prefixes[prefix] || 1;
 			
-			// This helps determining shorthands
+			// Ovo pomaže u određivanju skraćivanja
 			while(parts.length > 3) {
 				parts.pop();
 				
