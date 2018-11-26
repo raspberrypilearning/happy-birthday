@@ -482,13 +482,13 @@ root.removeChild(style);
 
 })();
 
-// Properties that accept properties as their value
+// Svojstva koja prihvaćaju svojstva kao svoju vrijednost
 self.valueProperties = [
 	'transition',
 	'transition-property'
 ]
 
-// Add class for current prefix
+// Dodajte klasu za trenutni prefiks
 root.className += ' ' + self.prefix;
 
 StyleFix.register(self.prefixCSS);
