@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- kihívás \---
 
-## Challenge: add more styles
+## Kihívás: több stílus hozzáadása
 
-+ Can you make the paragraphs of text orange?
++ Tudod a narancssárga bekezdések szövegét csinálni?
 
-+ Can you make the background grey by changing the `body` property?
++ Megváltoztathatja a háttér szürkét a `test` tulajdonság megváltoztatásával?
 
 ![screenshot](images/birthday-more-style.png)
 
-\--- /challenge \---
+\--- / kihívás \---
