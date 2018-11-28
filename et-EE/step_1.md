@@ -2,7 +2,7 @@
 
 Selles projektis tutvustatakse sulle omaenda isikupärase sünnipäevakaardi valmistamise õpetamise kaudu HTML-i ja CSS-i.
 
-### Mida sa tegema hakkad
+### Mida sa teed
 
 Sünnipäevakaardi avamiseks klõpsake nupul:
 
@@ -22,4 +22,4 @@ Selles projektis käsitletakse [Raspberry Pi digitaalse tegemise õppekava](http
 
 Kui teil on vaja see projekt välja printida, siis kasutage [printerisõbralikku versiooni](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"}.
 
-Kasutage jalusesse viidet, et pääseda GitHub repo-le selle projekti jaoks, mis sisaldab kõiki ressursse (kaasa arvatud valmisprojekt) kataloogis en / resources.
+Kasutage linki jaluses, et pääseda ligi selle projekti GitHub varamule, mis sisaldab kõiki ressursse (kaasa arvatud valmisprojekti näidist) 'est/resources' kaustas.
