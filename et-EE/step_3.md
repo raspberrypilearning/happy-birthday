@@ -1,8 +1,8 @@
 ## Mis on HTML?
 
-HTML tähistab **hüperteksti märgistuskeelt**, veebilehtede loomiseks kasutatavat keelt. Vaatame eeskuju!
+HTML tähistab **hüperteksti märgistuskeelt**, veebilehtede loomiseks kasutatavat keelt. Vaatame näidet!
 
-HTML-koodi kirjutamiseks kasutate veebisaiti trinket.io.
+HTML-koodi kirjutamiseks hakkad kasutama veebisaiti trinket.io.
 
 + Avage [see nipsutaja](http://jumpto.cc/web-intro){: target = "_ blank"}.
 
