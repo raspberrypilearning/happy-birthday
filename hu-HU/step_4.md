@@ -1,15 +1,15 @@
-\--- challenge \---
+\--- kihívás \---
 
-## Challenge: add another paragraph
+## Kihívás: adj hozzá egy másik bekezdést
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- Hozzáadhat egy harmadik szöveget a weboldalához, a másik kettő alatt?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+Ne feledje, hogy az új bekezdésnek `<p>` címkével kell kezdődnie, és végül `</p>` címkével kell végződnie.
 
-Here's how your webpage might look:
+Így néz ki a weblapod:
 
 ![screenshot](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+Felvehetsz **félkövér** és <u>aláhúzott</u> szöveget az új bekezdésre? Használjon `<u>` és `</u>` címkét az aláhúzott szöveg számára.
 
-\--- /challenge \---
+\--- / kihívás \---
