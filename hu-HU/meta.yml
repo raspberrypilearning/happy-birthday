@@ -5,11 +5,11 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programozás-0, fiz-comp-0, gyártás-0, community-0
+curriculum: 1, tervezés-1, programozás-0, fiz-comp-0, gyártás-0, közösség-0
 title: Boldog születésnapot
 description: Készítsen online születésnapi kártyát egy weboldalon
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
-interests: Művészet
+interests: művészet
 technologies: html-css-javascript
 site_areas: projektek
 hardware: ''
