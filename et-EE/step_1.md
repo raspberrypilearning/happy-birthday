@@ -14,12 +14,12 @@ Sünnipäevakaardi avamiseks klõpsake nupul:
 
 ### Mida sa õpid
 
-See projekt hõlmab elemente, mis koosnevad järgmistest [Rasvapuu Pi digitaalsete õppekavade](http://rpf.io/curriculum){: target = "_ blank"} järgmistest osadest:
+Selles projektis käsitletakse [Raspberry Pi digitaalse tegemise õppekava](http://rpf.io/curriculum){:target="_blank"} järgmisi valdkondi:
 
-+ [Disaini põhilised 2D ja 3D varad](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Disaini põhilisi 2D- ja 3D-varasid](https://www.raspberrypi.org/curriculum/design/creator){: target="_blank"}.
 
-### Täiendav teave õpetajate jaoks
+### Lisainfo õpetajatele
 
-Kui teil on vaja printida selle projekti, siis kasutage [Printerisõbralik versioon](https://projects.raspberrypi.org/en/projects/happy-birthday/print){: target = "_ blank"}.
+Kui teil on vaja see projekt välja printida, siis kasutage [printerisõbralikku versiooni](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"}.
 
 Kasutage jalusesse viidet, et pääseda GitHub repo-le selle projekti jaoks, mis sisaldab kõiki ressursse (kaasa arvatud valmisprojekt) kataloogis en / resources.
