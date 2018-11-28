@@ -12,29 +12,29 @@ Projekt peaks välja nägema selline:
 
 Kood, mida näed vasakul, on HTML. Trinkletist paremal näed HTML-koodi tehtud veebisaiti.
 
-HTML kasutab veebilehtede loomiseks **silte** . Otsige oma koodi rida 8 selle HTML-koodi:
+HTML kasutab veebisaitide loomiseks **silte**. Otsi seda HTML-koodi oma koodi 8. realt:
 
 ```html
-<p>Hi. Minu nimi on Andy.</p>
+<p>Hei. Minu nimi on Andy.</p>
 ```
 
-`<p>` on märgi näidis ja see on lühike **lõike**. Võite alustada lõiguga `<p>`ja lõpeb lõige `</p>`.
+`<p>` on sildi näidis ja see on **lõigu** lühend. Sinu lõigu alguses võib olla `<p>` ja lõpus `</p>`.
 
-+ Kas saate märki mis tahes muude siltide jaoks?
++ Kas märkad muid silte?
 
-## \--- kokkuvarisemine \---
+## \--- collapse \---
 
-## pealkiri: Vastus
+## title: Vastus
 
-Võimalik, et mõni muu silt on märganud, on `<b>`, mis tähistab **paksuselt**:
+Võimalik, et üks teine sinu poolt märgatud silt on `<b>`, mis tähistab **paksu**:
 
 ```html
-<b>töötab</b>
+<b>käivitamine</b>
 ```
 
-Siin on mõned veel:
+Siin on veel mõned:
 
-+ `<html>` ja `</html>` märkida HTML-dokumendi algus ja lõpp
++ `<html>` ja `</html>` märgivad HTML-dokumendi algust ja lõppu
 + `<head>` ja `</head>` on asjad nagu CSS (läheme sellele hiljem)
 + `<body>` ja `</body>` on koht, kus teie veebisaidi sisu läheb
 
