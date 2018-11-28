@@ -2,8 +2,8 @@
 
 ### Riistvara
 
-+ Arvuti, millel on juurdepääs [trinket.io](https://trinket.io){: target = "_ blank"}
++ Arvuti, millel on juurdepääs veebisaidile [trinket.io](https://trinket.io){:target="_blank"}
 
 ### Tarkvara
 
-Seda projekti saab täita veebibrauseris, kasutades [trinket.io](https://trinket.io){: target = "_ blank"}.
+Selle projekti saab täide viia veebibrauseris, kasutades saiti [trinket.io](https://trinket.io){:target="_blank"}.
