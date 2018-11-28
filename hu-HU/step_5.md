@@ -1,27 +1,27 @@
-## What is CSS?
+## Mi a CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+A CSS a **Cascading Style Sheets**jelöli, és ez egy olyan nyelv, amely a weblapok stílusát és szép megjelenését teszi lehetővé.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Ez a kód az Ön weboldalát egy CSS-fájlba köti össze - nézze meg, találja-e azt a HTML-dokumentum `<head>`:
 
 ![screenshot](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+A CSS felsorolja az adott címke összes **tulajdonságát**.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ Kattintson a `style.css` lapra a weboldal CSS kódjának megtekintéséhez.
     
     ![screenshot](images/birthday-css-tab.png)
 
-+ Find this code:
++ Keresse meg ezt a kódot:
 
 ```html
 p {
-    color: black;
+    szín: fekete;
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Ez a CSS kód határozza meg a (`p`) bekezdésekhez tartozó tulajdonságot, amely szerint a szöveg színe fekete lesz. Figyeld meg az amerikai helyesírást: "szín".
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ Módosítsa a CSS kód "fekete" kifejezését a "kék" kifejezésre. Meg kell látni, hogy a szövegek színe minden kékre változik.
 
 ![screenshot](images/birthday-edit-css.png)
