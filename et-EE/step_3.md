@@ -58,6 +58,6 @@ Kui sul pole Trinketi kontot, klõpsa noolel **alla** ja seejärel **Lingil**. S
 
 ![screenshot](images/birthday-link.png)
 
-Kui teil on Trinketi konto, on veebisaidi salvestamiseks kõige lihtsam valik klikkida nööri ülaosas nupul **Remix** . See salvestab teie profiili nippe koopia.
+Kui sul on Trinketi konto, on lihtsaim variant veebisait salvestada trinketi ülaosas oleval nupul **Remix** klõpsamine. See salvestab trinketi koopia sinu profiilil.
 
-![ekraanipilt](images/birthday-remix.png)
+![screenshot](images/birthday-remix.png)
