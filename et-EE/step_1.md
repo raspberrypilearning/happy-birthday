@@ -1,8 +1,8 @@
 ## Sissejuhatus
 
-Selles projektis tutvustatakse teile HTML-i ja CSS-i, õppides, kuidas luua oma kohandatud sünnipäevakaarti.
+Selles projektis tutvustatakse sulle omaenda isikupärase sünnipäevakaardi valmistamise õpetamise kaudu HTML-i ja CSS-i.
 
-### Mida sa teed
+### Mida sa tegema hakkad
 
 Sünnipäevakaardi avamiseks klõpsake nupul:
 
