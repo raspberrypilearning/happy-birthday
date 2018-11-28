@@ -34,29 +34,29 @@ Võimalik, et üks teine sinu poolt märgatud silt on `<b>`, mis tähistab **pak
 
 Siin on veel mõned:
 
-+ `<html>` ja `</html>` märgivad HTML-dokumendi algust ja lõppu
-+ `<head>` ja `</head>` on asjad nagu CSS (läheme sellele hiljem)
-+ `<body>` ja `</body>` on koht, kus teie veebisaidi sisu läheb
++ `<html>` ja `</html>` märgib HTML-dokumendi algust ja lõppu
++ `<head>` ja `</head>` on koht, kuhu lähevad CSS-i laadsed keeled (jõuame selleni hiljem)
++ `<body>` ja `</body>` on koht, kuhu läheb sinu veebisaidi sisu
 
-![ekraanipilt](images/birthday-head-body.png)
+![screenshot](images/birthday-head-body.png)
 
-\--- / kollaps \---
+\--- /collapse \---
 
-+ Muutke HTML-faili teksti mõnda lõikesse (vasakul). Klõpsake nupul **Run**ja peate nägema oma veebilehe muudatust (paremal)!
++ Muuda HTML-faili teksti mõnda lõiku (vasakul). Klõpsa nupul **Käivita**ja peaksid nägema oma veebilehe muutumist (paremal)!
 
-![ekraanipilt](images/birthday-edit-html.png)
+![screenshot](images/birthday-edit-html.png)
 
-+ Kui olete teinud vea ja soovite kõik muudatused tühistada, võite klõpsata nupul **menüü** ja seejärel nupul **Reset**.
++ Kui oled teinud vea ja soovid kõik muudatused tühistada, võid klõpsata nupul **menüü** ja seejärel nupul **Lähtesta**.
 
-![ekraanipilt](images/birthday-reset.png)
+![screenshot](images/birthday-reset.png)
 
-Viimase asjana tühistamiseks võite kokku vajutada `Ctrl` ja `z` klahvi.
+Viimasena tehtu tühistamiseks võid koos vajutada `Ctrl` ja `z` klahve.
 
-### Teie projektide salvestamiseks ei ole vaja Trinketi kontot!
+### Sinu projektide salvestamiseks ei ole vaja Trinketi kontot!
 
-Kui teil pole Trinketi kontot, klõpsake noolel **all** ja seejärel **lingil**. See annab teile lingi, mida saate salvestada ja hiljem tagasi tulla. Peate seda tegema iga kord, kui teete muudatusi, kuna link muutub!
+Kui sul pole Trinketi kontot, klõpsa noolel **alla** ja seejärel **Lingil**. See annab sulle lingi, mille saad salvestada ja hiljem selle juurde tagasi tulla. Pead seda tegema iga kord, kui teed muudatusi, kuna link muutub!
 
-![ekraanipilt](images/birthday-link.png)
+![screenshot](images/birthday-link.png)
 
 Kui teil on Trinketi konto, on veebisaidi salvestamiseks kõige lihtsam valik klikkida nööri ülaosas nupul **Remix** . See salvestab teie profiili nippe koopia.
 
