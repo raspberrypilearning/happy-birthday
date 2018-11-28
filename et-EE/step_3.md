@@ -4,13 +4,13 @@ HTML tähistab **hüperteksti märgistuskeelt**, veebilehtede loomiseks kasutata
 
 HTML-koodi kirjutamiseks hakkad kasutama veebisaiti trinket.io.
 
-+ Avage [see nipsutaja](http://jumpto.cc/web-intro){: target = "_ blank"}.
++ Ava [see trinket](http://jumpto.cc/web-intro){:target ="_blank"}.
 
-Projekt peaks olema selline:
+Projekt peaks välja nägema selline:
 
-![ekraanipilt](images/birthday-starter.png)
+![screenshot](images/birthday-starter.png)
 
-Kood, mille näete vasakul, on HTML. Prinki paremal näete HTML-koodi tehtud veebilehte.
+Kood, mida näed vasakul, on HTML. Trinkletist paremal näed HTML-koodi tehtud veebisaiti.
 
 HTML kasutab veebilehtede loomiseks **silte** . Otsige oma koodi rida 8 selle HTML-koodi:
 
