@@ -1,63 +1,63 @@
-## What is HTML?
+## Mi a HTML?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+A HTML a **Hypertext Markup Language**nyelvet jelenti, a weboldalak elkészítéséhez használt nyelvet. Nézzünk egy példát!
 
-You'll be using a website called trinket.io to write HTML code.
+A HTML-kód megírásához egy trinket.io nevű webhelyet használsz.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Nyisd meg [ez a trinket](http://jumpto.cc/web-intro){: target = "_ blank"}.
 
-The project should look like this:
+A projektnek így kell kinéznie:
 
 ![screenshot](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+A bal oldalon látható kód a HTML. A csecsebecsék jobb oldalán láthatja a HTML kód által létrehozott weboldalt.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
-
-```html
-<p>Hi. My name is Andy.</p>
-```
-
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
-
-+ Can you spot any other tags?
-
-## \--- collapse \---
-
-## title: Answer
-
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+A HTML **címkéket használ** weboldalak készítéséhez. Keresse meg ezt a HTML-kódot a kódjának 8. sorában:
 
 ```html
-<b>running</b>
+<p>Hi. A nevem Andy.</p>
 ```
 
-Here are some more:
+`<p>` egy címke egy példája, és rövid a ****bekezdéshez. Elindíthat egy bekezdést `<p>`, és egy bekezdést befejezhet `</p>`.
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ Le tudsz találni más címkéket?
+
+## \--- összeomlás \---
+
+## cím: Válasz
+
+Egy másik címke, amelyet észrevettél, `<b>`, azaz **vastag**:
+
+```html
+<b>futás</b>
+```
+
+Íme néhány:
+
++ `<html>` és `</html>` jelölje meg a HTML dokumentum kezdetét és végét
++ `<head>` és `</head>` ahol a CSS, mint a CSS megy (később meglátjuk)
++ `<body>` és `</body>` ahol a webhely tartalmai megyek
 
 ![screenshot](images/birthday-head-body.png)
 
-\--- /collapse \---
+\--- / összeomlás \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ Módosítsa a HTML fájlban található szövegrészek valamelyikét (a bal oldalon). Kattintson a ****futtatásra, és látnia kell a weboldal módosítását (a jobb oldalon)!
 
 ![screenshot](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ Ha hibát vétettél, és visszavonni szeretnéd az összes módosítást, akkor kattints a **menü** gombra, majd kattints a **Reset**gombra.
 
 ![screenshot](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+A legutolsó dolog visszavonásához nyomja meg a `Ctrl` és `z` billentyűt.
 
-### You don't need a Trinket account to save your projects!
+### Nem kell Trinket fiókkal menteni a projekteket!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Ha nincs csecsebecsét fiókkal, kattintson a **lefelé** nyílra, majd kattintson a **link**. Ez egy olyan linket ad Önnek, amelyet menthet és később visszatérhet. Mindig ezt meg kell tennie, amikor módosítja a változtatásokat, ahogy a link megváltozik!
 
 ![screenshot](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+Ha van Trinket-fiókod, akkor a weboldal mentésének legegyszerűbb módja, ha kattints a **Remix** gombra a csecsebecse tetején. Ezzel menteni fogja a csecsebecsék egy példányát a profilodon.
 
 ![screenshot](images/birthday-remix.png)
