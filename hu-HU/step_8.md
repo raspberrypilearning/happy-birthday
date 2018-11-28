@@ -1,17 +1,17 @@
-\--- challenge \---
+\--- kihívás \---
 
-## Challenge: create a personalised card
+## Kihívás: személyre szabott kártya létrehozása
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ Használjon mindent, amit megtudott a HTML-ről és a CSS-ről, hogy befejezze a személyre szabott kártyát. És nem kell születésnapi kártya, de karácsonyra vagy más alkalomra lehetne.
 
-Here's an example:
+Íme egy példa:
 
 ![screenshot](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Megtalálható több CSS színneveket [itt](http://jumpto.cc/colours){: target = "_ blank"}.
 
-+ Once you've finished your card, you can share or email it to someone.
++ Miután befejezte kártyáját, oszthat meg vagy küldhet e-mailt valakinek.
 
 ![screenshot](images/birthday-share.png)
 
-\--- /challenge \---
+\--- / kihívás \---
