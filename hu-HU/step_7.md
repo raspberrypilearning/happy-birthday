@@ -1,48 +1,48 @@
-## Making a birthday card
+## Születésnapi kártya készítése
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Használjuk azt, amit a HTML-ről és a CSS-ről hallott, hogy saját egyéni születésnapi kártyát készítsen.
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Nyisd meg [ez a trinket](http://jumpto.cc/web-card){: target = "_ blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Számos kódot írtunk, hogy elinduljon, de a születésnapi kártya eddig elég unalmasnak tűnik, ezért változtatni fog a HTML és a CSS kódon.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Kattints a kártya elején lévő gombra, és nyitottnak kell lenni ahhoz, hogy feltárja a belsejét.
 
 ![screenshot](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Menjen a HTML kód 14. sorára. Próbálja meg szerkeszteni a szöveget a kártya testreszabásához.
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Megtalálhatja a robot kép HTML kódját, és megváltoztathatja a `szó robotját` től ``napra?
 
-\--- hints \--- \--- hint \---
+\--- tippek \--- \--- tipp \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ A 17. sorban keresd meg a kódot.
++ Változtatni a szót `robot` , hogy `nap`, és meglátja a képet változás!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png) \--- / tipp \--- \--- / tippek \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Használhatja bármelyik szót `fiú`, `gyémánt`, `dinoszaurusz`, `virág`, `lány`, `szivárvány`, `robot`, `űrhajó`, `nap`, `tea`vagy `trófea` egy születésnapi kártya, vagy `cracker`, `elf`, `pingvin`, `jelen`, `rénszarvas`, `szent`vagy `hóember` ha szeretné, hogy egy karácsonyi kártyát.
 
-You can also edit the CSS code of the birthday card.
+Szintén szerkesztheti a születésnapi kártya CSS kódját.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Kattintson a `style.css`lapra. Az első rész az összes CSS-stílus a kártya **külső**.
 
-+ Change the `background-color` to `lightgreen`.
++ Módosítsa a `háttérszínt` - `világoszöld`.
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ A kép méretét is megváltoztathatja. Menj a `# kívül-pic` CSS kódot, és változtassa meg a `szélesség` és `magassága` A külső kép a `200px` (`px` jelentése pixel).
 
 ![screenshot](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ A betűtípus is megváltoztatható. Menj a `# kívüli-cím` CSS és módosítsa a `font-family` a `Comic Sans MS` , és a `font-size` a `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Használhat más betűtípusokat, például:
 
 + `<span style="font-family: Arial;">arial</span>`
-+ `<span style="font-family: impact;">Impact</span>`
++ `<span style="font-family: impact;">Hatása</span>`
 + `<span style="font-family: tahoma;">Tahoma</span>`
