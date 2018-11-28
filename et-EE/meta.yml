@@ -11,7 +11,7 @@ description: Tehke veebisaidil sünnipäevakaart
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
 interests: art
 technologies: html-css-javascript
-site_areas: projektid
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 4
@@ -20,15 +20,15 @@ steps:
   - 
     title: Sissejuhatus
   - 
-    title: Mida peate
+    title: Mida sul vaja on
   - 
     title: Mis on HTML?
   - 
-    title: 'Väljakutse: lisada teine ​​lõik'
+    title: 'Väljakutse: lisa teine ​​lõik'
   - 
     title: Mis on CSS?
   - 
-    title: 'Väljakutse: lisage rohkem stiile'
+    title: 'Väljakutse: lisa rohkem stiile'
   - 
     title: Sünnipäevakaardi tegemine
   - 
