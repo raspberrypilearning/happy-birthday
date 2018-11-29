@@ -20,21 +20,21 @@ A HTML **címkéket használ** weboldalak készítéséhez. Keresse meg ezt a HT
 
 `<p>` egy címke egy példája, és rövid a ****bekezdéshez. Elindíthat egy bekezdést `<p>`, és egy bekezdést befejezhet `</p>`.
 
-+ Meg tudsz találni más címkéket?
++ Tudsz találni más címkéket?
 
 ## \--- összeomlás \---
 
 ## cím: Válasz
 
-Egy másik címke, amelyet észrevettél, `<b>`, azaz **vastag**:
+Egy másik címke, amelyet észrevehettél, `<b>`, amelynek jelentése **vastag**:
 
 ```html
 <b>futás</b>
 ```
 
-Íme néhány:
+Íme még néhány:
 
-+ `<html>` és `</html>` jelölje meg a HTML dokumentum kezdetét és végét
++ `<html>` és `</html>` jelöli a HTML dokumentum kezdetét és végét
 + `<head>` és `</head>` ahol a CSS, mint a CSS megy (később meglátjuk)
 + `<body>` és `</body>` ahol a webhely tartalmai megyek
 
