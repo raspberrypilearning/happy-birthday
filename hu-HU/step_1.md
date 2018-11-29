@@ -14,7 +14,7 @@ Kattintson a gombra a születésnapi kártya megnyitásához:
 
 ### Amit megtanulsz
 
-Ez a projekt a [Raspberry Pi Digitális készítési tanterv](http://rpf.io/curriculum){: target = "_ blank":
+Ez a projekt a [Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){: target = "_ blank":} következő részeit tartalmazza:
 
 + [Tervezze meg az alapvető 2D és 3D eszközöket](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
 
