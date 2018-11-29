@@ -2,9 +2,9 @@
 
 A HTML jelentése a **Hypertext Markup Language**, a weboldalak elkészítéséhez használt nyelve. Nézzünk egy példát!
 
-A HTML-kód megírásához egy trinket.io nevű webhelyet használsz.
+A HTML-kód megírásához egy trinket.io nevű webhelyet fogsz használni.
 
-+ Nyisd meg [ez a trinket](http://jumpto.cc/web-intro){: target = "_ blank"}.
++ Nyisd meg [ezt a trinket](http://jumpto.cc/web-intro){: target = "_ blank"}.
 
 A projektnek így kell kinéznie:
 
