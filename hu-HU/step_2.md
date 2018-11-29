@@ -6,4 +6,4 @@
 
 ### Szoftver
 
-Ez a projekt egy web böngészőben végezhető el [trinket.io](https://trinket.io){: target = "_ blank") segítségével.
+Ezt a projektet egy web böngésző segítségével lehet el végezni [trinket.io](https://trinket.io){: target = "_ blank").
