@@ -36,25 +36,25 @@ Egy másik címke, amelyet észrevehettél, `<b>`, amelynek jelentése **vastag*
 
 + `<html>` és `</html>` jelöli a HTML dokumentum kezdetét és végét
 + `<head>` és `</head>` ahol a CSS, mint a CSS megy (később meglátjuk)
-+ `<body>` és `</body>` ahol a webhely tartalmai megyek
++ `<body>` és `</body>` ahol a weboldalad tartalmai működnek
 
 ![screenshot](images/birthday-head-body.png)
 
 \--- / összeomlás \---
 
-+ Módosítsa a HTML fájlban található szövegrészek valamelyikét (a bal oldalon). Kattintson a ****futtatásra, és látnia kell a weboldal módosítását (a jobb oldalon)!
++ Módosítsd a HTML fájlban található szövegrészek valamelyikét (a bal oldalon). Kattints a **futtatásra**, és látnod kell a weboldal módosítását (a jobb oldalon)!
 
 ![screenshot](images/birthday-edit-html.png)
 
-+ Ha hibát vétettél, és visszavonni szeretnéd az összes módosítást, akkor kattints a **menü** gombra, majd kattints a **Reset**gombra.
++ Ha hibát vétettél, és szeretnéd visszavonni az összes módosítást, akkor kattints a **menü** gombra, majd kattints a **Reset** gombra.
 
 ![screenshot](images/birthday-reset.png)
 
-A legutolsó dolog visszavonásához nyomja meg a `Ctrl` és `z` billentyűt.
+A legutolsó dolog visszavonásához nyomd meg a `Ctrl` és `z` billentyűt.
 
-### Nem kell Trinket fiókkal menteni a projekteket!
+### Nem kell Trinket fiók a projekt mentéséhez!
 
-Ha nincs csecsebecsét fiókkal, kattintson a **lefelé** nyílra, majd kattintson a **link**. Ez egy olyan linket ad Önnek, amelyet menthet és később visszatérhet. Mindig ezt meg kell tennie, amikor módosítja a változtatásokat, ahogy a link megváltozik!
+Ha nincs Trinket fiók, kattints a **lefelé** nyílra, majd kattints a **link**. Ez egy olyan linket ad Önnek, amelyet menthet és később visszatérhet. Mindig ezt meg kell tennie, amikor módosítja a változtatásokat, ahogy a link megváltozik!
 
 ![screenshot](images/birthday-link.png)
 
