@@ -1,6 +1,6 @@
 ## Mi a HTML?
 
-A HTML a **Hypertext Markup Language**nyelvet jelenti, a weboldalak elkészítéséhez használt nyelvet. Nézzünk egy példát!
+A HTML jelentése a **Hypertext Markup Language**, a weboldalak elkészítéséhez használt nyelve. Nézzünk egy példát!
 
 A HTML-kód megírásához egy trinket.io nevű webhelyet használsz.
 
