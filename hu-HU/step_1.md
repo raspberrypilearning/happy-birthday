@@ -1,8 +1,8 @@
 ## Bevezetés
 
-Ebben a projektben megjelenik a HTML és a CSS, ha megtudja, hogyan készíthet saját testreszabott születésnapi kártyát.
+Ebben a projektben a HTML és a CSS bemutatásával megtudhatod, hogyan készíthetsz saját magad által testreszabott születésnapi kártyát.
 
-### Mit fogsz csinálni?
+### Amit csinálni fogsz
 
 Kattintson a gombra a születésnapi kártya megnyitásához:
 
@@ -22,4 +22,4 @@ Ez a projekt a [Raspberry Pi Digitális készítési tanterv](http://rpf.io/curr
 
 Ha ki kell nyomtatnia ezt a projektet, kérjük, használja a [nyomtatóbarát](https://projects.raspberrypi.org/en/projects/happy-birthday/print)verziót {: target = "_ blank"}.
 
-Használja a láblécben található linket a GitHub repo eléréséhez ehhez a projekthez, amely tartalmazza az "en / resources" mappában található összes erőforrást (beleértve egy példát is).
+Használja a láblécben található linket a GitHub repo eléréséhez ehhez a projekthez, amely tartalmazza az összes forrást az "en/resources" mappában(beleértve egy példát is).
