@@ -2,7 +2,7 @@
 
 ## Kihívás: adj hozzá egy másik bekezdést
 
-- Hozzáadhat egy harmadik szöveget a weboldalához, a másik kettő alatt?
+- Hozzá tudod adni a szöveg egy harmadik bekezdését a weboldaladhoz, a másik kettő alá?
 
 Ne feledd, hogy az új bekezdésnek `<p>` címkével kell kezdődnie, és `</p>` címkével kell végződnie.
 
