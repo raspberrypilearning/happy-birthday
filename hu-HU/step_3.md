@@ -54,10 +54,10 @@ A legutolsó dolog visszavonásához nyomd meg a `Ctrl` és `z` billentyűt.
 
 ### Nem kell Trinket fiók a projekt mentéséhez!
 
-Ha nincs Trinket fiók, kattints a **lefelé** nyílra, majd kattints a **link**. Ez egy olyan linket ad Önnek, amelyet menthet és később visszatérhet. Mindig ezt meg kell tennie, amikor módosítja a változtatásokat, ahogy a link megváltozik!
+Ha nincs Trinket fiók, kattints a **lefelé** nyílra, majd kattints a **link**. Ez egy olyan linket ad, amelyet elmenthetsz és később visszatérhetsz. Ezt mindig meg kell tenned ha változtatsz, mert a link is változni fog!
 
 ![screenshot](images/birthday-link.png)
 
-Ha van Trinket-fiókod, akkor a weboldal mentésének legegyszerűbb módja, ha kattints a **Remix** gombra a csecsebecse tetején. Ezzel menteni fogja a csecsebecsék egy példányát a profilodon.
+Ha van Trinket-fiókod, akkor a weboldal mentésének legegyszerűbb módja, hogy kattints a **Remix** gombra a trinket tetején. Ezzel menteni fogja a trinket egy példányát a profilodban.
 
 ![screenshot](images/birthday-remix.png)
