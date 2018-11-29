@@ -10,7 +10,7 @@ A projektnek így kell kinéznie:
 
 ![screenshot](images/birthday-starter.png)
 
-A bal oldalon látható kód a HTML. A csecsebecsék jobb oldalán láthatja a HTML kód által létrehozott weboldalt.
+A bal oldalon látható kód a HTML. A trinket jobb oldalán láthatod a HTML kód által létrehozott weboldalt.
 
 A HTML **címkéket használ** weboldalak készítéséhez. Keresse meg ezt a HTML-kódot a kódjának 8. sorában:
 
@@ -20,7 +20,7 @@ A HTML **címkéket használ** weboldalak készítéséhez. Keresse meg ezt a HT
 
 `<p>` egy címke egy példája, és rövid a ****bekezdéshez. Elindíthat egy bekezdést `<p>`, és egy bekezdést befejezhet `</p>`.
 
-+ Le tudsz találni más címkéket?
++ Meg tudsz találni más címkéket?
 
 ## \--- összeomlás \---
 
