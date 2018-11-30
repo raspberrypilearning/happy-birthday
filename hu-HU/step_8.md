@@ -2,15 +2,15 @@
 
 ## Kihívás: személyre szabott kártya létrehozása
 
-+ Használjon mindent, amit megtudott a HTML-ről és a CSS-ről, hogy befejezze a személyre szabott kártyát. És nem kell születésnapi kártya, de karácsonyra vagy más alkalomra lehetne.
++ Használj mindent, amit megtanultál a HTML-ről és a CSS-ről, hogy befejezd a személyre szabott kártyát. Nem kell születésnapi kártyának lennie, lehetne karácsonyra vagy más alkalomra!
 
 Íme egy példa:
 
 ![screenshot](images/birthday-final.png)
 
-Megtalálható több CSS színneveket [itt](http://jumpto.cc/colours){: target = "_ blank"}.
+Találhatsz több CSS szín nevet [itt](http://jumpto.cc/colours){: target = "_ blank"}.
 
-+ Miután befejezte kártyáját, oszthat meg vagy küldhet e-mailt valakinek.
++ Miután befejezted a kártyádat, megoszthat vagy elküldhet e-mailben valakinek.
 
 ![screenshot](images/birthday-share.png)
 
