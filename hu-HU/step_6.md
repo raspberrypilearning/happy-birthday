@@ -2,9 +2,9 @@
 
 ## Kihívás: több stílus hozzáadása
 
-+ Tudod a narancssárga bekezdések szövegét csinálni?
++ Meg tudod csinálni a narancssárga bekezdések szövegét?
 
-+ Megváltoztathatja a háttér szürkét a `test` tulajdonság megváltoztatásával?
++ Meg tudod változtatni a hátteret szürkére a `body` tulajdonság változtatásával?
 
 ![screenshot](images/birthday-more-style.png)
 
