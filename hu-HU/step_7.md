@@ -27,22 +27,22 @@ Használhatod bármelyik szót `fiú`, `gyémánt`, `dinoszaurusz`, `virágok`, 
 
 Szintén szerkesztheted a születésnapi kártya CSS kódját.
 
-+ Kattintson a `style.css`lapra. Az első rész az összes CSS-stílus a kártya **külső**.
++ Kattintson a `style.css`lapra. Az első rész az összes CSS-stílus a kártyán **kívüli** részhez.
 
-+ Módosítsa a `háttérszínt` - `világoszöld`.
++ Módosítsd a `háttérszínt` - `világoszöldre`.
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ A kép méretét is megváltoztathatja. Menj a `# kívül-pic` CSS kódot, és változtassa meg a `szélesség` és `magassága` A külső kép a `200px` (`px` jelentése pixel).
++ A kép méretét is megváltoztathatod. Menj a `# képen-kívül` CSS kódra, és változtasd meg a `szélességet` és `magasságot` a külső képnek `200px`-re (`px` jelentése pixel).
 
 ![screenshot](images/birthday-card-size.png)
 
-+ A betűtípus is megváltoztatható. Menj a `# kívüli-cím` CSS és módosítsa a `font-family` a `Comic Sans MS` , és a `font-size` a `16pt`.
++ A betűtípust is megváltoztathatod. Menj a `# címen kívül` CSS-re és módosítsd a `font-family`-t a `Comic Sans MS`-ra, és a `font-size`-t `16pt`-re.
 
 ![screenshot](images/birthday-card-font.png)
 
-Használhat más betűtípusokat, például:
+Használhatsz más betűtípusokat, például:
 
 + `<span style="font-family: Arial;">arial</span>`
-+ `<span style="font-family: impact;">Hatása</span>`
++ `<span style="font-family: impact;">Impact</span>`
 + `<span style="font-family: tahoma;">Tahoma</span>`
