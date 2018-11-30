@@ -1,8 +1,8 @@
 ## Születésnapi kártya készítése
 
-Használjuk azt, amit a HTML-ről és a CSS-ről hallott, hogy saját egyéni születésnapi kártyát készítsen.
+Használjuk azt, amit a HTML-ről és a CSS-ről tanultál, hogy elkészítsd a saját születésnapi kártyád.
 
-+ Nyisd meg [ez a trinket](http://jumpto.cc/web-card){: target = "_ blank"}.
++ Nyisd meg [ezt a trinket](http://jumpto.cc/web-card){: target = "_ blank"}.
 
 Számos kódot írtunk, hogy elinduljon, de a születésnapi kártya eddig elég unalmasnak tűnik, ezért változtatni fog a HTML és a CSS kódon.
 
