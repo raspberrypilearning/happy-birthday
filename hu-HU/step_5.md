@@ -8,7 +8,7 @@ A CSS jelentése **Cascading Style Sheets**, és ez egy olyan nyelv, amely a web
 
 A CSS felsorolja az adott címke összes **tulajdonságát**.
 
-+ Kattintson a `style.css` lapra a weboldal CSS kódjának megtekintéséhez.
++ Kattintson a `style.css` lapra a weboldalad CSS kódjának megtekintéséhez.
     
     ![screenshot](images/birthday-css-tab.png)
 
