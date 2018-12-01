@@ -26,7 +26,7 @@ A HTML **címkéket használ** weboldalak készítéséhez. Keresse meg ezt a HT
 
 ## cím: Válasz
 
-Egy másik címke, amelyet észrevehettél, `<b>`, amelynek jelentése **vastag**:
+Egy másik címke, amit észrevehettél a `<b>`, aminek jelentése **vastag**:
 
 ```html
 <b>futás</b>
@@ -42,7 +42,7 @@ Egy másik címke, amelyet észrevehettél, `<b>`, amelynek jelentése **vastag*
 
 \--- / összeomlás \---
 
-+ Módosítsd a HTML fájlban található szövegrészek valamelyikét (a bal oldalon). Kattints a **futtatásra**, és látnod kell a weboldal módosítását (a jobb oldalon)!
++ Módosítsd a HTML fájlban található szövegrészek valamelyikét (a bal oldalon). Kattints a **futtatásra**, és látnod kellene a weboldalad változását (a jobb oldalon)!
 
 ![screenshot](images/birthday-edit-html.png)
 
@@ -54,7 +54,7 @@ A legutolsó dolog visszavonásához nyomd meg a `Ctrl` és `z` billentyűt.
 
 ### Nem kell Trinket fiók a projekt mentéséhez!
 
-Ha nincs Trinket fiók, kattints a **lefelé** nyílra, majd kattints a **link**. Ez egy olyan linket ad, amelyet elmenthetsz és később visszatérhetsz. Ezt mindig meg kell tenned ha változtatsz, mert a link is változni fog!
+Ha nincs Trinket fiókod, kattints a **lefelé** nyílra, majd kattints a **link**-re. Ez egy olyan linket ad, amelyet elmenthetsz és később visszatérhetsz. Ezt mindig meg kell tenned ha változtatsz, mert a link is változni fog!
 
 ![screenshot](images/birthday-link.png)
 
