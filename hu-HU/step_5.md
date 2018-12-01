@@ -22,6 +22,6 @@ p {
 
 Ez a CSS kód határozza meg a (`p`) bekezdésekhez tartozó tulajdonságot, amely megmondja, hogy a szöveg színe fekete lesz. Figyeld meg az amerikai helyesírást: 'color'.
 
-+ Módosítsd a CSS kódban a "fekete" szót a "kék" -re. Láthatod, hogy a minden szöveg színe kékre változik.
++ Módosítsd a CSS kódban a "fekete" szót a "kék" -re. Láthatod, hogy minden szöveg színe kékre változik.
 
 ![screenshot](images/birthday-edit-css.png)
