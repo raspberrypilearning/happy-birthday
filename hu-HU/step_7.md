@@ -16,24 +16,24 @@ Számos kódot írtunk a kezdéshez, de a születésnapi kártya eddig elég una
 
 + Meg tudod találni a robot kép HTML kódját, és megváltoztatni a `robot` szót `napra`?
 
-\--- tippek \--- \--- tipp \---
+\--- hints \--- \--- hint \---
 
 + A 17. sorban keresd meg a kódot.
 + Változtasd meg a `robot` szót `napra` és látni fogod, hogy a kép megváltozik!
 
-![screenshot](images/birthday-card-sun.png) \--- / tipp \--- \--- / tippek \---
+![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
 Használhatod bármelyik szót `fiú`, `gyémánt`, `dinoszaurusz`, `virágok`, `lány`, `szivárvány`, `robot`, `űrhajó`, `nap`, `tea`, vagy `trófea` egy születésnapi kártyához, vagy `keksz`, `manó`, `pingvin`, `ajándék`, `rénszarvas`, `télapó`, vagy `hóember` ha szeretnél karácsonyi kártyát készíteni.
 
 Szintén szerkesztheted a születésnapi kártya CSS kódját.
 
-+ Kattintson a `style.css`lapra. Az első rész az összes CSS-stílus a kártyán **kívüli** részhez.
++ Kattints a `style.css`lapra. Az első rész az összes CSS-stílus a kártyán **kívüli** részhez.
 
 + Módosítsd a `háttérszínt` - `világoszöldre`.
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ A kép méretét is megváltoztathatod. Menj a `# képen-kívül` CSS kódra, és változtasd meg a `szélességet` és `magasságot` a külső képnek `200px`-re (`px` jelentése pixel).
++ A kép méretét is megváltoztathatod. Menj a `# képen-kívül` CSS kódra, és változtasd meg a `szélességét` és `magasságát` a külső képnek `200px`-ra (`px` jelentése pixel).
 
 ![screenshot](images/birthday-card-size.png)
 
