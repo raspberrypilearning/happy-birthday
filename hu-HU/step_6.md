@@ -1,4 +1,4 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Kihívás: több stílus hozzáadása
 
@@ -8,4 +8,4 @@
 
 ![screenshot](images/birthday-more-style.png)
 
-\--- / kihívás \---
+\--- / challenge \---
