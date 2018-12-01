@@ -1,6 +1,6 @@
 ## Mi a HTML?
 
-A HTML jelentése a **Hypertext Markup Language**, a weboldalak elkészítéséhez használt nyelve. Nézzünk egy példát!
+A HTML jelentése a **Hypertext Markup Language**, a weboldalak elkészítéséhez használt nyelv. Nézzünk egy példát!
 
 A HTML-kód megírásához egy trinket.io nevű webhelyet fogsz használni.
 
@@ -18,11 +18,11 @@ A HTML **címkéket használ** weboldalak készítéséhez. Keresse meg ezt a HT
 <p>Hi. A nevem Andy.</p>
 ```
 
-`<p>` egy címke egy példája, és rövid a ****bekezdéshez. Elindíthat egy bekezdést `<p>`, és egy bekezdést befejezhet `</p>`.
+`<p>` egy címke egy példája, és rövid a **bekezdéshez**. Elkezdhetsz egy bekezdést `<p>`, és ezzel `</p>` befejezheted azt.
 
 + Tudsz találni más címkéket?
 
-## \--- összeomlás \---
+## \--- collapse \---
 
 ## cím: Válasz
 
@@ -40,7 +40,7 @@ Egy másik címke, amit észrevehettél a `<b>`, aminek jelentése **vastag**:
 
 ![screenshot](images/birthday-head-body.png)
 
-\--- / összeomlás \---
+\--- /collapse \---
 
 + Módosítsd a HTML fájlban található szövegrészek valamelyikét (a bal oldalon). Kattints a **futtatásra**, és látnod kellene a weboldalad változását (a jobb oldalon)!
 
