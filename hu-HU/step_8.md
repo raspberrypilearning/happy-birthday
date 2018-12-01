@@ -1,8 +1,8 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Kihívás: személyre szabott kártya létrehozása
 
-+ Használj mindent, amit megtanultál a HTML-ről és a CSS-ről, hogy befejezd a személyre szabott kártyát. Nem kell születésnapi kártyának lennie, lehetne karácsonyra vagy más alkalomra!
++ Használj mindent, amit megtanultál a HTML-ről és a CSS-ről, hogy befejezd a személyre szabott kártyát. Nem kell születésnapi kártyának lennie, lehetne egy karácsonyra vagy más alkalomra!
 
 Íme egy példa:
 
@@ -14,4 +14,4 @@ Találhatsz több CSS szín nevet [itt](http://jumpto.cc/colours){: target = "_ 
 
 ![screenshot](images/birthday-share.png)
 
-\--- / kihívás \---
+\--- / challenge \---
