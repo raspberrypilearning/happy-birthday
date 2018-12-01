@@ -12,14 +12,14 @@ Kattintson a gombra a születésnapi kártya megnyitásához:
   <img src="images/birthday-final.png">
 </div>
 
-### Amit megtanulsz
+### Amit meg fogsz tanulni
 
-Ez a projekt a [Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){: target = "_ blank":} következő részeit tartalmazza:
+Ez a projekt a [Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){: target = "_ blank"} következő részeit tartalmazza:
 
-+ [Tervezze meg az alapvető 2D és 3D eszközöket](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Tervezd meg az alapvető 2D és 3D eszközöket](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
 
 ### További információk az oktatók számára
 
 Ha ki kell nyomtatnia ezt a projektet, kérjük, használja a [nyomtatóbarát](https://projects.raspberrypi.org/en/projects/happy-birthday/print)verziót {: target = "_ blank"}.
 
-Használja a láblécben található linket a GitHub repo eléréséhez ehhez a projekthez, amely tartalmazza az összes forrást az "en/resources" mappában(beleértve egy példát is).
+Használd a láblécben található linket a GitHub repo eléréséhez ehhez a projekthez, amely tartalmazza az összes forrást az "en/resources" mappában(beleértve egy példát is).
