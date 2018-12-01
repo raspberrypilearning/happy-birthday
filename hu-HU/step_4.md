@@ -1,4 +1,4 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Kihívás: adj hozzá egy másik bekezdést
 
@@ -12,4 +12,4 @@ Ne feledd, hogy az új bekezdésnek `<p>` címkével kell kezdődnie, és `</p>`
 
 Hozzá tudsz adni **félkövér** és <u>aláhúzott</u> szöveget az új bekezdéshez? Használj `<u>` és `</u>` címkét az aláhúzott szöveghez.
 
-\--- / kihívás \---
+\--- / challenge \---
