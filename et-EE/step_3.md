@@ -8,7 +8,7 @@ HTML-koodi kirjutamiseks hakkad kasutama veebisaiti trinket.io.
 
 Projekt peaks välja nägema selline:
 
-![screenshot](images/birthday-starter.png)
+![kuvatõmmis](images/birthday-starter.png)
 
 Kood, mida näed vasakul, on HTML. Trinkletist paremal näed HTML-koodi tehtud veebisaiti.
 
@@ -38,17 +38,17 @@ Siin on veel mõned:
 + `<head>` ja `</head>` on koht, kuhu lähevad CSS-i laadsed keeled (jõuame selleni hiljem)
 + `<body>` ja `</body>` on koht, kuhu läheb sinu veebisaidi sisu
 
-![screenshot](images/birthday-head-body.png)
+![kuvatõmmis](images/birthday-head-body.png)
 
 \--- /collapse \---
 
 + Muuda HTML-faili teksti mõnda lõiku (vasakul). Klõpsa nupul **Käivita**ja peaksid nägema oma veebilehe muutumist (paremal)!
 
-![screenshot](images/birthday-edit-html.png)
+![kuvatõmmis](images/birthday-edit-html.png)
 
 + Kui oled teinud vea ja soovid kõik muudatused tühistada, võid klõpsata nupul **menüü** ja seejärel nupul **Lähtesta**.
 
-![screenshot](images/birthday-reset.png)
+![kuvatõmmis](images/birthday-reset.png)
 
 Viimasena tehtu tühistamiseks võid koos vajutada `Ctrl` ja `z` klahve.
 
@@ -56,8 +56,8 @@ Viimasena tehtu tühistamiseks võid koos vajutada `Ctrl` ja `z` klahve.
 
 Kui sul pole Trinketi kontot, klõpsa noolel **alla** ja seejärel **Lingil**. See annab sulle lingi, mille saad salvestada ja hiljem selle juurde tagasi tulla. Pead seda tegema iga kord, kui teed muudatusi, kuna link muutub!
 
-![screenshot](images/birthday-link.png)
+![kuvatõmmis](images/birthday-link.png)
 
 Kui sul on Trinketi konto, on lihtsaim variant veebisait salvestada trinketi ülaosas oleval nupul **Remix** klõpsamine. See salvestab trinketi koopia sinu profiilil.
 
-![screenshot](images/birthday-remix.png)
+![kuvatõmmis](images/birthday-remix.png)
