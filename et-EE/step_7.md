@@ -1,20 +1,20 @@
 ## Sünnipäevakaardi tegemine
 
-Kasutage seda, mida olete õppinud HTML-i ja CSS-i kohta, et luua oma kohandatud sünnipäevakaart.
+Kasuta seda, mida oled õppinud HTML-i ja CSS-i kohta, et luua sinu enda kohandatud sünnipäevakaart.
 
-+ Avage [see nipsutaja](http://jumpto.cc/web-card){: target = "_ blank"}.
++ Ava [see trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
-Oleme kirjutanud palju koodi, et saaksite alustada, kuid sünnipäevakaart tundub siiani üsna igav, seega teete mõne muudatuse HTML-i ja CSS-koodi.
+Oleme kirjutanud palju koodi, et saaksid alustada, kuid sünnipäevakaart tundub siiani üsna igav, seega hakkad sina HTML-i ja CSS-koodi mõnevõrra muutma.
 
-+ Klõpsake kaardi esiküljel asuvat nuppu ja peaksite selle avanema, et see oleks sees.
++ Klõpsa kaardi esiküljel asuvat nuppu ja peaksid nägema seda avanemas, et paljastada sisu.
 
-![ekraanipilt](images/birthday-click.png)
+![kuvatõmmis](images/birthday-click.png)
 
-+ Minge HTML-koodi reale 14. Proovige oma kaardi kohandamiseks teksti redigeerida.
++ Mine HTML-koodi 14. reale. Proovi oma kaardi kohandamiseks teksti redigeerida.
 
-![ekraanipilt](images/birthday-card-html.png)
+![kuvatõmmis](images/birthday-card-html.png)
 
-+ Kas leiate roboti pildi HTML-koodi ja muudate sõna `robot` kuni `päikest`?
++ Kas leiad roboti pildi HTML-koodi ja kas oskad muuta sõna `robot` `päikeseks`?
 
 \--- vihjed \--- \--- vihje \---
 
