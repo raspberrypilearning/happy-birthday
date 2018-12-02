@@ -2,13 +2,13 @@
 
 ## Väljakutse: loo isikupärastatud kaart
 
-+ Kasutage isikupärastatud kaardi tegemiseks kõike, mida olete õppinud HTML-i ja CSS-i kohta. Ja see ei pea olema sünnipäevakaart, võib see olla jõuludele või mõnele muule sündmusele!
++ Kasuta isikupärastatud kaardi tegemiseks kõike, mida oled HTML-i ja CSS-i kohta õppinud. Ja see ei pea olema sünnipäevakaart, see võib olla mõni selline, mille tegid jõuludeks või mõne muu sündmuse jaoks!
 
 Siin on näide:
 
-![ekraanipilt](images/birthday-final.png)
+![kuvatõmmis](images/birthday-final.png)
 
-Leiate rohkem CSS-i värvimärke [siin](http://jumpto.cc/colours){: target = "_ blank"}.
+Rohkem CSS-i värvinimesid leiad [siin](http://jumpto.cc/colours){:target="_blank"}.
 
 + Kui olete oma kaardi lõpetanud, saate seda kellelegi jagada või e-posti teel saata.
 
