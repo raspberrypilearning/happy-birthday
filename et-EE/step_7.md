@@ -21,7 +21,7 @@ Oleme kirjutanud palju koodi, et saaksid alustada, kuid sünnipäevakaart tundub
 + Koodi leidmiseks vaata rida 17.
 + Muuda sõna `robot` `päikeseks`ja näed, kuidas pilt muutub!
 
-![kuvatõmmis](images/birthday-card-sun.png) \--- /hint \--- \--- hints \---
+![kuvatõmmis](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
 Võid kasutada ükskõik millist järgnevatest sõnadest `poiss`, `teemant`, `dinosaurus`, `lilled`, `tüdruk`, `vikerkaar`, `robot`, `kosmoselaev`, `päike`, `tee` või `trofee` sünnipäevakaardi jaoks või `paukrakett`, `päkapikk`, `pingviin`, `kingitus`, `põhjapõder`, `jõuluvana` või `lumememm`, kui eelistaksid teha jõulukaarti.
 
@@ -33,11 +33,11 @@ Samuti saad muuta sünnipäevakaardi CSS-koodi.
 
 ![kuvatõmmis](images/birthday-card-outside.png)
 
-+ Samuti saad muuta pildi suurust. Mine `#välispilt` CSS-koodini ja muuda pildi välisosa `laius` ja `kõrgus` `200px`-ni (`px` tähistab piksleid).
++ Samuti saad muuta pildi suurust. Mine `#välispildi` CSS-koodini ja muuda pildi välisosa `laius` ja `kõrgus` `200px`-ni (`px` tähistab piksleid).
 
 ![kuvatõmmis](images/birthday-card-size.png)
 
-+ Fonti saab ka muuta. Mine `# välispealkirja` CSS-ile ja muuda `fondi perekond` `Comic Sans MS-iks` ja `fondi suurus` `16pt-ks`.
++ Fonti saab ka muuta. Mine `#välispealkirja` CSS-ile ja muuda `fondi perekond` `Comic Sans MS-iks` ja `fondi suurus` `16pt-ks`.
 
 ![kuvatõmmis](images/birthday-card-font.png)
 
