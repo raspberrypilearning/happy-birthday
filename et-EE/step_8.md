@@ -1,6 +1,6 @@
-\--- väljakutse \---
+\--- challenge \---
 
-## Väljakutse: luua isikupärastatud kaart
+## Väljakutse: loo isikupärastatud kaart
 
 + Kasutage isikupärastatud kaardi tegemiseks kõike, mida olete õppinud HTML-i ja CSS-i kohta. Ja see ei pea olema sünnipäevakaart, võib see olla jõuludele või mõnele muule sündmusele!
 
