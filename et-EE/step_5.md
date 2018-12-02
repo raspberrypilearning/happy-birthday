@@ -20,8 +20,8 @@ värv: must;
 }
 ```
 
-See CSS-kood määrab lõikude (`p`) omadused, mis ütlevad, et teksti värv peaks olema must. Pange tähele Ameerika kirjapilt: "värv".
+See CSS-kood määrab (`p`) lõikude omaduse, mis ütleb, et teksti värv peaks olema must.
 
-+ Muuda sõna "must" CSS-koodina "siniseks". Peaksite nägema, et kõigi lõigete tekstivärv muutub siniseks.
++ Muuda sõna "must" CSS-koodis "siniseks". Peaksid nägema, kuidas kõigi lõikude teksti värv muutub siniseks.
 
-![ekraanipilt](images/birthday-edit-css.png)
+![kuvatõmmis](images/birthday-edit-css.png)
