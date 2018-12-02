@@ -1,8 +1,8 @@
 ## Mis on CSS?
 
-CSS tähistab **kaskaadlaadistikku ehk astmelisi stiililehti** ja seda keelt kasutatakse veebisaitide kujundamiseks ning nende kenaks muutmiseks.
+CSS tähistab **kaskaadlaadistikku ehk astmelisi stiililehti** ja seda keelt kasutatakse veebilehtede kujundamiseks ning nende kena väljanägemise saavutamiseks.
 
-+ See kood seob sinu veebisaidi CSS-failiga - vaata, kas leiad selle HTML-dokumendi `<head>`-s:
++ See kood seob sinu veebilehe CSS-failiga - vaata, kas leiad selle HTML-dokumendi `<head>`-s:
 
 ![kuvatõmmis](images/birthday-css-link.png)
 
