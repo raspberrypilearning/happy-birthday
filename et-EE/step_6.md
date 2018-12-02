@@ -1,11 +1,11 @@
-\--- väljakutse \---
+\--- challenge \---
 
-## Väljakutse: lisage rohkem stiile
+## Väljakutse: lisa rohkem stiile
 
-+ Kas saate teha tekstiosa oranžid lõikeid?
++ Kas oskad teha tekstilõigud oranžiks?
 
-+ Kas saate teha taustalakka, muutes `keha` vara?
++ Kas oskad teha tausta halliks, muutes `keha` omadust?
 
-![ekraanipilt](images/birthday-more-style.png)
+![kuvatõmmis](images/birthday-more-style.png)
 
-\--- / väljakutse \---
+\--- /challenge \---
