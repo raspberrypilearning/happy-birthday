@@ -10,8 +10,8 @@ Siin on näide:
 
 Rohkem CSS-i värvinimesid leiad [siin](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Kui olete oma kaardi lõpetanud, saate seda kellelegi jagada või e-posti teel saata.
++ Kui oled oma kaardi lõpetanud, saad seda kellegagi jagada või selle talle meili teel saata.
 
-![ekraanipilt](images/birthday-share.png)
+![kuvatõmmis](images/birthday-share.png)
 
-\--- / väljakutse \---
+\--- /challenge \---
