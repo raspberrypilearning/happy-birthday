@@ -37,12 +37,12 @@ Samuti saad muuta sünnipäevakaardi CSS-koodi.
 
 ![kuvatõmmis](images/birthday-card-size.png)
 
-+ Font saab muuta ka. Minge `# out-title` CSS-ile ja muutke `font-perekonna` kuni `Comic Sans MS` ja `font-suurust` kuni `16pt`.
++ Fonti saab ka muuta. Mine `# välispealkirja` CSS-ile ja muuda `fondi perekond` `Comic Sans MS-iks` ja `fondi suurus` `16pt-ks`.
 
-![ekraanipilt](images/birthday-card-font.png)
+![kuvatõmmis](images/birthday-card-font.png)
 
-Võite kasutada ka teisi fonte, näiteks:
+Võid kasutada ka teisi fonte, näiteks:
 
 + `<span style="font-family: Arial;">arial</span>`
-+ `<span style="font-family: impact;">Mõju</span>`
++ `<span style="font-family: impact;">Impact</span>`
 + `<span style="font-family: tahoma;">Tahoma</span>`
