@@ -6,17 +6,17 @@ CSS tähistab **kaskaadlaadistikku ehk astmelisi stiililehti** ja seda keelt kas
 
 ![kuvatõmmis](images/birthday-css-link.png)
 
-CSS-s on loetletud kõik konkreetse märgendi **omadused**.
+CSS loetleb kõik konkreetse sildi **omadused**.
 
-+ Klõpsake vahekaarti `style.css` et näha oma veebilehe CSS-koodi.
++ Klõpsa vahekaardil `style.css`, et näha oma veebisaidi CSS-koodi.
     
-    ![ekraanipilt](images/birthday-css-tab.png)
+    ![kuvatõmmis](images/birthday-css-tab.png)
 
 + Leia see kood:
 
 ```html
 p {
-    värv: must;
+värv: must;
 }
 ```
 
