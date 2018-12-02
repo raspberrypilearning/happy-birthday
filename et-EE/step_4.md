@@ -10,6 +10,6 @@ Siin on näha, kuidas sinu veebisait välja võib näha:
 
 ![screenshot](images/birthday-paragraph.png)
 
-Kas saad lisada oma uuele lõigule **rasvase** ja </u>allajoonitud<u> teksti? Allajoonitud teksti jaoks kasutage silte `<u>` ja `</u>`.
+Kas saad lisada oma uuele lõigule **rasvase** ja <u>allajoonitud</u> teksti? Allajoonitud teksti jaoks kasuta silte `<u>` ja `</u>`.
 
 \--- /challenge \---
