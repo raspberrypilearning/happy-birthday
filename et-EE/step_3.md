@@ -10,9 +10,9 @@ Projekt peaks välja nägema selline:
 
 ![kuvatõmmis](images/birthday-starter.png)
 
-Kood, mida näed vasakul, on HTML. Trinkletist paremal näed HTML-koodi tehtud veebisaiti.
+Kood, mida näed vasakul, on HTML. Trinketist paremal näed HTML-koodi tehtud veebisaiti.
 
-HTML kasutab veebisaitide loomiseks **silte**. Otsi seda HTML-koodi oma koodi 8. realt:
+HTML kasutab veebilehtede loomiseks **silte**. Otsi seda HTML-koodi oma koodi 8. realt:
 
 ```html
 <p>Hei. Minu nimi on Andy.</p>
@@ -26,7 +26,7 @@ HTML kasutab veebisaitide loomiseks **silte**. Otsi seda HTML-koodi oma koodi 8.
 
 ## title: Vastus
 
-Võimalik, et üks teine sinu poolt märgatud silt on `<b>`, mis tähistab **paksu**:
+Võimalik, et üks teine sinu poolt märgatud silt on `<b>`, mis tähistab **rasvast**:
 
 ```html
 <b>käivitamine</b>
