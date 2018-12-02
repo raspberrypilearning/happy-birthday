@@ -16,26 +16,26 @@ Oleme kirjutanud palju koodi, et saaksid alustada, kuid sünnipäevakaart tundub
 
 + Kas leiad roboti pildi HTML-koodi ja kas oskad muuta sõna `robot` `päikeseks`?
 
-\--- vihjed \--- \--- vihje \---
+\--- hints \--- \--- hint \---
 
-+ Koodi leidmiseks vaadake joont 17.
-+ Muuda sõna `robot` kuni `päikest`ja näete pildi muutust!
++ Koodi leidmiseks vaata rida 17.
++ Muuda sõna `robot` `päikeseks`ja näed, kuidas pilt muutub!
 
-![ekraanipilt](images/birthday-card-sun.png) \--- / vihje \--- \--- / vihjed \---
+![kuvatõmmis](images/birthday-card-sun.png) \--- /hint \--- \--- hints \---
 
-Võite kasutada mõnda sõna `poiss`, `teemant`, `dinosaurus`, `lill`, `tüdruk`, `vikerkaar`, `robot`, `kosmoselaev`, `päikest`, `teed`või `trofee` sünnipäevakaarti või `kreekerit`, `elfit`, `pingviini`, `kohal`, `põhjapõtrade`, `santa`või `lumememm` kui eelistaksite jõulukaarti teha.
+Võid kasutada ükskõik millist järgnevatest sõnadest `poiss`, `teemant`, `dinosaurus`, `lilled`, `tüdruk`, `vikerkaar`, `robot`, `kosmoselaev`, `päike`, `tee` või `trofee` sünnipäevakaardi jaoks või `paukrakett`, `päkapikk`, `pingviin`, `kingitus`, `põhjapõder`, `jõuluvana` või `lumememm`, kui eelistaksid teha jõulukaarti.
 
-Samuti saate muuta sünnipäevakaardi CSS-koodi.
+Samuti saad muuta sünnipäevakaardi CSS-koodi.
 
-+ Vajuta vahelehte `style.css`. Esimene osa on kõik CSS-i stiilid kaardi **väljaspool** st.
++ Vajuta vahelehte `style.css`. Esimene osa on kõik CSS-i stiilid kaardi **välisosa** jaoks.
 
-+ Muuda `taustavärvi` kuni `helerohelist`.
++ Muuda `taustavärv` `heleroheliseks`.
 
-![ekraanipilt](images/birthday-card-outside.png)
+![kuvatõmmis](images/birthday-card-outside.png)
 
-+ Samuti saate muuta pildi suurust. Mine `# väljapoolt pic` CSS kood ja muuta `laius` ja `kõrgusega` väliskülje pildi `200px` (`px` tähistab mis pikslit).
++ Samuti saad muuta pildi suurust. Mine `#välispilt` CSS-koodini ja muuda pildi välisosa `laius` ja `kõrgus` `200px`-ni (`px` tähistab piksleid).
 
-![ekraanipilt](images/birthday-card-size.png)
+![kuvatõmmis](images/birthday-card-size.png)
 
 + Font saab muuta ka. Minge `# out-title` CSS-ile ja muutke `font-perekonna` kuni `Comic Sans MS` ja `font-suurust` kuni `16pt`.
 
