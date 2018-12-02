@@ -2,11 +2,11 @@
 
 ## Väljakutse: lisa veel üks ​​lõik
 
-- Kas saad lisada oma veebisaidile kahe tekstilõigu alla kolmanda?
+- Kas saad lisada oma veebilehele kahe tekstilõigu alla kolmanda?
 
 Pea meeles, et sinu uus lõik peaks algama sildiga `<p>` ja lõppema sildiga `</p>`.
 
-Siin on näha, kuidas sinu veebisait välja võib näha:
+Siin on näha, kuidas sinu veebileht välja võib näha:
 
 ![kuvatõmmis](images/birthday-paragraph.png)
 
