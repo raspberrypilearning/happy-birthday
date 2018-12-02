@@ -8,7 +8,7 @@ Pea meeles, et sinu uus lõik peaks algama sildiga `<p>` ja lõppema sildiga `</
 
 Siin on näha, kuidas sinu veebisait välja võib näha:
 
-![screenshot](images/birthday-paragraph.png)
+![kuvatõmmis](images/birthday-paragraph.png)
 
 Kas saad lisada oma uuele lõigule **rasvase** ja <u>allajoonitud</u> teksti? Allajoonitud teksti jaoks kasuta silte `<u>` ja `</u>`.
 
