@@ -24,7 +24,7 @@ A HTML **címkéket használ** weboldalak készítéséhez. Keresse meg ezt a HT
 
 ## \--- collapse \---
 
-## cím: Válasz
+## title: Answer
 
 Egy másik címke, amit észrevehettél a `<b>`, aminek jelentése **vastag**:
 
