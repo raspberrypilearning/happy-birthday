@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Kihívás: adj hozzá egy másik bekezdést
+## Challenge: adj hozzá egy másik bekezdést
 
 - Hozzá tudod adni a szöveg egy harmadik bekezdését a weboldaladhoz, a másik kettő alá?
 
