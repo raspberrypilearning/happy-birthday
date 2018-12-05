@@ -1,6 +1,6 @@
 ---
 hero_image: images / happy-birthday.png
-theme: türkiz
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -9,13 +9,13 @@ curriculum: 1, design-1, programozás-0, fiz-comp-0, gyártás-0, community-0
 title: Boldog születésnapot
 description: Készítsen online születésnapi kártyát egy weboldalon
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
-interests: művészet
+interests: art
 technologies: html-css-javascript
 site_areas: projektek
 hardware: ''
 software: html-css-javascript
 version: 4
-last_tested: 2017/01/01
+last_tested: 2017-01-01
 steps:
   - 
     title: Bevezetés
