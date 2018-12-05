@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Kihívás: több stílus hozzáadása
+## Challenge: több stílus hozzáadása
 
 + Meg tudod csinálni a narancssárga bekezdések szövegét?
 
