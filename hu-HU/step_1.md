@@ -1,4 +1,4 @@
-## Introduction
+## Bevezetés
 
 Ebben a projektben a HTML és a CSS bemutatásával megtudhatod, hogyan készíthetsz saját magad által testreszabott születésnapi kártyát.
 
