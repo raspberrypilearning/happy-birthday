@@ -80,7 +80,7 @@ var self = window.StyleFix = {
 					parent.insertBefore(style, link);
 					parent.removeChild(link);
 					
-					style.media = link.media; // Duplicate is intentional. See issue #31
+					style.media = link.media; // Duplicate is intentional. Pogledajte pitanje # 31
 				}
 		};
 
@@ -88,7 +88,7 @@ var self = window.StyleFix = {
 			xhr.open('GET', url);
 			xhr.send(null);
 		} catch (e) {
-			// Fallback to XDomainRequest if available
+			// Povratak na XDomainRequest ako je dostupan
 			if (typeof XDomainRequest != "undefined") {
 				xhr = new XDomainRequest();
 				xhr.onerror = xhr.onprogress = function() {};
@@ -121,13 +121,13 @@ var self = window.StyleFix = {
 	},
 	
 	process: function() {
-		// Linked stylesheets
+		// Povezani stilski listovi
 		$('link[rel="stylesheet"]:not([data-inprogress])').forEach(StyleFix.link);
 		
-		// Inline stylesheets
+		// Inline stilovi
 		$('style').forEach(StyleFix.styleElement);
 		
-		// Inline styles
+		// Inline stilovi
 		$('[style]').forEach(StyleFix.styleAttribute);
 	},
 	
@@ -154,7 +154,7 @@ var self = window.StyleFix = {
 };
 
 /**************************************
- * Process styles
+ * Procesni stilovi
  **************************************/
 (function(){
 	setTimeout(function(){
@@ -179,7 +179,7 @@ if(!window.StyleFix || !window.getComputedStyle) {
 	return;
 }
 
-// Private helper
+// Privatni pomagač
 function fix(what, before, after, replacement, css) {
 	what = self[what];
 	
@@ -196,9 +196,9 @@ var self = window.PrefixFree = {
 	prefixCSS: function(css, raw, element) {
 		var prefix = self.prefix;
 		
-		// Gradient angles hotfix
+		// Hitni nagib od gradijentnog kuta
 		if(self.functions.indexOf('linear-gradient') > -1) {
-			// Gradients are supported with a prefix, convert angles to legacy
+			// Gradijenti su podržani prefiksom, pretvaraju kutove u naslijeđe
 			css = css.replace(/(\s|:|,)(repeating-)?linear-gradient\(\s*(-?\d*\.?\d*)deg/ig, function ($0, delim, repeating, deg) {
 				return delim + (repeating || '') + 'linear-gradient(' + (90-deg) + 'deg';
 			});
@@ -208,7 +208,7 @@ var self = window.PrefixFree = {
 		css = fix('keywords', '(\\s|:)', '(\\s|;|\\}|$)', '$1' + prefix + '$2$3', css);
 		css = fix('properties', '(^|\\{|\\s|;)', '\\s*:', '$1' + prefix + '$2:', css);
 		
-		// Prefix properties *inside* values (issue #8)
+		// Prefix svojstva *unutar* vrijednosti (izdanje #8)
 		if (self.properties.length) {
 			var regex = RegExp('\\b(' + self.properties.join('|') + ')(?!:)', 'gi');
 			
@@ -222,10 +222,10 @@ var self = window.PrefixFree = {
 			css = fix('atrules', '@', '\\b', '@' + prefix + '$1', css);
 		}
 		
-		// Fix double prefixing
+		// Ispravite dvostruke prefikse
 		css = css.replace(RegExp('-' + prefix, 'g'), '-');
 		
-		// Prefix wildcard
+		// Prefiks zamjenski znak
 		css = css.replace(/-\*-(?=[a-z]+)/gi, self.prefix);
 		
 		return css;
