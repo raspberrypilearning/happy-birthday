@@ -13,7 +13,7 @@ if(!window.addEventListener) {
 var self = window.StyleFix = {
 	link: function(link) {
 		try {
-			// Ignore stylesheets with data-noprefix attribute as well as alternate stylesheets
+			// Zanemarite stilske listove sa data-noprefix atributom, kao i alternativnim stilskim listovima
 			if(link.rel !== 'stylesheet' || link.hasAttribute('data-noprefix')) {
 				return;
 			}
