@@ -246,12 +246,12 @@ var self = window.PrefixFree = {
 		return value;
 	},
 	
-	// Warning: Prefixes no matter what, even if the selector is supported prefix-less
+	// Upozorenje: Prefiks bez obzira na sve, čak i ako je selektor podržan bez prefiksa
 	prefixSelector: function(selector) {
 		return selector.replace(/^:{1,2}/, function($0) { return $0 + self.prefix })
 	},
 	
-	// Warning: Prefixes no matter what, even if the property is supported prefix-less
+	// Upozorenje: Prefiks bez obzira na sve, čak i ako je selektor podržan bez prefiksa
 	prefixProperty: function(property, camelCase) {
 		var prefixed = self.prefix + property;
 		
@@ -260,7 +260,7 @@ var self = window.PrefixFree = {
 };
 
 /**************************************
- * Properties
+ * Svojstva
  **************************************/
 (function() {
 	var prefixes = {},
