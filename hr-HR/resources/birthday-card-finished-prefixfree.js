@@ -269,7 +269,7 @@ var self = window.PrefixFree = {
 		style = getComputedStyle(document.documentElement, null),
 		dummy = document.createElement('div').style;
 	
-	// Why are we doing this instead of iterating over properties in a .style object? Cause Webkit won't iterate over those.
+	// Zašto to radimo umjesto da ponavljamo na svojstvima u .style objektu? Cause Webkit won't iterate over those.
 	var iterate = function(property) {
 		if(property.charAt(0) === '-') {
 			properties.push(property);
@@ -277,10 +277,10 @@ var self = window.PrefixFree = {
 			var parts = property.split('-'),
 				prefix = parts[1];
 				
-			// Count prefix uses
+			// Brojač korištenja pefiksa
 			prefixes[prefix] = ++prefixes[prefix] || 1;
 			
-			// This helps determining shorthands
+			// Ovo pomaže u određivanju skraćivanja
 			while(parts.length > 3) {
 				parts.pop();
 				
