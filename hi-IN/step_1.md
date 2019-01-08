@@ -2,9 +2,9 @@
 
 इस परियोजना में, आपको HTML और CSS से परिचित कराया जाएगा कि आप अपना स्वनिर्धारित जन्मदिन कार्ड कैसे बना सकते हैं।
 
-### What you will make
+### आप क्या बनाएँगे
 
-Click the button to open the birthday card:
+जन्मदिन कार्ड खोलने के लिए बटन पर क्लिक करें:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Click the button to open the birthday card:
   <img src="images/birthday-final.png">
 </div>
 
-### What you will learn
+### आप क्या सीखेंगे
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों को पूरा करता है{:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [डिज़ाइन बेसिक 2D और 3D सामग्री](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Additional information for educators
+### शिक्षकों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/happy-birthday/print){: target = "_ blank"} का उपयोग करें।
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+इस प्रोजेक्ट के लिए GitHub रेपो तक पहुंँचने के लिए फुटर में दिए लिंक का उपयोग करें, जिसके 'en/resources’ फोल्डर के अंदर सभी संसाधन (तैयार प्रोजेक्ट के उदाहरण सहित) हैं।
