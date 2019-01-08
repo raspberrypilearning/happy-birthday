@@ -1,18 +1,18 @@
-## What is CSS?
+## CSS क्या है?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS ** कैस्केडिंग स्टाइल शीट्स** के लिए है, और यह वेबपेजों को स्टाइल करने और उन्हें अच्छा दिखाने के लिए इस्तेमाल की जाने वाली भाषा है।
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ यह कोड आपके वेबपेज को CSS फ़ाइल से जोड़ता है - देखें कि क्या आप इसे HTML दस्तावेज़ के `&lt;head&gt;` में पा सकते हैं:
 
-![screenshot](images/birthday-css-link.png)
+![स्क्रीनशॉट](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS ** के सभी गुणों को सूचीबद्ध करता है ** किसी विशेष टैग के लिए।
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ ` style.css `पर क्लिक करें अपने वेबपेज के लिए सीएसएस कोड देखने के लिए टैब।
     
     ![screenshot](images/birthday-css-tab.png)
 
-+ Find this code:
++ इस कोड को खोजें:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+यह सीएसएस कोड पैराग्राफ के लिए एक संपत्ति निर्धारित करता है (` p `), जो कहता है कि पाठ का रंग काला होना चाहिए। अमेरिकी वर्तनी पर ध्यान दें: 'color'।
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ CSS कोड में 'black' शब्द को 'blue' में बदलें। आपको सभी पैराग्राफ के टेक्स्ट का रंग नीला में बदलना चाहिए।
 
 ![screenshot](images/birthday-edit-css.png)
