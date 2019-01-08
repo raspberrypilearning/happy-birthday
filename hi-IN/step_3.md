@@ -1,63 +1,63 @@
-## What is HTML?
+## HTML क्या है?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML का अर्थ है ** हाइपरटेक्स्ट मार्कअप लैंग्वेज **, भाषा वेबपेज बनाने के लिए उपयोग की जाती है। आइए एक उदाहरण देखें!
 
-You'll be using a website called trinket.io to write HTML code.
+आप HTML कोड लिखने के लिए trinket.io नामक वेबसाइट का उपयोग करेंगे।
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ खोलें [ यह ट्रिंकेट ](http://jumpto.cc/web-intro) {:target= "_ blank"}।
 
-The project should look like this:
+परियोजना इस तरह दिखनी चाहिए:
 
-![screenshot](images/birthday-starter.png)
+![स्क्रीनशॉट](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+जो कोड आप बाईं ओर देख सकते हैं वह HTML है। ट्रिंकेट के दाईं ओर, आप HTML कोड द्वारा बनाया गया वेबपेज देख सकते हैं।
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+HTML ** टैग का उपयोग करता है ** वेबपृष्ठ बनाने के लिए। इस HTML कोड को अपने कोड 8 की लाइन पर देखें:
 
 ```html
-<p>Hi. My name is Andy.</p>
+&lt;p&gt;Hi. My name is Andy.&lt;/p&gt;
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`&lt;p&gt;` एक टैग का एक उदाहरण है, और ** पैराग्राफ के लिए छोटा है ** । आप `&lt;p&gt;` के साथ एक पैरा शुरू कर सकते हैं, और ` के साथ एक पैरा समाप्त कर सकते हैं &lt;/p&gt;` ।
 
-+ Can you spot any other tags?
++ क्या आप कोई अन्य टैग लगा सकते हैं?
 
 ## \--- collapse \---
 
-## title: Answer
+## title: उत्तर
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+आपके द्वारा स्पॉट किया गया एक अन्य टैग `&lt;b&gt;` है, जो ** बोल्ड के लिए है **:
 
 ```html
-<b>running</b>
+&lt;b&gt;running&lt;/b&gt;
 ```
 
-Here are some more:
+यहाँ कुछ और हैं:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `&lt;html&gt;` and `&lt;/html&gt;` mark the start and end of the HTML document
++ `&lt;head&gt;` और ` &lt;/head&gt;` वह जगह है जहां सीएसएस जैसा सामान जाता है (हम बाद में उसी से मिलेंगे)
++ `&lt;body&gt;` और ` &lt;/body&gt;` वह जगह है जहाँ आपकी वेबसाइट की सामग्री जाती है
 
-![screenshot](images/birthday-head-body.png)
+![स्क्रीनशॉट](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ HTML फ़ाइल में (बाईं ओर) पाठ के पैराग्राफ में से एक में बदलाव करें। ** Run **क्लिक करें, और आपको अपना वेबपृष्ठ परिवर्तन (दाईं ओर) देखना चाहिए!
 
-![screenshot](images/birthday-edit-html.png)
+![स्क्रीनशॉट](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ यदि आपने कोई गलती की है और अपने सभी परिवर्तनों को पूर्ववत करना चाहते हैं, तो आप ** menu ** बटन पर क्लिक करें और फिर ** reset ** करें ।
 
-![screenshot](images/birthday-reset.png)
+![स्क्रीनशॉट](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+आपके द्वारा की गई अंतिम चीज़ को पूर्ववत करने के लिए, आप ` Ctrl दबा सकते हैं ` और ` z ` साथ में चाबी।
 
-### You don't need a Trinket account to save your projects!
+### आपको अपने प्रोजेक्ट सहेजने के लिए Trinket खाते की आवश्यकता नहीं है!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+यदि आपके पास Trinket खाता नहीं है, तो **नीचे** के तीर पर क्लिक करें और फिर **Link** (लिंक) पर क्लिक करें। इससेआपको एक लिंक मिलेगा जिसे आप सहेज सकते हैं और बाद में वापस आ सकते हैं। हर बार जबआप परिवर्तन करेंगे, आपको ऐसा करने की आवश्यकता होगी, क्योंकि लिंक बदल जाएगा!
 
-![screenshot](images/birthday-link.png)
+![स्क्रीनशॉट](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+यदि आपके पास एक Trinket खाता है, तो अपने वेबपृष्ठ को सहेजने का सबसे आसान तरीका ** Remix **पर क्लिक करना है ट्रिंकेट के शीर्ष पर बटन। यह आपके प्रोफ़ाइल पर ट्रिंकट की एक कॉपी को बचाएगा।
 
-![screenshot](images/birthday-remix.png)
+![स्क्रीनशॉट](images/birthday-remix.png)
