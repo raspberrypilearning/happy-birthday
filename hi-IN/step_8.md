@@ -6,12 +6,12 @@
 
 यहाँ एक उदाहरण है:
 
-![screenshot](images/birthday-final.png)
+![स्क्रीनशॉट](images/birthday-final.png)
 
 आप अधिक सीएसएस रंग के नाम [ यहां पा सकते हैं ](http://jumpto.cc/colours) {:target="_ blank"}।
 
-+ Once you've finished your card, you can share or email it to someone.
++ एक बार जब आप अपना कार्ड पूरा कर लेते हैं, तो आप इसे किसी को साझा या ईमेल कर सकते हैं।
 
-![screenshot](images/birthday-share.png)
+![स्क्रीनशॉट](images/birthday-share.png)
 
 \--- /challenge \---
