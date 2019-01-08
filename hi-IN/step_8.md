@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Challenge: create a personalised card
+## चुनौती: निजीकृत कार्ड बनाएँ
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ वैयक्तिकृत कार्ड बनाने के लिए HTML और CSS के बारे में आपने जो कुछ भी सीखा है, उसका उपयोग करें। और इसके लिए जन्मदिन कार्ड होना जरूरी नहीं है, यह क्रिसमस या किसी अन्य अवसर के लिए एक हो सकता है!
 
-Here's an example:
+यहाँ एक उदाहरण है:
 
 ![screenshot](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+आप अधिक सीएसएस रंग के नाम [ यहां पा सकते हैं ](http://jumpto.cc/colours) {:target="_ blank"}।
 
 + Once you've finished your card, you can share or email it to someone.
 
