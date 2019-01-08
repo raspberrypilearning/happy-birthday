@@ -8,11 +8,11 @@
 
 + कार्ड के सामने स्थित बटन पर क्लिक करें, और आपको इसे अंदर प्रकट करने के लिए खुला देखना चाहिए।
 
-![screenshot](images/birthday-click.png)
+![स्क्रीनशॉट](images/birthday-click.png)
 
 + HTML कोड की लाइन 14 पर जाएं। अपने कार्ड को अनुकूलित करने के लिए पाठ को संपादित करने का प्रयास करें।
 
-![screenshot](images/birthday-card-html.png)
+![स्क्रीनशॉट](images/birthday-card-html.png)
 
 + क्या आप रोबोट छवि के लिए HTML कोड पा सकते हैं, और शब्द बदल सकते हैं ` robot` को ` sun`?
 
@@ -21,7 +21,7 @@
 + कोड खोजने के लिए लाइन 17 पर देखें।
 + शब्द बदलें ` robot` को ` sun`, और आप छवि परिवर्तन देखेंगे!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![स्क्रीनशॉट](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
 आप किसी भी शब्द का उपयोग कर सकते हैं ` boy`, ` diamond`, ` dinosaur`, ` flower`, ` girl`, ` rainbow`, ` robot`, ` spaceship`, ` sun`, ` tea`, या ` trophy` जन्मदिन कार्ड के लिए, या ` cracker`, ` elf`, ` penguin`, ` present`, ` reindeer`, ` santa`, या ` snowman` अगर आप क्रिसमस कार्ड बनाना पसंद करेंगे।
 
@@ -31,18 +31,18 @@
 
 + ` पृष्ठभूमि-रंग बदलें ` से ` लाइटग्रीन ` ।
 
-![screenshot](images/birthday-card-outside.png)
+![स्क्रीनशॉट](images/birthday-card-outside.png)
 
-+ आप एक छवि का आकार भी बदल सकते हैं। Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ आप एक छवि का आकार भी बदल सकते हैं। ` #outside-pic पर जाएं ` सीएसएस कोड, और ` width `चौड़ाई बदलें और ` height `ऊंचाई बाहर की छवि को ` 200px ` (` पिक्सल ` पिक्सल के लिए खड़ा है)।
 
-![screenshot](images/birthday-card-size.png)
+![स्क्रीनशॉट](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ फॉन्ट को भी बदला जा सकता है। ` #outside-title `पर जाएं सीएसएस और ` font-family` बदलें को ` Comic Sans MS ` और ` font-size ` से ` 16pt ` ।
 
-![screenshot](images/birthday-card-font.png)
+![स्क्रीनशॉट](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+आप अन्य फोंट का उपयोग कर सकते हैं, उदाहरण के लिए:
 
-+ `<span style="font-family: Arial;">arial</span>`
-+ `<span style="font-family: impact;">Impact</span>`
-+ `<span style="font-family: tahoma;">Tahoma</span>`
++ `&lt;span style="font-family: Arial;"&gt;arial&lt;/span&gt;`
++ `&lt;span style="font-family: impact;"&gt;Impact&lt;/span&gt;`
++ `&lt;span style="font-family: tahoma;"&gt;Tahoma&lt;/span&gt;`
