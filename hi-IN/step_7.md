@@ -1,25 +1,25 @@
-## Making a birthday card
+## जन्मदिन कार्ड बनाना
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+अपने स्वयं के कस्टम जन्मदिन कार्ड बनाने के लिए HTML और CSS के बारे में आपने जो सीखा है, उसका उपयोग करते हैं।
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ खोलें [ यह ट्रिंकेट ](http://jumpto.cc/web-card) {:target= "_ blank"}।
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+हमने आपको शुरू करने के लिए बहुत सारे कोड लिखे हैं, लेकिन जन्मदिन का कार्ड अब तक बहुत उबाऊ लग रहा है, इसलिए आप HTML और CSS कोड में कुछ बदलाव करने जा रहे हैं।
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ कार्ड के सामने स्थित बटन पर क्लिक करें, और आपको इसे अंदर प्रकट करने के लिए खुला देखना चाहिए।
 
 ![screenshot](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ HTML कोड की लाइन 14 पर जाएं। अपने कार्ड को अनुकूलित करने के लिए पाठ को संपादित करने का प्रयास करें।
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ क्या आप रोबोट छवि के लिए HTML कोड पा सकते हैं, और शब्द बदल सकते हैं ` robot` को ` sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ कोड खोजने के लिए लाइन 17 पर देखें।
++ शब्द बदलें ` robot` को ` sun`, और आप छवि परिवर्तन देखेंगे!
 
 ![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
