@@ -23,17 +23,17 @@
 
 ![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+आप किसी भी शब्द का उपयोग कर सकते हैं ` boy`, ` diamond`, ` dinosaur`, ` flower`, ` girl`, ` rainbow`, ` robot`, ` spaceship`, ` sun`, ` tea`, या ` trophy` जन्मदिन कार्ड के लिए, या ` cracker`, ` elf`, ` penguin`, ` present`, ` reindeer`, ` santa`, या ` snowman` अगर आप क्रिसमस कार्ड बनाना पसंद करेंगे।
 
-You can also edit the CSS code of the birthday card.
+आप जन्मदिन कार्ड का CSS कोड भी संपादित कर सकते हैं।
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ ` style.css ` लिए टैब पर क्लिक करें । पहला भाग ** बाहर **के CSS styles कार्ड का है।
 
-+ Change the `background-color` to `lightgreen`.
++ ` पृष्ठभूमि-रंग बदलें ` से ` लाइटग्रीन ` ।
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ आप एक छवि का आकार भी बदल सकते हैं। Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
 ![screenshot](images/birthday-card-size.png)
 
