@@ -1,6 +1,6 @@
-## Introduction
+## परिचय
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+इस परियोजना में, आपको HTML और CSS से परिचित कराया जाएगा कि आप अपना स्वनिर्धारित जन्मदिन कार्ड कैसे बना सकते हैं।
 
 ### What you will make
 
