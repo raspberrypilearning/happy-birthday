@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## चुनौती: एक और अनुच्छेद जोड़ें
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- क्या आप अपने वेबपेज पर अन्य दो के नीचे पाठ का तीसरा पैराग्राफ जोड़ सकते हैं?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+याद रखें कि आपका नया पैराग्राफ `&lt;p&gt;` टैग के साथ शुरू होना चाहिए, और ` के साथ समाप्त होना चाहिए &lt;/p&gt;` टैग।
 
-Here's how your webpage might look:
+यहां बताया गया है कि आपका वेबपृष्ठ कैसा दिख सकता है:
 
-![screenshot](images/birthday-paragraph.png)
+![स्क्रीनशॉट](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+क्या आप जोड़ सकते हैं ** बोल्ड ** और <u> रेखांकित किया गया </u> आपके नए पैराग्राफ को पाठ? `&lt;u&gt;` और ` का उपयोग करें &lt;/u&gt;` रेखांकित पाठ के लिए टैग।
 
 \--- /challenge \---
