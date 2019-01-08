@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## चुनौती: और स्टाइल जोड़ें
 
-+ Can you make the paragraphs of text orange?
++ क्या आप टेक्स्ट ऑरेंज के पैराग्राफ बना सकते हैं?
 
-+ Can you make the background grey by changing the `body` property?
++ क्या आप ` body` प्रॉपर्टी को बदलकर बैकग्राउंड ग्रे बना सकते हैं?
 
-![screenshot](images/birthday-more-style.png)
+![स्क्रीनशॉट](images/birthday-more-style.png)
 
 \--- /challenge \---
