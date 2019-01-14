@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- چالش \---
 
-## Challenge: add more styles
+## چالش: سبک های بیشتری اضافه کنید
 
-+ Can you make the paragraphs of text orange?
++ آیا می توانید پاراگراف های نارنجی متن را ایجاد کنید؟
 
-+ Can you make the background grey by changing the `body` property?
++ آیا می توانید پس زمینه خاکستری را با تغییر ویژگی `body`؟
 
-![screenshot](images/birthday-more-style.png)
+![تصویری](images/birthday-more-style.png)
 
-\--- /challenge \---
+\--- \--- چالش \---
