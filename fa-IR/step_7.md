@@ -1,48 +1,48 @@
-## Making a birthday card
+## ساخت کارت تولد
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+اجازه دهید از آنچه شما در مورد HTML و CSS آموخته اید برای ایجاد کارت تولد سفارشی خود استفاده کنید.
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ [این نکته را باز کنید](http://jumpto.cc/web-card){: target = "_ blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+ما کد زیادی را برای آغاز کار خود نوشته ایم، اما کارت تولد تا به حال خیلی خسته کننده است، بنابراین شما قصد دارید تغییراتی در کد HTML و CSS ایجاد کنید.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ بر روی دکمه روی جلوی کارت کلیک کنید و باید آن را باز کنید تا داخل ظاهر شود.
 
-![screenshot](images/birthday-click.png)
+![تصویری](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ به خط 14 کد HTML بروید برای نوشتن کارت خود، متن را ویرایش کنید
 
-![screenshot](images/birthday-card-html.png)
+![تصویری](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ آیا می توانید کد HTML را برای تصویر ربات پیدا کنید و کلمه `robot` to `sun`عوض کنید؟
 
-\--- hints \--- \--- hint \---
+\--- نکات \--- \--- \--- اشاره
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ کد 17 را در خط 17 نگاه کنید.
++ تغییر کلمه `ربات` به `خورشید`، و شما تغییر تصویر را ببینید!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![تصویری](images/birthday-card-sun.png) \--- / اشاره \--- \--- / نکات \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+شما می توانید هر یک از کلمات `پسر`، `الماس`، `دایناسور`، `گل`، `دختر`، `رنگین کمان`، `ربات`، `سفینه فضایی`، `خورشید`، `چای`، یا `جایزه` برای یک کارت تولد، یا `کراکر`، `elf`، `پنگوئن`، `حاضر`، `گوزن شمالی`، `سانتا`یا `آدم برفی` اگر ترجیح می دهید یک کارت کریسمس ایجاد کنید.
 
-You can also edit the CSS code of the birthday card.
+شما همچنین می توانید کد CSS کارت تولد را ویرایش کنید.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ بر روی زبانه برای `style.css`کلیک کنید. بخش اول همه سبکهای CSS برای **خارج از** کارت است.
 
-+ Change the `background-color` to `lightgreen`.
++ `پس زمینه رنگ` تا `نور سبز`.
 
-![screenshot](images/birthday-card-outside.png)
+![تصویری](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ شما همچنین می توانید اندازه یک تصویر را تغییر دهید. به کد `# outside-pic` و `عرض` و `ارتفاع` تصویر خارج را به `200 پیکسل` (`پیکسل` پیکسل).
 
-![screenshot](images/birthday-card-size.png)
+![تصویری](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ فونت نیز می تواند تغییر کند. به `# outside-title` CSS بروید و `فونت-خانوادگی` تا `Comic Sans MS` و `فونت-اندازه` تا `16pt`.
 
-![screenshot](images/birthday-card-font.png)
+![تصویری](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+شما می توانید از فونت های دیگر استفاده کنید، به عنوان مثال:
 
 + `<span style="font-family: Arial;">arial</span>`
-+ `<span style="font-family: impact;">Impact</span>`
++ `<span style="font-family: impact;">ضربه</span>`
 + `<span style="font-family: tahoma;">Tahoma</span>`
