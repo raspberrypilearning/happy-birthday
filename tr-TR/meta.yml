@@ -1,0 +1,35 @@
+---
+hero_image: images / happy-birthday.png
+theme: turkuaz
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, tasarım-1, programlama-0, phys-comp-0, üretim-0, topluluk-0
+title: Doğum günün kutlu olsun
+description: Bir web sitesinde çevrimiçi doğum günü kartı hazırlayın
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+interests: Sanat
+technologies: html CSS-JavaScript
+site_areas: projeler
+hardware: ''
+software: html CSS-JavaScript
+version: 4
+last_tested: 2017/01/01
+steps:
+  - 
+    title: Giriş
+  - 
+    title: Neye ihtiyacın olacak
+  - 
+    title: HTML nedir?
+  - 
+    title: 'Zorluk: başka bir paragraf ekle'
+  - 
+    title: CSS nedir?
+  - 
+    title: 'Zorluk: daha fazla stil ekle'
+  - 
+    title: Doğum günü kartı yapmak
+  - 
+    title: 'Mücadelesi: kişiselleştirilmiş bir kart oluşturun'
