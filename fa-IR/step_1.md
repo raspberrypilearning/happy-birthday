@@ -1,10 +1,10 @@
-## Introduction
+## معرفی
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+در این پروژه، با یادگیری نحوه ایجاد کارت تولد سفارشی خود، به HTML و CSS معرفی می شود.
 
-### What you will make
+### چه کاری انجام خواهد داد
 
-Click the button to open the birthday card:
+برای باز کردن کارت تولد روی دکمه کلیک کنید:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Click the button to open the birthday card:
   <img src="images/birthday-final.png">
 </div>
 
-### What you will learn
+### آنچه شما یاد خواهید گرفت
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+این پروژه را پوشش می دهد عناصر از رشته های زیر از [ساخت برنامه درسی تمشک پی دیجیتال](http://rpf.io/curriculum){: هدف = "_ خالی"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [طراحی پایه های 2D و 3D دارایی](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
 
-### Additional information for educators
+### اطلاعات اضافی برای مربیان
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+اگر شما نیاز به چاپ این پروژه، لطفا با استفاده از [نسخه مناسب چاپ](https://projects.raspberrypi.org/en/projects/happy-birthday/print){: هدف = "_ خالی"}.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+از لینک در پایین صفحه برای دسترسی به repo GitHub برای این پروژه استفاده کنید، که حاوی تمام منابع (از جمله یک پروژه به پایان رسیده) در پوشه en / resources است.
