@@ -1,27 +1,27 @@
-## What is CSS?
+## CSS چیست؟
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS مخفف **Cascading Style Sheets**و زبان مورد استفاده برای شبیه سازی صفحات وب است و آنها را زیبا می کند.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ این کد صفحه وب شما را به یک فایل CSS لینک می کند - ببینید اگر می توانید آن را در `<head>` سند HTML پیدا کنید:
 
-![screenshot](images/birthday-css-link.png)
+![تصویری](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS لیستی از **خواص** برای یک تگ خاص است.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ برای دیدن کد CSS برای صفحه وب خود، بر روی `style.css` tab کلیک کنید.
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![تصویری](images/birthday-css-tab.png)
 
-+ Find this code:
++ این کد را پیدا کنید:
 
 ```html
 p {
-    color: black;
+    رنگ: سیاه؛
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+این کد CSS یک مشخصه برای پاراگراف ها (`p`) را تعیین می کند که بیان می کند که رنگ متن باید سیاه باشد. یادآوری املای آمریکا: "رنگ".
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ کلمه "سیاه" را در کد CSS به "آبی" تغییر دهید. شما باید متن رنگ تمام پاراگرافها را به آبی تغییر دهید.
 
-![screenshot](images/birthday-edit-css.png)
+![تصویری](images/birthday-edit-css.png)
