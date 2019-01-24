@@ -15,7 +15,7 @@ Kood, mida näed vasakul, on HTML. Trinketist paremal näed HTML-koodi tehtud ve
 HTML kasutab veebilehtede loomiseks **silte**. Otsi seda HTML-koodi oma koodi 8. realt:
 
 ```html
-<p>Hei. Minu nimi on Andy.</p>
+<p>Hei. Minu nimi on Anti.</p>
 ```
 
 `<p>` on sildi näidis ja see on **lõigu** lühend. Sinu lõigu alguses võib olla `<p>` ja lõpus `</p>`.
