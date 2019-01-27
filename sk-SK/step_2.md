@@ -1,9 +1,9 @@
-## What you will need
+## Čo budete potrebovať
 
-### Hardware
+### Hardvér
 
-+ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
++ Počítač schopný prístupu na [trinket.io](https://trinket.io) {: target = "_blank"}
 
-### Software
+### Softvér
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
+Tento projekt môže byť dokončený v prehliadači použitím [trinket.io](https://trinket.io){:target="_blank"}.
