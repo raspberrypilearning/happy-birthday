@@ -1,16 +1,16 @@
 ## Čo je HTML?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML znamená **Hypertextový značkovací jazyk (z angl. Hypertext Markup Language)**, jazyk používaný na vytváranie webových stránok. Poďme sa pozrieť na príklad!
 
-You'll be using a website called trinket.io to write HTML code.
+Na napísanie HTML kódu budete používať webovú stránku nazvanú trinket.io.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Otvorte [tento trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
-The project should look like this:
+Projekt by mal vyzerať takto:
 
 ![screenshot](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+Kód, ktorý môžete vidieť na ľavej strane, je HTML. V pravej časti trinket-u môžete vidieť webovú stránku, ktorú kód HTML vytvoril.
 
 HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
 
