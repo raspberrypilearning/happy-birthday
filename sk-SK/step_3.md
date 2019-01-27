@@ -12,10 +12,10 @@ Projekt by mal vyzerať takto:
 
 Kód, ktorý môžete vidieť na ľavej strane, je HTML. V pravej časti trinket-u môžete vidieť webovú stránku, ktorú kód HTML vytvoril.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+Jazyk HTML využíva **značky, tzv. tagy** na vytváranie webových stránok. Všimnite si tento 8 riadok vášho HTML kódu:
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p>Ahoj. Moje meno je Andrej.</p>
 ```
 
 `<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
