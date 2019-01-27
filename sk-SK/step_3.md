@@ -50,7 +50,7 @@ Tu sú niektoré ďalšie:
 
 ![screenshot](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+Ak chcete vrátiť späť iba poslednú vec, ktorú ste urobili, stlačte spolu klávesy `Ctrl` a `z`.
 
 ### You don't need a Trinket account to save your projects!
 
