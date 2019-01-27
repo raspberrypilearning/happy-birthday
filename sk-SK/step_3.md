@@ -36,13 +36,13 @@ Tu sú niektoré ďalšie:
 
 + `<html>` a `</html>` označujú začiatok a koniec HTML dokumentu
 + `<head>` a `</head>` označujú miesto, kde vkladáme napríklad CSS (k tomu sa dostaneme neskôr)
-+ `<body>` and `</body>` is where your website content goes
++ `<body>` a `</body>` označuje miesto, kde sa nachádza obsah vašej webovej stránky
 
 ![screenshot](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ Zmeňte jeden z odsekov textu v súbore HTML (vľavo). Kliknite na tlačidlo **Spustiť** a mali by ste vidieť zmenu vašej webovej stránky (vpravo)!
 
 ![screenshot](images/birthday-edit-html.png)
 
