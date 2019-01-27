@@ -46,7 +46,7 @@ Tu sú niektoré ďalšie:
 
 ![screenshot](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ Ak ste urobili chybu a chcete vrátiť všetky svoje zmeny späť, môžete kliknúť na **hlavnú ponuku** a následne na tlačidlo **Reset**.
 
 ![screenshot](images/birthday-reset.png)
 
