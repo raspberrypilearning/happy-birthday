@@ -52,9 +52,9 @@ Tu sú niektoré ďalšie:
 
 Ak chcete vrátiť späť iba poslednú vec, ktorú ste urobili, stlačte spolu klávesy `Ctrl` a `z`.
 
-### You don't need a Trinket account to save your projects!
+### Nepotrebujete účet Trinket na ukladanie projektov!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Ak nemáte účet Trinket, kliknite na šípku **nadol** a potom na **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
 ![screenshot](images/birthday-link.png)
 
