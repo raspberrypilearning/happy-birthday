@@ -18,13 +18,13 @@ Jazyk HTML využíva **značky, tzv. tagy** na vytváranie webových stránok. V
 <p>Ahoj. Moje meno je Andrej.</p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`<p>` je príkladom značky, ktorá označuje krátky **odsek**. Odsek môžete začať s `<p>` a ukončiť ho s `</p>`.
 
-+ Can you spot any other tags?
++ Dokážete nájsť ďalšie značky?
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Odpoveď
 
 One other tag you might have spotted is `<b>`, which stands for **bold**:
 
