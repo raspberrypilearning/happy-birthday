@@ -16,9 +16,9 @@ Kliknite na tlačidlo, aby ste otvorili narodeninové blahoželanie:
 
 Tento projekt pokrýva časti z nasledujúcich zdrojov kurikula [Raspberry Pi Digital Making](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Základy dizajnu v 2D a 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Additional information for educators
+### Doplňujúce informácie pre učiteľov
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
