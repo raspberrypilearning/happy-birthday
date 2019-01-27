@@ -8,7 +8,7 @@ Na napísanie HTML kódu budete používať webovú stránku nazvanú trinket.io
 
 Projekt by mal vyzerať takto:
 
-![screenshot](images/birthday-starter.png)
+![snímka obrazovky](images/birthday-starter.png)
 
 Kód, ktorý môžete vidieť na ľavej strane, je HTML. V pravej časti trinket-u môžete vidieť webovú stránku, ktorú kód HTML vytvoril.
 
@@ -38,26 +38,26 @@ Tu sú niektoré ďalšie:
 + `<head>` a `</head>` označujú miesto, kde vkladáme napríklad CSS (k tomu sa dostaneme neskôr)
 + `<body>` a `</body>` označuje miesto, kde sa nachádza obsah vašej webovej stránky
 
-![screenshot](images/birthday-head-body.png)
+![snímka obrazovky](images/birthday-head-body.png)
 
 \--- /collapse \---
 
 + Zmeňte jeden z odsekov textu v súbore HTML (vľavo). Kliknite na tlačidlo **Spustiť** a mali by ste vidieť zmenu vašej webovej stránky (vpravo)!
 
-![screenshot](images/birthday-edit-html.png)
+![snímka obrazovky](images/birthday-edit-html.png)
 
 + Ak ste urobili chybu a chcete vrátiť všetky svoje zmeny späť, môžete kliknúť na **hlavnú ponuku** a následne na tlačidlo **Reset**.
 
-![screenshot](images/birthday-reset.png)
+![snímka obrazovky](images/birthday-reset.png)
 
 Ak chcete vrátiť späť iba poslednú vec, ktorú ste urobili, stlačte spolu klávesy `Ctrl` a `z`.
 
 ### Nepotrebujete účet Trinket na ukladanie projektov!
 
-Ak nemáte účet Trinket, kliknite na šípku **nadol** a potom na **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Ak nemáte účet Trinket, kliknite na šípku **nadol** a potom na **Link**. Dostanete odkaz, ktorý môžete uložiť a neskôr pomocou neho vrátiť. Budete to musieť urobiť zakaždým, keď vykonáte zmeny, pretože odkaz sa zmení!
 
-![screenshot](images/birthday-link.png)
+![snímka obrazovky](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+Ak máte účet Trinket, najjednoduchší spôsob, ako uložiť vašu webovú stránku, je kliknúť na tlačidlo **Remix** v hornej časti. Tým sa uloží kópia trinket stránky vo vašom profile.
 
-![screenshot](images/birthday-remix.png)
+![snímka obrazovky](images/birthday-remix.png)
