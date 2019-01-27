@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## Výzva: pridajte ďalší odsek
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- Môžete pridať tretí odsek textu na vašu webovú stránku pod predošlé dve?
 
 Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
 
