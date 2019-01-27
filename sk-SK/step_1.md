@@ -2,9 +2,9 @@
 
 V tomto projekte sa zoznámite s HTML a CSS, pomocou ktorých sa naučíte ako vytvoriť svoje vlastné narodeninové blahoželanie.
 
-### What you will make
+### Čo urobíte
 
-Click the button to open the birthday card:
+Kliknite na tlačidlo, aby ste otvorili narodeninové blahoželanie:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,9 +12,9 @@ Click the button to open the birthday card:
   <img src="images/birthday-final.png">
 </div>
 
-### What you will learn
+### Čo sa naučíte
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Tento projekt pokrýva časti z nasledujúcich zdrojov kurikula [Raspberry Pi Digital Making](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
