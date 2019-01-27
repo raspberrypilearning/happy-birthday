@@ -1,4 +1,4 @@
-## What is HTML?
+## Čo je HTML?
 
 HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
 
