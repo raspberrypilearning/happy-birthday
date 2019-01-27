@@ -4,9 +4,9 @@
 
 - Môžete pridať tretí odsek textu na vašu webovú stránku pod predošlé dve?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+Nezabúdajte, že nový odsek by mal začínať značkou `<p>` a končiť s `</p>`.
 
-Here's how your webpage might look:
+Tu je znázornené ako by mala vyzerať vaša webová stránka:
 
 ![screenshot](images/birthday-paragraph.png)
 
