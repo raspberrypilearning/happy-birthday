@@ -1,6 +1,6 @@
 ## Úvod
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+V tomto projekte sa zoznámite s HTML a CSS, pomocou ktorých sa naučíte ako vytvoriť svoje vlastné narodeninové blahoželanie.
 
 ### What you will make
 
