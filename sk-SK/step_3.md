@@ -35,7 +35,7 @@ Jazyk HTML využíva **značky, tzv. tagy** na vytváranie webových stránok. V
 Tu sú niektoré ďalšie:
 
 + `<html>` a `</html>` označujú začiatok a koniec HTML dokumentu
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
++ `<head>` a `</head>` označujú miesto, kde vkladáme napríklad CSS (k tomu sa dostaneme neskôr)
 + `<body>` and `</body>` is where your website content goes
 
 ![screenshot](images/birthday-head-body.png)
