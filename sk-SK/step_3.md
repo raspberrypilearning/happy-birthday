@@ -26,15 +26,15 @@ Jazyk HTML využíva **značky, tzv. tagy** na vytváranie webových stránok. V
 
 ## title: Odpoveď
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+Ďalšia značka, ktorú ste možno zaznamenali, je `<b>`, ktorá označuje **tučné písmo**:
 
 ```html
-<b>running</b>
+<b>beh</b>
 ```
 
-Here are some more:
+Tu sú niektoré ďalšie:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
++ `<html>` a `</html>` označujú začiatok a koniec HTML dokumentu
 + `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
 + `<body>` and `</body>` is where your website content goes
 
