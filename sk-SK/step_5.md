@@ -1,6 +1,6 @@
 ## Čo je CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS je označenie pre **Kaskádové štýly (z angl. Cascading Style Sheets)** a je to jazyk používaný na vytváranie pekného vzhľadu webových stránok.
 
 + This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
 
