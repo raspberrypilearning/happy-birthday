@@ -4,13 +4,13 @@ CSS je označenie pre **Kaskádové štýly (z angl. Cascading Style Sheets)** a
 
 + Tento kód prepája vašu webovú stránku s CSS súborom - pozrite sa, či ju nájdete v `<head>` HTML dokumentu:
 
-![screenshot](images/birthday-css-link.png)
+![snímka obrazovky](images/birthday-css-link.png)
 
 CSS uvádza všetky **vlastnosti** pre príslušnú značku.
 
 + Kliknite na kartu `style.css`, aby ste videli CSS kód vašej webovej stránky.
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![snímka obrazovky](images/birthday-css-tab.png)
 
 + Nájdite tento kód:
 
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Tento kód CSS určuje vlastnosť odsekov (`p`) a hovorí, že farba textu by mala byť čierna. Všimnite si americký pravopis: 'color'.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ V CSS kóde zmeňte slovo 'black' na 'blue'. Mali by ste vidieť, že farba textu všetkých odsekov sa zmení na modrú.
 
-![screenshot](images/birthday-edit-css.png)
+![snímka obrazovky](images/birthday-edit-css.png)
