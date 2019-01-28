@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## Výzva: pridajte ďalšie štýly
 
-+ Can you make the paragraphs of text orange?
++ Môžete urobiť odseky v texte oranžové?
 
-+ Can you make the background grey by changing the `body` property?
++ Môžete urobiť šedé pozadie zmenou vlastnosti `body`?
 
-![screenshot](images/birthday-more-style.png)
+![snímka obrazovky](images/birthday-more-style.png)
 
 \--- /challenge \---
