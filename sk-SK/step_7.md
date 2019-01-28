@@ -4,7 +4,7 @@ Využite to, čo ste sa naučili o HTML a CSS, aby ste vytvorili svoj vlastný n
 
 + Otvorte [tento trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Napísali sme veľa kódu, aby ste mohli začať, ale narodeninové blahoželanie vyzerá dosť nudne. Urobíme preto nejaké zmeny v kóde HTML a CSS.
 
 + Click the button on the front of the card, and you should see it open to reveal the inside.
 
