@@ -2,17 +2,17 @@
 
 CSS je označenie pre **Kaskádové štýly (z angl. Cascading Style Sheets)** a je to jazyk používaný na vytváranie pekného vzhľadu webových stránok.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Tento kód prepája vašu webovú stránku s CSS súborom - pozrite sa, či ju nájdete v `<head>` HTML dokumentu:
 
 ![screenshot](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS uvádza všetky **vlastnosti** pre príslušnú značku.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ Kliknite na kartu `style.css`, aby ste videli CSS kód vašej webovej stránky.
     
     ![screenshot](images/birthday-css-tab.png)
 
-+ Find this code:
++ Nájdite tento kód:
 
 ```html
 p {
