@@ -1,8 +1,8 @@
-## Making a birthday card
+## Tvorba blahoželania
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Využite to, čo ste sa naučili o HTML a CSS, aby ste vytvorili svoj vlastný narodeninový pozdrav.
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Otvorte [tento trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
 We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
 
