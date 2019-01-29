@@ -6,12 +6,12 @@
 
 Napríklad:
 
-![screenshot](images/birthday-final.png)
+![snímka obrazovky](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Ďalšie názvy farieb môžete nájsť [tu](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Once you've finished your card, you can share or email it to someone.
++ Po dokončení svojho pozdravu ho môžete zdieľať alebo poslať niekomu e-mailom.
 
-![screenshot](images/birthday-share.png)
+![snímka obrazovky](images/birthday-share.png)
 
 \--- /challenge \---
