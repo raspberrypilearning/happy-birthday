@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: create a personalised card
+## Výzva: vytvorte si vlastné blahoželanie
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ Použiť všetko, čo ste sa naučili o HTML a CSS, aby ste dokončili blahoželanie podľa vlastných predstáv. A nemusí to byť blahoželanie, mohol by to byť Vianočný pozdrav alebo pozdrav k inej príležitosti!
 
-Here's an example:
+Napríklad:
 
 ![screenshot](images/birthday-final.png)
 
