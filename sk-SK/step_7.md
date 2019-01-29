@@ -27,13 +27,13 @@ Môžete použiť akékoľvek slovo `boy`, `diamond`, `dinosaur`, `flowers`, `gi
 
 Môžete tiež upraviť CSS kód narodeninového blahoželania.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Kliknite na kartu `style.css`. V prvej časti sú všetky CSS štýly pre **vonkajšiu** časť pozdravu.
 
-+ Change the `background-color` to `lightgreen`.
++ Zmeňte farbu pozadia `background-color` na svetlozelenú - `lightgreen`.
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ Taktiež môžete zmeniť veľkosť obrázka. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
 ![screenshot](images/birthday-card-size.png)
 
