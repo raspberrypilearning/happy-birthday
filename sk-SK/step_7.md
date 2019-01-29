@@ -6,20 +6,20 @@ Využite to, čo ste sa naučili o HTML a CSS, aby ste vytvorili svoj vlastný n
 
 Napísali sme veľa kódu, aby ste mohli začať, ale narodeninové blahoželanie vyzerá dosť nudne. Urobíme preto nejaké zmeny v kóde HTML a CSS.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Kliknite na tlačidlo na prednej strane pozdravu. Tým pozdrav otvoríte a odkryjete jeho vnútornú stranu.
 
 ![screenshot](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Prejdite na 14 riadok HTML kódu. Skúste upraviť text, aby ste ho prispôsobili vašej predstave blahoželania.
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Dokážete nájsť vo vašom HTML kóde obrázok robota a zmeniť slovo `robot` na `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Pozrite sa na 17 riadok, kde nájdete kód.
++ Zmeňte slovo `robot` na `sun` a uvidíte zmenu obrázka na slnko!
 
 ![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
