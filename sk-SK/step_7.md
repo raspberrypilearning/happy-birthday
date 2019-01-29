@@ -23,9 +23,9 @@ Napísali sme veľa kódu, aby ste mohli začať, ale narodeninové blahoželani
 
 ![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Môžete použiť akékoľvek slovo `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, alebo `trophy` pre narodeninový pozdrav, alebo `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, alebo `snowman` ak máte radšej Vianočné pozdravy.
 
-You can also edit the CSS code of the birthday card.
+Môžete tiež upraviť CSS kód narodeninového blahoželania.
 
 + Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
 
