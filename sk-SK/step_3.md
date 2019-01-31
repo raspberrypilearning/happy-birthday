@@ -52,9 +52,9 @@ Tu sú niektoré ďalšie:
 
 Ak chcete vrátiť späť iba poslednú vec, ktorú ste urobili, stlačte spolu klávesy `Ctrl` a `z`.
 
-### Nepotrebujete účet Trinket na ukladanie projektov!
+### Na ukladanie projektov nepotrebujete účet Trinket!
 
-Ak nemáte účet Trinket, kliknite na šípku **nadol** a potom na **Link**. Dostanete odkaz, ktorý môžete uložiť a neskôr pomocou neho vrátiť. Budete to musieť urobiť zakaždým, keď vykonáte zmeny, pretože odkaz sa zmení!
+Ak nemáte účet Trinket, kliknite na šípku **nadol** a potom na **Link**. Dostanete odkaz, ktorý môžete uložiť a neskôr sa pomocou neho vrátiť. Budete to musieť urobiť zakaždým, keď vykonáte zmeny, pretože odkaz sa zmení!
 
 ![snímka obrazovky](images/birthday-link.png)
 
