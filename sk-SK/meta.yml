@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Všetko najlepšie k narodeninám
-description: Vytvorte si online blahoželanie k narodeninám na webovej stránke
+description: Vytvorte si online pozdrav k narodeninám na webovej stránke
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
 interests: art
 technologies: html-css-javascript
@@ -30,6 +30,6 @@ steps:
   - 
     title: 'Výzva: pridajte ďalšie štýly'
   - 
-    title: Tvorba blahoželania
+    title: Tvorba narodeninového pozdravu
   - 
-    title: 'Výzva: vytvorte si vlastné blahoželanie'
+    title: 'Výzva: vytvorte si vlastný pozdrav'
