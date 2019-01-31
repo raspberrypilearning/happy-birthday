@@ -1,6 +1,6 @@
 ## Úvod
 
-V tomto projekte sa zoznámite s HTML a CSS, pomocou ktorých sa naučíte ako vytvoriť svoje vlastné narodeninové blahoželanie.
+V tomto projekte sa zoznámite s HTML a CSS, pomocou ktorých si vytvoríte svoj vlastný narodeninový pozdrav.
 
 ### Čo urobíte
 
