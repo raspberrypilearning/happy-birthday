@@ -1,16 +1,16 @@
-## Tvorba blahoželania
+## Tvorba narodeninového pozdravu
 
 Využite to, čo ste sa naučili o HTML a CSS, aby ste vytvorili svoj vlastný narodeninový pozdrav.
 
 + Otvorte [tento trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
-Napísali sme veľa kódu, aby ste mohli začať, ale narodeninové blahoželanie vyzerá dosť nudne. Urobíme preto nejaké zmeny v kóde HTML a CSS.
+Napísali sme veľa kódu, aby ste mohli začať, ale narodeninový pozdrav vyzerá dosť nudne. Urobíme preto nejaké zmeny v kóde HTML a CSS.
 
-+ Kliknite na tlačidlo na prednej strane pozdravu. Tým pozdrav otvoríte a odkryjete jeho vnútornú stranu.
++ Kliknite na tlačidlo na prednej strane pozdravu. Tým ho otvoríte a odkryjete jeho vnútornú stranu.
 
 ![snímka obrazovky](images/birthday-click.png)
 
-+ Prejdite na 14 riadok HTML kódu. Skúste upraviť text, aby ste ho prispôsobili vašej predstave blahoželania.
++ Prejdite na 14 riadok HTML kódu. Skúste upraviť text, aby ste pozdrav prispôsobili vašej predstave.
 
 ![snímka obrazovky](images/birthday-card-html.png)
 
@@ -25,7 +25,7 @@ Napísali sme veľa kódu, aby ste mohli začať, ale narodeninové blahoželani
 
 Môžete použiť akékoľvek slovo `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, alebo `trophy` pre narodeninový pozdrav, alebo `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, alebo `snowman` ak máte radšej Vianočné pozdravy.
 
-Môžete tiež upraviť CSS kód narodeninového blahoželania.
+Taktiež môžete upraviť CSS kód narodeninového pozdravu.
 
 + Kliknite na kartu `style.css`. V prvej časti sú všetky CSS štýly pre **vonkajšiu** časť pozdravu.
 
