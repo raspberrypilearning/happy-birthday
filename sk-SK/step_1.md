@@ -4,7 +4,7 @@ V tomto projekte sa zoznámite s HTML a CSS, pomocou ktorých si vytvoríte svoj
 
 ### Čo urobíte
 
-Kliknite na tlačidlo, aby ste otvorili narodeninové blahoželanie:
+Kliknite na tlačidlo, aby ste otvorili narodeninový pozdrav:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
