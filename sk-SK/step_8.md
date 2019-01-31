@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Výzva: vytvorte si vlastné blahoželanie
+## Výzva: vytvorte si vlastný pozdrav
 
-+ Použiť všetko, čo ste sa naučili o HTML a CSS, aby ste dokončili blahoželanie podľa vlastných predstáv. A nemusí to byť blahoželanie, mohol by to byť Vianočný pozdrav alebo pozdrav k inej príležitosti!
++ Využite všetko, čo ste sa naučili o HTML a CSS, aby ste dokončili pozdrav podľa vlastných predstáv. A nemusí to byť len narodeninový pozdrav, mohol by to byť Vianočný pozdrav alebo pozdrav k inej príležitosti!
 
 Napríklad:
 
