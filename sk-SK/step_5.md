@@ -2,7 +2,7 @@
 
 CSS je označenie pre **Kaskádové štýly (z angl. Cascading Style Sheets)** a je to jazyk používaný na vytváranie pekného vzhľadu webových stránok.
 
-+ Tento kód prepája vašu webovú stránku s CSS súborom - pozrite sa, či ju nájdete v `<head>` HTML dokumentu:
++ Tento kód prepája vašu webovú stránku s CSS súborom - pozrite sa, či ju nájdete v časti `<head>` HTML dokumentu:
 
 ![snímka obrazovky](images/birthday-css-link.png)
 
