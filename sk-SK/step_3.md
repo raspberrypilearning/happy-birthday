@@ -29,7 +29,7 @@ Jazyk HTML využíva **značky, tzv. tagy** na vytváranie webových stránok. V
 Ďalšia značka, ktorú ste možno zaznamenali, je `<b>`, ktorá označuje **tučné písmo**:
 
 ```html
-<b>beh</b>
+<b>behám</b>
 ```
 
 Tu sú niektoré ďalšie:
