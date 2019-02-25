@@ -2,11 +2,11 @@
 
 ## Výzva: pridajte ďalší odsek
 
-- Môžete pridať tretí odsek textu na vašu webovú stránku pod predošlé dve?
+- Dokážete na svoju webovú stránku pridať pod predošlé dva odseky tretí?
 
-Nezabúdajte, že nový odsek by mal začínať značkou `<p>` a končiť s `</p>`.
+Nezabúdajte, že nový odsek by sa mal začínať značkou `<p>` a končiť s `</p>`.
 
-Tu je znázornené ako by mala vyzerať vaša webová stránka:
+Takto by mohla vyzerať vaša webová stránka:
 
 ![snímka obrazovky](images/birthday-paragraph.png)
 
