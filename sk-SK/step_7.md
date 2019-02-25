@@ -23,7 +23,7 @@ Hoci sme pre vás na začiatok napísali veľa kódu, narodeninový pozdrav stá
 
 ![snímka obrazovky](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-Môžete použiť akékoľvek slovo `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, alebo `trophy` pre narodeninový pozdrav, alebo `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, alebo `snowman` ak máte radšej Vianočné pozdravy.
+Pre narodeninový pozdrav môžete použiť ktorékoľvek zo slov `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, alebo `trophy`, a ak chcete vytvoriť vianočný pozdrav, môžete si vybrať zo slov `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, alebo `snowman`.
 
 V narodeninovom pozdrave môžete upraviť aj CSS kód.
 
