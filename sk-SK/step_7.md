@@ -4,13 +4,13 @@ Vytvorte si vlastný narodeninový pozdrav pomocou toho, čo ste sa naučili o H
 
 + Otvorte [tento trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
-Napísali sme veľa kódu, aby ste mohli začať, ale narodeninový pozdrav vyzerá dosť nudne. Urobíme preto nejaké zmeny v kóde HTML a CSS.
+Hoci sme pre vás na začiatok napísali veľa kódu, narodeninový pozdrav stále vyzerá dosť nudne. V HTML a CSS kóde preto urobíme zopár zmien.
 
 + Kliknite na tlačidlo na prednej strane pozdravu. Tým ho otvoríte a odkryjete jeho vnútornú stranu.
 
 ![snímka obrazovky](images/birthday-click.png)
 
-+ Prejdite na 14 riadok HTML kódu. Skúste upraviť text, aby ste pozdrav prispôsobili vašej predstave.
++ V HTML kóde prejdite do riadku č. 14. Skúste upraviť text, aby ste pozdrav prispôsobili svojej predstave.
 
 ![snímka obrazovky](images/birthday-card-html.png)
 
@@ -33,15 +33,15 @@ Taktiež môžete upraviť CSS kód narodeninového pozdravu.
 
 ![snímka obrazovky](images/birthday-card-outside.png)
 
-+ Taktiež môžete zmeniť veľkosť obrázka. Prejdite do časti `#outside-pic` CSS kódu a zmeňte šírku - `width` a výšku - `height` vonkajšieho obrázka na `200px` (`px` označuje pixely).
++ Taktiež môžete zmeniť veľkosť obrázka. V CSS kóde prejdite do časti `#outside-pic` a zmeňte šírku - `width` a výšku - `height` vonkajšieho obrázka na `200px` (`px` označuje pixely).
 
 ![snímka obrazovky](images/birthday-card-size.png)
 
-+ Môžete tiež zmeniť písmo. Prejdite do časti CSS kódu nazvanej `#outside-title` a zmeňte `font-family` na `Comic Sans MS` a veľkosť písma `font-size` na `16pt`.
++ Môžete tiež zmeniť typ a veľkosť písma. V CSS kóde prejdite do časti `#outside-title` a zmeňte `font-family` na `Comic Sans MS` a veľkosť písma z `font-size` na `16pt`.
 
 ![snímka obrazovky](images/birthday-card-font.png)
 
-Môžete použiť aj iné druhy písma, napríklad:
+Môžete použiť aj iné druhy písma, ako napríklad:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
