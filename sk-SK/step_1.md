@@ -4,7 +4,7 @@ V tomto projekte sa zoznámite s HTML a CSS, pomocou ktorých si vytvoríte svoj
 
 ### Čo urobíte
 
-Kliknite na tlačidlo, aby ste otvorili narodeninový pozdrav:
+Kliknutím na tlačidlo otvorte narodeninový pozdrav:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -22,4 +22,4 @@ Tento projekt pokrýva časti z nasledujúcich zdrojov kurikula [Raspberry Pi Di
 
 Ak potrebujete tento projekt vytlačiť, použite [verziu určenú pre tlač](https://projects.raspberrypi.org/en/projects/happy-birthday/print){: target = "_ blank"} .
 
-Pomocou odkazu na konci strany sa dostanete do GitHub repozitára tohto projektu, ktorý obsahuje všetky zdroje (vrátane príkladu hotového projektu) v priečinku ‘en/resources’.
+Pomocou odkazu na konci strany sa dostanete do GitHub archívu pre tento projektu, ktorý obsahuje všetky zdroje (vrátane príkladu hotového projektu) v priečinku ‘en/resources’.
