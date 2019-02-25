@@ -1,6 +1,6 @@
 ## Tvorba narodeninového pozdravu
 
-Využite to, čo ste sa naučili o HTML a CSS, aby ste vytvorili svoj vlastný narodeninový pozdrav.
+Vytvorte si vlastný narodeninový pozdrav pomocou toho, čo ste sa naučili o HTML a CSS.
 
 + Otvorte [tento trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
