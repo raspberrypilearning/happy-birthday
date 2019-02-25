@@ -2,9 +2,9 @@
 
 ## Výzva: pridajte ďalšie štýly
 
-+ Môžete urobiť odseky v texte oranžové?
++ Dokážeš zmeniť farbu textu v odsekoch na oranžovú?
 
-+ Môžete urobiť šedé pozadie zmenou vlastnosti `body`?
++ Dokážeš zmeniť farbu pozadia na šedú zmenou vlastnosti `body`?
 
 ![snímka obrazovky](images/birthday-more-style.png)
 
