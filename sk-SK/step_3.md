@@ -26,13 +26,13 @@ Jazyk HTML využíva na vytváranie webových stránok tzv. **značky ("tagy")**
 
 ## title: Odpoveď
 
-Ďalšia značka, ktorú ste možno zaznamenali, je `<b>`, ktorá označuje **tučné písmo**:
+Ďalšia značka, ktorú ste si mohli všimnúť, je `<b>`. Táto značka označuje **tučné písmo**:
 
 ```html
 <b>behám</b>
 ```
 
-Tu sú niektoré ďalšie:
+Ďalšie značky:
 
 + `<html>` a `</html>` označujú začiatok a koniec HTML dokumentu
 + `<head>` a `</head>` označujú miesto, kde vkladáme napríklad CSS (k tomu sa dostaneme neskôr)
@@ -42,7 +42,7 @@ Tu sú niektoré ďalšie:
 
 \--- /collapse \---
 
-+ Zmeňte jeden z odsekov textu v súbore HTML (vľavo). Kliknite na tlačidlo **Spustiť** a mali by ste vidieť zmenu vašej webovej stránky (vpravo)!
++ Zmeňte jeden z odsekov textu v súbore HTML (vľavo). Po kliknutí na tlačidlo **Spustiť** by sa mala vaša webová stránka (vpravo) zmeniť!
 
 ![snímka obrazovky](images/birthday-edit-html.png)
 
