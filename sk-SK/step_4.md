@@ -10,6 +10,6 @@ Takto by mohla vyzerať vaša webová stránka:
 
 ![snímka obrazovky](images/birthday-paragraph.png)
 
-Dokážete pridať **hrubé písmo** a <u>podčiarknutie</u> vášmu textu v novom paragrafe? Na podčiarknutie textu použite značky `<u>` a `</u>`.
+Dokážete pridať **hrubé písmo** a <u>podčiarknutie</u> vášmu textu v novom odseku? Na podčiarknutie textu použite značky `<u>` a `</u>`.
 
 \--- /challenge \---
