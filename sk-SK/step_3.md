@@ -12,7 +12,7 @@ Projekt by mal vyzerať takto:
 
 Kód, ktorý vidíte na ľavej strane, je HTML. V pravej časti trinket-u uvidíte webovú stránku, ktorú kód HTML vytvoril.
 
-Jazyk HTML využíva **značky, tzv. tagy** na vytváranie webových stránok. Všimnite si tento 8 riadok vášho HTML kódu:
+Jazyk HTML využíva na vytváranie webových stránok tzv. **značky ("tagy")**. Vo svojom HTML kóde si všimnite kód v riadku č. 8:
 
 ```html
 <p>Ahoj. Moje meno je Andrej.</p>
