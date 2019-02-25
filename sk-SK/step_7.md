@@ -14,20 +14,20 @@ Hoci sme pre vás na začiatok napísali veľa kódu, narodeninový pozdrav stá
 
 ![snímka obrazovky](images/birthday-card-html.png)
 
-+ Dokážete nájsť vo vašom HTML kóde obrázok robota a zmeniť slovo `robot` na `sun`?
++ Dokážete vo svojom HTML kóde nájsť obrázok robota a zmeniť slovo `robot` na `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Pozrite sa na 17 riadok, kde nájdete kód.
-+ Zmeňte slovo `robot` na `sun` a uvidíte zmenu obrázka na slnko!
++ Kód nájdete v riadku č. 17.
++ Zmeňte slovo `robot` na `sun` a uvidíte, ako sa obrázok zmení!
 
 ![snímka obrazovky](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
 Môžete použiť akékoľvek slovo `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, alebo `trophy` pre narodeninový pozdrav, alebo `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, alebo `snowman` ak máte radšej Vianočné pozdravy.
 
-Taktiež môžete upraviť CSS kód narodeninového pozdravu.
+V narodeninovom pozdrave môžete upraviť aj CSS kód.
 
-+ Kliknite na kartu `style.css`. V prvej časti sú všetky CSS štýly pre **vonkajšiu** časť pozdravu.
++ Kliknite na záložku `style.css`. V prvej časti sú všetky CSS štýly pre **vonkajšiu** časť pozdravu.
 
 + Zmeňte farbu pozadia `background-color` na svetlozelenú - `lightgreen`.
 
