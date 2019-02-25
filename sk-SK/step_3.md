@@ -52,12 +52,12 @@ Jazyk HTML využíva na vytváranie webových stránok tzv. **značky ("tagy")**
 
 Ak chcete vrátiť späť iba poslednú vec, ktorú ste urobili, stlačte spolu klávesy `Ctrl` a `z`.
 
-### Na ukladanie projektov nepotrebujete účet Trinket!
+### Na ukladanie projektov nepotrebujete mať účet Trinket!
 
-Ak nemáte účet Trinket, kliknite na šípku **nadol** a potom na **Link**. Dostanete odkaz, ktorý môžete uložiť a neskôr sa pomocou neho vrátiť. Budete to musieť urobiť zakaždým, keď vykonáte zmeny, pretože odkaz sa zmení!
+Ak nemáte účet Trinket, kliknite na šípku **nadol** a potom na **Link**. Dostanete odkaz, ktorý si môžete uložiť a neskôr sa pomocou neho vrátiť. Budete to musieť urobiť vždy po vykonaní zmien, pretože odkaz sa zmení!
 
 ![snímka obrazovky](images/birthday-link.png)
 
-Ak máte účet Trinket, najjednoduchší spôsob, ako uložiť vašu webovú stránku, je kliknúť na tlačidlo **Remix** v hornej časti. Tým sa uloží kópia trinket stránky vo vašom profile.
+Ak máte účet Trinket, najjednoduchší spôsob, ako si svoju webovú stránku uložiť, je kliknúť na tlačidlo **Remix** v hornej časti. Tým sa uloží kópia trinket stránky vo vašom profile.
 
 ![snímka obrazovky](images/birthday-remix.png)
