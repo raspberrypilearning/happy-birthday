@@ -2,7 +2,7 @@
 
 ### Hardvér
 
-+ Počítač schopný prístupu na [trinket.io](https://trinket.io) {: target = "_blank"}
++ Počítač s možnosťou prístupu na [trinket.io](https://trinket.io) {: target = "_blank"}
 
 ### Softvér
 
