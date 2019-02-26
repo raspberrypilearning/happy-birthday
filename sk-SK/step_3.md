@@ -2,31 +2,31 @@
 
 HTML znamená **Hypertextový značkovací jazyk (z angl. Hypertext Markup Language)**, a je to jazyk používaný na vytváranie webových stránok. Poďme sa pozrieť na príklad!
 
-Na písanie HTML kódu budete používať webovú stránku trinket.io.
+Na písanie HTML kódu budeš používať webovú stránku trinket.io.
 
-+ Otvorte [tento trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Otvor [tento trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
 Projekt by mal vyzerať takto:
 
 ![snímka obrazovky](images/birthday-starter.png)
 
-Kód, ktorý vidíte na ľavej strane, je HTML. V pravej časti trinket-u uvidíte webovú stránku, ktorú kód HTML vytvoril.
+Kód, ktorý vidíš na ľavej strane, je HTML. V pravej časti trinket-u uvidíš webovú stránku, ktorú kód HTML vytvoril.
 
-Jazyk HTML využíva na vytváranie webových stránok tzv. **značky ("tagy")**. Vo svojom HTML kóde si všimnite kód v riadku č. 8:
+Jazyk HTML využíva na vytváranie webových stránok tzv. **značky ("tagy")**. V HTML nájdi riadok č. 8 s nasledujúcim kódom:
 
 ```html
 <p>Ahoj. Moje meno je Andrej.</p>
 ```
 
-`<p>` je príkladom značky, ktorá označuje krátky **odsek**. Odsek môžete začať s `<p>` a ukončiť ho s `</p>`.
+`<p>` je príkladom značky, ktorá označuje krátky **odsek**. Odsek môžeš začať s `<p>` a ukončiť ho s `</p>`.
 
-+ Dokážete nájsť ďalšie značky?
++ Dokážeš nájsť ďalšie značky?
 
 ## \--- collapse \---
 
 ## title: Odpoveď
 
-Ďalšia značka, ktorú ste si mohli všimnúť, je `<b>`. Táto značka označuje **tučné písmo**:
+Ďalšia značka, ktorú si si mohol/-a všimnúť, je `<b>`. Táto značka označuje **tučné písmo**:
 
 ```html
 <b>behám</b>
@@ -36,25 +36,25 @@ Jazyk HTML využíva na vytváranie webových stránok tzv. **značky ("tagy")**
 
 + `<html>` a `</html>` označujú začiatok a koniec HTML dokumentu
 + `<head>` a `</head>` označujú miesto, kde vkladáme napríklad CSS (k tomu sa dostaneme neskôr)
-+ `<body>` a `</body>` označuje miesto, kde sa nachádza obsah vašej webovej stránky
++ `<body>` a `</body>` označuje miesto, kde sa nachádza obsah tvojej webovej stránky
 
 ![snímka obrazovky](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Zmeňte jeden z odsekov textu v súbore HTML (vľavo). Po kliknutí na tlačidlo **Spustiť** by sa mala vaša webová stránka (vpravo) zmeniť!
++ Zmeň jeden z odsekov textu v súbore HTML (vľavo). Po kliknutí na tlačidlo **Spustiť** by sa mala tvoja webová stránka (vpravo) zmeniť!
 
 ![snímka obrazovky](images/birthday-edit-html.png)
 
-+ Ak ste urobili chybu a chcete vrátiť všetky svoje zmeny späť, môžete kliknúť na **hlavnú ponuku** a následne na tlačidlo **Reset**.
++ Ak si urobil/-a chybu a všetky zmeny chceš vrátiť späť, klikni na **hlavnú ponuku** a následne na tlačidlo **Reset**.
 
 ![snímka obrazovky](images/birthday-reset.png)
 
-Ak chcete vrátiť späť iba poslednú vec, ktorú ste urobili, stlačte spolu klávesy `Ctrl` a `z`.
+Ak chceš vrátiť späť iba poslednú vec, ktorú si urobil/-a, stlač spolu klávesy `Ctrl` a `z`.
 
-### Na ukladanie projektov nepotrebujete mať účet Trinket!
+### Na ukladanie projektov nie je potrebné mať účet na Trinket-e!
 
-Ak nemáte účet Trinket, kliknite na šípku **nadol** a potom na **Link**. Dostanete odkaz, ktorý si môžete uložiť a neskôr sa pomocou neho vrátiť. Budete to musieť urobiť vždy po vykonaní zmien, pretože odkaz sa zmení!
+Ak nemáš účet na Trinket-e, klikni na šípku **nadol** a potom na **Link**. Dostaneš odkaz, ktorý si budeš môcť uložiť a neskôr sa pomocou neho vrátiť. Budete to musieť urobiť vždy po vykonaní zmien, pretože odkaz sa zmení!
 
 ![snímka obrazovky](images/birthday-link.png)
 
