@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Výzva: pridajte ďalšie štýly
+## Výzva: pridaj ďalšie štýly
 
 + Dokážeš zmeniť farbu textu v odsekoch na oranžovú?
 
