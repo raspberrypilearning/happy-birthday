@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Výzva: urobte pozdrav osobným
+## Výzva: vytvor si pozdrav podľa svojich predstáv
 
 + Využite všetko, čo ste sa naučili o HTML a CSS, aby ste dokončili pozdrav podľa vlastných predstáv. A nemusí to byť len narodeninový pozdrav, mohol by to byť Vianočný pozdrav alebo pozdrav k inej príležitosti!
 
