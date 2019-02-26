@@ -2,15 +2,15 @@
 
 ## Výzva: vytvor si pozdrav podľa svojich predstáv
 
-+ Využite všetko, čo ste sa naučili o HTML a CSS, aby ste dokončili pozdrav podľa vlastných predstáv. A nemusí to byť len narodeninový pozdrav, mohol by to byť Vianočný pozdrav alebo pozdrav k inej príležitosti!
++ Využi všetko, čo si sa naučil/-a o HTML a CSS na to, aby si si vytvoril/-a pozdrav podľa svojich vlastných predstáv. A nemusí to byť len narodeninový pozdrav. Môžeš to byť pozdrav na Vianoce alebo k akejkoľvek inej príležitosti!
 
 Napríklad:
 
 ![snímka obrazovky](images/birthday-final.png)
 
-Ďalšie názvy farieb môžete nájsť [tu](http://jumpto.cc/colours){:target="_blank"}.
+Ďalšie názvy farieb nájdeš [tu](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Po dokončení svojho pozdravu ho môžete zdieľať alebo poslať niekomu e-mailom.
++ Po tom, ako pozdrav dokončíš, ho môžeš zdieľať alebo ho niekomu poslať e-mailom.
 
 ![snímka obrazovky](images/birthday-share.png)
 
