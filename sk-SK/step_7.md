@@ -1,47 +1,47 @@
 ## Tvorba narodeninového pozdravu
 
-Vytvorte si vlastný narodeninový pozdrav pomocou toho, čo ste sa naučili o HTML a CSS.
+Vytvor si vlastný narodeninový pozdrav pomocou toho, čo si sa naučil/-a o HTML a CSS.
 
-+ Otvorte [tento trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Otvor [tento trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
-Hoci sme pre vás na začiatok napísali veľa kódu, narodeninový pozdrav stále vyzerá dosť nudne. V HTML a CSS kóde preto urobíme zopár zmien.
+Hoci sme pre teba na začiatok napísali veľa kódu, narodeninový pozdrav stále vyzerá dosť nudne. V HTML a CSS kóde preto urobíme zopár zmien.
 
-+ Kliknite na tlačidlo na prednej strane pozdravu. Tým ho otvoríte a odkryjete jeho vnútornú stranu.
++ Klikni na tlačidlo na prednej strane pozdravu. Tým ho otvoríš a pozrieš sa, čo je vnútri.
 
 ![snímka obrazovky](images/birthday-click.png)
 
-+ V HTML kóde prejdite do riadku č. 14. Skúste upraviť text, aby ste pozdrav prispôsobili svojej predstave.
++ V HTML kóde prejdi do riadku 14. Skús upraviť text, aby si si pozdrav prispôsobil/-a svojej predstave.
 
 ![snímka obrazovky](images/birthday-card-html.png)
 
-+ Dokážete vo svojom HTML kóde nájsť obrázok robota a zmeniť slovo `robot` na `sun`?
++ Dokážeš vo svojom HTML kóde nájsť obrázok robota a zmeniť slovo `robot` na `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Kód nájdete v riadku č. 17.
-+ Zmeňte slovo `robot` na `sun` a uvidíte, ako sa obrázok zmení!
++ Kód nájdeš v riadku 17.
++ Zmeň slovo `robot` na `sun` a uvidíš, ako sa obrázok zmení!
 
 ![snímka obrazovky](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-Pre narodeninový pozdrav môžete použiť ktorékoľvek zo slov `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, alebo `trophy`, a ak chcete vytvoriť vianočný pozdrav, môžete si vybrať zo slov `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, alebo `snowman`.
+Pre narodeninový pozdrav môžeš použiť ktorékoľvek zo slov `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, alebo `trophy`, a ak chceš vytvoriť vianočný pozdrav, môžeš si vybrať zo slov `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, alebo `snowman`.
 
-V narodeninovom pozdrave môžete upraviť aj CSS kód.
+V narodeninovom pozdrave môžeš upraviť aj CSS kód.
 
-+ Kliknite na záložku `style.css`. V prvej časti sú všetky CSS štýly pre **vonkajšiu** časť pozdravu.
++ Klikni na záložku `style.css`. V prvej časti sú všetky CSS štýly pre **vonkajšiu** časť pozdravu.
 
-+ Zmeňte farbu pozadia `background-color` na svetlozelenú - `lightgreen`.
++ Zmeň farbu pozadia `background-color` na svetlozelenú - `lightgreen`.
 
 ![snímka obrazovky](images/birthday-card-outside.png)
 
-+ Taktiež môžete zmeniť veľkosť obrázka. V CSS kóde prejdite do časti `#outside-pic` a zmeňte šírku - `width` a výšku - `height` vonkajšieho obrázka na `200px` (`px` označuje pixely).
++ Taktiež môžeš zmeniť veľkosť obrázka. V CSS kóde prejdi do časti `#outside-pic` a zmeň šírku - `width` a výšku - `height` vonkajšieho obrázka na `200px` (`px` označuje pixely).
 
 ![snímka obrazovky](images/birthday-card-size.png)
 
-+ Môžete tiež zmeniť typ a veľkosť písma. V CSS kóde prejdite do časti `#outside-title` a zmeňte `font-family` na `Comic Sans MS` a veľkosť písma z `font-size` na `16pt`.
++ Môžeš tiež zmeniť typ a veľkosť písma. V CSS kóde prejdi do časti `#outside-title` a zmeň `font-family` na `Comic Sans MS` a veľkosť písma `font-size` na `16pt`.
 
 ![snímka obrazovky](images/birthday-card-font.png)
 
-Môžete použiť aj iné druhy písma, ako napríklad:
+Môžeš použiť aj iné druhy písma, ako napríklad:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
