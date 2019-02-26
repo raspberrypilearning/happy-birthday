@@ -12,7 +12,7 @@ Projekt by mal vyzerať takto:
 
 Kód, ktorý vidíš na ľavej strane, je HTML. V pravej časti trinket-u uvidíš webovú stránku, ktorú kód HTML vytvoril.
 
-Jazyk HTML využíva na vytváranie webových stránok tzv. **značky ("tagy")**. V HTML nájdi riadok č. 8 s nasledujúcim kódom:
+Jazyk HTML využíva na vytváranie webových stránok tzv. **značky ("tagy")**. V HTML nájdi riadok 8 s nasledujúcim kódom:
 
 ```html
 <p>Ahoj. Moje meno je Andrej.</p>
@@ -50,14 +50,14 @@ Jazyk HTML využíva na vytváranie webových stránok tzv. **značky ("tagy")**
 
 ![snímka obrazovky](images/birthday-reset.png)
 
-Ak chceš vrátiť späť iba poslednú vec, ktorú si urobil/-a, stlač spolu klávesy `Ctrl` a `z`.
+Ak chceš vrátiť iba o jeden krok späť, stlač spolu klávesy `Ctrl` a `z`.
 
-### Na ukladanie projektov nie je potrebné mať účet na Trinket-e!
+### Na ukladanie svojich projektov nemusíš mať účet na Trinket-e!
 
-Ak nemáš účet na Trinket-e, klikni na šípku **nadol** a potom na **Link**. Dostaneš odkaz, ktorý si budeš môcť uložiť a neskôr sa pomocou neho vrátiť. Budete to musieť urobiť vždy po vykonaní zmien, pretože odkaz sa zmení!
+Ak na Trinket-e nemáš vytvorený účet, klikni na šípku **nadol** a potom na **Link**. Dostaneš odkaz, ktorý si budeš môcť uložiť a neskôr sa pomocou neho vrátiť. Tento postup budeš musieť zopakovať vždy po vykonaní zmien, pretože odkaz sa zmení!
 
 ![snímka obrazovky](images/birthday-link.png)
 
-Ak máte účet Trinket, najjednoduchší spôsob, ako si svoju webovú stránku uložiť, je kliknúť na tlačidlo **Remix** v hornej časti. Tým sa uloží kópia trinket stránky vo vašom profile.
+Ak na Trinket-e účet máš, najjednoduchší spôsob, ako si svoju webovú stránku uložiť, je kliknúť na tlačidlo **Remix** v hornej časti. Kópia trinket stránky sa tak uloží v tvojom profile.
 
 ![snímka obrazovky](images/birthday-remix.png)
