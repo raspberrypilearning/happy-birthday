@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Výzva: vytvor si pozdrav podľa svojich predstáv
+## Výzva: vytvor pozdrav podľa tvojich vlastných predstáv
 
-+ Využi všetko, čo si sa naučil/-a o HTML a CSS na to, aby si si vytvoril/-a pozdrav podľa svojich vlastných predstáv. A nemusí to byť len narodeninový pozdrav. Môžeš to byť pozdrav na Vianoce alebo k akejkoľvek inej príležitosti!
++ Využi všetko, čo si sa naučil/-a o HTML a CSS na to, aby si si vytvoril/-a pozdrav podľa svojich vlastných predstáv. A nemusí to byť len narodeninový pozdrav. Môže to byť aj pozdrav na Vianoce alebo k akejkoľvek inej príležitosti!
 
 Napríklad:
 
