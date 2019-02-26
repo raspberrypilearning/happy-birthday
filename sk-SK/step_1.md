@@ -1,10 +1,10 @@
 ## Úvod
 
-V tomto projekte sa zoznámite s HTML a CSS, pomocou ktorých si vytvoríte svoj vlastný narodeninový pozdrav.
+V tomto projekte sa zoznámiš s HTML a CSS, pomocou ktorých si vytvoríš svoj vlastný narodeninový pozdrav.
 
-### Čo urobíte
+### Čo vytvoríš
 
-Kliknutím na tlačidlo otvorte narodeninový pozdrav:
+Na zobrazenie narodeninového pozdravu klikni na tlačidlo:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,7 +12,7 @@ Kliknutím na tlačidlo otvorte narodeninový pozdrav:
   <img src="images/birthday-final.png">
 </div>
 
-### Čo sa naučíte
+### Čo sa naučíš
 
 Tento projekt pokrýva časti z nasledujúcich zdrojov kurikula [Raspberry Pi Digital Making](http://rpf.io/curriculum){:target="_blank"}:
 
