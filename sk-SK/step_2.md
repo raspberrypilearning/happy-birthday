@@ -1,4 +1,4 @@
-## Čo budete potrebovať
+## Čo budeš potrebovať
 
 ### Hardvér
 
