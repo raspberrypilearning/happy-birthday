@@ -1,9 +1,9 @@
-## What you will need
+## Những thứ bạn sẽ cần
 
-### Hardware
+### Phần cứng
 
-+ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
++ Máy tính có khả năng truy cập [trinket.io](https://trinket.io){: target = "_ blank"}
 
-### Software
+### Phần mềm
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
+Dự án này có thể được hoàn thành trong một trình duyệt web sử dụng [trinket.io](https://trinket.io){: target="_blank"}.
