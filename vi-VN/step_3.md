@@ -1,16 +1,16 @@
-## What is HTML?
+## HTML là gì?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML là viết tắt của **Ngôn ngữ đánh dấu siêu văn bản**, ngôn ngữ được sử dụng để tạo các trang web. Hãy xem một ví dụ!
 
-You'll be using a website called trinket.io to write HTML code.
+Bạn sẽ sử dụng một trang web có tên là trinket.io để viết mã HTML.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Mở [trinket này](http://jumpto.cc/web-intro) {:target ="_trống"}.
 
-The project should look like this:
+Dự án sẽ trông giống như thế này:
 
 ![screenshot](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+Mã mà bạn có thể thấy ở bên trái là HTML. Ở bên phải của trinket, bạn có thể thấy trang web mà mã HTML đã tạo.
 
 HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
 
