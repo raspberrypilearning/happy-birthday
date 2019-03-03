@@ -6,12 +6,12 @@
 
 Đây là một ví dụ:
 
-![screenshot](images/birthday-final.png)
+![ảnh chụp màn hình](images/birthday-final.png)
 
 Bạn có thể tìm thêm tên màu CSS [tại đây](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Once you've finished your card, you can share or email it to someone.
++ Khi bạn đã hoàn thành thiệp của mình, bạn có thể chia sẻ hoặc gửi email cho ai đó.
 
-![screenshot](images/birthday-share.png)
+![ảnh chụp màn hình](images/birthday-share.png)
 
 \--- /challenge \---
