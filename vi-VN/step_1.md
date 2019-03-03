@@ -1,10 +1,10 @@
-## Introduction
+## Giới thiệu
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+Trong dự án này, bạn sẽ được giới thiệu về HTML và CSS bằng cách tìm hiểu cách tạo thiệp sinh nhật tùy theo nhu cầu của riêng bạn.
 
-### What you will make
+### Những gì bạn sẽ làm
 
-Click the button to open the birthday card:
+Nhấn vào nút để mở thiệp sinh nhật:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Click the button to open the birthday card:
   <img src="images/birthday-final.png">
 </div>
 
-### What you will learn
+### Những gì bạn sẽ học
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dự án này bao gồm các nội dung từ các chương trình [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Additional information for educators
+### Thông tin bổ sung cho người hướng dẫn
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+Nếu bạn cần in dự án này, vui lòng sử dụng [bản in](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_ blank"} .
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Sử dụng đường link ở cuối trang để truy cập vào repo GitHub cho dự án này, nơi chứa tất cả các tài nguyên (bao gồm một dự án mẫu đã hoàn thành) trong thư mục 'en/resources'.
