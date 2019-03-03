@@ -12,49 +12,49 @@ Dự án sẽ trông giống như thế này:
 
 Mã mà bạn có thể thấy ở bên trái là HTML. Ở bên phải của trinket, bạn có thể thấy trang web mà mã HTML đã tạo.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+HTML sử dụng **thẻ** để xây dựng trang web. Tìm mã HTML này trên dòng 8 của mã của bạn:
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p>Xin chào. Tôi tên là Andy.</p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`<p>` là một ví dụ về thẻ và là viết tắt của **đoạn**. Bạn có thể bắt đầu một đoạn bằng `<p>` và kết thúc một đoạn bằng `</p>`.
 
-+ Can you spot any other tags?
++ Bạn có thể nhận thấy bất kỳ thẻ nào khác không?
 
-## \--- collapse \---
+## \--- sụp đổ \---
 
-## title: Answer
+## tiêu đề: Trả lời
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+Một thẻ khác bạn có thể đã phát hiện là `<b>`, viết tắt của **in đậm**:
 
 ```html
-<b>running</b>
+<b>chạy</b>
 ```
 
-Here are some more:
+Dưới đây là một số chi tiết khác:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `<html>` và `</html>` đánh dấu điểm bắt đầu và kết thúc của tài liệu HTML
++ `<head>` và `</head>` là nơi những thứ như CSS đi (chúng ta sẽ nói đến việc đó sau)
++ `<body>` và `</body>` là nơi nội dung trang web của bạn đi đến
 
 ![screenshot](images/birthday-head-body.png)
 
-\--- /collapse \---
+\--- /sụp đổ \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ Thay đổi một trong các đoạn văn bản trong tệp HTML (ở bên trái). Nhấp vào **Chạy** và bạn sẽ thấy trang web của mình thay đổi (ở bên phải)!
 
 ![screenshot](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ Nếu bạn tạo lỗi và muốn hoàn tác tất cả các thay đổi của mình, bạn có thể nhấp vào **menu** và sau đó nhấp vào **Đặt lại**.
 
 ![screenshot](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+Để hoàn tác việc cuối cùng bạn đã làm, bạn có thể nhấn các phím `Ctrl` và `z` chung với nhau.
 
-### You don't need a Trinket account to save your projects!
+### Bạn không cần tài khoản Trinket để lưu dự án của bạn!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Nếu bạn không có tài khoản Trinket, hãy nhấp vào mũi tên </strong>xuống</strong> và nhấp vào **Link</0>. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!</p> 
 
 ![screenshot](images/birthday-link.png)
 
