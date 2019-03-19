@@ -2,7 +2,7 @@
 
 ## Väljakutse: lisa veel üks ​​lõik
 
-- Kas saad lisada oma veebilehele kahe tekstilõigu alla kolmanda?
+- Kas oskad lisada oma veebilehele kahe tekstilõigu alla kolmanda?
 
 Pea meeles, et sinu uus lõik peaks algama sildiga `<p>` ja lõppema sildiga `</p>`.
 
