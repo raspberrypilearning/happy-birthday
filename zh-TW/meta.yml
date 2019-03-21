@@ -1,35 +1,35 @@
 ---
-hero_image: images/happy-birthday.png
-theme: turquoise
+hero_image: 圖片/快樂birthday.png
+theme: 綠松石
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Happy birthday
-description: Make an online birthday card on a webpage
+curriculum: 1，design-1，programming-0，phys-comp-0，製造-0，社區-0
+title: 生日快樂
+description: 在網頁上製作在線生日卡片
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
-interests: art
-technologies: html-css-javascript
-site_areas: projects
+interests: 藝術
+technologies: HTML，CSS，JavaScript的
+site_areas: 項目
 hardware: ''
-software: html-css-javascript
+software: HTML，CSS，JavaScript的
 version: 4
-last_tested: 2017-01-01
+last_tested: 2017年1月1日
 steps:
   - 
-    title: Introduction
+    title: 介紹
   - 
-    title: What you will need
+    title: 你需要什麼
   - 
-    title: What is HTML?
+    title: 什麼是HTML？
   - 
-    title: 'Challenge: add another paragraph'
+    title: '挑戰：添加另一段'
   - 
-    title: What is CSS?
+    title: 什麼是CSS？
   - 
-    title: 'Challenge: add more styles'
+    title: '挑戰：添加更多樣式'
   - 
-    title: Making a birthday card
+    title: 製作生日賀卡
   - 
-    title: 'Challenge: create a personalised card'
+    title: '挑戰：創建個性化卡片'
