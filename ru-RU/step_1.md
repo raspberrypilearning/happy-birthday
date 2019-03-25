@@ -12,7 +12,7 @@
   <img src="images/birthday-final.png">
 </div>
 
-### Что ты узнаешь
+### Чему вы научитесь
 
 Этот проект включает в себя элементы из [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
