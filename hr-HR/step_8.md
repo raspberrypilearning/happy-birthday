@@ -4,7 +4,7 @@
 
 + Koristite sve što ste naučili o HTML-u i CSS-u da biste dovršili izradu prilagođene kartice. I ne mora biti rođendanska kartica, to bi moglo biti jedno za Božić ili bilo koju drugu priliku!
 
-Evo primjera:
+Na primjer:
 
 ![screenshot](images/birthday-final.png)
 
