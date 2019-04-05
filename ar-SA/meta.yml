@@ -5,20 +5,20 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: عيد ميلاد سعيد
 description: تعلَّم كيف تصمم بطاقة عيد ميلاد مخصصة.
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
-interests: art and design
-technologies: html/css
-site_areas: codeclub, webdev
+interests: art
+technologies: html-css-javascript
+site_areas: codeclub, python
 hardware: ''
 software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: المقدمة
+    title: مقدمة
   - 
     title: ما ستحتاج إليه
   - 
