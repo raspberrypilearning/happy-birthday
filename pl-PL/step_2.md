@@ -2,7 +2,7 @@
 
 ### Sprzęt
 
-+ Komputer, na którym jest dostęp do strony [trinket.io](https://trinket.io){:target="_blank"}
++ Komputer, na którym jest dostęp do [trinket.io](https://trinket.io){:target="_blank"}
 
 ### Oprogamowanie
 
