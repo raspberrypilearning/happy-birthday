@@ -24,4 +24,4 @@ p {
 
 + CSSコードの単語「黒」を「青」に変更します。すべての段落のテキストの色が青色に変わるのを確認する必要があります。
 
-![スクリーンショット](images/birthday-edit-css.png)
+![screenshot](images/birthday-edit-css.png)
