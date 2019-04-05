@@ -6,6 +6,6 @@
 
 + क्या आप ` body` प्रॉपर्टी को बदलकर बैकग्राउंड ग्रे बना सकते हैं?
 
-![स्क्रीनशॉट](images/birthday-more-style.png)
+![screenshot](images/birthday-more-style.png)
 
 \--- /challenge \---
