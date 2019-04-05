@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Izazov: dodajte više stilova
+## Izazov: Dodavanje više stilova
 
 + Možete li izraditi odlomke teksta narančaste?
 
