@@ -2,7 +2,7 @@
 
 W tym projekcie zapoznasz się z HTML i CSS, ucząc się, jak tworzyć własną niestandardową kartę urodzinową.
 
-### Co będziesz robił
+### Co stworzysz
 
 Kliknij przycisk, aby otworzyć kartę urodzinową:
 
@@ -14,7 +14,7 @@ Kliknij przycisk, aby otworzyć kartę urodzinową:
 
 ### Czego się nauczysz
 
-Ten projekt pokrywa elementy z następujących wątków z [Cyfrowego Programu Nauczania Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Projektowanie podstawowych zasobów 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
@@ -22,4 +22,4 @@ Ten projekt pokrywa elementy z następujących wątków z [Cyfrowego Programu Na
 
 Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
-Skorzystaj z odnośnika na dole, aby uzyskać dostęp do repozytorium kodu dla tego projektu w serwisie GitHub, które zawiera wszystkie zasoby (włącznie z przykładem gotowego projektu) w folderze 'pl-PL/resources'.
+Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub, które zawiera wszystkie zasoby (włącznie z przykładem gotowego projektu) w folderze 'pl/zasoby'.
