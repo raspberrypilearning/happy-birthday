@@ -18,9 +18,9 @@ version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: З днем народження
+    title: Спіймай крапки
   - 
-    title: Що вам знадобиться
+    title: Те, що вам знадобиться
   - 
     title: Що таке HTML?
   - 
