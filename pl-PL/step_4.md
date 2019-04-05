@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- wyzwanie \---
 
 ## Challenge: add another paragraph
 
@@ -8,7 +8,7 @@ Remember that your new paragraph should start with a `<p>` tag, and end with `</
 
 Here's how your webpage might look:
 
-![screenshot](images/birthday-paragraph.png)
+![zrzut ekranu](images/birthday-paragraph.png)
 
 Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
 
