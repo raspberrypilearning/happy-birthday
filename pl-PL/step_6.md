@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- wyzwanie \---
 
 ## Challenge: add more styles
 
@@ -6,6 +6,6 @@
 
 + Can you make the background grey by changing the `body` property?
 
-![screenshot](images/birthday-more-style.png)
+![zrzut ekranu](images/birthday-more-style.png)
 
 \--- /challenge \---
