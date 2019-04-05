@@ -12,6 +12,6 @@ Du findest weitere CSS-Farbnamen [hier](http://jumpto.cc/colours){:target="_blan
 
 + Sobald du deine Karte fertiggestellt hast, kannst du sie mit jemandem teilen oder sie per E-Mail zusenden.
 
-![screenshot](images/birthday-share.png)
+![Screenshot](images/birthday-share.png)
 
 \--- /challenge \---
