@@ -8,7 +8,7 @@ Będziesz używać strony o nazwie trinket.io do pisania kodu HTML.
 
 Projekt powinien wyglądać następująco:
 
-![screenshot](images/birthday-starter.png)
+![zrzut ekranu](images/birthday-starter.png)
 
 Kod widoczny po lewej stronie to HTML. W panelu po prawej stronie możesz zobaczyć stronę, którą wykonał kod HTML.
 
@@ -24,7 +24,7 @@ HTML używa **znaczników** do tworzenia stron internetowych. Poszukaj tego kodu
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Odpowiedź
 
 One other tag you might have spotted is `<b>`, which stands for **bold**:
 
@@ -38,26 +38,26 @@ Here are some more:
 + `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
 + `<body>` and `</body>` is where your website content goes
 
-![screenshot](images/birthday-head-body.png)
+![zrzut ekranu](images/birthday-head-body.png)
 
 \--- /collapse \---
 
 + Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
 
-![screenshot](images/birthday-edit-html.png)
+![zrzut ekranu](images/birthday-edit-html.png)
 
 + If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
 
-![screenshot](images/birthday-reset.png)
+![zrzut ekranu](images/birthday-reset.png)
 
 To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
 
-### You don't need a Trinket account to save your projects!
+### Nie potrzebujesz konta w Trinket, aby zapisać swoje projekty!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+If you don't have a Trinket account, click the **down** arrow and then click **Link**. Zobaczysz link, który możesz zapisać i użyć później, aby wrócić do swojego projektu. Musisz to robić za każdym razem, gdy wprowadzisz zmiany, ponieważ link będzie się zmieniał!
 
-![screenshot](images/birthday-link.png)
+![zrzut ekranu](images/birthday-link.png)
 
 If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
 
-![screenshot](images/birthday-remix.png)
+![zrzut ekranu](images/birthday-remix.png)
