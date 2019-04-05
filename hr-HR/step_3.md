@@ -52,9 +52,9 @@ Evo još nekih:
 
 Da biste poništili posljednju stvar koju ste učinili, možete pritisnuti tipku `Ctrl` i `z` tipke zajedno.
 
-### Ne trebate Trinket račun za spremanje projekata!
+### Ne trebaš imati korisnički račun na Trinketu kako bi spremao svoje projekte!
 
-Ako nemate Trinket račun, kliknite **down** strelicu, a zatim kliknite **Link**. Dobit ćeš poveznicu koju možeš spremiti i otvoriti kasnije. Morat ćete to učiniti svaki put kada izmijenite vezu, jer će se veza mijenjati!
+Ako nemate Trinket račun, kliknite **down** strelicu, a zatim kliknite **Link**. Dobit ćeš poveznicu koju možeš spremiti i otvoriti kasnije. Ovo napravi svaki put kada izmijeniš svoj program zato što će se i poveznica promijeniti!
 
 ![screenshot](images/birthday-link.png)
 
