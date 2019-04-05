@@ -1,8 +1,8 @@
-## 前書き
+## はじめに
 
 このプロジェクトでは、カスタマイズされたバースデーカードの作成方法を学習することで、HTMLとCSSを紹介します。
 
-### あなたが作るもの
+### 作るもの
 
 バースデーカードを開くにはボタンをクリックしてください：
 
@@ -14,12 +14,12 @@
 
 ### あなたが学ぶもの
 
-このプロジェクトでは、 [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){：target = "_ blank"}の次の要素から構成されています。
+このプロジェクトは、[ラズベリーパイデジタルメイクカリキュラムの以下の要素をカバーします](http://rpf.io/curriculum) ：
 
 + [基本的な2Dおよび3Dアセット](https://www.raspberrypi.org/curriculum/design/creator){：target = "_ blank"}を設計します。
 
 ### 教育者のための追加情報
 
-あなたはこのプロジェクトを印刷する必要がある場合は、使用してください [プリンターに優しいバージョンを](https://projects.raspberrypi.org/en/projects/happy-birthday/print){：ターゲット=「_ブランク」}。
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/happy-birthday/print)を使用してください。
 
-フッターのリンクを使用して、このプロジェクトのGitHubリポジトリにアクセスします。このプロジェクトには、 'en / resources'フォルダ内のすべてのリソース（完成プロジェクトの例を含む）が含まれています。
+フッターのリンクから、このプロジェクトのGitHubリポジトリにアクセスできます。このリポジトリには、 'en/resources'フォルダ内のすべてのリソース (プロジェクトの完成例を含む) が含まれています。
