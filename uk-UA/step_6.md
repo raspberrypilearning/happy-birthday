@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- завдання \---
 
 ## Завдання: додати більше стилів
 
@@ -6,6 +6,6 @@
 
 + Чи зможете ви зробити сірий фон, змінивши властивості `body`?
 
-![скріншот](images/birthday-more-style.png)
+![screenshot](images/birthday-more-style.png)
 
 \--- /challenge \---
