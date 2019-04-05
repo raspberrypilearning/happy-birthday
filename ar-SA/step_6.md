@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## التحدي: إضافة أنماط أخرى
 
 + Can you make the paragraphs of text orange?
 
 + Can you make the background grey by changing the `body` property?
 
-![screenshot](images/birthday-more-style.png)
+![لقطة شاشة](images/birthday-more-style.png)
 
 \--- /challenge \---
