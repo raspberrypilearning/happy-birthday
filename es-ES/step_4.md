@@ -10,6 +10,6 @@ Tu página web podría tener este aspecto:
 
 ![captura de pantalla](images/birthday-paragraph.png)
 
-¿Puedes agregar texto en **negrita** y <u> subrayado </u> a tu nuevo párrafo? Usa las etiquetas `<u>` y `</u>` para el texto subrayado.
+¿Puedes agregar texto en **negrita** y <u>subrayado</u> a tu nuevo párrafo? Usa las etiquetas `<u>` y `</u>` para el texto subrayado.
 
 --- /challenge ---
