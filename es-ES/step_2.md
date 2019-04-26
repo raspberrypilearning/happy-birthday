@@ -2,7 +2,7 @@
 
 ### Hardware
 
-+ Un orderador capaz de acceder a [trinket.io](https://trinket.io){:target="_blank"}
++ Un ordenador capaz de acceder a [trinket.io](https://trinket.io){:target="_blank"}
 
 ### Software
 
