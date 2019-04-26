@@ -2,7 +2,7 @@
 
 Vamos usar o que você aprendeu sobre HTML e CSS para criar seu próprio cartão de aniversário personalizado.
 
-+ Abra [ este trinket ](https://trinket.io/html/17ee05db3b){:target="_blank"}.
++ Abra [este trinket](http://jumpto.cc/web-card){:target="_blank"}.
 
 Nós já escrevemos muito código para você pegar o jeito, mas o cartão de aniversário parece bem entediante até agora, então você vai fazer algumas mudanças no código HTML e CSS.
 
@@ -16,12 +16,15 @@ Nós já escrevemos muito código para você pegar o jeito, mas o cartão de ani
 
 + Você consegue encontrar o código HTML relativo à imagem do robô e alterar a palavra `robot` (robô, em inglês) para `sun` (sol, em inglês)?
 
---- hints --- --- hint ---
+--- hints ---
+ --- hint ---
 
 + Olhe na linha 17 para encontrar o código.
 + Altere a palavra `robot` para `sun`, e você verá a imagem mudar!
 
-![screenshot](images/birthday-card-sun.png) ---/hint --- --- /hints ---
+![screenshot](images/birthday-card-sun.png) ---/hints ---
+--- /hint ---
+
 
 Você pode usar as palavras em inglês `boy` (menino), `diamond` (diamante), `dinosaur` (dinossauro), `flowers` (flores), `girl` (garota), `rainbow` (arco-íris), `robot` (robô), `spaceship` (espaçonave), `sun` (sol), `tea` (chá), ou `trophy`(troféu) para um cartão de aniversário, ou `cracker` (biscoito), `elf` (elfo), `penguin` (pinguim), `present` (presente), `reindeer` (rena), `santa` (papai noel), or `snowman` (boneco de neve) se preferir fazer um cartão de Natal.
 
@@ -43,6 +46,6 @@ Você também pode editar o código CSS do cartão de aniversário.
 
 Você pode usar outras fontes, por exemplo:
 
-+ `<span style="font-family: Arial;">arial</span>`
++ `<span style="font-family: Arial;">Arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
 + `<span style="font-family: tahoma;">Tahoma</span>`

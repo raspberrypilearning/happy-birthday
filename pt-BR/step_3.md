@@ -4,7 +4,7 @@ HTML significa **Hypertext Markup Language** (Linguagem de Marcação de Hiperte
 
 Você vai usar um site chamado trinket.io para escrever códigos HTML.
 
-+ Abra [este trinket](https://trinket.io/html/47cd05a936){:target="_blank"}.
++ Abra [este trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
 O arquivo ficará assim:
 
@@ -26,6 +26,7 @@ O HTML usa **tags** para criar páginas da web. Procure este código HTML na lin
 ---
 title: Resposta
 ---
+
 Uma outra tag que você pode ter visto é `<b>`, que significa **bold** (negrito, em inglês):
 
 ```html
@@ -34,9 +35,9 @@ Uma outra tag que você pode ter visto é `<b>`, que significa **bold** (negrito
 
 Aqui estão mais alguns:
 
-+ `<html>` e `</html>` marcam o início e o fim do documento HTML
-+ `<head>` e `</head>` é onde coisas como os códigos de CSS são inseridas (nós vamos chegar a isso mais tarde)
-+ `<body>` e `</body>` é onde vai o conteúdo de seu site
++ `<html>` e ` </html>` marcam o início e o fim do documento HTML
++ `<head>` e ` </head>` é onde coisas como os códigos de CSS são inseridas (nós vamos chegar a isso mais tarde)
++ `<body>` e ` </body>` é onde vai o conteúdo de seu site
 
 ![screenshot](images/birthday-head-body.png)
 

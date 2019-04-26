@@ -7,19 +7,19 @@ Neste projeto, você será introduzido ao HTML e ao CSS aprendendo a fazer seu p
 Clique no botão para abrir o cartão de aniversário:
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/34a8b8b32b?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/3b82244cf2?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/birthday-final.png">
 </div>
 
 ### O que você vai aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Fabricação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Fabricação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_ blank"}:
 
 + [Faça ilustrações 2D e 3D básicas](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
 ### Informações adicionais para educadores
 
-Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/pt-BR/projects/happy-birthday/print){:target="_blank"} .
+Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/pt-BR/projects/happy-birthday/print){:target="_ blank"} .
 
-Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'pt-BR/resources'.
+Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'pt-br/resources'.

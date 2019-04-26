@@ -10,6 +10,6 @@ Veja aqui como sua página web deve ficar:
 
 ![screenshot](images/birthday-paragraph.png)
 
-Você consegue adicionar texto **em negrito** e <u> sublinhado</u> a seu novo parágrafo? Use as tags `<u>` e `</u>` para texto sublinhado.
+Você consegue adicionar texto **em negrito** e <u>sublinhado</u> a seu novo parágrafo? Use as tags `<u>` e `</u>` para texto sublinhado.
 
 --- /challenge ---
