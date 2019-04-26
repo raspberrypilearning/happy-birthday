@@ -6,6 +6,6 @@
 
 + ¿Puedes hacer que el fondo sea gris cambiando la propiedad del `body`?
 
-![screenshot](images/birthday-more-style.png)
+![captura de pantalla](images/birthday-more-style.png)
 
 --- /challenge ---
