@@ -4,7 +4,7 @@
 
 - ¿Puedes agregar un tercer párrafo de texto a tu página web, debajo de los otros dos?
 
-Recuerda que tu nuevo párrafo debe comenzar con la etiqueta `<p>`y finalizar con la etiqueta `</p>`.
+Recuerda que tu nuevo párrafo debe comenzar con la etiqueta `<p>` y finalizar con la etiqueta `</p>`.
 
 Tu página web podría tener este aspecto:
 
