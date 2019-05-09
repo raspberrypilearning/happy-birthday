@@ -2,7 +2,7 @@
 
 Használjuk azt, amit a HTML-ről és a CSS-ről tanultál, hogy elkészítsd a saját születésnapi kártyád.
 
-+ Nyisd meg [ezt a trinket](http://jumpto.cc/web-card){: target = "_ blank"}.
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 Számos kódot írtunk a kezdéshez, de a születésnapi kártya eddig elég unalmasnak tűnik, ezért néhány változtatást fogsz csinálni a HTML és a CSS kódon.
 
