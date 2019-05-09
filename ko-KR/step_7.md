@@ -2,7 +2,7 @@
 
 그럼 지금까지 배운 HTML과 CSS를 이용하여 자신만의 생일 카드를 만들어 봅시다.
 
-+ [trinket 열기](http://jumpto.cc/web-card){:target="_blank"}.
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 지금까지 많은 코드를 작성했지만, 생일 카드는 지금까지 꽤 지루해 보였으므로 아래와 같이 HTML 및 CSS 코드를 일부 변경해야 합니다.
 
