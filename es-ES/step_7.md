@@ -18,7 +18,7 @@ Hemos escrito un montón de código para que comiences, pero la tarjeta de cumpl
 
 --- collapse ---
 ---
-title: Respuesta
+title: Necesito una pista
 ---
 + Mira en la línea 17 para encontrar el código.
 + Cambia la palabra `robot` por `sun`, y verás que la imagen cambia!
