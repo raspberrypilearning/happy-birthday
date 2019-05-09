@@ -2,7 +2,7 @@
 
 独自のカスタムバースデーカードを作るためにHTMLとCSSについて学んだことを使ってみましょう。
 
-+ [この小物](http://jumpto.cc/web-card){{target = "_ blank"}にしてください。
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 私たちはあなたのために多くのコードを書いていますが、これまでのバースデーカードはかなり退屈なので、HTMLコードとCSSコードを少し変更します。
 
