@@ -7,7 +7,7 @@
 Нажмите кнопку, чтобы открыть поздравительную открытку:
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/birthday-final.png">
 </div>
