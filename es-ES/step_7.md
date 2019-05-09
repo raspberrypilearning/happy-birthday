@@ -2,7 +2,7 @@
 
 Vamos a usar lo que has aprendido sobre HTML y CSS para crear tu propia tarjeta de cumpleaños personalizada.
 
-+ Abre [este trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 Hemos escrito un montón de código para que comiences, pero la tarjeta de cumpleaños hasta este momento parece bastante aburrida, así que vas a hacer algunos cambios en el código HTML y CSS.
 
