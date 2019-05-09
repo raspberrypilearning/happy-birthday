@@ -2,7 +2,7 @@
 
 Mari gunakan apa yang telah Anda pelajari tentang HTML dan CSS untuk membuat kartu ulang tahun khusus Anda sendiri.
 
-+ Buka [trinket ini](http://jumpto.cc/web-card){: target = "_ blank"}.
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 Kami telah menulis banyak kode untuk memulai, tetapi kartu ulang tahun terlihat sangat membosankan sejauh ini, jadi Anda akan membuat beberapa perubahan pada kode HTML dan CSS.
 
