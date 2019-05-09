@@ -2,7 +2,7 @@
 
 Kendi özel doğum günü kartınızı oluşturmak için HTML ve CSS hakkında öğrendiklerinizi kullanalım.
 
-+ [bu biblo](http://jumpto.cc/web-card)açın {: target = "_ blank"}.
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 Başlamak için birçok kod yazdık, ancak doğum günü kartı şu ana kadar sıkıcı görünüyor, bu nedenle HTML ve CSS kodunda bazı değişiklikler yapacaksınız.
 
