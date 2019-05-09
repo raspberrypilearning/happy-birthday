@@ -2,7 +2,7 @@
 
 Hãy sử dụng những gì bạn đã học về HTML và CSS để tạo thiệp sinh nhật tùy nhu cầu của riêng bạn.
 
-+ Mở [trinket này](http://jumpto.cc/web-card){:target="_blank"}.
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 Chúng tôi đã viết rất nhiều mã để giúp bạn bắt đầu, nhưng thiệp sinh nhật có sẵn trông khá nhàm chán, vì vậy bạn sẽ thực hiện một số thay đổi đối với mã HTML và CSS.
 
