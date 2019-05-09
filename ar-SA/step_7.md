@@ -2,7 +2,7 @@
 
 Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
 
-+ Open [this trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
 
