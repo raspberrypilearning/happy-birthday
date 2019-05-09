@@ -2,7 +2,7 @@
 
 Vytvor si vlastný narodeninový pozdrav pomocou toho, čo si sa naučil/-a o HTML a CSS.
 
-+ Otvor [tento trinket](http://jumpto.cc/web-card){:target="_blank"}.
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 Hoci sme pre teba na začiatok napísali veľa kódu, narodeninový pozdrav stále vyzerá dosť nudne. V HTML a CSS kóde preto urobíme zopár zmien.
 
