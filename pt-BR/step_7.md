@@ -2,7 +2,7 @@
 
 Vamos usar o que você aprendeu sobre HTML e CSS para criar seu próprio cartão de aniversário personalizado.
 
-+ Abra [ este trinket ](http://jumpto.cc/web-card) {:target="_blank"}.
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 Nós já escrevemos muito código para você pegar o jeito, mas o cartão de aniversário parece bem entediante até agora, então você vai fazer algumas mudanças no código HTML e CSS.
 
