@@ -4,7 +4,7 @@ HTML significa **Lenguaje de marcado de hipertexto**, el lenguaje que utilizan p
 
 Utilizarás un sitio web que se llama trinket.io para escribir el código HTML.
 
-+ Abre [este trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Abre [este trinket](https://trinket.io/html/d152cbeab3){:target="_blank"}.
 
 El proyecto debería parecerse a esto:
 
