@@ -2,7 +2,7 @@
 
 讓我們使用您已經了解的有關HTML和CSS的知識來製作自己的生日賀卡。
 
-+ 打開 [this trinket](http://jumpto.cc/web-card)。
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 我們已經寫了很多代碼來幫助您起步，但生日賀卡看起來還是很單調，因此您將要對HTML和CSS代碼進行一些修改。
 
