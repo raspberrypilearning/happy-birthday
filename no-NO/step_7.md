@@ -2,7 +2,7 @@
 
 La oss bruke det du har lært om HTML og CSS for å lage ditt eget tilpassede bursdagskort.
 
-+ Åpne [denne trinketen](http://jumpto.cc/web-card){: target = "_ blank"}.
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 Vi har skrevet mye kode for å komme i gang, men bursdagskortet ser ganske kjedelig ut så langt, så du skal gjøre noen endringer i HTML- og CSS-koden.
 
