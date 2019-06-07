@@ -2,7 +2,7 @@
 
 Laten we gebruiken wat je hebt geleerd over HTML en CSS om je eigen aangepaste verjaardagskaart te maken.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Open [deze trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 We hebben veel code geschreven om je op weg te helpen, maar de verjaardagskaart ziet er tot nu toe vrij saai uit, dus je gaat enkele wijzigingen aanbrengen in de HTML- en CSS-code.
 
