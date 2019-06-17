@@ -2,7 +2,7 @@
 
 Laten we gebruiken wat je hebt geleerd over HTML en CSS om je eigen aangepaste verjaardagskaart te maken.
 
-+ Open [deze trinket](https://trinket.io/html/ab93911377){:target="_blank"}.
++ Open [deze trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 We hebben veel code geschreven om je op weg te helpen, maar de verjaardagskaart ziet er tot nu toe vrij saai uit, dus je gaat enkele wijzigingen aanbrengen in de HTML- en CSS-code.
 
@@ -16,12 +16,15 @@ We hebben veel code geschreven om je op weg te helpen, maar de verjaardagskaart 
 
 + Kun je de HTML-code voor de robotafbeelding vinden en de `robot` veranderen in een `zon (sun)`?
 
---- hints --- --- hint ---
+--- hints ---
+ --- hint ---
 
 + Kijk op regel 17 om de code te vinden.
 + Verander het woord `robot` in `sun` en je ziet de afbeelding veranderen!
 
-![screenshot](images/birthday-card-sun.png) --- /hint --- --- /hints ---
+![screenshot](images/birthday-card-sun.png)
+--- /hint ---
+--- /hints ---
 
 Je zou elk van deze woorden kunnen gebruiken `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, of `trophy` voor een verjaardagskaart of `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, of `snowman` als je een kerstkaart wilt maken.
 

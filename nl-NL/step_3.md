@@ -4,7 +4,7 @@ HTML staat voor **Hypertext Markup Language**, de taal die wordt gebruikt om web
 
 Je gaat een website genaamd trinket.io gebruiken om HTML-code te schrijven.
 
-+ Open [deze trinket](https://trinket.io/html/b4f3891131){:target="_blank"}.
++ Open [deze trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
 Het project zou er als volgt uit moeten zien:
 
@@ -26,6 +26,7 @@ HTML gebruikt **tags** om webpagina's te bouwen. Zoek naar deze HTML-code op reg
 ---
 title: Antwoord
 ---
+
 Een andere tag die je mogelijk gezien hebt, is `<b>`, wat staat voor **vetgedrukt (bold)**:
 
 ```html
@@ -34,15 +35,15 @@ Een andere tag die je mogelijk gezien hebt, is `<b>`, wat staat voor **vetgedruk
 
 Hier zijn er nog meer:
 
-+ `<html>` en ` </html>` markeren het begin en het einde van het HTML-document
-+ `<head>` en ` </head>` is waar dingen zoals CSS komen (we komen daar later op terug)
-+ `<body>` en ` </body>` is waar je website-inhoud komt
++ `<html>` en `</html>` markeren het begin en het einde van het HTML-document
++ `<head>` en `</head>` is waar dingen zoals CSS komen (we komen daar later op terug)
++ `<body>` en `</body>` is waar je website-inhoud komt
 
 ![screenshot](images/birthday-head-body.png)
 
 --- /collapse ---
 
-+ Breng een wijziging in een van de alinea's met tekst aan ( in het HTML-bestand aan de linkerkant). Klik op **Click To Run**, en je zou je webpagina (aan de rechterkant) moeten zien veranderen!
++ Breng een wijziging in een van de alinea's met tekst aan (in het HTML-bestand aan de linkerkant). Klik op **Click To Run**, en je zou je webpagina (aan de rechterkant) moeten zien veranderen!
 
 ![screenshot](images/birthday-edit-html.png)
 

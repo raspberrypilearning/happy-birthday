@@ -7,7 +7,8 @@ In dit project maak je kennis met HTML en CSS door te leren hoe je je eigen aang
 Klik op de knop om de verjaardagskaart te openen:
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/79d0046bfa?outputOnly=true" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+  <iframe src="https://trinket.io/embed/html/79doo46bfa?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
   <img src="images/birthday-final.png">
 </div>
 
@@ -19,6 +20,6 @@ Dit project behandelt elementen uit de volgende onderdelen van de[Raspberry Pi D
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/happy-birthday/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/happy-birthday/print){:target="_blank"} .
 
-Gebruik de link in de voettekst om toegang te krijgen tot de GitHub-repo voor dit project, deze bevat alle bestanden (inclusief een voltooid projectvoorbeeld) in de map 'nl-NL/resources'.
+Gebruik de link in de voettekst om toegang te krijgen tot de GitHub-repo voor dit project, deze bevat alle bestanden (inclusief een voltooid projectvoorbeeld) in de map 'nl/resources'.
