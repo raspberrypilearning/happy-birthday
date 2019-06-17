@@ -1,8 +1,8 @@
 ## 什麼是HTML？
 
-HTML代表 **超文字標示語言**，這是用於製作網頁的程式語言。讓我們來一起來看以下的例子吧！
+HTML代表 **超文本標記語言**，這是用於製作網頁的語言。讓我們來一起來看以下的例子吧！
 
-您將會用trinket.io這個網站來編寫HTML代碼。
+您將使用名為trinket.io的網站編寫HTML代碼。
 
 + 打開 [this trinket](http://jumpto.cc/web-intro)。
 
