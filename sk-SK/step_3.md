@@ -4,7 +4,7 @@ HTML znamená **Hypertextový značkovací jazyk (z angl. Hypertext Markup Langu
 
 Na písanie HTML kódu budeš používať webovú stránku trinket.io.
 
-+ Otvor [tento trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Otvor [tento trinket](https://trinket.io/html/494eb7728f){:target="_blank"}.
 
 Projekt by mal vyzerať takto:
 
