@@ -16,12 +16,12 @@ hardware: ''
 software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
-steps: 
-- title: Einleitung
-- title: Was du brauchen wirst
-- title: Was ist HTML?
-- title: 'Zusatzaufgabe: Füge einen weiteren Absatz hinzu'
-- title: Was ist CSS?
-- title: 'Zusatzaufgabe: Füge weitere Stile hinzu'
-- title: Eine Geburtstagskarte machen
-- title: 'Zusatzaufgabe: Erstelle eine personalisierte Karte'
+steps:
+  - title: Einleitung
+  - title: Was du brauchen wirst
+  - title: Was ist HTML?
+  - title: 'Aufgabe: Füge einen weiteren Absatz hinzu'
+  - title: Was ist CSS?
+  - title: 'Aufgabe: Füge weitere Stile hinzu'
+  - title: Eine Geburtstagskarte erstellen
+  - title: 'Aufgabe: Erstelle eine personalisierte Karte'

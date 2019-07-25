@@ -6,6 +6,6 @@
 
 + Kannst du den Hintergrund grau (grey) machen, indem du das `body`-Tag änderst?
 
-![screenshot](images/birthday-more-style.png)
+![Screenshot](images/birthday-more-style.png)
 
---- /challenge ---
+Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.
