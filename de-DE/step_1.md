@@ -16,7 +16,7 @@ Klicke auf die Schaltfläche, um die Geburtstagskarte zu öffnen:
 
 Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digital Making Lehrplans](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator)"}.
++ [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator)".
 
 ### Zusätzliche Informationen für Pädagogen
 
