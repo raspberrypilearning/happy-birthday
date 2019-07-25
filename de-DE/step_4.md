@@ -1,4 +1,4 @@
---- Herausforderung ---
+--- challenge ---
 
 ## Aufgabe: Füge einen weiteren Absatz hinzu
 
