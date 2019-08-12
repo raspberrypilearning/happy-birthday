@@ -1,14 +1,14 @@
 ## Wat is CSS?
 
-CSS staat voor ** Cascading Style Sheets **, en het is een taal die wordt gebruikt om webpagina's te stijlen (op te maken) om ze er leuk uit te laten zien.
+CSS staat voor **Cascading Style Sheets**, en het is een taal die wordt gebruikt om webpagina's op te maken en ze er leuk uit te laten zien.
 
 + Deze code koppelt je webpagina aan een CSS-bestand - kijk of je het in de `<head>` van het HTML-document kunt vinden:
 
 ![screenshot](images/birthday-css-link.png)
 
-CSS geeft alle ** properties (eigenschappen) ** voor een bepaald label weer.
+CSS geeft alle **properties (eigenschappen)** voor een bepaald label weer.
 
-+ Klik op de `style.css ` tab om de CSS-code voor je webpagina te zien.
++ Klik op de `style.css` tab om de CSS-code voor je webpagina te zien.
     
     ![screenshot](images/birthday-css-tab.png)
 
