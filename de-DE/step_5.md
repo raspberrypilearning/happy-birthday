@@ -4,7 +4,7 @@ CSS steht für **Cascading Style Sheets**, und es ist eine Sprache, die verwende
 
 + Dieser Code verknüpft deine Webseite mit einer CSS-Datei - sieh mal, ob du ihn im `<head>` des HTML-Dokuments finden kannst:
 
-![Screenshot](images/birthday-css-link.png)
+![screenshot](images/birthday-css-link.png)
 
 CSS listet alle **Eigenschaften** für ein bestimmtes Tag auf.
 
@@ -22,6 +22,6 @@ p {
 
 Dieser CSS-Code bestimmt eine Eigenschaft für Absätze (`p`), die besagt, dass die Textfarbe schwarz sein soll. Beachten Sie die amerikanische Schreibweise: "color".
 
-+ Ändere das Wort "schwarz" im CSS-Code zu "blau". Du solltest sehen, dass die Textfarbe aller Absätze blau wird.
++ Ändere das Wort "black" im CSS-Code zu "blue". Du solltest sehen, dass die Textfarbe aller Absätze blau wird.
 
-![Screenshot](images/birthday-edit-css.png)
+![screenshot](images/birthday-edit-css.png)
