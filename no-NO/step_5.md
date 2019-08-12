@@ -2,7 +2,7 @@
 
 CSS står for **Cascading Style Sheets**, og det er et språk som brukes til å sette stiler på nettsider og få dem til å se bra ut.
 
-+ Denne koden kobler din nettside til en CSS-fil - se om du finner den i `<head>` av HTML-dokumentet:
++ Denne koden kobler din nettside til en CSS-fil - se om du finner den i `<head>` i HTML-dokumentet:
 
 ![skjermbilde](images/birthday-css-link.png)
 
