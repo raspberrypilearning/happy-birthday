@@ -16,7 +16,7 @@ CSS loetleb kõik konkreetse sildi **omadused**.
 
 ```html
 p {
-värv: must;
+  color: black;
 }
 ```
 
