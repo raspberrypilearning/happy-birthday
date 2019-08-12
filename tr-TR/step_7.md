@@ -2,11 +2,11 @@
 
 Kendi özel doğum günü kartınızı oluşturmak için HTML ve CSS hakkında öğrendiklerinizi kullanalım.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ [Bu trinketi](https://trinket.io/html/b33e4f4ca8){:target="_blank"} açın.
 
-Başlamak için birçok kod yazdık, ancak doğum günü kartı şu ana kadar sıkıcı görünüyor, bu nedenle HTML ve CSS kodunda bazı değişiklikler yapacaksınız.
+Başlangıç için birçok kod yazdık, ancak doğum günü kartı oldukça sıkıcı görünüyor, bu nedenle HTML ve CSS kodunda bazı değişiklikler yapacaksınız.
 
-+ Kartın önündeki düğmeyi tıkladığınızda, içini ortaya çıkarmak için açık görmelisiniz.
++ Kartın önündeki düğmeye tıkladığınızda, kartın iç kısmının açıldığını görmelisiniz.
 
 ![ekran görüntüsü](images/birthday-click.png)
 
@@ -14,30 +14,30 @@ Başlamak için birçok kod yazdık, ancak doğum günü kartı şu ana kadar s�
 
 ![ekran görüntüsü](images/birthday-card-html.png)
 
-+ Robot resminin HTML kodunu bulabilir ve `robot` - `güneş`kelimesini değiştirebilir misiniz?
++ Robot resminin HTML kodunu bulup ve `robot` kelimesini `güneş` kelimesi ile değiştirebilir misiniz?
 
-\--- ipuçları \--- \--- ipucu \---
+\--- hints \--- \--- hint \---
 
 + Kodu bulmak için 17. satıra bakın.
-+ `robotu` ila `güneş`kelimesini değiştirin, böylece resim değişimini göreceksiniz!
++ `robot` kelimesini `güneş` kelimesi ile değiştirdiğinizde resmin değiştiğini göreceksiniz!
 
-![ekran görüntüsü](images/birthday-card-sun.png) \--- / ipucu \--- \--- / ipuçları \---
+![ekran görüntüsü](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
 `çocuk`, `elmas`, `dinozor`, `çiçek`, `kız`, `gökkuşağı`, `robot`, `uzay gemisi`, `güneş`, `çay`veya `ödül kelimesinden herhangi birini kullanabilirsiniz. Bir doğum günü kartı için` ya da `kraker`, `elf`, `penguen`, `mevcut`, `ren geyiği`, `santa`veya `kardan adam` Noel kartı yapmayı tercih ederseniz.
 
 Doğum günü kartının CSS kodunu da düzenleyebilirsiniz.
 
-+ `style.css`için sekmeye tıklayın. İlk bölüm, kartın **dışındaki** için CSS stillerinin tümü.
++ `style.css` sekmesine tıklayın. İlk bölüm, kartın **dış** tarafı için CSS stilleridir.
 
-+ Değiştir `Arka planının rengini` -e doğru `lightgreen`.
++ `background-color`'u `lightgreen` (açık yeşil) ile değiştirin.
 
 ![ekran görüntüsü](images/birthday-card-outside.png)
 
-+ Bir resmin boyutunu da değiştirebilirsiniz. `# dış-pic` CSS koduna gidin ve dış görüntünün `genişlik` ve `yüksekliğini` `200px` (`piksel` , piksel sayısıdır).
++ Bir resmin boyutunu da değiştirebilirsiniz. `#dis-resim` CSS koduna gidin ve dış resmin `width` (genişliğini) ve `height` (yüksekliğini) `200px` (`piksel`, anlamına gelir) olarak değiştirin.
 
 ![ekran görüntüsü](images/birthday-card-size.png)
 
-+ Yazı tipi de değiştirilebilir. `# dış başlık` CSS'ye gidin ve `font ailesi` ila `Comic Sans MS` ve `font boyutunu` ila `16 pt`.
++ Yazı fontu da değiştirilebilir. `#dis-baslik` CSS koduna gidin ve `font-family`'i `Comic Sans MS` ve `font-size` (font boyutunu) `16 pt` olarak değiştirin.
 
 ![ekran görüntüsü](images/birthday-card-font.png)
 
