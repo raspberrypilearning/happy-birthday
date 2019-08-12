@@ -9,23 +9,23 @@
   transform-origin: 0;
 }
 
-.open-card {
+.acik-kart {
   transform: rotateY(90deg);
 }
 
-#outside-title {
+#dis-baslik {
   color: blue;
   font-family: Arial;
   font-size: 30pt;
   text-align: center;
 }
 
-#outside-pic {
+#dis-resim {
   width: 300px;
   height: 150px;
 }
 
-#outside-help {
+#dis-yardim {
   color: black;
   font-family: Courier;
   font-size: 12pt;
@@ -33,7 +33,7 @@
   padding: 20px;
 }
 
-#inside {
+#ic {
   z-index: 0;
   position: absolute;
   background-color: lightyellow;
@@ -42,19 +42,19 @@
   text-align: center;
 }
 
-#inside-title {
+#dis-baslik {
   color: blue;
   font-family: Arial;
   font-size: 22pt;
   text-align: center;
 }
 
-#inside-pic {
+#ic-resim {
   width: 150px;
   height: 100px;
 }
 
-#message {
+#mesaj {
   color: green;
   font-family: Arial;
   font-size: 14pt;
