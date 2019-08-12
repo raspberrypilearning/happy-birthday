@@ -14,12 +14,12 @@ Klik op de knop om de verjaardagskaart te openen:
 
 ### Wat ga je leren
 
-Dit project behandelt elementen uit de volgende onderdelen van de[Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dit project behandelt elementen uit de volgende onderdelen van de [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Ontwerp standaard 2D- en 3D-items](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
 
-### Aanvullende informatie voor clubleiders
+### Aanvullende informatie voor docenten
 
-Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/happy-birthday/print) {:target="_ blank"} .
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_ blank"} .
 
-Gebruik de link in de voettekst om toegang te krijgen tot de GitHub-repo voor dit project, deze bevat alle bestanden (inclusief een voltooid projectvoorbeeld) in de map 'nl/resources'.
+Gebruik de link in de voettekst om toegang te krijgen tot de GitHub-repo voor dit project, deze bevat alle bestanden (inclusief een voorbeeld van een voltooid project) in de map 'nl/resources'.
