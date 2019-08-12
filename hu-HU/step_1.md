@@ -2,7 +2,7 @@
 
 Ebben a projektben a HTML és a CSS bemutatásával megtudhatod, hogyan készíthetsz saját magad által testreszabott születésnapi kártyát.
 
-### Amit csinálni fogsz
+### Mit fogsz elkészíteni
 
 Kattintson a gombra a születésnapi kártya megnyitásához:
 
@@ -12,7 +12,7 @@ Kattintson a gombra a születésnapi kártya megnyitásához:
   <img src="images/birthday-final.png">
 </div>
 
-### Amit meg fogsz tanulni
+### Mit fogsz megtanulni
 
 Ez a projekt a [Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){: target = "_ blank"} következő részeit tartalmazza:
 
