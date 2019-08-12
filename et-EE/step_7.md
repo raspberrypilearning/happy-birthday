@@ -2,7 +2,7 @@
 
 Kasuta seda, mida oled õppinud HTML-i ja CSS-i kohta, et luua sinu enda kohandatud sünnipäevakaart.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Ava [see trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 Oleme kirjutanud palju koodi, et saaksid alustada, kuid sünnipäevakaart tundub siiani üsna igav, seega hakkad sina HTML-i ja CSS-koodi mõnevõrra muutma.
 
