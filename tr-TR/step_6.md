@@ -1,11 +1,11 @@
-\--- meydan okuma \---
+\--- challenge \---
 
-## Zorluk: daha fazla stil ekle
+## Meydan okuma: daha fazla stil ekleyin
 
-+ Metin paragraflarını turuncu yapabilir misiniz?
++ Metin paragraflarının rengini turuncu yapabilir misiniz?
 
 + `body` özelliğini değiştirerek arka planı gri yapabilir misiniz?
 
 ![ekran görüntüsü](images/birthday-more-style.png)
 
-\--- /meydan okuma \---
+\--- /challenge \---
