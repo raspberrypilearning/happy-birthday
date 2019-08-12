@@ -1,4 +1,4 @@
-\--- utfordring \---
+\--- challenge \---
 
 ## Utfordring: Legg til flere stiler
 
@@ -8,4 +8,4 @@
 
 ![skjermbilde](images/birthday-more-style.png)
 
-\--- /utfordring \---
+\--- /challenge \---
