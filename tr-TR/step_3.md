@@ -1,16 +1,16 @@
 ## HTML nedir?
 
-HTML, web sayfaları yapmak için kullanılan dil olan **Köprü Metni Biçimlendirme Dili**anlamına gelir. Bir örneğe bakalım!
+HTML, web sayfaları yapmak için kullanılan dil olan **Köprü Metni Biçimlendirme Dili** (Hypertext Markup Language) anlamına gelir. Bir örneğe bakalım!
 
-HTML kodu yazmak için trinket.io adlı bir web sitesini kullanıyor olacaksınız.
+HTML kodu yazmak için trinket.io adlı bir web sitesini kullanacaksınız.
 
-+ [bu biblo](http://jumpto.cc/web-intro)açın {: target = "_ blank"}.
++ [Bu trinketi](http://jumpto.cc/web-intro){:target="_blank"} açın.
 
-Proje şöyle görünmeli:
+Proje şu şekilde gözükmeli:
 
 ![ekran görüntüsü](images/birthday-starter.png)
 
-Solda görebileceğiniz kod HTML'dir. Bilmecenin sağ tarafında, HTML kodunun yaptığı web sayfasını görebilirsiniz.
+Solda görebileceğiniz kod HTML'dir. Sağ tarafta, HTML kodunun oluşturduğu web sayfasını görebilirsiniz.
 
 HTML, web sayfaları oluşturmak için **etiket** kullanır. Kodunuzun 8. satırında bu HTML kodunu arayın:
 
@@ -18,46 +18,46 @@ HTML, web sayfaları oluşturmak için **etiket** kullanır. Kodunuzun 8. satır
 <p>Merhaba. Benim adım Andy.</p>
 ```
 
-`<p>` bir etiket örneğidir ve **paragraf**için kısadır. Paragrafı `<p>`ile başlatabilir ve paragrafı `</p>`ile sonlandırabilirsiniz.
+`<p>` bir etiket örneğidir ve **paragraf** için kısaltmadır. Paragrafı `<p>` ile başlatabilir ve `</p>` ile sonlandırabilirsiniz.
 
-+ Başka etiketler bulabilir misin?
++ Başka HTML etiketi bulabilir misiniz?
 
-## \--- çöküş \---
+## \---collapse\---
 
-## başlık: Cevap
+## title: Cevap
 
-Gördüğünüz diğer bir etiket `<b>`, **kalın**anlamına gelir:
+Görmüş olabileceğiniz bir diğer etiket `<b>`, **kalın** anlamına gelir:
 
 ```html
 <b>çalışan</b>
 ```
 
-İşte biraz daha:
+Birkaç tane daha etiket:
 
 + `<html>` ve `</html>` HTML belgesinin başlangıcını ve sonunu işaretler
-+ `<head>` ve `</head>` CSS gibi şeylerin gittiği yerdir (daha sonra başlayacağız)
++ `<head>` ve `</head>` CSS gibi şeylerin eklendiği yerdir (daha sonra değineceğiz)
 + `<body>` ve `</body>` , web sitenizin içeriğinin geçtiği yerdir
 
 ![ekran görüntüsü](images/birthday-head-body.png)
 
-\--- /çöküş \---
+\--- /collapse \---
 
-+ HTML dosyasındaki metin paragraflarından birinde (solda) değişiklik yapın. **Çalıştır**tıkladığınızda web sayfanızın değiştiğini görmelisiniz (sağda)!
++ HTML dosyasındaki metin paragraflarından birinde (solda) değişiklik yapın. **Çalıştır**a tıkadığınızda (sağda) web sayfanızın değiştiğini görmelisiniz!
 
 ![ekran görüntüsü](images/birthday-edit-html.png)
 
-+ Bir hata yaptıysanız ve tüm değişikliklerinizi geri almak istiyorsanız, **menü** düğmesini ve ardından **Sıfırla**tıklayabilirsiniz.
++ Bir hata yaptıysanız ve tüm değişikliklerinizi geri almak istiyorsanız, **menu** düğmesine ve ardından **Reset** düğmesine tıklayabilirsiniz.
 
 ![ekran görüntüsü](images/birthday-reset.png)
 
 Yaptığınız son şeyi geri almak için, `Ctrl` ve `z` tuşlarına birlikte basabilirsiniz.
 
-### Projelerinizi kurtarmak için bir Biblo hesabına ihtiyacınız yok!
+### Projelerinizi kaydetmek için bir Trinket hesabına ihtiyacınız yok!
 
-Bir Biblo hesabınız yoksa, **aşağı** okunu ve ardından **Bağlantı**tıklayın. Bu size kaydedebileceğiniz ve daha sonra geri dönebileceğiniz bir bağlantı verecektir. Her değişiklik yaptığınızda, bağlantı değişeceğinden bunu yapmanız gerekecektir!
+Bir Trinket hesabınız yoksa, **aşağı** okuna ve ardından **bağlantıya** tıklayın. Bu size kaydedebileceğiniz ve daha sonra geri dönebileceğiniz bir bağlantı verecektir. Her değişiklik yaptığınızda, bağlantı değişeceğinden bunu tekrar yapmanız gerekecektir!
 
 ![ekran görüntüsü](images/birthday-link.png)
 
-Eğer bir Biblo hesabınız varsa, web sayfanızı kaydetmenin en kolay yolu bibloların üst kısmındaki **Remix** düğmesine tıklamaktır. Bu biblo bir kopyasını profilinize kaydedecektir.
+Eğer bir Trinket hesabınız varsa, web sayfanızı kaydetmenin en kolay yolu trinketlerin üst kısmındaki **Remix** düğmesine tıklamaktır. Bu trinkotunuzun bir kopyasını profilinize kaydedecektir.
 
 ![ekran görüntüsü](images/birthday-remix.png)
