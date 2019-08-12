@@ -1,8 +1,8 @@
 ## Giriş
 
-Bu projede, kendi özelleştirilmiş doğum günü kartınızı nasıl yapacağınızı öğrenerek HTML ve CSS ile tanışacaksınız.
+Bu projede, kendi doğum günü kartınızı nasıl yapacağınızı öğrenerek HTML ve CSS ile tanışacaksınız.
 
-### Ne yapacaksın
+### Ne yapacaksınız
 
 Doğum günü kartını açmak için düğmeye tıklayın:
 
@@ -12,14 +12,14 @@ Doğum günü kartını açmak için düğmeye tıklayın:
   <img src="images/birthday-final.png">
 </div>
 
-### Ne öğreneceksin
+### Ne öğreneceksiniz
 
-Bu proje, [Raspberry Pi Dijital Hazırlama Müfredatı](http://rpf.io/curriculum){{target = "_ blank"} dizilerinin unsurlarını kapsar:
+Bu proje, [Raspberry Pi Dijital Hazırlama Müfredatı](http://rpf.io/curriculum){@ target = "_ blank"} 'nın aşağıdaki bölümünden bilgiler kapsar:
 
-+ [Temel 2D ve 3D varlıkları tasarlayın](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Basit 2D ve 3D varlıklar tasarlama](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
 
 ### Eğitimciler için ek bilgiler
 
 Bu projeyi yazdırmanız gerekiyorsa, lütfen yazıcıya uygun [sürümü](https://projects.raspberrypi.org/en/projects/happy-birthday/print){: target = "_ blank"} kullanın.
 
-'En / resources' klasöründeki tüm kaynakları içeren (bitmiş bir proje dahil) bu proje için GitHub deposuna erişmek için altbilgideki linki kullanın.
+Bu projenin ‘en/resources’ klasöründeki tüm kaynakları (örnek bitmiş bir proje de dahil olmak üzere) içeren GitHub Repo'suna erişmek için altbilgideki bağlantıyı kullanın.
