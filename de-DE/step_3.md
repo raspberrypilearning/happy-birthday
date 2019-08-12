@@ -1,10 +1,10 @@
 ## Was ist HTML?
 
-HTML steht für ** Hypertext Markup Language ** die Sprache, mit der Webseiten erstellt werden. Schauen wir uns ein Beispiel an!
+HTML steht für **Hypertext Markup Language** die Sprache, mit der Webseiten erstellt werden. Schauen wir uns ein Beispiel an!
 
 Du wirst eine Website namens trinket.io verwenden, um HTML-Code zu schreiben.
 
-+ Öffne dieses [trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Öffne [dieses trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
 Das Projekt sollte so aussehen:
 
@@ -20,7 +20,7 @@ HTML verwendet **Tags** um Webseiten zu erstellen. Schau dir diesen Code in Zeil
 
 `<p>` ist ein Beispiel für ein Tag und eine Abkürzung für **Absatz**. Du kannst einen Absatz mit `<p>` beginnen und mit ` </p>` beenden.
 
-+ Können Sie andere Tags finden?
++ Kannst du noch andere Tags finden?
 
 ## \--- collapse \---
 
@@ -32,11 +32,11 @@ Ein anderes Tag, das du vielleicht entdeckt hast, ist `<b>`, was für ** fett** 
 <b>laufe</b>
 ```
 
-Hier sind noch einige:
+Hier sind noch einige weitere:
 
 + `<html>` und `</html>` markieren den Anfang und das Ende des HTML-Dokuments
 + `<head>` und `</head>` ist der Bereich, in den CSS und ähnliches kommt (wir kommen später dazu)
-+ `<body>` und `</body>` ist der Bereich für den Inhalt deine Website
++ `<body>` und `</body>` ist der Bereich für den Inhalt deiner Website
 
 ![Screenshot](images/birthday-head-body.png)
 
@@ -44,7 +44,7 @@ Hier sind noch einige:
 
 + Ändere etwas in einem der Textabsätze in der HTML-Datei (links). Klicke auf **Click To Run** und du solltest eine Änderung auf deiner Webseite sehen (auf der rechten Seite)!
 
-![screenshot](images/birthday-edit-html.png)
+![Screenshot](images/birthday-edit-html.png)
 
 + Wenn du Fehler gemacht hast und alle Änderungen rückgängig machen möchtest, klicke auf das **Menü** und dann auf **Reset**.
 
