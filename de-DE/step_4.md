@@ -1,4 +1,4 @@
-\--- Herausforderung \---
+\--- challenge \---
 
 ## Aufgabe: Füge einen weiteren Absatz hinzu
 
@@ -10,6 +10,6 @@ So könnte deine Webseite aussehen:
 
 ![screenshot](images/birthday-paragraph.png)
 
-Kannst du Textteile in deinem neuen Absatz **fett** und <u>unterstrichen</u> auszeichnen? Verwende `<u>` und `</u>` Tags für unterstrichenen Text.
+Kannst du **fette** und <u>unterstrichene</u>Textteile in deinem neuen Absatz hinzufügen? Verwende `<u>` und `</u>` Tags für unterstrichenen Text.
 
 \--- /challenge \---
