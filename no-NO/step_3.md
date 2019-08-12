@@ -4,7 +4,7 @@ HTML står for **Hypertext Markup Language**, språket som brukes til å lage we
 
 Du vil bruke et nettsted som heter trinket.io for å skrive HTML-kode.
 
-+ Åpne [denne trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Åpne [denne trinket](https://trinket.io/html/6851e11f2d){:target="_blank"}.
 
 Prosjektet skal se slik ut:
 

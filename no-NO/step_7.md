@@ -2,7 +2,7 @@
 
 La oss bruke det du har lært om HTML og CSS for å lage ditt eget tilpassede bursdagskort.
 
-+ Åpne [denne trinketen](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Åpne [denne trinketen](https://trinket.io/html/41e51ef0b2){:target="_blank"}.
 
 Vi har skrevet mye kode for å komme i gang, men bursdagskortet ser ganske kjedelig ut så langt, så du skal gjøre noen endringer i HTML- og CSS-koden.
 
