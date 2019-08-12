@@ -4,7 +4,7 @@ Laten we gebruiken wat je hebt geleerd over HTML en CSS om je eigen aangepaste v
 
 + Open [deze trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-We hebben veel code geschreven om je op weg te helpen, maar de verjaardagskaart ziet er tot nu toe vrij saai uit, dus je gaat enkele wijzigingen aanbrengen in de HTML- en CSS-code.
+We hebben veel code geschreven om je op weg te helpen, maar de verjaardagskaart ziet er tot nu toe vrij saai uit, dus je gaat enkele wijzigingen aanbrengen in de HTML en CSS code.
 
 + Klik op de knop aan de voorkant van de kaart en je zou hem open moeten zien gaan om de binnenkant te onthullen.
 
@@ -14,12 +14,12 @@ We hebben veel code geschreven om je op weg te helpen, maar de verjaardagskaart 
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Kun je de HTML-code voor de robotafbeelding vinden en de ` robot ` veranderen in een ` zon (sun) `?
++ Kun je de HTML-code voor de robotafbeelding vinden en de `robot` veranderen in een `zon (sun)`?
 
 \--- hints \--- \--- hint \---
 
 + Kijk op regel 17 om de code te vinden.
-+ Verander het woord ` robot ` in ` sun ` en je ziet de afbeelding veranderen!
++ Verander het woord `robot` in `sun` en je ziet de afbeelding veranderen!
 
 ![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
