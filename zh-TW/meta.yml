@@ -1,30 +1,30 @@
 ---
-hero_image: 圖片/快樂birthday.png
-theme: 青绿色
+hero_image: images/happy-birthday.png
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1，design-1，programming-0，phys-comp-0，製造-0，社區-0
-title: 生日快樂
-description: 在網頁上製作在線生日卡片
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: 生日快樂！
+description: 在網頁上製作一個線上生日賀卡
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
-interests: 藝術
-technologies: HTML，CSS，JavaScript的
-site_areas: 項目
+interests: art
+technologies: html-css-javascript
+site_areas: projects
 hardware: ''
-software: HTML，CSS，JavaScript的
+software: html-css-javascript
 version: 4
-last_tested: 2017年1月1日
+last_tested: 2017-01-01
 steps:
   - 
-    title: 介紹
+    title: 簡介
   - 
-    title: 你需要什麼
+    title: 你需要些什麼
   - 
     title: 什麼是HTML？
   - 
-    title: '挑戰：添加另一段'
+    title: '挑戰：添加另一個段落'
   - 
     title: 什麼是CSS？
   - 
@@ -32,4 +32,4 @@ steps:
   - 
     title: 製作生日賀卡
   - 
-    title: '挑戰：創建個性化卡片'
+    title: '挑戰：創造個人賀卡'
