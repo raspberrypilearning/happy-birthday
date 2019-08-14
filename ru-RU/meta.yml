@@ -1,0 +1,27 @@
+---
+hero_image: images/happy-birthday.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: С днём рождения
+description: Создай онлайн-открытку ко дню рождения на веб-странице
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+interests: art
+technologies: html-css-javascript
+site_areas: проекты
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2017-01-01
+steps:
+  - title: Введение
+  - title: Что тебе понадобится
+  - title: Что такое HTML?
+  - title: 'Задача: добавить ещё один абзац'
+  - title: Что такое CSS?
+  - title: 'Задача: добавить больше стилей'
+  - title: Создание поздравительной открытки ко дню рождения
+  - title: 'Задача: создать персонализированную открытку'
