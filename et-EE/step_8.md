@@ -17,6 +17,7 @@ Rohkem CSS-i värvinimesid leiad [siin](http://jumpto.cc/colours){:target="_blan
 --- /challenge ---
 
 
+
 **Kogukondlik tõlge**
 
 Selle projekti tõlkis **Kart Roomae** ja vaatas läbi **Kaspar Siig**.
