@@ -6,12 +6,12 @@
 
 Iată un exemplu:
 
-![screenshot](images/birthday-final.png)
+![captură de ecran](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Poți găsi mai multe nume de culori pentru CSS [aici](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Once you've finished your card, you can share or email it to someone.
++ După ce ți-ai terminat felicitarea, o poți împărtăși cu cineva sau să o trimiți prin mail cuiva.
 
-![screenshot](images/birthday-share.png)
+![captură de ecran](images/birthday-share.png)
 
 \--- /challenge \---
