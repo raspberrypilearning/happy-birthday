@@ -1,18 +1,18 @@
-## What is CSS?
+## Ce este CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS este prescurtarea de la **Cascading Style Sheets** și este o limbă folosi pentru a stiliza paginile web și a le face mai frumoase.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Acest cod face legătura dintre pagina ta web și un fișier CSS — vezi dacă îl poți găsi în secțiunea `<head>` din documentul HTML:
 
-![screenshot](images/birthday-css-link.png)
+![captură de ecran](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS afișează toate **proprietățile** pentru o anumită etichetă.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ Dă click pe tab-ul `style.css` pentru a vedea codul CSS pentru pagina ta web.
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![captură de ecran](images/birthday-css-tab.png)
 
-+ Find this code:
++ Găsește acest cod:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Acest cod CSS determină o proprietate pentru paragrafe (`p`), care spune că textul ar trebui să aibă culoarea neagră. Observă ortografia americană: „color”.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ Schimbă cuvântul „black” din codul CSS în „blue”. Ar trebui să vezi că culoarea tuturor paragrafelor se schimbă în albastru.
 
-![screenshot](images/birthday-edit-css.png)
+![captură de ecran](images/birthday-edit-css.png)
