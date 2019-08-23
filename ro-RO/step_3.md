@@ -8,7 +8,7 @@ Vei folosi un website numit trinket.io pentru a scrie cod HTML.
 
 Proiectul ar trebui să arate astfel:
 
-![screenshot](images/birthday-starter.png)
+![captură de ecran](images/birthday-starter.png)
 
 Codul pe care îl vezi în stânga este HTML. În dreapta trinket-ului, poți vedea pagina web pe care codul HTML a creat-o.
 
@@ -38,26 +38,26 @@ Iată câteva în plus:
 + `<head>` și `</head>` e locul pentru lucrurile precum CSS (vom ajunge la asta mai târziu)
 + `<body>` și `</body>` este locul pentru conținutul paginii tale web
 
-![screenshot](images/birthday-head-body.png)
+![captură de ecran](images/birthday-head-body.png)
 
 \--- /collapse \---
 
 + Fă o modificare pentru a schimba unul dintre paragrafele de text în fișierul HTML (din stânga). Dă click pe **Run** și vei putea vedea cum pagina ta web se schimbă (în dreapta)!
 
-![screenshot](images/birthday-edit-html.png)
+![captură de ecran](images/birthday-edit-html.png)
 
 + Dacă ai făcut o greșeală și vrei să anulezi toate modificările, poți da click pe butonul **menu** iar apoi pe **Reset**.
 
-![screenshot](images/birthday-reset.png)
+![captură de ecran](images/birthday-reset.png)
 
 Pentru a anula doar ultima acțiune, poți apăsa simultan tastele `Ctrl` și `Z`.
 
 ### Nu ai nevoie de un cont Trinket pentru a-ți salva proiectele!
 
-Dacă nu ai un cont Trinket, dă click pe săgeata **jos**, iar mai apoi pe **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Dacă nu ai un cont Trinket, dă click pe săgeata **jos**, iar mai apoi pe **Link**. Acest lucru îți va oferi un link pe care îl poți salva și la care poți reveni mai târziu. Va trebui să faci acest lucru de fiecare dată când faci modificări, deoarece link-ul se va schimba!
 
-![screenshot](images/birthday-link.png)
+![captură de ecran](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+Dacă ai un cont Trinket, cea mai ușoară modalitate de a-ți salva pagina web este de a da click pe butonul **Remix** din partea de sus a trinket-ului. Acesta va salva o copie a trinket-ului pe profilul tău.
 
-![screenshot](images/birthday-remix.png)
+![captură de ecran](images/birthday-remix.png)
