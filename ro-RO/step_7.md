@@ -1,29 +1,29 @@
-## Making a birthday card
+## Crearea unei felicitări aniversare
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Să folosim ce ai învățat despre HTML și CSS pentru a-ți face propria felicitare aniversară personalizată.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Deschide [acest trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Am scris mult cod pentru început, dar felicitarea aniversară arată foarte plictisitoare până acum, așa că vei face niște schimbări în codul HTML și CSS.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Dă click pe butonul din fața felicitării și ar trebui să vezi cum se deschide spre exterior.
 
 ![screenshot](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Mergi la linia 14 a codului HTML. Încearcă să editezi textul pentru a-ți personaliza felicitarea.
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Poți să găsești codul HTML pentru imaginea robotului și să schimbi cuvântul `robot` în `sun` (soare)?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Uită-te pe linia 17 pentru a găsi codul.
++ Schimbă cuvântul `robot` în `sun` și vei vedea că se schimbă imaginea!
 
 ![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Poți folosi oricare dintre cuvintele `boy` (băiat), `diamond` (diamant), `dinosaur` (dinozaur), `flowers` (flori), `girl` (fată), `rainbow` (curcubeu), `robot`, `spaceship` (navă spațială), `sun` (soare), `tea` (ceai) sau `trophy` (trofeu) pentru o felicitare aniversare, sau `cracker` (pocnitoare), `elf`, `penguin` (pinguin), `present` (cadou), `reindeer` (ren), `santa` sau `snowman` (om de zăpadă) dacă preferi să faci o felicitare de Crăciun.
 
 You can also edit the CSS code of the birthday card.
 
