@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## Provocare: adaugă alt paragraf
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- Poți adăuga un al treilea paragraf de text la pagina ta web, sub celelalte două?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+Nu uita că noul tău paragraf ar trebui să înceapă cu eticheta `<p>` și să se termine cu eticheta `</p>`.
 
-Here's how your webpage might look:
+Iată cum ar putea arăta pagina ta web:
 
-![screenshot](images/birthday-paragraph.png)
+![captură de ecran](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+Poți adăuga text **îngroșat** și <u>subliniat</u> la paragraful tău nou? Folosește etichetele `<u>` și `</u>` pentru text subliniat.
 
 \--- /challenge \---
