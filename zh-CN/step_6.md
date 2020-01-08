@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## 挑战：添加更多样式
 
-+ Can you make the paragraphs of text orange?
++ 您可以将文本的段落设为橙色吗？
 
-+ Can you make the background grey by changing the `body` property?
++ 你可以通过更改`正文`属性来使背景为灰色吗？
 
 ![screenshot](images/birthday-more-style.png)
 
