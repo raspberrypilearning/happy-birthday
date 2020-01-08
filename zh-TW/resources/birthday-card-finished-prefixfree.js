@@ -257,15 +257,15 @@ var self = window.PrefixFree = {
 		
 		return camelCase? StyleFix.camelCase(prefixed) : prefixed;
 	}
-};
+}
 
 /**************************************
- * Properties
+ /**************************************
  **************************************/
 (function() {
 	var prefixes = {},
 		properties = [],
-		shorthands = {},
+		properties = [],
 		style = getComputedStyle(document.documentElement, null),
 		dummy = document.createElement('div').style;
 	
