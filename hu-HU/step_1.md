@@ -1,10 +1,10 @@
 ## Bevezetés
 
-Ebben a projektben a HTML és a CSS bemutatásával megtudhatod, hogyan készíthetsz saját magad által testreszabott születésnapi kártyát.
+Ebben a projektben megismerkedhetsz a HTML-lel és a CSS-sel, miközben elkészíted a saját személyre szabott születésnapi képeslapodat.
 
 ### Mit fogsz elkészíteni
 
-Kattintson a gombra a születésnapi kártya megnyitásához:
+Kattints a gombra a születésnapi kártya megnyitásához:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -14,12 +14,12 @@ Kattintson a gombra a születésnapi kártya megnyitásához:
 
 ### Mit fogsz megtanulni
 
-Ez a projekt a [Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){: target = "_ blank"} következő részeit tartalmazza:
+Ez a projekt a [Raspberry Pi Digitális Alkotás Tanterv](http://rpf.io/curriculum) alábbi részeiből fed le elemeket: {:target="_blank"}:
 
-+ [Tervezd meg az alapvető 2D és 3D eszközöket](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Tervezz alapvető 2D és 3D alkotóelemeket](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
 
-### További információk az oktatók számára
+### További információk oktatóknak
 
-Ha ki kell nyomtatnia ezt a projektet, kérjük, használja a [nyomtatóbarát](https://projects.raspberrypi.org/en/projects/happy-birthday/print)verziót {: target = "_ blank"}.
+Ha ki szeretnéd nyomtatni ezt a projektet, kérjük, használd a [nyomtatóbarát verziót](https://projects.raspberrypi.org/en/projects/happy-birthday/print) {:target="_blank"} .
 
-Használd a láblécben található linket a GitHub repo eléréséhez ehhez a projekthez, amely tartalmazza az összes forrást az "en/resources" mappában(beleértve egy példát is).
+A láblécben található linkkel elérheted ennek a projektnek a Github repóját, amely tartalmazza az összes forrást (köztük egy teljes példaprojektet) az "en/resources" mappában.
