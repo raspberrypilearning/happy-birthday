@@ -14,7 +14,7 @@ Doğum günü kartını açmak için düğmeye tıklayın:
 
 ### Ne öğreneceksiniz
 
-Bu proje, [Raspberry Pi Dijital Hazırlama Müfredatı](http://rpf.io/curriculum){@ target = "_ blank"} 'nın aşağıdaki bölümünden bilgiler kapsar:
+Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){@ target = "_ blank"} 'un aşağıdaki bölümünden bilgiler kapsamaktadır:
 
 + [Basit 2D ve 3D varlıklar tasarlama](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
 
