@@ -1,12 +1,12 @@
-## जन्मदिन का कार्ड बनाना
+## जन्मदिन का एक कार्ड बनाना
 
-अपने स्वयं के कस्टम जन्मदिन कार्ड बनाने के लिए HTML और CSS के बारे में आपने जो सीखा है, उसका उपयोग करते हैं।
+HTML और CSS के बारे में आपने जो सीखा है, आइये उसका उपयोग जन्मदिन का आपका अपना कस्टम कार्ड बनाने के लिए करते हैं।
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ [ इस ट्रिंकेट ](https://trinket.io/html/b33e4f4ca8) {:target="_blank"} को खोलें |
 
-हमने आपको शुरू करने के लिए बहुत सारे कोड लिखे हैं, लेकिन जन्मदिन का कार्ड अब तक बहुत उबाऊ लग रहा है, इसलिए आप HTML और CSS कोड में कुछ बदलाव करने जा रहे हैं।
+आरम्भ करने के लिए हमने बहुत सारे कोड लिखे हैं, परन्तु जन्मदिन का कार्ड अब तक बहुत उबाऊ सा प्रतीत हो रहा है, इसलिए आप HTML और CSS कोड में कुछ बदलाव करने जा रहे हैं।
 
-+ कार्ड के सामने स्थित बटन पर क्लिक करें, और आपको इसे अंदर प्रकट करने के लिए खुला देखना चाहिए।
++ कार्ड के सामने स्थित बटन पर क्लिक करें, और आप इसे खुलकर अंदर का भाग प्रकाशित करते हुए देख पाएंगे ।
 
 ![स्क्रीनशॉट](images/birthday-click.png)
 
@@ -14,35 +14,35 @@
 
 ![स्क्रीनशॉट](images/birthday-card-html.png)
 
-+ क्या आप रोबोट छवि के लिए HTML कोड पा सकते हैं, और शब्द बदल सकते हैं ` robot` को ` sun`?
++ क्या आप रोबोट छवि के लिए HTML कोड खोज सकते हैं, और ` robot` शब्द को ` sun` में बदल सकते हैं?
 
 \--- hints \--- \--- hint \---
 
 + कोड खोजने के लिए लाइन 17 पर देखें।
-+ शब्द बदलें ` robot` को ` sun`, और आप छवि परिवर्तन देखेंगे!
++ ` robot` शब्द को ` sun` में बदलें, और आप छवि में परिवर्तन देखेंगे!
 
 ![स्क्रीनशॉट](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-आप किसी भी शब्द का उपयोग कर सकते हैं ` boy`, ` diamond`, ` dinosaur`, ` flower`, ` girl`, ` rainbow`, ` robot`, ` spaceship`, ` sun`, ` tea`, या ` trophy` जन्मदिन कार्ड के लिए, या ` cracker`, ` elf`, ` penguin`, ` present`, ` reindeer`, ` santa`, या ` snowman` अगर आप क्रिसमस कार्ड बनाना पसंद करेंगे।
+आप इनमें से किसी भी शब्द का उपयोग कर सकते हैं ` boy`, ` diamond`, ` dinosaur`, ` flower`, ` girl`, ` rainbow`, ` robot`, ` spaceship`, ` sun`, ` tea`, या ` trophy` जन्मदिन कार्ड के लिए, या ` cracker`, ` elf`, ` penguin`, ` present`, ` reindeer`, ` santa`, या ` snowman` अगर आप क्रिसमस कार्ड बनाना पसंद करेंगे।
 
 आप जन्मदिन कार्ड का CSS कोड भी संपादित कर सकते हैं।
 
-+ ` style.css ` लिए टैब पर क्लिक करें । पहला भाग ** बाहर **के CSS styles कार्ड का है।
++ ` style.css ` के लिए टैब पर क्लिक करें । पहला भाग कार्ड के **बाहर** के CSS styles का है।
 
-+ ` पृष्ठभूमि-रंग बदलें ` से ` लाइटग्रीन ` ।
++ <color>पृष्ठभूमि-रंग</color> को <color>लाइटग्रीन</color> से बदलें ।
 
 ![स्क्रीनशॉट](images/birthday-card-outside.png)
 
-+ आप एक छवि का आकार भी बदल सकते हैं। ` #outside-pic पर जाएं ` सीएसएस कोड, और ` width `चौड़ाई बदलें और ` height `ऊंचाई बाहर की छवि को ` 200px ` (` पिक्सल ` पिक्सल के लिए खड़ा है)।
++ आप एक छवि का आकार भी बदल सकते हैं। ` #outside-pic ` CSS कोड पर जाएं, और बाहर की छवि के ` width ` और ` height ` को ` 200px ` में बदलें (`px` पिक्सल के लिए है)।
 
 ![स्क्रीनशॉट](images/birthday-card-size.png)
 
-+ फॉन्ट को भी बदला जा सकता है। ` #outside-title `पर जाएं सीएसएस और ` font-family` बदलें को ` Comic Sans MS ` और ` font-size ` से ` 16pt ` ।
++ फॉन्ट को भी बदला जा सकता है। ` #outside-title ` CSS पर जाएं और ` font-family` को ` Comic Sans MS ` और ` font-size ` को ` 16pt ` में बदलें ।
 
 ![स्क्रीनशॉट](images/birthday-card-font.png)
 
 आप अन्य फोंट का उपयोग कर सकते हैं, उदाहरण के लिए:
 
-+ `&lt;span style="font-family: Arial;"&gt;arial&lt;/span&gt;`
-+ `&lt;span style="font-family: impact;"&gt;Impact&lt;/span&gt;`
-+ `&lt;span style="font-family: tahoma;"&gt;Tahoma&lt;/span&gt;`
++ `<code> <span style="font-family: Arial;">arial</span> `</code>
++ `<code><span style="font-family: impact;">Impact</span>`</code>
++ `<code> <span style="font-family: Arial;">arial</span> `</code>
