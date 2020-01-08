@@ -1,4 +1,4 @@
-\--- /challenge \---
+\--- meydan okuma \---
 
 ## Meydan Okuma: başka bir paragraf ekleyin
 
@@ -6,7 +6,7 @@
 
 Yeni paragrafınızın `<p>` etiketi ile başlaması ve `</p>` etiketi ile bitmesi gerektiğini unutmayın.
 
-Web sayfanız şunun gibi gözükmeli:
+İnternet sayfanız şunun gibi gözükmeli:
 
 ![ekran görüntüsü](images/birthday-paragraph.png)
 
