@@ -247,7 +247,7 @@ var self = window.PrefixFree = {
 	},
 	
 	// Warning: Prefixes no matter what, even if the selector is supported prefix-less
-	prefixSelector: function(selector) {
+	function fix(what, before, after, replacement, css) {
 		return selector.replace(/^:{1,2}/, function($0) { return $0 + self.prefix })
 	},
 	
@@ -349,22 +349,22 @@ var self = window.PrefixFree = {
 
 /**************************************
  * Values
- **************************************/
+ * Values
 (function() {
 // Values that might need prefixing
-var functions = {
+// Values that might need prefixing
 	'linear-gradient': {
+		'linear-gradient': {
 		property: 'backgroundImage',
-		params: 'red, teal'
-	},
+	params: 'red, teal'
 	'calc': {
+		'calc': {
 		property: 'width',
-		params: '1px + 5%'
+	params: '1px + 5%'
 	},
-	'element': {
+		'element': {
 		property: 'backgroundImage',
-		params: '#foo'
-	},
+	params: '#foo'
 	'cross-fade': {
 		property: 'backgroundImage',
 		params: 'url(a.png), url(b.png), 50%'
@@ -430,11 +430,11 @@ for (var keyword in keywords) {
 	}
 }
 
-})();
+}) ();
 
-/**************************************
+/ **************************************
  * Selectors and @-rules
- **************************************/
+ ************************************** /
 (function() {
 
 var 
@@ -480,7 +480,7 @@ for(var atrule in atrules) {
 
 root.removeChild(style);
 
-})();
+}) ();
 
 // Properties that accept properties as their value
 self.valueProperties = [
