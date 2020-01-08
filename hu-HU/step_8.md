@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Kihívás: személyre szabott kártya létrehozása
+## Kihívás: készíts személyre szabott képeslapot
 
-+ Használj mindent, amit megtanultál a HTML-ről és a CSS-ről, hogy befejezd a személyre szabott kártyát. Nem kell születésnapi kártyának lennie, lehetne egy karácsonyra vagy más alkalomra!
++ Használj mindent, amit megtanultál a HTML-ről és a CSS-ről, hogy befejezd a személyre szabott képeslapot. Nem kell születésnapi képeslapnak lennie, lehetne egy karácsonyra vagy más alkalomra!
 
 Íme egy példa:
 
-![screenshot](images/birthday-final.png)
+![képernyőkép](images/birthday-final.png)
 
-Találhatsz több CSS szín nevet [itt](http://jumpto.cc/colours){: target = "_ blank"}.
+További színek CSS neveit megtalálhatod [itt](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Miután befejezted a kártyádat, megoszthat vagy elküldhet e-mailben valakinek.
++ Miután elkészítetted a képeslapot, megoszthatod vagy elküldheted e-mailben valakinek.
 
-![screenshot](images/birthday-share.png)
+![képernyőkép](images/birthday-share.png)
 
-\--- / challenge \---
+\--- /challenge \---
