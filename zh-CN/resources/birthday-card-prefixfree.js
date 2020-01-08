@@ -13,7 +13,7 @@ if(!window.addEventListener) {
 var self = window.StyleFix = {
 	link: function(link) {
 		try {
-			// Ignore stylesheets with data-noprefix attribute as well as alternate stylesheets
+			//忽略具有data-noprefix属性的样式表以及其他样式表
 			if(link.rel !== 'stylesheet' || link.hasAttribute('data-noprefix')) {
 				return;
 			}
@@ -43,14 +43,14 @@ var self = window.StyleFix = {
 				if(css && link.parentNode && (!xhr.status || xhr.status < 400 || xhr.status > 600)) {
 					css = self.fix(css, true, link);
 					
-					// Convert relative URLs to absolute, if needed
+					//如果需要，将相对网址转换为绝对网址
 					if(base) {
 						css = css.replace(/url\(\s*?((?:"|')?)(.+?)\1\s*?\)/gi, function($0, quote, url) {
 							if(/^([a-z]{3,10}:|#)/i.test(url)) { // Absolute & or hash-relative
 								return $0;
 							}
 							else if(/^\/\//.test(url)) { // Scheme-relative
-								// May contain sequences like /../ and /./ but those DO work
+								//可能包含/../和/./之类的序列，但这些序列确实起作用
 								return 'url("' + base_scheme + url + '")';
 							}
 							else if(/^\//.test(url)) { // Domain-relative
@@ -60,13 +60,13 @@ var self = window.StyleFix = {
 								return 'url("' + base_query + url + '")';
 							}
 							else {
-								// Path-relative
+								//相对路径
 								return 'url("' + base + url + '")';
 							}
 						});
 
-						// behavior URLs shoudn’t be converted (Issue #19)
-						// base should be escaped before added to RegExp (Issue #81)
+						//不应转换行为网址（问题19）
+						//在将base添加到RegExp之前，应该对其进行转义（问题＃81）
 						var escaped_base = base.replace(/([\\\^\$*+[\]?{}.=!:(|)])/g,"\\$1");
 						css = css.replace(RegExp('\\b(behavior:\\s*?url\\(\'?"?)' + escaped_base, 'gi'), '$1');
 						}
@@ -88,7 +88,7 @@ var self = window.StyleFix = {
 			xhr.open('GET', url);
 			xhr.send(null);
 		} catch (e) {
-			// Fallback to XDomainRequest if available
+			//回退到XDomainRequest（如果可用）
 			if (typeof XDomainRequest != "undefined") {
 				xhr = new XDomainRequest();
 				xhr.onerror = xhr.onprogress = function() {};
@@ -121,13 +121,13 @@ var self = window.StyleFix = {
 	},
 	
 	process: function() {
-		// Linked stylesheets
+		//链接的样式表
 		$('link[rel="stylesheet"]:not([data-inprogress])').forEach(StyleFix.link);
 		
-		// Inline stylesheets
+		// Inline 样式
 		$('style').forEach(StyleFix.styleElement);
 		
-		// Inline styles
+		// Inline 样式
 		$('[style]').forEach(StyleFix.styleAttribute);
 	},
 	
@@ -154,10 +154,10 @@ var self = window.StyleFix = {
 };
 
 /**************************************
- * Process styles
+ * 处理样式
  **************************************/
 (function(){
-	setTimeout(function(){
+	(function(){
 		$('link[rel="stylesheet"]').forEach(StyleFix.link);
 	}, 10);
 	
@@ -171,7 +171,7 @@ function $(expr, con) {
 })();
 
 /**
- * PrefixFree
+ *无前缀
  */
 (function(root){
 
@@ -179,8 +179,8 @@ if(!window.StyleFix || !window.getComputedStyle) {
 	return;
 }
 
-// Private helper
-function fix(what, before, after, replacement, css) {
+// Private 助手
+return [].slice.call((con || document).querySelectorAll(expr));
 	what = self[what];
 	
 	if(what.length) {
@@ -196,9 +196,9 @@ var self = window.PrefixFree = {
 	prefixCSS: function(css, raw, element) {
 		var prefix = self.prefix;
 		
-		// Gradient angles hotfix
+		//渐变角修补程序
 		if(self.functions.indexOf('linear-gradient') > -1) {
-			// Gradients are supported with a prefix, convert angles to legacy
+			//前缀支持用gradients, 用来将角度转换成legacy
 			css = css.replace(/(\s|:|,)(repeating-)?linear-gradient\(\s*(-?\d*\.?\d*)deg/ig, function ($0, delim, repeating, deg) {
 				return delim + (repeating || '') + 'linear-gradient(' + (90-deg) + 'deg';
 			});
@@ -208,7 +208,7 @@ var self = window.PrefixFree = {
 		css = fix('keywords', '(\\s|:)', '(\\s|;|\\}|$)', '$1' + prefix + '$2$3', css);
 		css = fix('properties', '(^|\\{|\\s|;)', '\\s*:', '$1' + prefix + '$2:', css);
 		
-		// Prefix properties *inside* values (issue #8)
+		//前缀属性* inside *值（issue＃8）
 		if (self.properties.length) {
 			var regex = RegExp('\\b(' + self.properties.join('|') + ')(?!:)', 'gi');
 			
@@ -222,10 +222,10 @@ var self = window.PrefixFree = {
 			css = fix('atrules', '@', '\\b', '@' + prefix + '$1', css);
 		}
 		
-		// Fix double prefixing
+		//修复双前缀
 		css = css.replace(RegExp('-' + prefix, 'g'), '-');
 		
-		// Prefix wildcard
+		//前缀通配符
 		css = css.replace(/-\*-(?=[a-z]+)/gi, self.prefix);
 		
 		return css;
@@ -246,12 +246,12 @@ var self = window.PrefixFree = {
 		return value;
 	},
 	
-	// Warning: Prefixes no matter what, even if the selector is supported prefix-less
+	//警告：无论选择如何，都支持前缀，即使选择器支持无前缀
 	prefixSelector: function(selector) {
 		return selector.replace(/^:{1,2}/, function($0) { return $0 + self.prefix })
 	},
 	
-	// Warning: Prefixes no matter what, even if the property is supported prefix-less
+	//警告：无论选择如何，都支持前缀，即使选择器支持无前缀
 	prefixProperty: function(property, camelCase) {
 		var prefixed = self.prefix + property;
 		
@@ -260,7 +260,7 @@ var self = window.PrefixFree = {
 };
 
 /**************************************
- * Properties
+ *属性
  **************************************/
 (function() {
 	var prefixes = {},
@@ -269,7 +269,7 @@ var self = window.PrefixFree = {
 		style = getComputedStyle(document.documentElement, null),
 		dummy = document.createElement('div').style;
 	
-	// Why are we doing this instead of iterating over properties in a .style object? Cause Webkit won't iterate over those.
+	//为什么要这样做，而不是遍历.style对象中的属性？ 因为Webkit 不会在这种情况下迭代。
 	var iterate = function(property) {
 		if(property.charAt(0) === '-') {
 			properties.push(property);
@@ -277,10 +277,10 @@ var self = window.PrefixFree = {
 			var parts = property.split('-'),
 				prefix = parts[1];
 				
-			// Count prefix uses
+			//计数前缀使用
 			prefixes[prefix] = ++prefixes[prefix] || 1;
 			
-			// This helps determining shorthands
+			//这有助于确定缩写
 			while(parts.length > 3) {
 				parts.pop();
 				
@@ -296,7 +296,7 @@ var self = window.PrefixFree = {
 		return StyleFix.camelCase(property) in dummy;
 	}
 	
-	// Some browsers have numerical indices for the properties, some don't
+	//有些浏览器的属性带有数字索引，有些则没有
 	if(style.length > 0) {
 		for(var i=0; i<style.length; i++) {
 			iterate(style[i])
@@ -308,7 +308,7 @@ var self = window.PrefixFree = {
 		}
 	}
 
-	// Find most frequently used prefix
+	//查找最常用的前缀
 	var highest = {uses:0};
 	for(var prefix in prefixes) {
 		var uses = prefixes[prefix];
@@ -323,11 +323,11 @@ var self = window.PrefixFree = {
 	
 	self.properties = [];
 
-	// Get properties ONLY supported with a prefix
+	//仅使用前缀支持获取属性
 	for(var i=0; i<properties.length; i++) {
 		var property = properties[i];
 		
-		if(property.indexOf(self.prefix) === 0) { // we might have multiple prefixes, like Opera
+		if(property.indexOf(self.prefix) === 0) { // 我们可能有多个前缀, 像Opera浏览器一样
 			var unprefixed = property.slice(self.prefix.length);
 			
 			if(!supported(unprefixed)) {
@@ -336,7 +336,7 @@ var self = window.PrefixFree = {
 		}
 	}
 	
-	// IE fix
+	// IE修复
 	if(self.Prefix == 'Ms' 
 	  && !('transform' in dummy) 
 	  && !('MsTransform' in dummy) 
@@ -348,10 +348,10 @@ var self = window.PrefixFree = {
 })();
 
 /**************************************
- * Values
+ * 值
  **************************************/
 (function() {
-// Values that might need prefixing
+//可能需要加前缀的值
 var functions = {
 	'linear-gradient': {
 		property: 'backgroundImage',
@@ -377,8 +377,8 @@ functions['repeating-radial-gradient'] =
 functions['radial-gradient'] =
 functions['linear-gradient'];
 
-// Note: The properties assigned are just to *test* support. 
-// The keywords will be prefixed everywhere.
+//注意：分配的属性仅用于* test *支持。 
+//关键字将在所有位置加上前缀。
 var keywords = {
 	'initial': 'color',
 	'zoom-in': 'cursor',
@@ -415,7 +415,7 @@ for (var func in functions) {
 	
 	if (!supported(value, property)
 	  && supported(self.prefix + value, property)) {
-		// It's supported, but with a prefix
+		// 它已支持，但有前缀
 		self.functions.push(func);
 	}
 }
@@ -425,7 +425,7 @@ for (var keyword in keywords) {
 
 	if (!supported(keyword, property)
 	  && supported(self.prefix + keyword, property)) {
-		// It's supported, but with a prefix
+		// 它已支持，但有前缀
 		self.keywords.push(keyword);
 	}
 }
@@ -482,13 +482,13 @@ root.removeChild(style);
 
 })();
 
-// Properties that accept properties as their value
+//接受属性作为其值的属性
 self.valueProperties = [
 	'transition',
 	'transition-property'
 ]
 
-// Add class for current prefix
+//为当前前缀添加类
 root.className += ' ' + self.prefix;
 
 StyleFix.register(self.prefixCSS);
