@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Boldog születésnapot
-description: Készítsen online születésnapi kártyát egy weboldalon
+description: Készíts online születésnapi kártyát egy weboldalon
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
 interests: art
 technologies: html-css-javascript
@@ -28,8 +28,8 @@ steps:
   - 
     title: Mi a CSS?
   - 
-    title: 'Kihívás: több stílus hozzáadása'
+    title: 'Kihívás: adj hozzá több stílust'
   - 
-    title: Születésnapi kártya készítése
+    title: Születésnapi képeslap készítése
   - 
-    title: 'Kihívás: személyre szabott kártya létrehozása'
+    title: 'Kihívás: készíts személyre szabott képeslapot'
