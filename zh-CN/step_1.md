@@ -1,10 +1,10 @@
-## Introduction
+## 简介
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+在这个项目中，您将学习如何通过HTML和CSS来制作自己的生日卡片
 
-### What you will make
+### 你将制作：
 
-Click the button to open the birthday card:
+点击按钮打开生日卡片：
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Click the button to open the birthday card:
   <img src="images/birthday-final.png">
 </div>
 
-### What you will learn
+### 你将学到什么
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum){:target="_blank"} 如下几方面内容:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [设计基本的 2D 和 3D 资源](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}
 
-### Additional information for educators
+### 教师附加信息
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+如果您需要打印此项目，请使用[适合打印的版本](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+使用页脚的链接访问此项目的GitHub版本库，所有资源（包括最终版示例）都保存在'en/resources' 文件夹。
