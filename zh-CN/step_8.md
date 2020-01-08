@@ -1,16 +1,16 @@
 \--- challenge \---
 
-## Challenge: create a personalised card
+## 挑战：制作一张个性化贺卡
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ 使用您所学到的有关HTML和CSS的所有知识来完成个性化卡片的制作。而且不必一定是生日贺卡，它可以是圣诞节或其他场合的生日贺卡！
 
-Here's an example:
+下面是一个例子：
 
 ![screenshot](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+您可以在[ 此处](http://jumpto.cc/colours)找到更多CSS颜色名称 {：target =“ _ blank”}。
 
-+ Once you've finished your card, you can share or email it to someone.
++ 一旦您完成了您的卡片，您可以分享或发送电子邮件给某人。
 
 ![screenshot](images/birthday-share.png)
 
