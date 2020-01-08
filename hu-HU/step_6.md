@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: több stílus hozzáadása
+## Kihívás: adj hozzá több stílust
 
-+ Meg tudod csinálni a narancssárga bekezdések szövegét?
++ Át tudod színezni a bekezdések szövegét narancssárgára?
 
 + Meg tudod változtatni a hátteret szürkére a `body` tulajdonság változtatásával?
 
-![screenshot](images/birthday-more-style.png)
+![képernyőkép](images/birthday-more-style.png)
 
-\--- / challenge \---
+\--- /challenge \---
