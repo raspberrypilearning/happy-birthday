@@ -1,4 +1,4 @@
-## Gerekenler
+## Nelere ihtiyacınız olacak
 
 ### Donanım
 
