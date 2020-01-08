@@ -1,45 +1,45 @@
-## Születésnapi kártya készítése
+## Születésnapi képeslap készítése
 
-Használjuk azt, amit a HTML-ről és a CSS-ről tanultál, hogy elkészítsd a saját születésnapi kártyád.
+Használjuk azt, amit a HTML-ről és a CSS-ről tanultál, hogy elkészítsd a saját születésnapi képeslapod.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Nyisd meg [ezt a trinketet](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-Számos kódot írtunk a kezdéshez, de a születésnapi kártya eddig elég unalmasnak tűnik, ezért néhány változtatást fogsz csinálni a HTML és a CSS kódon.
+Sok kódot írtunk, hogy elkezdhesd a munkát, de a képeslap elég unalmasnak tűnik, tehát néhány helyen át kell írnod a HTML és a CSS kódot.
 
-+ Kattints a kártya elején lévő gombra, és nyitottnak kell lenni ahhoz, hogy feltárja a belsejét.
++ Kattints a gombra a képeslapon, és láthatod, ahogy kinyílik, és megmutatja a belső oldalát.
 
-![screenshot](images/birthday-click.png)
+![képernyőkép](images/birthday-click.png)
 
-+ Menjen a HTML kód 14. sorára. Próbáld meg szerkeszteni a szöveget a kártya testreszabásához.
++ Menj a HTML kód 14. sorára. Írd át tetszőlegesen a szöveget, hogy egyedibb legyen a képeslap.
 
-![screenshot](images/birthday-card-html.png)
+![képernyőkép](images/birthday-card-html.png)
 
-+ Meg tudod találni a robot kép HTML kódját, és megváltoztatni a `robot` szót `napra`?
++ Meg tudod találni a robot kép HTML kódját, és megváltoztatni a `robot` szót `sun`-ra (nap)?
 
 \--- hints \--- \--- hint \---
 
 + A 17. sorban keresd meg a kódot.
-+ Változtasd meg a `robot` szót `napra` és látni fogod, hogy a kép megváltozik!
++ Változtasd meg a `robot` szót `sun`-ra (nap), és látni fogod, hogy a kép megváltozik!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![képernyőkép](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-Használhatod bármelyik szót `fiú`, `gyémánt`, `dinoszaurusz`, `virágok`, `lány`, `szivárvány`, `robot`, `űrhajó`, `nap`, `tea`, vagy `trófea` egy születésnapi kártyához, vagy `keksz`, `manó`, `pingvin`, `ajándék`, `rénszarvas`, `télapó`, vagy `hóember` ha szeretnél karácsonyi kártyát készíteni.
+Használhatod az alábbi szavakat szülinapi képeslapokon: `boy` (fiú), `diamond` (gyémánt), `dinosaur` (dinoszaurusz), `flowers` (virágok), `girl` (lány), `rainbow` (szivárvány), `robot`, `spaceship` (űrhajó), `sun` (nap), `tea` vagy `trophy` (trófea).
 
-Szintén szerkesztheted a születésnapi kártya CSS kódját.
+A képeslap CSS kódját is szerkesztheted.
 
-+ Kattints a `style.css`lapra. Az első rész az összes CSS-stílus a kártyán **kívüli** részhez.
++ Kattints a `style.css` lapra. Az első rész a képeslap külső oldalának (**outside**) CSS tulajdonságait sorolja fel.
 
-+ Módosítsd a `háttérszínt` - `világoszöldre`.
++ Változtasd a háttérszínt (`background-color`) világoszöldre (`lightgreen`).
 
-![screenshot](images/birthday-card-outside.png)
+![képernyőkép](images/birthday-card-outside.png)
 
-+ A kép méretét is megváltoztathatod. Menj a `# képen-kívül` CSS kódra, és változtasd meg a `szélességét` és `magasságát` a külső képnek `200px`-ra (`px` jelentése pixel).
++ A kép méretét is megváltoztathatod. Menj az `#outside-pic` CSS kódra, majd változtasd a borítóoldali kép szélesség (`width`) és magasság (`height`) tulajdonságát `200px`-r (a `px` a pixel, azaz képpont rövidítése).
 
-![screenshot](images/birthday-card-size.png)
+![képernyőkép](images/birthday-card-size.png)
 
-+ A betűtípust is megváltoztathatod. Menj a `# címen kívül` CSS-re és módosítsd a `font-family`-t a `Comic Sans MS`-ra, és a `font-size`-t `16pt`-re.
++ A betűtípust is megváltoztathatod. Menj az `#outside-title` CSS részhez, majd változtasd meg a `font-family` (betűtípuscsalád) értékét `Comic Sans MS`-re, a betűméretet (`font-size`) pedig `16pt`-re.
 
-![screenshot](images/birthday-card-font.png)
+![képernyőkép](images/birthday-card-font.png)
 
 Használhatsz más betűtípusokat, például:
 
