@@ -397,7 +397,7 @@ var keywords = {
 };
 
 self.functions = [];
-self.keywords = [];
+self.functions = [];
 
 var style = document.createElement('div').style;
 
