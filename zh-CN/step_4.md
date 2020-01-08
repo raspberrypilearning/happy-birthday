@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## 挑战：添加另一段落
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- 您可以在网页的其他两段下方添加第三段文字吗？
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+请记住，新段落应以`<p>`标记开头，以`结束</p>`标签。
 
-Here's how your webpage might look:
+你的网页可以是这样的：
 
 ![screenshot](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+您可以添加**粗体吗**和<u>下划线</u>文字到您的新段落？使用`<u>`和` </u>`带下划线的文本标签。
 
 \--- /challenge \---
