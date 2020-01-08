@@ -2,8 +2,8 @@
 
 ### Hardver
 
-+ A [trinket.io](https://trinket.io)elérésére képes számítógép: {target = "_ blank"}
++ A [trinket.io](https://trinket.io){:target="_blank"} elérésére képes számítógép
 
 ### Szoftver
 
-Ezt a projektet egy web böngésző segítségével lehet el végezni [trinket.io](https://trinket.io){: target = "_ blank").
+Ezt a projektet egy webböngésző segítségével lehet elvégezni a [trinket.io](https://trinket.io){:target="_blank"} oldalon.
