@@ -1,8 +1,8 @@
 ## HTML nedir?
 
-HTML, web sayfaları yapmak için kullanılan dil olan **Köprü Metni Biçimlendirme Dili** (Hypertext Markup Language) anlamına gelir. Bir örneğe bakalım!
+HTML, internet sayfaları oluşturmakta kullanılan bir dil olan **Köprü Metni Biçimlendirme Dili** (Hypertext Markup Language) anlamına gelir. Hadi bir örneğe göz atalım!
 
-HTML kodu yazmak için trinket.io adlı bir web sitesini kullanacaksınız.
+HTML kodu yazmak için trinket.io adlı bir internet sitesini kullanacaksınız.
 
 + [Bu trinketi](http://jumpto.cc/web-intro){:target="_blank"} açın.
 
@@ -10,7 +10,7 @@ Proje şu şekilde gözükmeli:
 
 ![ekran görüntüsü](images/birthday-starter.png)
 
-Solda görebileceğiniz kod HTML'dir. Sağ tarafta, HTML kodunun oluşturduğu web sayfasını görebilirsiniz.
+Solda görebileceğiniz kod HTML'dir. Trinket'ın sağ tarafında ise, HTML kodunun oluşturduğu internet sayfasını görebilirsiniz.
 
 HTML, web sayfaları oluşturmak için **etiket** kullanır. Kodunuzun 8. satırında bu HTML kodunu arayın:
 
@@ -20,9 +20,9 @@ HTML, web sayfaları oluşturmak için **etiket** kullanır. Kodunuzun 8. satır
 
 `<p>` bir etiket örneğidir ve **paragraf** için kısaltmadır. Paragrafı `<p>` ile başlatabilir ve `</p>` ile sonlandırabilirsiniz.
 
-+ Başka HTML etiketi bulabilir misiniz?
++ Bundan başka etiket görebiliyor musunuz?
 
-## \---collapse\---
+## \--- collapse \---
 
 ## title: Cevap
 
@@ -34,15 +34,15 @@ Görmüş olabileceğiniz bir diğer etiket `<b>`, **kalın** anlamına gelir:
 
 Birkaç tane daha etiket:
 
-+ `<html>` ve `</html>` HTML belgesinin başlangıcını ve sonunu işaretler
++ `<html>` ve `</html>` HTML belgesinin başlangıcını ve sonunu işaret eder
 + `<head>` ve `</head>` CSS gibi şeylerin eklendiği yerdir (daha sonra değineceğiz)
-+ `<body>` ve `</body>` , web sitenizin içeriğinin geçtiği yerdir
++ `<body>` ve `</body>`, internet sitenizin içeriğinin geçtiği yerdir
 
 ![ekran görüntüsü](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ HTML dosyasındaki metin paragraflarından birinde (solda) değişiklik yapın. **Çalıştır**a tıkadığınızda (sağda) web sayfanızın değiştiğini görmelisiniz!
++ HTML dosyasındaki metin paragraflarından birinde (solda) değişiklik yapın. **Çalıştır**'a tıkladığınızda, (sağda) web sayfanızın değiştiğini görmelisiniz!
 
 ![ekran görüntüsü](images/birthday-edit-html.png)
 
@@ -50,7 +50,7 @@ Birkaç tane daha etiket:
 
 ![ekran görüntüsü](images/birthday-reset.png)
 
-Yaptığınız son şeyi geri almak için, `Ctrl` ve `z` tuşlarına birlikte basabilirsiniz.
+Sadece yaptığınız son işlemi geri almak için ise, `Ctrl` ve `z` tuşlarına birlikte basabilirsiniz.
 
 ### Projelerinizi kaydetmek için bir Trinket hesabına ihtiyacınız yok!
 
@@ -58,6 +58,6 @@ Bir Trinket hesabınız yoksa, **aşağı** okuna ve ardından **bağlantıya** 
 
 ![ekran görüntüsü](images/birthday-link.png)
 
-Eğer bir Trinket hesabınız varsa, web sayfanızı kaydetmenin en kolay yolu trinketlerin üst kısmındaki **Remix** düğmesine tıklamaktır. Bu trinkotunuzun bir kopyasını profilinize kaydedecektir.
+Eğer bir Trinket hesabınız varsa, internet sayfanızı kaydetmenin en kolay yolu trinket'ın üst kısmındaki **Remix** düğmesine tıklamaktır. Bu trinket'ın bir kopyasını profilinize kaydedecektir.
 
 ![ekran görüntüsü](images/birthday-remix.png)
