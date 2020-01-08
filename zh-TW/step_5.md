@@ -1,18 +1,18 @@
-## 什麼是CSS？
+## CSS 是什麼？
 
-CSS代表 **階層式樣式表**，它是一種用來設置網頁樣式並將其美化的語言。
+CSS 代表 **階層式樣式表（Cascading Style Sheets）**，它是一種用來設置網頁樣式，把網頁美化的語言。
 
-+ 這段程式會將您的網頁連結到一個CSS文件－看看您是否可以在HTML文檔中的 `<head>` 找到它：
++ 這段代碼會讓你的網頁與一個 CSS 文件連結－看看你能不能在你的 HTML 文件中的 `<head>` 找到它：
 
 ![截圖](images/birthday-css-link.png)
 
-CSS列出了所有 **屬性** 的特定標籤。
+CSS 用來列出一個特定標記的**屬性（propertie）**。
 
-+ 點擊 `style.css` 標籤以查看您網頁的CSS程式。
++ 切換到 `style.css` 頁籤以檢視你的網頁的 CSS 代碼。
     
     ![截圖](images/birthday-css-tab.png)
 
-+ 找出這段程式：
++ 找到這段代碼：
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-這段CSS程式決定了段落的屬性(`p`)，它代表文字顏色應為黑色。請留意美式的拼寫：'color'。
+這段 CSS 代碼確定了段落（`p`）的屬性，說的是內容的顏色（color）是黑色（black）。
 
-+ 將CSS程式中的“black”一詞更改為“blue” (藍色)。你應該會看到所有段落的文字都變成了藍色。
++ 將 CSS 代碼中的 black 改為 blue。你應該會看到段落的所有文字都變成了藍色。
 
 ![截圖](images/birthday-edit-css.png)
