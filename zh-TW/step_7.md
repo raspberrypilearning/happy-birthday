@@ -1,47 +1,47 @@
-## 製作生日賀卡
+## 做個生日卡片
 
-使用您學到的HTML與CSS知識來製作屬於自己的生日賀卡。
+用你學到的 HTML 與 CSS 來做出屬於自己的生日賀卡。
 
-+ 打開 [這個 trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}。
++ 打開[這個 trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}。
 
-我們已經為您寫了很多程式碼來幫助您起步，但是生日賀卡看起來還很單調，因此您要對HTML和CSS程式碼進行一些修改。
+我們已經寫好一些代碼來幫你開頭，不過生日卡片看起來還是很單調，你需要透過 HTML 和 CSS 代碼進行修改。
 
-+ 點擊卡片正面的按鈕，你會看到它揭示了裡面的內容。
++ 點擊卡片正面的按鈕，會看到它揭開了裡面的內容。
 
 ![截圖](images/birthday-click.png)
 
-+ 移步到HTML程式的第14行。試著編輯文字來自訂您的賀卡。
++ 移至 HTML 的第 14 行。試著編輯文字來自訂你的卡片。
 
 ![截圖](images/birthday-card-html.png)
 
-+ 您能找出機器人圖案的HTML程式，並把 `robot` 這個詞改成 `sun` 嗎？
++ HTML 中哪些代碼與機器人（robot）的圖片有關，你能找到嗎？找到後把 `robot` 改成 `sun`，會發生什麼？
 
-\---提示\--- \---提示\---
+\--- hints \--- \--- hint \---
 
-+ 在第17行找出該程式碼。
-+ 將單詞 `robot` 更改成 `sun`，您會看到圖案變了！
++ 該代碼在第 17 行。
++ 將單詞 `robot` 更改成 `sun`，就會看到圖案改變了！
 
-![截圖](images/birthday-card-sun.png) \--- /提示\--- \--- /提示\---
+![截圖](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
 
-你可以使用以下的單詞 `boy`[男孩]， `diamon`[鑽石]， `dinosaur`[恐龍]， `flowers`[花], `girl`[女孩]， `rainbow`[彩虹]， `robot`[機器人]， `spaceship`[太空船]， `sun`[太陽]， `tea`[茶]，或 `trophy`[獎杯] 来製作生日賀卡，或 `cracker`[餅乾]， `elf`[精靈]， `penguin`[企鵝]， `present`[礼物]， `reindeer`[馴鹿]， `santa`[聖誕老人]，或 `snowman`[雪人] 來製作聖誕賀卡。
+你也可以把單詞改成 `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, `trophy` 來做生日卡，或者用 `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, `snowman` 來做個耶誕卡。
 
-您還可以編輯生日卡的CSS代碼。
+你還可以編輯卡片的 CSS 代碼。
 
-+ 點擊 `style.css`的標籤。第一部分是卡片**外側**所需的所有CSS樣式。
++ 切換到 `style.css` 頁籤，**outside** 部分指的是卡片「外面」的樣式。
 
-+ 將 `background-color` [背景色] 更改為 `lightgreen`。
++ 把背景顏色（`background-color`） 改成淺綠 （`lightgreen`）。
 
 ![截圖](images/birthday-card-outside.png)
 
-+ 您還可以更改圖案的大小。 移步到 `＃outside-pic` 的CSS程式碼，並將外側圖案的 `width`[寬度] 和 `height` [高度] 更改成 `200px` (`px` 代表像素)。
++ 你還可以更改圖像的尺寸。 移至 `#outside-pic` 部分，將它的寬（`width`）和高（`height`）改成 `200px`（`px` 代表像素）。
 
 ![截圖](images/birthday-card-size.png)
 
-+ 字體也可以改變。移步到 `＃outside-title` 的CSS碼並將 `font-family` [字體系列] 更改為 `Comic Sans MS`, 並將`font-size`[字體大小] 更改為 `16pt`。
++ 字體也可以改變。移至 ` #outside-title` 區塊，把字體家族（`font-family`）改為 `Comic Sans MS`，再將字體尺寸（`font-size`）改成 `16pt`。
 
 ![截圖](images/birthday-card-font.png)
 
-您也可以使用其他字體，例如：
+你也可以使用其他字體，例如：
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
