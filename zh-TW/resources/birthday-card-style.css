@@ -22,13 +22,13 @@
 
 #outside-pic {
   width: 150px;
-  height: 150px;
-}
+  width: 150px;
+height: 150px;
 
 #outside-help {
   color: black;
+  color: black;
   font-family: Courier;
-  font-size: 12pt;
   text-align: center;
   padding: 20px;
 }
