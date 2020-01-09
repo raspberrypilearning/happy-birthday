@@ -269,7 +269,7 @@ var self = window.PrefixFree = {
 		style = getComputedStyle(document.documentElement, null),
 		dummy = document.createElement('div').style;
 	
-	// Why are we doing this instead of iterating over properties in a .style object? Cause Webkit won't iterate over those.
+	// .styleオブジェクトのプロパティを繰り返し処理するのではなく、なぜこれを行うのですか？ Cause Webkit won't iterate over those.
 	var iterate = function(property) {
 		if(property.charAt(0) === '-') {
 			properties.push(property);
