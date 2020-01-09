@@ -1,4 +1,4 @@
-* StyleFix 1.0.3 & PrefixFree 1.0.7
+/**
  * StyleFix 1.0.3 & PrefixFree 1.0.7
  * @author Lea Verou
  * MIT license
@@ -43,7 +43,7 @@ var self = window.StyleFix = {
 				if(css && link.parentNode && (!xhr.status || xhr.status < 400 || xhr.status > 600)) {
 					css = self.fix(css, true, link);
 					
-					//如果需要，将相对网址转换为绝对网址
+					//有需要时，将相对网址转换为绝对网址
 					if(base) {
 						css = css.replace(/url\(\s*?((?:"|')?)(.+?)\1\s*?\)/gi, function($0, quote, url) {
 							if(/^([a-z]{3,10}:|#)/i.test(url)) { // Absolute & or hash-relative
