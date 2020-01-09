@@ -80,7 +80,7 @@ var self = window.StyleFix = {
 					parent.insertBefore(style, link);
 					parent.removeChild(link);
 					
-					style.media = link.media; // 重复是故意的。 见问题＃31
+					style.media = link.media; // 重复是有意为之。 见问题＃31
 				}
 		};
 
