@@ -21,11 +21,13 @@
 + Κοίτα στη γραμμή 17 για να βρεις τον κώδικα.
 + Άλλαξε τη λέξη `robot` σε `sun`, και θα δεις την εικόνα να αλλάζει!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Μπορείς να χρησιμοποιήσεις οποιαδήποτε από τις λέξεις `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, ή `trophy` για μια κάρτα γενεθλίων ή `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, ή `snowman` αν προτιμάς να φτιάξεις μια κάρτα Χριστουγέννων.
+\--- /hint \--- \--- /hints \---
 
-Μπορείς επίσης να επεξεργαστείς τον κώδικα CSS της κάρτας γενεθλίων.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Κάνε κλικ στην καρτέλα `style.css`. Το πρώτο μέρος είναι όλα τα στυλ CSS για το **εξωτερικό μέρος** της κάρτας.
 
@@ -41,7 +43,7 @@
 
 ![screenshot](images/birthday-card-font.png)
 
-Μπορείς να χρησιμοποιήσεις κι άλλες γραμματοσειρές, για παράδειγμα:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
