@@ -21,11 +21,13 @@ Başlangıç için birçok kod yazdık, ancak doğum günü kartı oldukça sık
 + Kodu bulmak için 17. satıra bakın.
 + `robot` kelimesini `güneş` kelimesi ile değiştirdiğinizde resmin de değiştiğini göreceksiniz!
 
-![ekran görüntüsü](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Doğum günü kartı yapmak için; `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` kelimelerini; Yılbaşı kartı yapmayı dilerseniz de `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` kelimelerinden herhangi birini kullanabilirsiniz.
+\--- /hint \--- \--- /hints \---
 
-Doğum günü kartının CSS kodunu da düzenleyebilirsiniz.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + `style.css` sekmesine tıklayın. İlk bölüm, kartın **dış** tarafı için CSS stilleridir.
 
@@ -39,9 +41,9 @@ Doğum günü kartının CSS kodunu da düzenleyebilirsiniz.
 
 + Yazı fontu da değiştirilebilir. `#outside-title` CSS koduna gidin ve `font-family` değerini `Comic Sans MS` olarak ve `font-size` (font boyutunu da) `16 pt` olarak değiştirin.
 
-![ekran görüntüsü](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-Diğer yazı tiplerini kullanabilirsiniz, örneğin:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">Arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
