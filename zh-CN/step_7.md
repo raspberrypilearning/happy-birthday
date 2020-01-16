@@ -21,11 +21,13 @@
 + Look on line 17 to find the code.
 + 将单词`机器人`更改为`太阳`，您将看到图像更改！
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-您可以使用任何一个单词`男孩`, `钻石`, `dinosaur`, `floers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, `tea`, 或`奖杯` 生日卡，或`板球员`, `elf`, `penguin`, `展示`, `驯鹿`, `santa`, 或<0>雪人</0> 如果你希望制作圣诞卡的话。
+\--- /hint \--- \--- /hints \---
 
-您还可以编辑生日贺卡的CSS代码。
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + 单击选项卡上的` style.css ` 。第一部分是**外部的所有CSS样式**卡的。
 
@@ -41,7 +43,7 @@
 
 ![screenshot](images/birthday-card-font.png)
 
-您可以使用其他字体，例如：
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
