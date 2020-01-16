@@ -21,11 +21,13 @@ Kami telah menulis banyak kode untuk memulai, tetapi kartu ulang tahun terlihat 
 + Lihatlah pada baris 17 untuk menemukan kode.
 + Ubah kata `robot` menjadi `matahari`, dan Anda akan melihat perubahan gambar!
 
-![tangkapan layar](images/birthday-card-sun.png) \--- / petunjuk \--- \--- / petunjuk \---
+![screenshot](images/birthday-card-sun.png)
 
-Anda dapat menggunakan salah satu kata `anak`, `berlian`, `dinosaurus`, `bunga`, `gadis`, `pelangi`, `robot`, `pesawat ruang angkasa`, `matahari`, `teh`, atau `piala` untuk kartu ulang tahun, atau `cracker`, `elf`, `penguin`, `sekarang`, `reindeer`, `santa`, atau `snowman` jika Anda lebih suka membuat kartu Natal.
+\--- /hint \--- \--- /hints \---
 
-Anda juga dapat mengedit kode CSS dari kartu ulang tahun.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Klik pada tab untuk `style.css`. Bagian pertama adalah semua gaya CSS untuk **luar** kartu.
 
@@ -39,9 +41,9 @@ Anda juga dapat mengedit kode CSS dari kartu ulang tahun.
 
 + Font dapat diubah juga. Pergi ke `# di luar-judul` CSS dan ubah `font-family` menjadi `Comic Sans MS` dan `font-size` hingga `16pt`.
 
-![tangkapan layar](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-Anda dapat menggunakan font lain, misalnya:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Dampak</span>`
