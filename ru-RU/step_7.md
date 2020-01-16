@@ -21,11 +21,13 @@
 + Посмотри на строку 17, чтобы найти код.
 + Замени слово `robot` (робот) на слово `sun` (солнце) и ты увидишь, как изменится изображение!
 
-![снимок экрана](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Ты можешь использовать любое из следующих слов для открытки ко дню рождения: `boy` (мальчик), `diamond` (брильянт), `dinosaur` (динозавр), `flowers` (цветы), `girl` (девочка), `rainbow` (радуга), `robot` (робот), `spaceship` (космический корабль), `sun` (Солнце), `tea` (чай) или, если ты хочешь сделать рождественскую открытку, то используй эти: `trophy` (награда), `cracker` (печенье), `elf` (эльф), `penguin` (пингвин), `present` (подарок), `reindeer` (северный олень), `santa` (Санта-Клаус) или `snowman` (снеговик).
+\--- /hint \--- \--- /hints \---
 
-Ты также можешь отредактировать CSS-код своей открытки.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Нажми на вкладку `style.css`. Первая часть — это все стили CSS для **внешней** части открытки.
 
@@ -39,9 +41,9 @@
 
 + Также можно изменить шрифт. Перейди к правилу `#outside-title` и измени значение свойства `font-family` (гарнитура шрифта, то есть название семьи шрифтов) на `Comic Sans MS` и `font-size` (кегль или размер шрифта) на `16pt`.
 
-![снимок экрана](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-Ты можешь использовать и другие шрифты, например:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
