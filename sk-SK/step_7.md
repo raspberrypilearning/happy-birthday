@@ -21,11 +21,13 @@ Hoci sme pre teba na začiatok napísali veľa kódu, narodeninový pozdrav stá
 + Kód nájdeš v riadku 17.
 + Zmeň slovo `robot` na `sun` a uvidíš, ako sa obrázok zmení!
 
-![snímka obrazovky](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Pre narodeninový pozdrav môžeš použiť ktorékoľvek zo slov `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, alebo `trophy`, a ak chceš vytvoriť vianočný pozdrav, môžeš si vybrať zo slov `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, alebo `snowman`.
+\--- /hint \--- \--- /hints \---
 
-V narodeninovom pozdrave môžeš upraviť aj CSS kód.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Klikni na záložku `style.css`. V prvej časti sú všetky CSS štýly pre **vonkajšiu** časť pozdravu.
 
@@ -39,9 +41,9 @@ V narodeninovom pozdrave môžeš upraviť aj CSS kód.
 
 + Môžeš tiež zmeniť typ a veľkosť písma. V CSS kóde prejdi do časti `#outside-title` a zmeň `font-family` na `Comic Sans MS` a veľkosť písma `font-size` na `16pt`.
 
-![snímka obrazovky](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-Môžeš použiť aj iné druhy písma, ako napríklad:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
