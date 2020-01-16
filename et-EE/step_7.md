@@ -21,11 +21,13 @@ Oleme kirjutanud palju koodi, et saaksid alustada, kuid sünnipäevakaart tundub
 + Koodi leidmiseks vaata rida 17.
 + Muuda sõna `robot` `päikeseks`ja näed, kuidas pilt muutub!
 
-![kuvatõmmis](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Võid kasutada ükskõik millist järgnevatest sõnadest `poiss`, `teemant`, `dinosaurus`, `lilled`, `tüdruk`, `vikerkaar`, `robot`, `kosmoselaev`, `päike`, `tee` või `trofee` sünnipäevakaardi jaoks või `paukrakett`, `päkapikk`, `pingviin`, `kingitus`, `põhjapõder`, `jõuluvana` või `lumememm`, kui eelistaksid teha jõulukaarti.
+\--- /hint \--- \--- /hints \---
 
-Samuti saad muuta sünnipäevakaardi CSS-koodi.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Vajuta vahelehte `style.css`. Esimene osa on kõik CSS-i stiilid kaardi **välisosa** jaoks.
 
@@ -39,9 +41,9 @@ Samuti saad muuta sünnipäevakaardi CSS-koodi.
 
 + Fonti saab ka muuta. Mine `#välispealkirja` CSS-ile ja muuda `fondi perekond` `Comic Sans MS-iks` ja `fondi suurus` `16pt-ks`.
 
-![kuvatõmmis](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-Võid kasutada ka teisi fonte, näiteks:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
