@@ -21,11 +21,13 @@ HTML और CSS के बारे में आपने जो सीखा �
 + कोड खोजने के लिए लाइन 17 पर देखें।
 + ` robot` शब्द को ` sun` में बदलें, और आप छवि में परिवर्तन देखेंगे!
 
-![स्क्रीनशॉट](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-आप इनमें से किसी भी शब्द का उपयोग कर सकते हैं ` boy`, ` diamond`, ` dinosaur`, ` flower`, ` girl`, ` rainbow`, ` robot`, ` spaceship`, ` sun`, ` tea`, या ` trophy` जन्मदिन कार्ड के लिए, या ` cracker`, ` elf`, ` penguin`, ` present`, ` reindeer`, ` santa`, या ` snowman` अगर आप क्रिसमस कार्ड बनाना पसंद करेंगे।
+\--- /hint \--- \--- /hints \---
 
-आप जन्मदिन कार्ड का CSS कोड भी संपादित कर सकते हैं।
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + ` style.css ` के लिए टैब पर क्लिक करें । पहला भाग कार्ड के **बाहर** के CSS styles का है।
 
@@ -39,9 +41,9 @@ HTML और CSS के बारे में आपने जो सीखा �
 
 + फॉन्ट को भी बदला जा सकता है। ` #outside-title ` CSS पर जाएं और ` font-family` को ` Comic Sans MS ` और ` font-size ` को ` 16pt ` में बदलें ।
 
-![स्क्रीनशॉट](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-आप अन्य फोंट का उपयोग कर सकते हैं, उदाहरण के लिए:
+You can use other fonts, for example:
 
 + `<code> <span style="font-family: Arial;">arial</span> `</code>
 + `<code><span style="font-family: impact;">Impact</span>`</code>
