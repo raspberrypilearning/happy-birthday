@@ -21,11 +21,13 @@ Napisali smo puno koda da bismo mogli započeti, ali rođendanska kartica dosad 
 + Pogledajte liniju 17 da biste pronašli kôd.
 + Promijenite riječ `robot` do `sun`, i vidjet ćete promjenu slike!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Možete upotrijebiti bilo koju od riječi `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, ili `trophy` za rođendansku čestitku, ili `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, ili `snowman` ako želite izraditi božičnu čestitku.
+\--- /hint \--- \--- /hints \---
 
-Također možete urediti CSS kôd rođendanske čestitke.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Kliknite karticu za `style.css`, Prvi dio su svi CSS stilovi za **outside** kartice.
 
@@ -41,7 +43,7 @@ Također možete urediti CSS kôd rođendanske čestitke.
 
 ![screenshot](images/birthday-card-font.png)
 
-Možete koristiti druge fontove, na primjer:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
