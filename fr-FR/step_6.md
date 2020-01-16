@@ -1,4 +1,4 @@
-\--- challange \---
+\--- challenge \---
 
 ## Défi: Ajouter plus de styles
 
