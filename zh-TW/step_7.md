@@ -21,13 +21,13 @@
 + 該代碼在第 17 行。
 + 將單詞 `robot` 更改成 `sun`，就會看到圖案改變了！
 
-![screenshot](images/birthday-card-sun.png)
+![截圖](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+你也可以把單詞改成 `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, `trophy` 來做生日卡，或者用 `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, `snowman` 來做個耶誕卡。
 
-You can also edit the CSS code of the birthday card.
+你還可以編輯卡片的 CSS 程式碼。
 
 + 切換到 `style.css` 頁籤，**outside** 部分指的是卡片「外面」的樣式。
 
@@ -41,9 +41,9 @@ You can also edit the CSS code of the birthday card.
 
 + 字體也可以改變。移至 ` #outside-title` 區塊，把字體家族（`font-family`）改為 `Comic Sans MS`，再將字體尺寸（`font-size`）改成 `16pt`。
 
-![screenshot](images/birthday-card-font.png)
+![截圖](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+你也可以使用其他字體，例如：
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
