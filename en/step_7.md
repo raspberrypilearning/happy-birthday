@@ -18,10 +18,12 @@ We've written a lot of code to get you started, but the birthday card looks pret
 
 --- hints ---
 --- hint ---
+
 + Look on line 17 to find the code.
 + Change the word `robot` to `sun`, and you'll see the image change!
 
 ![screenshot](images/birthday-card-sun.png)
+
 --- /hint ---
 --- /hints ---
 
