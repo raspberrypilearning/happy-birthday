@@ -1,10 +1,10 @@
 ## المقدمة
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+في هذا المشروع ، سيتم تعريفك بـ HTML و CSS من خلال تعلم كيفية إنشاء بطاقة عيد ميلاد الخاصة بك.
 
 ### ما الذي ستصنعه
 
-Click the button to open the birthday card:
+انقر الزر لفتح بطاقة عيد الميلاد:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
