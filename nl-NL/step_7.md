@@ -21,11 +21,13 @@ We hebben veel code geschreven om je op weg te helpen, maar de verjaardagskaart 
 + Kijk op regel 17 om de code te vinden.
 + Verander het woord `robot` in `sun` en je ziet de afbeelding veranderen!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Je zou elk van deze woorden kunnen gebruiken `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, of `trophy` voor een verjaardagskaart of `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, of `snowman` als je een kerstkaart wilt maken.
+\--- /hint \--- \--- /hints \---
 
-Je kunt ook de CSS-code van de verjaardagskaart bewerken.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Klik op het tabblad voor ` style.css `. Het eerste deel bevat alle CSS-stijlen voor de ** outside (buitenkant) ** van de kaart.
 
@@ -41,7 +43,7 @@ Je kunt ook de CSS-code van de verjaardagskaart bewerken.
 
 ![screenshot](images/birthday-card-font.png)
 
-Je kunt ook andere lettertypen gebruiken, bijvoorbeeld:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
