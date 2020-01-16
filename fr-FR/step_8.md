@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Défi: créer une carte personnalisée
+## Défi: Créer une carte personnalisée
 
-+ Utilise tout ce que tu as appris sur HTML et CSS pour finir de créer une carte personnalisée. Et ça ne doit pas forcément être une carte d'anniversaire, ça pourrait être une carte de Noël ou toute autre occasion!
++ Utilise tout ce que tu as appris sur HTML et CSS pour finir de créer une carte personnalisée. Et ça ne doit pas forcément être une carte d'anniversaire, ça pourrait être une carte de Noël ou toute autre occasion !
 
 Voici un exemple :
 
