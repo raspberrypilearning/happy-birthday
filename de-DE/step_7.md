@@ -21,17 +21,19 @@ Um loszulegen haben wir eine Menge Code geschrieben, aber die Geburtstagskarte s
 + Such den Code in Zeile 17.
 + Ändere das Wort `robot` zu `sun` und du wirst sehen, dass sich das Bild ändert!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Du kannst auch die Wörter `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, oder `trophy` für eine Geburtstagskarte verwenden, oder `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, oder `snowman` wenn du eine Weihnachtskarte machen willst.
+\--- /hint \--- \--- /hints \---
 
-Du kannst auch den CSS-Code der Geburtstagskarte bearbeiten.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Klicke auf die Registerkarte `style.css`. Der erste Teil besteht aus allen CSS-Stilen für die **Außenseite** der Karte.
 
 + Ändere die `background-color` zu `lightgreen` (hellgrün).
 
-![screenshot](images/birthday-card-outside.png)
+![Bildschirmfoto](images/birthday-card-outside.png)
 
 + Du kannst auch die Größe eines Bildes ändern. Gehe zum CSS-Code `#aussen-bild` und ändere die `width` (Breite) und die `height` (Höhe) des äußeren Bildes auf `200px` (`px` steht für pixels=Bildpunkte).
 
@@ -39,9 +41,9 @@ Du kannst auch den CSS-Code der Geburtstagskarte bearbeiten.
 
 + Auch die Schriftart kann geändert werden. Gehe zum CSS `#aussen-titel` und ändere die `font-family` auf `Comic Sans MS` und die `font-size` auf `16pt`.
 
-![Bildschirmfoto](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-Du kannst auch andere Schriftarten verwenden, zum Beispiel:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
