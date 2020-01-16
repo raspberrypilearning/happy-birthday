@@ -21,11 +21,13 @@ Vi har skrevet mye kode for å komme i gang, men bursdagskortet ser ganske kjede
 + Se på linje 17 for å finne koden.
 + Endre ordet `robot` til `sun`, og du vil se at bildet endres!
 
-![skjermbilde](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Du kan bruke et av ordene `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, eller `trophy` til et bursdagskort, eller `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, eller `snowman` hvis du foretrekker å lage et julekort.
+\--- /hint \--- \--- /hints \---
 
-Du kan også redigere CSS-koden på bursdagskortet.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Klikk på fanen for `style.css`. Den første delen er alle CSS-stilene for **utsiden** av kortet.
 
@@ -39,9 +41,9 @@ Du kan også redigere CSS-koden på bursdagskortet.
 
 + Skriften kan også endres. Gå til `#outside-title` CSS og endre `font-family` (skriftfamilie) til `Comic Sans MS` og `font-size` (skriftstørrelse) til `16pt`.
 
-![skjermbilde](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-Du kan bruke andre skrifter, for eksempel:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
