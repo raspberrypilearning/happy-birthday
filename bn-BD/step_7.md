@@ -21,7 +21,9 @@ We've written a lot of code to get you started, but the birthday card looks pret
 + Look on line 17 to find the code.
 + Change the word `robot` to `sun`, and you'll see the image change!
 
-![screenshot](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
+
+\--- /hint \--- \--- /hints \---
 
 You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
 
