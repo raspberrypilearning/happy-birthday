@@ -1,40 +1,40 @@
 ## ما المقصود بـ HTML؟
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML تعني **Hypertext Markup Language** ، اللغة المستخدمة في إنشاء صفحات الويب. دعونا نلقي نظرة على مثال!
 
-You'll be using a website called trinket.io to write HTML code.
+ستستخدم موقع ويب يسمى trinket.io لكتابة تعليمات HTML البرمجية.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ افتح [هذا الـ trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
 سيكون المشروع بالشكل التالي:
 
 ![لقطة الشاشة](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+لغة البرمجة (الكود) الذي يمكنك رؤيته على اليسار هو HTML. على يمين trinket، يمكنك رؤية صفحة الويب التي قام بها كود HTML.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+يستخدم HTML **tags** لبناء صفحات الويب. ابحث عنهم في هذا الكود HTML في السطر ٨ من الكود:
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p>مرحبا. اسمي اندي.</p>
 ```
 
 `<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
 
-+ Can you spot any other tags?
++ هل يمكنك العثور على أي علامات (tags) أخرى؟
 
 ## \--- collapse \---
 
 ## title: الإجابة
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+(tag) علامة أخرى قد تكون وجدتها هي `<b>` ،والتي تعني **غامق**:
 
 ```html
-<b>running</b>
+<b>تشغيل</b>
 ```
 
-Here are some more:
+إليك بعض الأفكار:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
++ `<html>` و `</html>` تشير إلى بداية ونهاية وثيقة HTML
 + `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
 + `<body>` and `</body>` is where your website content goes
 
