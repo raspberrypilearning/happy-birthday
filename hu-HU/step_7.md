@@ -21,11 +21,13 @@ Sok kódot írtunk, hogy elkezdhesd a munkát, de a képeslap elég unalmasnak t
 + A 17. sorban keresd meg a kódot.
 + Változtasd meg a `robot` szót `sun`-ra (nap), és látni fogod, hogy a kép megváltozik!
 
-![képernyőkép](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Használhatod az alábbi szavakat szülinapi képeslapokon: `boy` (fiú), `diamond` (gyémánt), `dinosaur` (dinoszaurusz), `flowers` (virágok), `girl` (lány), `rainbow` (szivárvány), `robot`, `spaceship` (űrhajó), `sun` (nap), `tea` vagy `trophy` (trófea).
+\--- /hint \--- \--- /hints \---
 
-A képeslap CSS kódját is szerkesztheted.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Kattints a `style.css` lapra. Az első rész a képeslap külső oldalának (**outside**) CSS tulajdonságait sorolja fel.
 
@@ -39,9 +41,9 @@ A képeslap CSS kódját is szerkesztheted.
 
 + A betűtípust is megváltoztathatod. Menj az `#outside-title` CSS részhez, majd változtasd meg a `font-family` (betűtípuscsalád) értékét `Comic Sans MS`-re, a betűméretet (`font-size`) pedig `16pt`-re.
 
-![képernyőkép](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-Használhatsz más betűtípusokat, például:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
