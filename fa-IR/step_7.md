@@ -21,11 +21,13 @@
 + کد 17 را در خط 17 نگاه کنید.
 + تغییر کلمه `ربات` به `خورشید`، و شما تغییر تصویر را ببینید!
 
-![تصویری](images/birthday-card-sun.png) \--- / اشاره \--- \--- / نکات \---
+![screenshot](images/birthday-card-sun.png)
 
-شما می توانید هر یک از کلمات `پسر`، `الماس`، `دایناسور`، `گل`، `دختر`، `رنگین کمان`، `ربات`، `سفینه فضایی`، `خورشید`، `چای`، یا `جایزه` برای یک کارت تولد، یا `کراکر`، `elf`، `پنگوئن`، `حاضر`، `گوزن شمالی`، `سانتا`یا `آدم برفی` اگر ترجیح می دهید یک کارت کریسمس ایجاد کنید.
+\--- /hint \--- \--- /hints \---
 
-شما همچنین می توانید کد CSS کارت تولد را ویرایش کنید.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + بر روی زبانه برای `style.css`کلیک کنید. بخش اول همه سبکهای CSS برای **خارج از** کارت است.
 
@@ -39,9 +41,9 @@
 
 + فونت نیز می تواند تغییر کند. به `# outside-title` CSS بروید و `فونت-خانوادگی` تا `Comic Sans MS` و `فونت-اندازه` تا `16pt`.
 
-![تصویری](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-شما می توانید از فونت های دیگر استفاده کنید، به عنوان مثال:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">ضربه</span>`
