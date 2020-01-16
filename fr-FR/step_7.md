@@ -2,7 +2,7 @@
 
 Utilisons ce que tu as appris sur le HTML et le CSS pour faire ta propre carte d'anniversaire personnalisée.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Ouvre [ce trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 Nous avons écris beaucoup de code pour t'aider à démarrer, mais la carte d'anniversaire semble plutôt ennuyeuse pour le moment, donc tu vas faire quelques changements au code HTML et CSS.
 
@@ -14,18 +14,20 @@ Nous avons écris beaucoup de code pour t'aider à démarrer, mais la carte d'an
 
 ![capture d'écran](images/birthday-card-html.png)
 
-+ Peux-tu trouver le code HTML pour l'image du robot, et modifier le mot `robot` par `sun`?
++ Peux-tu trouver le code HTML pour l'image du robot, et modifier le mot `robot` par `sun` ?
 
 \--- hints \--- \--- hint \---
 
 + Regarde à la ligne 17 et trouve le code.
 + Change le mot `robot` par `sun`, et tu verras l'image changer !
 
-![capture d'écran](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Tu peux utiliser l'un de ces mots `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+\--- /hint \--- \--- /hints \---
 
-Tu peux également modifier le code CSS de la carte d'anniersaire.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Clique sur l'onglet `style.css`. La première partie est tous les styles CSS pour **l'extérieur** (outside) de la carte.
 
@@ -33,15 +35,15 @@ Tu peux également modifier le code CSS de la carte d'anniersaire.
 
 ![capture d'écran](images/birthday-card-outside.png)
 
-+ Tu peux aussi modifier la taille de l'image. Va sur le code CSS de `#img-exterieur` et change la largeur `width` et la hauteur `height` de l'image extérieur à `200px` (`px` signifie pixels).
++ Tu peux aussi modifier la taille de l'image. Va sur le code CSS de `#outside-pic` et change la largeur `width` et la hauteur `height` de l'image extérieur à `200px` (`px` signifie pixels).
 
 ![capture d'écran](images/birthday-card-size.png)
 
-+ La fonte peut aussi être changer. Va sur le CSS `#titre-exterieur` et change la propriété `font-family` à `Comic Sans MS` et la taille de la fonte `font-size` à `16pt`.
++ La police peut aussi être modifiée. Va sur le CSS `#outside-title` et change la propriété `font-family` à `Comic Sans MS` et la taille de la police `font-size` à `16pt`.
 
-![capture d'écran](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-Tu peux utiliser d'autres polices, par exemple:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
