@@ -21,11 +21,13 @@ Am scris mult cod pentru început, dar felicitarea aniversară arată foarte pli
 + Uită-te pe linia 17 pentru a găsi codul.
 + Schimbă cuvântul `robot` în `sun` și vei vedea că se schimbă imaginea!
 
-![captură de ecran](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Poți folosi oricare dintre cuvintele `boy` (băiat), `diamond` (diamant), `dinosaur` (dinozaur), `flowers` (flori), `girl` (fată), `rainbow` (curcubeu), `robot`, `spaceship` (navă spațială), `sun` (soare), `tea` (ceai) sau `trophy` (trofeu) pentru o felicitare aniversare, sau `cracker` (pocnitoare), `elf`, `penguin` (pinguin), `present` (cadou), `reindeer` (ren), `santa` sau `snowman` (om de zăpadă) dacă preferi să faci o felicitare de Crăciun.
+\--- /hint \--- \--- /hints \---
 
-De asemenea, poți edita codul CSS al felicitării tale aniversare.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Dă click pe tab-ul `style.css`. Prima parte a codului CSS este destinată stilurilor pentru **exteriorul** felicitării.
 
@@ -39,9 +41,9 @@ De asemenea, poți edita codul CSS al felicitării tale aniversare.
 
 + Fontul poate fi schimbat și el. Mergi la codul CSS pentru `#outside-title` și schimbă `font-family` la `Comic Sans MS` și `font-size` la `16pt`.
 
-![captură de ecran](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-Poți folosi alte fonturi, cum ar fi:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
