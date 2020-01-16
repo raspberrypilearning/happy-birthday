@@ -21,11 +21,13 @@ Chúng tôi đã viết rất nhiều mã để giúp bạn bắt đầu, nhưng
 + Nhìn vào dòng 17 để tìm mã.
 + Thay đổi từ `robot` đến `mặt trời` và bạn sẽ thấy sự thay đổi hình ảnh!
 
-![ảnh chụp màn hình](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Bạn có thể sử dụng bất kỳ các từ `cậu bé`, `kim cương`, `khủng long`, `hoa`, `cô gái`, `cầu vồng`, `robot`, `tàu vũ trụ`, `mặt trời`, `trà` hoặc `cúp` cho một thiệp sinh nhật hoặc `bánh qui`, `yêu tinh`, `chim cánh cụt`, `quà tặng`, `tuần lộc`, `ông già Noel` hoặc `người tuyết` nếu bạn muốn làm một tấm thiệp Giáng sinh.
+\--- /hint \--- \--- /hints \---
 
-Bạn cũng có thể chỉnh sửa mã CSS của thiệp sinh nhật.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Nhấp vào tab cho `style.css `. Phần đầu tiên là tất cả các kiểu CSS cho **bên ngoài** của tấm thiệp.
 
@@ -39,9 +41,9 @@ Bạn cũng có thể chỉnh sửa mã CSS của thiệp sinh nhật.
 
 + Phông chữ cũng có thể được thay đổi. Chuyển đến mã CSS `#bên ngoài tiêu đề` và thay đổi `dòng phông chữ` đến `Comic Sans MS` và `cỡ chữ` đến `16pt`.
 
-![ảnh chụp màn hình](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-Bạn có thể sử dụng các phông chữ khác, ví dụ:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Tác động</span>`
