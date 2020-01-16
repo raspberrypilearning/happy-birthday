@@ -2,7 +2,7 @@
 
 CSS est l’acronyme de **Cascading Style Sheets** (Feuilles de Styles en Cascade), et c’est un langage utilisé pour modifier l'apparence graphique des pages web et leur donner un aspect agréable.
 
-+ Ce code relie ta page web au fichier CSS - regarde si tu peux le trouver dans le `<head>` du document HTML:
++ Ce code relie ta page web au fichier CSS - regarde si tu peux le trouver dans le `<head>` du document HTML :
 
 ![capture d'écran](images/birthday-css-link.png)
 
@@ -20,7 +20,7 @@ p {
 }
 ```
 
-Ce code CSS détermine les propriétés des paragraphes (`p`), et dit que la couleur du texte doit être en noir.
+Ce code CSS détermine les propriétés des paragraphes (`p`), et dit que la couleur du texte doit être en noir. Remarque l'orthographe américaine : "color".
 
 + Change le mot "black" en "blue" dans le code CSS. Tu devrais voir la couleur du texte de tous les paragraphes changer en bleu.
 
