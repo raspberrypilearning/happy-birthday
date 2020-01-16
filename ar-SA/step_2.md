@@ -2,7 +2,7 @@
 
 ### الأجهزة
 
-+ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
++ جهاز كمبيوتر قادر على الوصول إلى الموقع الإلكتروني [trinket.io](https://trinket.io){:target="_blank"}
 
 ### البرمجيات
 
