@@ -21,11 +21,13 @@ Nós já escrevemos muito código para você pegar o jeito, mas o cartão de ani
 + Olhe na linha 17 para encontrar o código.
 + Altere a palavra ` robot ` para ` sun`, e você verá a imagem mudar!
 
-![screenshot](images/birthday-card-sun.png) \---/hints \--- \--- /hint \---
+![screenshot](images/birthday-card-sun.png)
 
-Você pode usar as palavras em inglês `boy` (menino), `diamond` (diamante), `dinosaur` (dinossauro), `flowers` (flores), `girl` (garota), `rainbow` (arco-íris), `robot` (robô), `spaceship` (espaçonave), `sun` (sol), `tea` (chá), ou `trophy`(troféu) para um cartão de aniversário, ou `cracker` (biscoito), `elf` (elfo), `penguin` (pinguim), `present` (presente), `reindeer` (rena), `santa` (papai noel), or `snowman` (boneco de neve) se preferir fazer um cartão de Natal.
+\--- /hint \--- \--- /hints \---
 
-Você também pode editar o código CSS do cartão de aniversário.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Clique na guia ` style.css `. A primeira parte tem todos os estilos CSS para a ** capa** do cartão.
 
@@ -41,7 +43,7 @@ Você também pode editar o código CSS do cartão de aniversário.
 
 ![screenshot](images/birthday-card-font.png)
 
-Você pode usar outras fontes, por exemplo:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
