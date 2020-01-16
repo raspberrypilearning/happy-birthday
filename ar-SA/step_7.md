@@ -21,7 +21,9 @@ We've written a lot of code to get you started, but the birthday card looks pret
 + Look on line 17 to find the code.
 + Change the word `robot` to `sun`, and you'll see the image change!
 
-![لقطة الشاشة](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
+
+\--- /hint \--- \--- /hints \---
 
 You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
 
@@ -39,7 +41,7 @@ You can also edit the CSS code of the birthday card.
 
 + The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
 
-![لقطة الشاشة](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
 You can use other fonts, for example:
 
