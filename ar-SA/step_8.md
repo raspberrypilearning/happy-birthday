@@ -2,15 +2,15 @@
 
 ## التحدي: إنشاء بطاقة خاصة
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ استخدم كل ما تعلمته عن HTML و CSS لإنهاء إنشاء بطاقة مخصصة. ولا يجب أن تكون بطاقة عيد ميلاد ، فقد تكون بطاقة عيد الميلاد أو أي مناسبة أخرى!
 
 إليك مثالًا:
 
 ![لقطة شاشة](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+يمكنك العثور على المزيد من أسماء ألوان CSS [هنا](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Once you've finished your card, you can share or email it to someone.
++ بمجرد الانتهاء من بطاقتك ، يمكنك مشاركتها أو إرسالها بالبريد الإلكتروني إلى شخص ما.
 
 ![لقطة الشاشة](images/birthday-share.png)
 
