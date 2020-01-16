@@ -21,27 +21,29 @@
 + Дивіться на рядок 17, щоб знайти код.
 + Змініть слово `robot` на `sun` і побачите як змінюється картинка!
 
-![скріншот](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-Використовуйте будь-яке з слів `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman`, якщо хочете зробити різдвяну листівку.
+\--- /hint \--- \--- /hints \---
 
-Ви також можете редагувати код CSS листівки.
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + Клацніть на вкладку `style.css`. Перша частина - це всі стилі CSS для **outside** листівки.
 
 + Змініть `background-color` на `lightgreen`.
 
-![скріншот](images/birthday-card-outside.png)
+![знімок екрану](images/birthday-card-outside.png)
 
 + Ви також можете змінити розмір картинки. Перейдіть на код `#outside-pic` CSS і змініть `width` та `height` зовнішньої картинки на `200px` (`px` означає пікселі).
 
-![знімок екрану](images/birthday-card-size.png)
+![скріншот](images/birthday-card-size.png)
 
 + Можна також змінити шрифт. Перейдіть до `#outside-title` CSS і змініть `font-family` на `Comic Sans MS` та `font-size` на `16pt`.
 
-![скріншот](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-Ви можете використовувати інші шрифти, наприклад:
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
