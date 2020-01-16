@@ -21,11 +21,13 @@
 + 17行目を見てコードを見つけてください。
 + 単語を変更して `ロボット` に `日`、あなたがイメージチェンジを参照してくださいよ！
 
-![スクリーンショット](images/birthday-card-sun.png) \--- /hint \--- \--- /hints \---
+![screenshot](images/birthday-card-sun.png)
 
-あなたは、単語のいずれかを使用することができる `少年`、 `ダイヤモンド`、 `恐竜`、 `花`、 `女の子`、 `虹`、 `、ロボット`、 `宇宙船`、 `太陽`、 `茶`、又は `トロフィーを` 誕生日カード、または `クラッカー`、 `エルフ`、 `ペンギン`、 `本`、 `トナカイ`、 `サンタ`、又は `雪だるま` あなたはクリスマスカードを作ることを好む場合。
+\--- /hint \--- \--- /hints \---
 
-また、バースデーカードのCSSコードを編集することもできます。
+You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+
+You can also edit the CSS code of the birthday card.
 
 + `style.css`タブをクリックします。最初の部分は、のためにCSSスタイルのすべてで **外** カードの。
 
@@ -39,9 +41,9 @@
 
 + フォントも変更できます。 `＃outside-title` CSSに行き、 `font-family` を `Comic Sans MS` に、 `font-size` to `16pt`ます。
 
-![スクリーンショット](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
-たとえば、次のような他のフォントを使用することができます。
+You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">アリア</span>`
 + `<span style="font-family: impact;">影響</span>`
