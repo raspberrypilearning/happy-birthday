@@ -1,49 +1,49 @@
 ## تصميم بطاقة عيد ميلاد
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+دعونا نستخدم ما تعلمته حول HTML و CSS لإنشاء بطاقة عيد ميلاد مخصصة.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ افتح [هذا الـ trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+لقد كتبنا الكثير من التعليمات البرمجية للبدء، لكن بطاقة عيد الميلاد تبدو مملة جدًا حتى الآن ، لذلك ستجري بعض التغييرات على النص البرمجي HTML و CSS.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ انقر فوق الزر الموجود في مقدمة البطاقة، وستراها تُفتح للكشف عن الداخل.
 
-![لقطة شاشة](images/birthday-click.png)
+![لقطة الشاشة](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ انتقل إلى السطر 14 من النص البرمجي HTML. حاول تغيير النص لتخصيص بطاقتك.
 
 ![لقطة الشاشة](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ هل يمكنك العثور على النص البرمجي HTML لصورة الروبوت، وتغيير كلمة `robot` إلى `sun` ؟
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ انظر على السطر 17 للعثور على النص البرمجي.
++ قم بتغيير `robot` إلى `sun` و سترى الصورة تتغير!
 
-![screenshot](images/birthday-card-sun.png)
+![لقطة الشاشة](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+يمكنك استخدام أي من الكلمات `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` إذا كنت تفضل عمل بطاقة عيد الميلاد.
 
-You can also edit the CSS code of the birthday card.
+يمكنك أيضًا تعديل النص البرمجي CSS لبطاقة عيد الميلاد.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ انقر فوق علامة التبويب `style.css`. الجزء الأول هو كل من أنماط CSS للشكل الخارجي **outside** من البطاقة.
 
-+ Change the `background-color` to `lightgreen`.
++ قم بتغيير `background-color` إلى `lightgreen`.
 
 ![لقطة الشاشة](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ يمكنك أيضًا تغيير حجم الصورة. اذهب الى `#outside-pic` في النص البرمجي لـCSS, و قم بتغيير `width` و `height` للصورة الخارجية الى `200px` (`إن px` تعني pixels).
 
 ![لقطة الشاشة](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ يمكن تغيير الخط أيضا. اذهب الى `#outside-title` لـCSS و قم بتغيير `font-family` إلى `Comic Sans MS` و ال `font-size` to `16pt`.
 
-![screenshot](images/birthday-card-font.png)
+![لقطة الشاشة](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+يمكنك استخدام خطوط أخرى ، على سبيل المثال:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
