@@ -1,9 +1,9 @@
-## آنچه شما نیاز دارید
+## What you will need
 
-### سخت افزار
+### Hardware
 
-+ یک رایانه قادر به دسترسی به [trinket.io](https://trinket.io){: target = "_ blank"}
++ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
 
-### نرم افزار
+### Software
 
-این پروژه را می توان در یک مرورگر وب با استفاده از [trinket.io](https://trinket.io){: target = "_ blank"} تکمیل کرد.
+This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
