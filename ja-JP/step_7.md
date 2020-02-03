@@ -1,25 +1,25 @@
-## バースデーカードを作る
+## Making a birthday card
 
-独自のカスタムバースデーカードを作るためにHTMLとCSSについて学んだことを使ってみましょう。
+Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
 
 + Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-私たちはあなたのために多くのコードを書いていますが、これまでのバースデーカードはかなり退屈なので、HTMLコードとCSSコードを少し変更します。
+We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
 
-+ カードの前面にあるボタンをクリックすると、内部が表示されます。
++ Click the button on the front of the card, and you should see it open to reveal the inside.
 
-![スクリーンショット](images/birthday-click.png)
+![screenshot](images/birthday-click.png)
 
-+ HTMLコードの14行目に移動します。テキストを編集してカードをカスタマイズしてみてください。
++ Go to line 14 of the HTML code. Try editing the text to customise your card.
 
-![スクリーンショット](images/birthday-card-html.png)
+![screenshot](images/birthday-card-html.png)
 
-+ あなたは、ロボット画像のHTMLコードを見つけて、 `ロボット` を `太陽`変更できますか？
++ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ 17行目を見てコードを見つけてください。
-+ 単語を変更して `ロボット` に `日`、あなたがイメージチェンジを参照してくださいよ！
++ Look on line 17 to find the code.
++ Change the word `robot` to `sun`, and you'll see the image change!
 
 ![screenshot](images/birthday-card-sun.png)
 
@@ -29,22 +29,22 @@ You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `r
 
 You can also edit the CSS code of the birthday card.
 
-+ `style.css`タブをクリックします。最初の部分は、のためにCSSスタイルのすべてで **外** カードの。
++ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
 
-+ `背景色` を `明るい緑色`ます。
++ Change the `background-color` to `lightgreen`.
 
-![スクリーンショット](images/birthday-card-outside.png)
+![screenshot](images/birthday-card-outside.png)
 
-+ 画像のサイズを変更することもできます。 `＃outside-pic` CSSコードに行き、外側の画像の `幅` と `高さ` を `200px` （`ピクセル` はピクセルを表す）に変更します。
++ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
-![スクリーンショット](images/birthday-card-size.png)
+![screenshot](images/birthday-card-size.png)
 
-+ フォントも変更できます。 `＃outside-title` CSSに行き、 `font-family` を `Comic Sans MS` に、 `font-size` to `16pt`ます。
++ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
 You can use other fonts, for example:
 
-+ `<span style="font-family: Arial;">アリア</span>`
-+ `<span style="font-family: impact;">影響</span>`
-+ `<span style="font-family: tahoma;">タホマ</span>`
++ `<span style="font-family: Arial;">arial</span>`
++ `<span style="font-family: impact;">Impact</span>`
++ `<span style="font-family: tahoma;">Tahoma</span>`
