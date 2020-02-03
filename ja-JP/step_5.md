@@ -1,27 +1,27 @@
-## CSSとは何ですか？
+## What is CSS?
 
-CSSは **カスケードスタイルシート**表し、ウェブページをスタイルして見栄えを良くするために使用される言語です。
+CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
 
-+ このコードは、あなたのウェブページをCSSファイルにリンクします。あなたがHTML文書の `<head>` でそれを見つけることができるかどうかを見てください：
++ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
 
-![スクリーンショット](images/birthday-css-link.png)
+![screenshot](images/birthday-css-link.png)
 
-CSSは、特定のタグの **プロパティ** をすべてリストします。
+CSS lists all of the **properties** for a particular tag.
 
-+ `style.css` タブをクリックすると、WebページのCSSコードが表示されます。
++ Click on the `style.css` tab to see the CSS code for your webpage.
     
-    ![スクリーンショット](images/birthday-css-tab.png)
+    ![screenshot](images/birthday-css-tab.png)
 
-+ このコードを見つける：
++ Find this code:
 
 ```html
 p {
-    色：黒;
+    color: black;
 }
 ```
 
-このCSSコードは、テキストの色が黒であることを示す段落（`p`）のプロパティを決定します。アメリカのスペル：「色」に注目してください。
+This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
 
-+ CSSコードの単語「黒」を「青」に変更します。すべての段落のテキストの色が青色に変わるのを確認する必要があります。
++ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
 
 ![screenshot](images/birthday-edit-css.png)
