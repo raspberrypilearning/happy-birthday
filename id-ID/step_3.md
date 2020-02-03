@@ -1,63 +1,63 @@
-## Apa itu HTML?
+## What is HTML?
 
-HTML adalah singkatan dari **Hypertext Markup Language**, bahasa yang digunakan untuk membuat halaman web. Mari kita lihat contohnya!
+HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
 
-Anda akan menggunakan situs web yang disebut trinket.io untuk menulis kode HTML.
+You'll be using a website called trinket.io to write HTML code.
 
-+ Buka [trinket ini](http://jumpto.cc/web-intro){: target = "_ blank"}.
++ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
-Proyek akan terlihat seperti ini:
+The project should look like this:
 
-![tangkapan layar](images/birthday-starter.png)
+![screenshot](images/birthday-starter.png)
 
-Kode yang bisa Anda lihat di sebelah kiri adalah HTML. Di sebelah kanan trinket, Anda dapat melihat halaman web yang telah dibuat kode HTML.
+The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
 
-HTML menggunakan **tag** untuk membuat halaman web. Cari kode HTML ini pada baris 8 dari kode Anda:
-
-```html
-<p>Hai. Namaku Andy.</p>
-```
-
-`<p>` adalah contoh dari sebuah tag, dan singkat untuk **paragraf**. Anda dapat memulai paragraf dengan `<p>`, dan mengakhiri paragraf dengan `</p>`.
-
-+ Bisakah Anda melihat tag lain?
-
-## \--- jatuh \---
-
-## judul: Jawaban
-
-Satu tag lain yang mungkin Anda lihat adalah `<b>`, yang mewakili **huruf tebal**:
+HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
 
 ```html
-<b>berlari</b>
+<p>Hi. My name is Andy.</p>
 ```
 
-Berikut beberapa lagi:
+`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
 
-+ `<html>` dan `</html>` menandai awal dan akhir dokumen HTML
-+ `<head>` dan `</head>` adalah tempat hal-hal seperti CSS berjalan (kita akan membahasnya nanti)
-+ `<body>` dan `</body>` adalah tempat konten situs web Anda pergi
++ Can you spot any other tags?
 
-![tangkapan layar](images/birthday-head-body.png)
+## \--- collapse \---
 
-\--- /jatuh \---
+## title: Answer
 
-+ Buat perubahan ke salah satu paragraf teks dalam file HTML (di sebelah kiri). Klik **Run**, dan Anda akan melihat halaman web Anda berubah (di sebelah kanan)!
+One other tag you might have spotted is `<b>`, which stands for **bold**:
 
-![tangkapan layar](images/birthday-edit-html.png)
+```html
+<b>running</b>
+```
 
-+ Jika Anda telah membuat kesalahan dan ingin membatalkan semua perubahan Anda, Anda dapat mengklik tombol **menu** dan kemudian klik **Reset**.
+Here are some more:
 
-![tangkapan layar](images/birthday-reset.png)
++ `<html>` and `</html>` mark the start and end of the HTML document
++ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
++ `<body>` and `</body>` is where your website content goes
 
-Untuk membatalkan hanya hal terakhir yang Anda lakukan, Anda dapat menekan tombol `Ctrl` dan `z` bersama-sama.
+![screenshot](images/birthday-head-body.png)
 
-### Anda tidak perlu akun Trinket untuk menyimpan proyek Anda!
+\--- /collapse \---
 
-Jika Anda tidak memiliki akun Trinket, klik panah **turun** dan kemudian klik **Tautan**. Ini akan memberi Anda tautan yang dapat Anda simpan dan kembali lagi nanti. Anda harus melakukan ini setiap kali Anda melakukan perubahan, karena tautan akan berubah!
++ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
 
-![tangkapan layar](images/birthday-link.png)
+![screenshot](images/birthday-edit-html.png)
 
-Jika Anda memiliki akun Trinket, cara termudah untuk menyimpan halaman web Anda adalah dengan mengklik tombol **Remix** di bagian atas trinket. Ini akan menyimpan salinan dari trinket di profil Anda.
++ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
 
-![tangkapan layar](images/birthday-remix.png)
+![screenshot](images/birthday-reset.png)
+
+To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+
+### You don't need a Trinket account to save your projects!
+
+If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+
+![screenshot](images/birthday-link.png)
+
+If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+
+![screenshot](images/birthday-remix.png)
