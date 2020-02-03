@@ -21,13 +21,13 @@ Nous avons écris beaucoup de code pour t'aider à démarrer, mais la carte d'an
 + Regarde à la ligne 17 et trouve le code.
 + Change le mot `robot` par `sun`, et tu verras l'image changer !
 
-![screenshot](images/birthday-card-sun.png)
+![capture d'écran](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Tu peux utiliser l'un de ces mots `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` pour une carte d'anniversaire, ou `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` si tu préfères créer une carte de Noël.
 
-You can also edit the CSS code of the birthday card.
+Tu peux également modifier le code CSS de la carte d’anniversaire.
 
 + Clique sur l'onglet `style.css`. La première partie est tous les styles CSS pour **l'extérieur** (outside) de la carte.
 
@@ -41,9 +41,9 @@ You can also edit the CSS code of the birthday card.
 
 + La police peut aussi être modifiée. Va sur le CSS `#outside-title` et change la propriété `font-family` à `Comic Sans MS` et la taille de la police `font-size` à `16pt`.
 
-![screenshot](images/birthday-card-font.png)
+![capture d'écran](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Tu peux utiliser d'autres polices, par exemple :
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
