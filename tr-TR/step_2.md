@@ -1,9 +1,9 @@
-## Nelere ihtiyacınız olacak
+## What you will need
 
-### Donanım
+### Hardware
 
-+ [trinket.io'ya erişebilen bir bilgisayar](https://trinket.io){: target = "_ blank"}
++ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
 
-### Yazılım
+### Software
 
-Bu proje [trinket.io](https://trinket.io){: target = "_ blank"} kullanılarak bir web tarayıcısında tamamlanabilir.
+This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
