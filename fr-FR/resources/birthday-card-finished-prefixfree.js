@@ -1,8 +1,8 @@
 /**
  * StyleFix 1.0.3 & PrefixFree 1.0.7
- * @auteur Lea Verou
- * Licence MIT
- * /
+ * @author Lea Verou
+ * MIT license
+ */
 
 (function(){
 
