@@ -1,16 +1,16 @@
 \--- challenge \---
 
-## Izazov: napravi sopstvenu čestitku
+## Challenge: create a personalised card
 
-+ Iskoristi sve što si do sada naučio/naučila o HTML-u i CSS-u da dovršiš izradu sopstvene čestitke. Čestitka ne mora da bude rođendanska, može biti čestitka za Božić ili za bilo koju drugu priliku!
++ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
 
-Evo primjera:
+Here's an example:
 
 ![screenshot](images/birthday-final.png)
 
-Više CSS naziva boja možeš naći [ovdje](http://jumpto.cc/colours){:target="_blank"}.
+You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Kada završiš svoju čestitku, možeš je podijeliti ili je nekome poslati elektronskom poštom.
++ Once you've finished your card, you can share or email it to someone.
 
 ![screenshot](images/birthday-share.png)
 
