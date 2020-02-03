@@ -6,4 +6,4 @@
 
 ### البرمجيات
 
-هذا المشروع يمكن أن تكتمل في متصفح الويب باستخدام [trinket.io](https://trinket.io){:target="_blank"}.
+هذا المشروع يمكن أن يكتمل في متصفح الويب باستخدام [trinket.io](https://trinket.io){:target="_blank"}.
