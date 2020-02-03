@@ -1,10 +1,10 @@
-## Uvod
+## Introduction
 
-U ovom ćete projektu predstaviti HTML i CSS učenje kako izraditi vlastitu prilagođenu rođendansku čestitku.
+In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
 
-### Napravit ćeš
+### What you will make
 
-Kliknite gumb da biste otvorili rođendansku čestitku:
+Click the button to open the birthday card:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Kliknite gumb da biste otvorili rođendansku čestitku:
   <img src="images/birthday-final.png">
 </div>
 
-### Naučit ćeš
+### What you will learn
 
-Ovaj projekt pokriva elemente iz sljedećih dijelova nastavnoga plana i programa [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Dodatne informacije za nastavnike
+### Additional information for educators
 
-Ako trebate ispisati ovaj projekt, koristite [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:Target="_ blank"} .
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
-Koristi poveznicu u podnožju za pristup GitHup repozitoriju ovog projekta koji sadrži sve materijale (uključujući i primjer gotovog projekta) u mapi 'en/resources'.
+Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
