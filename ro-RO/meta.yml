@@ -6,9 +6,9 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: La mulți ani
-description: Creează o felicitare aniversară pe o pagină web
-original_url: https://codeclubprojects.org/ro-RO/webdev/happy-birthday
+title: Happy birthday
+description: Make an online birthday card on a webpage
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
 interests: art
 technologies: html-css-javascript
 site_areas: projects
@@ -18,18 +18,18 @@ version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introducere
+    title: Introduction
   - 
-    title: De ce vei avea nevoie
+    title: What you will need
   - 
-    title: Ce este HTML?
+    title: What is HTML?
   - 
-    title: 'Provocare: adaugă alt paragraf'
+    title: 'Challenge: add another paragraph'
   - 
-    title: Ce este CSS?
+    title: What is CSS?
   - 
-    title: 'Provocare: adaugă mai multe stickere'
+    title: 'Challenge: add more styles'
   - 
-    title: Crearea unei felicitări aniversare
+    title: Making a birthday card
   - 
-    title: 'Provocare: creează o felicitare personalizată'
+    title: 'Challenge: create a personalised card'
