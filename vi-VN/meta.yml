@@ -1,35 +1,35 @@
 ---
 hero_image: images/happy-birthday.png
-theme: màu ngọc lam
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, thiết kế-1, lập trình-0, Phys-comp-0, sản xuất-0, cộng đồng-0
-title: Chúc mừng sinh nhật
-description: Làm thiệp sinh nhật trực tuyến trên một trang web
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Happy birthday
+description: Make an online birthday card on a webpage
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
-interests: nghệ thuật
+interests: art
 technologies: html-css-javascript
-site_areas: dự án
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: Giới thiệu
+    title: Introduction
   - 
-    title: Những gì bạn sẽ cần
+    title: What you will need
   - 
-    title: HTML là gì?
+    title: What is HTML?
   - 
-    title: 'Thử thách: thêm một đoạn khác'
+    title: 'Challenge: add another paragraph'
   - 
-    title: CSS là gì?
+    title: What is CSS?
   - 
-    title: 'Thử thách: thêm phong cách khác'
+    title: 'Challenge: add more styles'
   - 
-    title: Làm thiệp sinh nhật
+    title: Making a birthday card
   - 
-    title: 'Thử thách: tạo một thiệp cá nhân'
+    title: 'Challenge: create a personalised card'
