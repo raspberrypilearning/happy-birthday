@@ -1,17 +1,17 @@
-\--- tantangan \---
+\--- challenge \---
 
-## Tantangan: buat kartu yang dipersonalisasi
+## Challenge: create a personalised card
 
-+ Gunakan semua yang telah Anda pelajari tentang HTML dan CSS untuk menyelesaikan pembuatan kartu yang dipersonalisasi. Dan itu tidak harus menjadi kartu ulang tahun, itu bisa menjadi satu untuk Natal atau acara lain!
++ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
 
-Inilah contohnya:
+Here's an example:
 
-![tangkapan layar](images/birthday-final.png)
+![screenshot](images/birthday-final.png)
 
-Anda dapat menemukan lebih banyak nama warna CSS [sini](http://jumpto.cc/colours){: target = "_ blank"}.
+You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Setelah Anda menyelesaikan kartu Anda, Anda dapat membagikan atau mengirim email kepada seseorang.
++ Once you've finished your card, you can share or email it to someone.
 
-![tangkapan layar](images/birthday-share.png)
+![screenshot](images/birthday-share.png)
 
-\--- / tantangan \---
+\--- /challenge \---
