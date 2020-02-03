@@ -1,49 +1,49 @@
 ## 制作一张生日贺卡
 
-让我们使用你已经学到的关于HTML和CSS的知识来制作你自己的自定义生日卡。
+让我们使用你已经学到的关于HTML和CSS的知识来制作你自己的自定义生日卡吧。
 
-+ 打开 [trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ 打开 [这个trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}。
 
 我们已经写了很多代码来帮助您入门，但是到目前为止，生日贺卡看起来很无聊，因此您将对HTML和CSS代码进行一些更改。
 
-+ 单击卡正面的按钮，您应该看到它已打开以露出内部。
++ 单击卡正面的按钮，您应该看到它会打开并露出里面的内容。
 
-![screenshot](images/birthday-click.png)
+![截图](images/birthday-click.png)
 
 + 转到HTML代码的第14行。尝试编辑文本以自定义您的卡片。
 
-![screenshot](images/birthday-card-html.png)
+![截屏](images/birthday-card-html.png)
 
-+ 您能找到机器人图像的HTML代码，并更改单词` 机吗器人 `为` 太阳 ` ？
++ 您能找到机器人图像的HTML代码，并更改单词` robot `为` sun ` 吗？
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ 将单词`机器人`更改为`太阳`，您将看到图像更改！
++ 在第17行上查找此代码。
++ 将单词`robot`更改为`sun`，您将看到图像更改！
 
-![screenshot](images/birthday-card-sun.png)
+![截屏](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+您可以使用任何一个单词`男孩`, `钻石`, `dinosaur`, `floers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, `tea`, 或`奖杯` 生日卡，或`板球员`, `elf`, `penguin`, `展示`, `驯鹿`, `santa`, 或<0>雪人</0> 如果你希望制作圣诞卡的话。
 
-You can also edit the CSS code of the birthday card.
+您还可以编辑生日贺卡的CSS代码。
 
-+ 单击选项卡上的` style.css ` 。第一部分是**外部的所有CSS样式**卡的。
++ 单击选项卡上的` style.css ` 。第一部分是生日卡**外部**的所有CSS样式。
 
-+ 更改`背景色`至`浅绿色` 。
++ 更改`background-color`（背景色）至``lightgreen（浅绿色） 。
 
-![screenshot](images/birthday-card-outside.png)
+![截屏](images/birthday-card-outside.png)
 
-+ 您还可以更改图像的大小。 转到`＃outside-pic ` CSS代码，并更改`宽度`和`高度`外部图像的像素为` 200px ` （` px `代表像素）。
++ 您还可以更改图像的大小。 转到CSS代码的`＃outside-pic`（外部图像），并更改`width`（宽度）和`height`（高度）外部图像的像素为`200px`（` px `代表像素）。
 
-![screenshot](images/birthday-card-size.png)
+![截屏](images/birthday-card-size.png)
 
-+ 字体也可以更改。转到`＃outside-title ` CSS并更改` font-family `到` Comic Sans MS `和` font-size `至` 16pt ` 。
++ 字体也可以更改。转到`＃outside-title`（外部标题）CSS并将` font-family `设为` Comic Sans MS `、将` font-size `设为`16pt` 。
 
-![screenshot](images/birthday-card-font.png)
+![截屏](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+您可以使用其他字体，例如：
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
