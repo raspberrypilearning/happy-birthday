@@ -1,9 +1,9 @@
-## Apa yang Anda butuhkan
+## What you will need
 
-### Perangkat keras
+### Hardware
 
-+ Komputer yang dapat mengakses [trinket.io](https://trinket.io){: target = "_ blank"}
++ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
 
-### Perangkat lunak
+### Software
 
-Proyek ini dapat diselesaikan di browser web menggunakan [trinket.io](https://trinket.io){: target = "_ blank"}.
+This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
