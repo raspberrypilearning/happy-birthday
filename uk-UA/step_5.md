@@ -1,18 +1,18 @@
-## Що таке CSS?
+## What is CSS?
 
-CSS означає **Каскадні таблиці стилів**, і це мова, яку використовують для стилізації веб-сторінок, і їх дизайну.
+CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
 
-+ Цей код пов'язує вашу веб-сторінку з файлом CSS - чи зможете ви знайти його в `<head>` документа HTML:
++ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
 
 ![screenshot](images/birthday-css-link.png)
 
-CSS перераховує всі **властивості** для певного тегу.
+CSS lists all of the **properties** for a particular tag.
 
-+ Перейдіть на вкладку `style.css`, щоб побачити код CSS для веб-сторінки.
++ Click on the `style.css` tab to see the CSS code for your webpage.
     
-    ![знімок екрану](images/birthday-css-tab.png)
+    ![screenshot](images/birthday-css-tab.png)
 
-+ Знайдіть цей код:
++ Find this code:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-Цей код CSS визначає властивість абзаців (`p`), яка показує, що колір тексту має бути чорним. Зверніть увагу на американське написання: "color".
+This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
 
-+ Змініть слово "black" в коді CSS на "blue". Ви повинні побачити, як колір тексту всіх абзаців змінюється на синій.
++ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
 
-![скріншот](images/birthday-edit-css.png)
+![screenshot](images/birthday-edit-css.png)
