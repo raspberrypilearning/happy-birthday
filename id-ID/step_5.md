@@ -1,27 +1,27 @@
-## Apa itu CSS?
+## What is CSS?
 
-CSS adalah kependekan dari **Cascading Style Sheets**, dan itu adalah bahasa yang digunakan untuk menata halaman web dan membuatnya terlihat bagus.
+CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
 
-+ Kode ini menautkan halaman web Anda ke file CSS - lihat apakah Anda dapat menemukannya di `<head>` dari dokumen HTML:
++ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
 
-![tangkapan layar](images/birthday-css-link.png)
+![screenshot](images/birthday-css-link.png)
 
-CSS mencantumkan semua **properti** untuk tag tertentu.
+CSS lists all of the **properties** for a particular tag.
 
-+ Klik pada tab `style.css` untuk melihat kode CSS untuk halaman web Anda.
++ Click on the `style.css` tab to see the CSS code for your webpage.
     
-    ![tangkapan layar](images/birthday-css-tab.png)
+    ![screenshot](images/birthday-css-tab.png)
 
-+ Temukan kode ini:
++ Find this code:
 
 ```html
 p {
-    warna: hitam;
+    color: black;
 }
 ```
 
-Kode CSS ini menentukan properti untuk paragraf (`p`), yang mengatakan bahwa warna teks harus berwarna hitam. Perhatikan ejaan Amerika: 'warna'.
+This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
 
-+ Ubah kata 'hitam' dalam kode CSS menjadi 'biru'. Anda harus melihat warna teks dari semua paragraf berubah menjadi biru.
++ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
 
-![tangkapan layar](images/birthday-edit-css.png)
+![screenshot](images/birthday-edit-css.png)
