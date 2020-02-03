@@ -1,25 +1,25 @@
-## Làm thiệp sinh nhật
+## Making a birthday card
 
-Hãy sử dụng những gì bạn đã học về HTML và CSS để tạo thiệp sinh nhật tùy nhu cầu của riêng bạn.
+Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
 
 + Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-Chúng tôi đã viết rất nhiều mã để giúp bạn bắt đầu, nhưng thiệp sinh nhật có sẵn trông khá nhàm chán, vì vậy bạn sẽ thực hiện một số thay đổi đối với mã HTML và CSS.
+We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
 
-+ Nhấp vào nút ở mặt trước của thiệp và bạn sẽ thấy nó mở để lộ bên trong.
++ Click the button on the front of the card, and you should see it open to reveal the inside.
 
-![ảnh chụp màn hình](images/birthday-click.png)
+![screenshot](images/birthday-click.png)
 
-+ Chuyển đến dòng 14 của mã HTML. Hãy thử chỉnh sửa văn bản để tùy chỉnh theo ý thiệp của bạn.
++ Go to line 14 of the HTML code. Try editing the text to customise your card.
 
-![ảnh chụp màn hình](images/birthday-card-html.png)
+![screenshot](images/birthday-card-html.png)
 
-+ Bạn có thể tìm mã HTML cho hình ảnh robot và thay đổi từ `robot` thành `mặt trời` không?
++ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Nhìn vào dòng 17 để tìm mã.
-+ Thay đổi từ `robot` đến `mặt trời` và bạn sẽ thấy sự thay đổi hình ảnh!
++ Look on line 17 to find the code.
++ Change the word `robot` to `sun`, and you'll see the image change!
 
 ![screenshot](images/birthday-card-sun.png)
 
@@ -29,22 +29,22 @@ You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `r
 
 You can also edit the CSS code of the birthday card.
 
-+ Nhấp vào tab cho `style.css `. Phần đầu tiên là tất cả các kiểu CSS cho **bên ngoài** của tấm thiệp.
++ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
 
-+ Thay đổi `màu nền` đến `màu xanh lá cây`.
++ Change the `background-color` to `lightgreen`.
 
-![ảnh chụp màn hình](images/birthday-card-outside.png)
+![screenshot](images/birthday-card-outside.png)
 
-+ Bạn cũng có thể thay đổi kích thước của một hình ảnh. Chuyển đến mã CSS của `#bên ngoài pic` và thay đổi `độ rộng` và `chiều cao` của hình ảnh bên ngoài đến `200px` (`px` là viết tắt của pixel).
++ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
-![ảnh chụp màn hình](images/birthday-card-size.png)
+![screenshot](images/birthday-card-size.png)
 
-+ Phông chữ cũng có thể được thay đổi. Chuyển đến mã CSS `#bên ngoài tiêu đề` và thay đổi `dòng phông chữ` đến `Comic Sans MS` và `cỡ chữ` đến `16pt`.
++ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
 You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
-+ `<span style="font-family: impact;">Tác động</span>`
++ `<span style="font-family: impact;">Impact</span>`
 + `<span style="font-family: tahoma;">Tahoma</span>`
