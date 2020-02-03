@@ -1,63 +1,63 @@
-## Šta je HTML?
+## What is HTML?
 
-HTML je skraćenica za **Hypertext Markup Language** (Jezik za označavanje hiperteksta) i to je jezik koji se koristi za izradu veb-stranica. Pogledajmo primjer!
+HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
 
-Za pisanje HTML kôda koristićeš veb-sajt pod nazivom trinket.io.
+You'll be using a website called trinket.io to write HTML code.
 
-+ Otvori [ovaj trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
-Projekat treba da izgleda ovako:
+The project should look like this:
 
 ![screenshot](images/birthday-starter.png)
 
-Kôd koji vidiš na lijevoj strani je HTML. Na desnoj strani trinketa možeš da vidiš veb-stranicu koju je napravio HTML kôd.
+The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
 
-HTML koristi **oznake** (tags) za izradu veb-stranica. Pogledaj ovaj HTML kôd u osmom redu svog kôda:
+HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
 
 ```html
-<p>Zdravo. Zovem se Andrija.</p>
+<p>Hi. My name is Andy.</p>
 ```
 
-`<p>` je primjer oznake, i to je skraćenica za **paragraph** (pasus). Pasus možeš da započneš oznakom `<p>` i da ga završiš oznakom `</p>`.
+`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
 
-+ Da li možeš da uočiš neku drugu oznaku?
++ Can you spot any other tags?
 
 ## \--- collapse \---
 
-## title: Odgovor
+## title: Answer
 
-Jedna od oznaka koju možeš da uočiš je oznaka `<b>` koja znači **bold** (podebljano):
+One other tag you might have spotted is `<b>`, which stands for **bold**:
 
 ```html
-<b>trčim</b>
+<b>running</b>
 ```
 
-Evo još nekoliko primjera:
+Here are some more:
 
-+ `<html>` i `</html>` označavaju početak i kraj HTML dokumenta
-+ `<head>` i `</head>` - ovdje se unose stvari kao što je CSS (do toga ćemo doći kasnije)
-+ `<body>` i `</body>` - ovdje se unosi sadržaj veb-stranice
++ `<html>` and `</html>` mark the start and end of the HTML document
++ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
++ `<body>` and `</body>` is where your website content goes
 
 ![screenshot](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Napravi izmjenu u jednom pasusu teksta u HTML dokumentu (lijevo). Klikni na **Run** i trebalo bi da vidiš promjenu na svojoj veb-stranici (desno)!
++ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
 
 ![screenshot](images/birthday-edit-html.png)
 
-+ Ako napraviš grešku i želiš da poništiš sve svoje izmjene, možeš da klikneš na dugme **menu**, a zatim na **Reset**.
++ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
 
 ![screenshot](images/birthday-reset.png)
 
-Da poništiš samo ono što si posljednje uradio/uradila, možeš istovremeno da pritisneš tastere `Ctrl` i `z`.
+To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
 
-### Nije ti potreban Trinket nalog da sačuvaš svoje projekte!
+### You don't need a Trinket account to save your projects!
 
-Ako nemaš Trinket nalog, klikni na strelicu **nadolje**, a zatim klikni na **Link**. Dobićeš link koji možeš sačuvati i vratititi se na njega kasnije. Biće potrebno da to uradiš svaki put kada napraviš izmjene, pošto će se link promijeniti!
+If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
 ![screenshot](images/birthday-link.png)
 
-Ako imaš Trinket nalog, najlakši način da sačuvaš svoju veb-stranicu je da klikneš na dugme **Remix** koje se nalazi u gornjem dijelu trinketa. Tako će kopija trinketa biti sačuvana na tvom profilu.
+If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
 
 ![screenshot](images/birthday-remix.png)
