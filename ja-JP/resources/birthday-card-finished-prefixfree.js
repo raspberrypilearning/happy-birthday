@@ -1,7 +1,7 @@
 /**
  * StyleFix 1.0.3 & PrefixFree 1.0.7
  * @author Lea Verou
- * MITライセンス
+ * MIT license
  */
 
 (function(){
@@ -121,13 +121,13 @@ var self = window.StyleFix = {
 	},
 	
 	process: function() {
-		//リンクされたスタイルシート
+		// Linked stylesheets
 		$('link[rel="stylesheet"]:not([data-inprogress])').forEach(StyleFix.link);
 		
-		//リンクされたスタイルシート
+		// Inline stylesheets
 		$('style').forEach(StyleFix.styleElement);
 		
-		//リンクされたスタイルシート
+		// Inline styles
 		$('[style]').forEach(StyleFix.styleAttribute);
 	},
 	
@@ -246,12 +246,12 @@ var self = window.PrefixFree = {
 		return value;
 	},
 	
-	//警告：セレクタがプレフィックスなしでサポートされている場合でも、プレフィックスは何であっても
+	// Warning: Prefixes no matter what, even if the selector is supported prefix-less
 	prefixSelector: function(selector) {
 		return selector.replace(/^:{1,2}/, function($0) { return $0 + self.prefix })
 	},
 	
-	//警告：プロパティがプレフィックスなしでサポートされている場合でも、プレフィックスは何であっても
+	// Warning: Prefixes no matter what, even if the property is supported prefix-less
 	prefixProperty: function(property, camelCase) {
 		var prefixed = self.prefix + property;
 		
@@ -269,7 +269,7 @@ var self = window.PrefixFree = {
 		style = getComputedStyle(document.documentElement, null),
 		dummy = document.createElement('div').style;
 	
-	// .styleオブジェクトのプロパティを繰り返し処理するのではなく、なぜこれを行うのですか？ Cause Webkit won't iterate over those.
+	// Why are we doing this instead of iterating over properties in a .style object? Cause Webkit won't iterate over those.
 	var iterate = function(property) {
 		if(property.charAt(0) === '-') {
 			properties.push(property);
