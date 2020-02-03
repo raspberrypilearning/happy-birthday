@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Provocare: creează o felicitare personalizată
+## Challenge: create a personalised card
 
-+ Folosește tot ce ai învățat despre HTML și CSS pentru a termina o felicitare personalizată. Nu trebuie să fie neapărat una aniversară, ci una pentru Crăciun sau orice altă ocazie!
++ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
 
-Iată un exemplu:
+Here's an example:
 
-![captură de ecran](images/birthday-final.png)
+![screenshot](images/birthday-final.png)
 
-Poți găsi mai multe nume de culori pentru CSS [aici](http://jumpto.cc/colours){:target="_blank"}.
+You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
-+ După ce ți-ai terminat felicitarea, o poți împărtăși cu cineva sau să o trimiți prin mail cuiva.
++ Once you've finished your card, you can share or email it to someone.
 
-![captură de ecran](images/birthday-share.png)
+![screenshot](images/birthday-share.png)
 
 \--- /challenge \---
