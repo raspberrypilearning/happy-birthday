@@ -1,15 +1,15 @@
-\--- завдання \---
+\--- challenge \---
 
-## Завдання: додати ще один абзац
+## Challenge: add another paragraph
 
-- Зможете додати третій абзац тексту на вашу веб-сторінку під першими двома?
+- Can you add a third paragraph of text to your webpage, below the other two?
 
-Пам'ятайте, що ваш новий абзац має починатися з тега `<p>` і закінчитися тегом `</p>`.
+Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
 
-Так може виглядати ця веб-сторінка:
+Here's how your webpage might look:
 
-![скріншот](images/birthday-paragraph.png)
+![screenshot](images/birthday-paragraph.png)
 
-Додайте **жирний** та <u>підкреслений</u> текст у новий абзац? Використовуйте теги `<u>` та `</u>` для підкресленого тексту.
+Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
 
 \--- /challenge \---
