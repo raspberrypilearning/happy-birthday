@@ -1,10 +1,10 @@
-## pengantar
+## Introduction
 
-Dalam proyek ini, Anda akan diperkenalkan ke HTML dan CSS dengan mempelajari cara membuat kartu ulang tahun khusus Anda sendiri.
+In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
 
-### Apa yang akan Anda buat
+### What you will make
 
-Klik tombol untuk membuka kartu ulang tahun:
+Click the button to open the birthday card:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Klik tombol untuk membuka kartu ulang tahun:
   <img src="images/birthday-final.png">
 </div>
 
-### Apa yang akan Anda pelajari
+### What you will learn
 
-Proyek ini mencakup elemen dari untaian berikut dari [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Desain aset 2D dan 3D dasar](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Informasi tambahan untuk pendidik
+### Additional information for educators
 
-Jika Anda perlu mencetak proyek ini, silakan gunakan versi ramah-printer [](https://projects.raspberrypi.org/en/projects/happy-birthday/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
-Gunakan tautan di footer untuk mengakses repo GitHub untuk proyek ini, yang berisi semua sumber daya (termasuk contoh proyek selesai) di folder 'en / resources'.
+Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
