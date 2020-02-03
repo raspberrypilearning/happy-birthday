@@ -1,7 +1,7 @@
 /**
  * StyleFix 1.0.3 & PrefixFree 1.0.7
  * @author Lea Verou
- * MIT лиценца
+ * MIT license
  */
 
 (function(){
@@ -13,7 +13,7 @@ if(!window.addEventListener) {
 var self = window.StyleFix = {
 	link: function(link) {
 		try {
-			//Игнорише стилове са data-noprefix атрибутима, као и алтернативне стилове
+			// Ignore stylesheets with data-noprefix attribute as well as alternate stylesheets
 			if(link.rel !== 'stylesheet' || link.hasAttribute('data-noprefix')) {
 				return;
 			}
@@ -88,7 +88,7 @@ var self = window.StyleFix = {
 			xhr.open('GET', url);
 			xhr.send(null);
 		} catch (e) {
-			//Повратак на XDomainRequest је омогућен
+			// Fallback to XDomainRequest if available
 			if (typeof XDomainRequest != "undefined") {
 				xhr = new XDomainRequest();
 				xhr.onerror = xhr.onprogress = function() {};
@@ -121,13 +121,13 @@ var self = window.StyleFix = {
 	},
 	
 	process: function() {
-		// Повезани документи са стиловима
+		// Linked stylesheets
 		$('link[rel="stylesheet"]:not([data-inprogress])').forEach(StyleFix.link);
 		
-		//Стилови унутар заглавља
+		// Inline stylesheets
 		$('style').forEach(StyleFix.styleElement);
 		
-		//Стилови унутар кода
+		// Inline styles
 		$('[style]').forEach(StyleFix.styleAttribute);
 	},
 	
@@ -222,10 +222,10 @@ var self = window.PrefixFree = {
 			css = fix('atrules', '@', '\\b', '@' + prefix + '$1', css);
 		}
 		
-		//Исправља дупле префиксе
+		// Fix double prefixing
 		css = css.replace(RegExp('-' + prefix, 'g'), '-');
 		
-		//џокер за префиксе
+		// Prefix wildcard
 		css = css.replace(/-\*-(?=[a-z]+)/gi, self.prefix);
 		
 		return css;
@@ -246,12 +246,12 @@ var self = window.PrefixFree = {
 		return value;
 	},
 	
-	// Упозорење: Без обзира на префиксе, чак и кад је селектор подржан и без префикса
+	// Warning: Prefixes no matter what, even if the selector is supported prefix-less
 	prefixSelector: function(selector) {
 		return selector.replace(/^:{1,2}/, function($0) { return $0 + self.prefix })
 	},
 	
-	// Упозорење: Без обзира на префиксе, чак и кад је особина подржана и без префикса
+	// Warning: Prefixes no matter what, even if the property is supported prefix-less
 	prefixProperty: function(property, camelCase) {
 		var prefixed = self.prefix + property;
 		
@@ -260,7 +260,7 @@ var self = window.PrefixFree = {
 };
 
 /**************************************
- *Особине
+ * Properties
  **************************************/
 (function() {
 	var prefixes = {},
@@ -269,7 +269,7 @@ var self = window.PrefixFree = {
 		style = getComputedStyle(document.documentElement, null),
 		dummy = document.createElement('div').style;
 	
-	//Зашто радимо овако уместо да понављамо особине у објекту .style? Cause Webkit неће преклопити ово.
+	// Why are we doing this instead of iterating over properties in a .style object? Cause Webkit won't iterate over those.
 	var iterate = function(property) {
 		if(property.charAt(0) === '-') {
 			properties.push(property);
@@ -337,7 +337,7 @@ var self = window.PrefixFree = {
 	}
 	
 	// IE fix
-	if(self.Prefix == 'Госпођица' 
+	if(self.Prefix == 'Ms' 
 	  && !('transform' in dummy) 
 	  && !('MsTransform' in dummy) 
 	  && ('msTransform' in dummy)) {
@@ -348,10 +348,10 @@ var self = window.PrefixFree = {
 })();
 
 /**************************************
- *Вредности
+ * Values
  **************************************/
 (function() {
-//Вредности којима ће можда требати префикс
+// Values that might need prefixing
 var functions = {
 	'linear-gradient': {
 		property: 'backgroundImage',
@@ -377,8 +377,8 @@ functions['repeating-radial-gradient'] =
 functions['radial-gradient'] =
 functions['linear-gradient'];
 
-//Белешка: Означене особине служе само за тестирање подршке. 
-//Кључне речи ће бити допуњене префиксима свуда.
+// Note: The properties assigned are just to *test* support. 
+// The keywords will be prefixed everywhere.
 var keywords = {
 	'initial': 'color',
 	'zoom-in': 'cursor',
@@ -457,7 +457,7 @@ self.atrules = [];
 var style = root.appendChild(document.createElement('style'));
 
 function supported(selector) {
-	style.textContent = selector + '{}';  // Safari 4 има проблема са style.innerHTML
+	style.textContent = selector + '{}';  // Safari 4 has issues with style.innerHTML
 	
 	return !!style.sheet.cssRules.length;
 }
