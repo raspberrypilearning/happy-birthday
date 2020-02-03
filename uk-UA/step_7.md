@@ -1,25 +1,25 @@
-## Створення листівки
+## Making a birthday card
 
-Давайте використаємо ваші знання про HTML та CSS для створення вашої власної листівки.
+Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
 
 + Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-Ми написали багато коду, щоб почати, але листівка виглядає досить нудно, тому вам потрібно внести деякі зміни в код HTML та CSS.
+We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
 
-+ Натисніть кнопку перед листівкою, і вона відкриється, щоб ви побачили середину.
++ Click the button on the front of the card, and you should see it open to reveal the inside.
 
-![знімок екрану](images/birthday-click.png)
+![screenshot](images/birthday-click.png)
 
-+ Перейдіть до рядка 14 HTML-коду. Спробуйте відредагувати текст, щоб змінити листівку.
++ Go to line 14 of the HTML code. Try editing the text to customise your card.
 
-![скріншот](images/birthday-card-html.png)
+![screenshot](images/birthday-card-html.png)
 
-+ Зможете знайти HTML-код для картинки робота і змінити слово `robot` на `sun`?
++ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Дивіться на рядок 17, щоб знайти код.
-+ Змініть слово `robot` на `sun` і побачите як змінюється картинка!
++ Look on line 17 to find the code.
++ Change the word `robot` to `sun`, and you'll see the image change!
 
 ![screenshot](images/birthday-card-sun.png)
 
@@ -29,17 +29,17 @@ You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `r
 
 You can also edit the CSS code of the birthday card.
 
-+ Клацніть на вкладку `style.css`. Перша частина - це всі стилі CSS для **outside** листівки.
++ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
 
-+ Змініть `background-color` на `lightgreen`.
++ Change the `background-color` to `lightgreen`.
 
-![знімок екрану](images/birthday-card-outside.png)
+![screenshot](images/birthday-card-outside.png)
 
-+ Ви також можете змінити розмір картинки. Перейдіть на код `#outside-pic` CSS і змініть `width` та `height` зовнішньої картинки на `200px` (`px` означає пікселі).
++ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
-![скріншот](images/birthday-card-size.png)
+![screenshot](images/birthday-card-size.png)
 
-+ Можна також змінити шрифт. Перейдіть до `#outside-title` CSS і змініть `font-family` на `Comic Sans MS` та `font-size` на `16pt`.
++ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
