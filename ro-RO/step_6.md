@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Provocare: adaugă mai multe stiluri
+## Challenge: add more styles
 
-+ Poți face textul paragrafelor portocaliu?
++ Can you make the paragraphs of text orange?
 
-+ Poți face fundalul (background) gri schimbând proprietatea `body`?
++ Can you make the background grey by changing the `body` property?
 
-![captură de ecran](images/birthday-more-style.png)
+![screenshot](images/birthday-more-style.png)
 
 \--- /challenge \---
