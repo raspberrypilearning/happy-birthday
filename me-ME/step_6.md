@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Izazov: dodaj više stilova
+## Challenge: add more styles
 
-+ Možeš li da napraviš da pasusi teksta budu narandžaste boje?
++ Can you make the paragraphs of text orange?
 
-+ Možeš li da napraviš da pozadina bude siva, tako što ćeš izmijeniti svojstvo oznake `body`?
++ Can you make the background grey by changing the `body` property?
 
 ![screenshot](images/birthday-more-style.png)
 
