@@ -11,14 +11,14 @@ description: تعلَّم كيف تصمم بطاقة عيد ميلاد عبر ا
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
 interests: art
 technologies: html-css-javascript
-site_areas: codeclub, python
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: مقدمة
+    title: المقدمة
   - 
     title: ما ستحتاج إليه
   - 
