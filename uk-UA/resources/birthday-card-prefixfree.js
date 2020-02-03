@@ -13,7 +13,7 @@ if(!window.addEventListener) {
 var self = window.StyleFix = {
 	link: function(link) {
 		try {
-			// Ігнорувати таблиці стилів з атрибутом data-noprefix, а також альтернативними таблицями стилів
+			// Ignore stylesheets with data-noprefix attribute as well as alternate stylesheets
 			if(link.rel !== 'stylesheet' || link.hasAttribute('data-noprefix')) {
 				return;
 			}
@@ -43,14 +43,14 @@ var self = window.StyleFix = {
 				if(css && link.parentNode && (!xhr.status || xhr.status < 400 || xhr.status > 600)) {
 					css = self.fix(css, true, link);
 					
-					// Конвертуйте відності URL в абсолютні при потребі
+					// Convert relative URLs to absolute, if needed
 					if(base) {
 						css = css.replace(/url\(\s*?((?:"|')?)(.+?)\1\s*?\)/gi, function($0, quote, url) {
 							if(/^([a-z]{3,10}:|#)/i.test(url)) { // Absolute & or hash-relative
 								return $0;
 							}
 							else if(/^\/\//.test(url)) { // Scheme-relative
-								// Може містити послідовності /../ і /./ але це ПРАЦЮЄ
+								// May contain sequences like /../ and /./ but those DO work
 								return 'url("' + base_scheme + url + '")';
 							}
 							else if(/^\//.test(url)) { // Domain-relative
@@ -60,13 +60,13 @@ var self = window.StyleFix = {
 								return 'url("' + base_query + url + '")';
 							}
 							else {
-								// Схожий шлях
+								// Path-relative
 								return 'url("' + base + url + '")';
 							}
 						});
 
-						// URL поведінки не потрібно конвертувати (Питання#19)
-						// базу потрібно забрати перед додаванням до RegExp (Питання#81)
+						// behavior URLs shoudn’t be converted (Issue #19)
+						// base should be escaped before added to RegExp (Issue #81)
 						var escaped_base = base.replace(/([\\\^\$*+[\]?{}.=!:(|)])/g,"\\$1");
 						css = css.replace(RegExp('\\b(behavior:\\s*?url\\(\'?"?)' + escaped_base, 'gi'), '$1');
 						}
@@ -80,7 +80,7 @@ var self = window.StyleFix = {
 					parent.insertBefore(style, link);
 					parent.removeChild(link);
 					
-					style.media = link.media; // Дублікат навмисний. See issue #31
+					style.media = link.media; // Duplicate is intentional. See issue #31
 				}
 		};
 
@@ -88,7 +88,7 @@ var self = window.StyleFix = {
 			xhr.open('GET', url);
 			xhr.send(null);
 		} catch (e) {
-			// Перейдіть до XDomainRequest якщо можливо
+			// Fallback to XDomainRequest if available
 			if (typeof XDomainRequest != "undefined") {
 				xhr = new XDomainRequest();
 				xhr.onerror = xhr.onprogress = function() {};
@@ -121,13 +121,13 @@ var self = window.StyleFix = {
 	},
 	
 	process: function() {
-		// Пов'язані таблиці стилів
+		// Linked stylesheets
 		$('link[rel="stylesheet"]:not([data-inprogress])').forEach(StyleFix.link);
 		
-		// Вбудовані таблиці стилів
+		// Inline stylesheets
 		$('style').forEach(StyleFix.styleElement);
 		
-		// Вбудовані стилі
+		// Inline styles
 		$('[style]').forEach(StyleFix.styleAttribute);
 	},
 	
@@ -179,7 +179,7 @@ if(!window.StyleFix || !window.getComputedStyle) {
 	return;
 }
 
-// Приватний помічник
+// Private helper
 function fix(what, before, after, replacement, css) {
 	what = self[what];
 	
@@ -196,9 +196,9 @@ var self = window.PrefixFree = {
 	prefixCSS: function(css, raw, element) {
 		var prefix = self.prefix;
 		
-		// Виправлення кутів градієнта
+		// Gradient angles hotfix
 		if(self.functions.indexOf('linear-gradient') > -1) {
-			// Градієнти підтримуються префіксом, конвертуйте кути
+			// Gradients are supported with a prefix, convert angles to legacy
 			css = css.replace(/(\s|:|,)(repeating-)?linear-gradient\(\s*(-?\d*\.?\d*)deg/ig, function ($0, delim, repeating, deg) {
 				return delim + (repeating || '') + 'linear-gradient(' + (90-deg) + 'deg';
 			});
@@ -208,7 +208,7 @@ var self = window.PrefixFree = {
 		css = fix('keywords', '(\\s|:)', '(\\s|;|\\}|$)', '$1' + prefix + '$2$3', css);
 		css = fix('properties', '(^|\\{|\\s|;)', '\\s*:', '$1' + prefix + '$2:', css);
 		
-		// Властивості префікса значення *inside* (Питання № 8)
+		// Prefix properties *inside* values (issue #8)
 		if (self.properties.length) {
 			var regex = RegExp('\\b(' + self.properties.join('|') + ')(?!:)', 'gi');
 			
@@ -222,10 +222,10 @@ var self = window.PrefixFree = {
 			css = fix('atrules', '@', '\\b', '@' + prefix + '$1', css);
 		}
 		
-		// Виправлення подвійного префікса
+		// Fix double prefixing
 		css = css.replace(RegExp('-' + prefix, 'g'), '-');
 		
-		// Підстановка префікса
+		// Prefix wildcard
 		css = css.replace(/-\*-(?=[a-z]+)/gi, self.prefix);
 		
 		return css;
@@ -246,12 +246,12 @@ var self = window.PrefixFree = {
 		return value;
 	},
 	
-	// Застереження: Попри все, префікси, навіть якщо селектор підтримується без префікса
+	// Warning: Prefixes no matter what, even if the selector is supported prefix-less
 	prefixSelector: function(selector) {
 		return selector.replace(/^:{1,2}/, function($0) { return $0 + self.prefix })
 	},
 	
-	// Застереження: Попри все, префікси, навіть якщо селектор підтримується без префікса
+	// Warning: Prefixes no matter what, even if the property is supported prefix-less
 	prefixProperty: function(property, camelCase) {
 		var prefixed = self.prefix + property;
 		
@@ -269,7 +269,7 @@ var self = window.PrefixFree = {
 		style = getComputedStyle(document.documentElement, null),
 		dummy = document.createElement('div').style;
 	
-	// Чому ми робимо це замість того, щоб повторювати властивості у .style object? Оскільки Webkit не повторить їх.
+	// Why are we doing this instead of iterating over properties in a .style object? Cause Webkit won't iterate over those.
 	var iterate = function(property) {
 		if(property.charAt(0) === '-') {
 			properties.push(property);
@@ -277,10 +277,10 @@ var self = window.PrefixFree = {
 			var parts = property.split('-'),
 				prefix = parts[1];
 				
-			// Рахувати використання префіксів
+			// Count prefix uses
 			prefixes[prefix] = ++prefixes[prefix] || 1;
 			
-			// Це допомагає визначати скорочення
+			// This helps determining shorthands
 			while(parts.length > 3) {
 				parts.pop();
 				
@@ -296,7 +296,7 @@ var self = window.PrefixFree = {
 		return StyleFix.camelCase(property) in dummy;
 	}
 	
-	// Одні браузери мають числові показники для властивостей, інші - ні
+	// Some browsers have numerical indices for the properties, some don't
 	if(style.length > 0) {
 		for(var i=0; i<style.length; i++) {
 			iterate(style[i])
@@ -308,7 +308,7 @@ var self = window.PrefixFree = {
 		}
 	}
 
-	// Знайдіть префікс, який використовується найчастіше
+	// Find most frequently used prefix
 	var highest = {uses:0};
 	for(var prefix in prefixes) {
 		var uses = prefixes[prefix];
@@ -323,7 +323,7 @@ var self = window.PrefixFree = {
 	
 	self.properties = [];
 
-	// Зробіть щоб властивості підтримувались ЛИШЕ префіксом
+	// Get properties ONLY supported with a prefix
 	for(var i=0; i<properties.length; i++) {
 		var property = properties[i];
 		
@@ -351,7 +351,7 @@ var self = window.PrefixFree = {
  * Values
  **************************************/
 (function() {
-// Значення, які можуть потребувати префіксації
+// Values that might need prefixing
 var functions = {
 	'linear-gradient': {
 		property: 'backgroundImage',
@@ -377,8 +377,8 @@ functions['repeating-radial-gradient'] =
 functions['radial-gradient'] =
 functions['linear-gradient'];
 
-// Примітка: призначені властивості призначені лише для *test* підтримки. 
-// Ключові слова будуть префікситись всюди.
+// Note: The properties assigned are just to *test* support. 
+// The keywords will be prefixed everywhere.
 var keywords = {
 	'initial': 'color',
 	'zoom-in': 'cursor',
@@ -482,13 +482,13 @@ root.removeChild(style);
 
 })();
 
-// Властивості, які приймають властивості як їх значення
+// Properties that accept properties as their value
 self.valueProperties = [
 	'transition',
 	'transition-property'
 ]
 
-// Додати клас для поточного префіксу
+// Add class for current prefix
 root.className += ' ' + self.prefix;
 
 StyleFix.register(self.prefixCSS);
