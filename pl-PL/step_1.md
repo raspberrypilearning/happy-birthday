@@ -1,6 +1,6 @@
 ## Wprowadzenie
 
-W tym projekcie zapoznasz się z HTML i CSS, ucząc się, jak tworzyć własną niestandardową kartę urodzinową.
+W tym projekcie zapoznasz się z HTML i CSS, ucząc się, jak tworzyć własną kartkę urodzinową.
 
 ### Co stworzysz
 
@@ -22,4 +22,4 @@ Ten projekt obejmuje elementy z następujących wątków z [Raspberry Pi Digital
 
 Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
-Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub, które zawiera wszystkie zasoby (włącznie z przykładem gotowego projektu) w folderze 'pl/zasoby'.
+Skorzystaj z linku w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub, które zawiera wszystkie zasoby (włącznie z przykładem gotowego projektu) w folderze 'pl/zasoby'.
