@@ -48,7 +48,7 @@ Estos son algunos ejemplos más:
 
 + Si cometiste un error y quieres deshacer todos tus cambios, puedes tocar **menú** y luego toca **Restablecer **.
 
-![captura de pantalla](images/birthday-reset.png)
+![screenshot](images/birthday-reset.png)
 
 Para deshacer solo lo último que hiciste, puedes pulsar las teclas ` Ctrl` y ` z ` al mismo tiempo.
 
