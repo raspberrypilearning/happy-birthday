@@ -2,14 +2,14 @@
 
 ## التحدي: إضافة فقرة أخرى
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- هل يمكنك إضافة فقرة ثالثة من النص إلى صفحة الويب الخاصة بك ، أسفل الفقرتين الأخريين؟
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+تذكر أن فقرة جديدة يجب أن تبدأ بعلامة `<p>`، وتنتهي بعلامة ` </p>`.
 
-Here's how your webpage might look:
+اليك كيف يمكن أن يكون شكل موقع الويب الخاص بك:
 
 ![لقطة الشاشة](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+هل يمكنك إضافة نص بخط **عريض** و <u>أسفله سطر</u> إلى الفقرة الجديدة؟ إستخدم علامات `<u>` و `</u>` لوضع خط أسفل النص.
 
 \--- /challenge \---
