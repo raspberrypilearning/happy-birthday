@@ -1,4 +1,4 @@
-#dis {
+#outside {
   z-index: 1;
   position: absolute;
   background-color: lightgray;
@@ -9,23 +9,23 @@
   transform-origin: 0;
 }
 
-#acik-kart {
+.open-card {
   transform: rotateY(90deg);
 }
 
-#dis-baslik {
+#outside-title {
   color: black;
   font-family: Courier;
   font-size: 12pt;
   text-align: center;
 }
 
-#dis-resim {
+#outside-pic {
   width: 150px;
   height: 150px;
 }
 
-#dis-yardim {
+#outside-help {
   color: black;
   font-family: Courier;
   font-size: 12pt;
@@ -33,7 +33,7 @@
   padding: 20px;
 }
 
-#ic {
+#inside {
   z-index: 0;
   position: absolute;
   background-color: white;
@@ -42,19 +42,19 @@
   text-align: center;
 }
 
-#ic-baslik {
+#inside-title {
   color: black;
   font-family: Courier;
   font-size: 12pt;
   text-align: center;
 }
 
-#ic-resim {
+#inside-pic {
   width: 50px;
   height: 150px;
 }
 
-#mesaj {
+#message {
   color: black;
   font-family: Courier;
   font-size: 12pt;
