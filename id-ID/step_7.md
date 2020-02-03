@@ -1,25 +1,25 @@
-## Membuat kartu ulang tahun
+## Making a birthday card
 
-Mari gunakan apa yang telah Anda pelajari tentang HTML dan CSS untuk membuat kartu ulang tahun khusus Anda sendiri.
+Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
 
 + Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-Kami telah menulis banyak kode untuk memulai, tetapi kartu ulang tahun terlihat sangat membosankan sejauh ini, jadi Anda akan membuat beberapa perubahan pada kode HTML dan CSS.
+We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
 
-+ Klik tombol di bagian depan kartu, dan Anda harus melihatnya terbuka untuk mengungkapkan bagian dalamnya.
++ Click the button on the front of the card, and you should see it open to reveal the inside.
 
-![tangkapan layar](images/birthday-click.png)
+![screenshot](images/birthday-click.png)
 
-+ Pergi ke baris 14 dari kode HTML. Cobalah mengedit teks untuk menyesuaikan kartu Anda.
++ Go to line 14 of the HTML code. Try editing the text to customise your card.
 
-![tangkapan layar](images/birthday-card-html.png)
+![screenshot](images/birthday-card-html.png)
 
-+ Dapatkah Anda menemukan kode HTML untuk gambar robot, dan mengubah kata `robot` menjadi `matahari`?
++ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
 
-\--- petunjuk \--- \--- petunjuk \---
+\--- hints \--- \--- hint \---
 
-+ Lihatlah pada baris 17 untuk menemukan kode.
-+ Ubah kata `robot` menjadi `matahari`, dan Anda akan melihat perubahan gambar!
++ Look on line 17 to find the code.
++ Change the word `robot` to `sun`, and you'll see the image change!
 
 ![screenshot](images/birthday-card-sun.png)
 
@@ -29,22 +29,22 @@ You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `r
 
 You can also edit the CSS code of the birthday card.
 
-+ Klik pada tab untuk `style.css`. Bagian pertama adalah semua gaya CSS untuk **luar** kartu.
++ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
 
-+ Ubah `warna latar belakang` menjadi `hijau muda`.
++ Change the `background-color` to `lightgreen`.
 
-![tangkapan layar](images/birthday-card-outside.png)
+![screenshot](images/birthday-card-outside.png)
 
-+ Anda juga dapat mengubah ukuran gambar. Pergi ke kode `# luar-pic` CSS, dan ubah `lebar` dan `tinggi` dari gambar luar menjadi `200px` (`px` kependekan dari piksel).
++ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
-![tangkapan layar](images/birthday-card-size.png)
+![screenshot](images/birthday-card-size.png)
 
-+ Font dapat diubah juga. Pergi ke `# di luar-judul` CSS dan ubah `font-family` menjadi `Comic Sans MS` dan `font-size` hingga `16pt`.
++ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
 You can use other fonts, for example:
 
 + `<span style="font-family: Arial;">arial</span>`
-+ `<span style="font-family: impact;">Dampak</span>`
++ `<span style="font-family: impact;">Impact</span>`
 + `<span style="font-family: tahoma;">Tahoma</span>`
