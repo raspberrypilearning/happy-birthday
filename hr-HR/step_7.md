@@ -1,25 +1,25 @@
-## Izrada rođendanske čestitke
+## Making a birthday card
 
-Koristimo ono što ste naučili o HTML-u i CSS-u kako biste napravili svoju vlastitu prilagođenu rođendansku čestitku.
+Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
 
 + Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-Napisali smo puno koda da bismo mogli započeti, ali rođendanska kartica dosad je dosadno dosadna, pa ćete napraviti neke izmjene u HTML i CSS kodu.
+We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
 
-+ Kliknite gumb na prednjoj strani kartice i vidjet ćete da je otvorena za otkrivanje iznutra.
++ Click the button on the front of the card, and you should see it open to reveal the inside.
 
 ![screenshot](images/birthday-click.png)
 
-+ Idite na redak 14 HTML koda. Pokušajte uređivati ​​tekst kako biste prilagodili svoju karticu.
++ Go to line 14 of the HTML code. Try editing the text to customise your card.
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Možete li pronaći HTML kôd za sliku robota i promijeniti riječ `robot` do `sun`?
++ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Pogledajte liniju 17 da biste pronašli kôd.
-+ Promijenite riječ `robot` do `sun`, i vidjet ćete promjenu slike!
++ Look on line 17 to find the code.
++ Change the word `robot` to `sun`, and you'll see the image change!
 
 ![screenshot](images/birthday-card-sun.png)
 
@@ -29,17 +29,17 @@ You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `r
 
 You can also edit the CSS code of the birthday card.
 
-+ Kliknite karticu za `style.css`, Prvi dio su svi CSS stilovi za **outside** kartice.
++ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
 
-+ Promijenite `background-color` u `lightgreen`.
++ Change the `background-color` to `lightgreen`.
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ Također možete promijeniti veličinu slike. Idite na `#vanjsku-pic` CSS koda i promijenite `width` i `height` vanjske slike na `200px` (`px` označava piksele).
++ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
 ![screenshot](images/birthday-card-size.png)
 
-+ Font se može promijeniti. Idite na `#outside-title` CSS i promijenite ` font-family` do `Comic Sans MS` i `font-size` na `16pt`.
++ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
