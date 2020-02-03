@@ -1,18 +1,18 @@
-## CSS là gì?
+## What is CSS?
 
-CSS là viết tắt của **Cascading Style Sheets** và đó là ngôn ngữ được sử dụng để tạo kiểu cho các trang web và làm cho chúng trông đẹp đẽ hơn.
+CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
 
-+ Mã này liên kết trang web của bạn với tệp CSS - xem bạn có thể tìm thấy nó trong `<head>` của tài liệu HTML không:
++ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
 
-![ảnh chụp màn hình](images/birthday-css-link.png)
+![screenshot](images/birthday-css-link.png)
 
-CSS liệt kê tất cả các **thuộc tính** cho một thẻ cụ thể.
+CSS lists all of the **properties** for a particular tag.
 
-+ Nhấp vào tab `style.css` để xem mã CSS cho trang web của bạn.
++ Click on the `style.css` tab to see the CSS code for your webpage.
     
-    ![ảnh chụp màn hình](images/birthday-css-tab.png)
+    ![screenshot](images/birthday-css-tab.png)
 
-+ Hãy tìm mã này:
++ Find this code:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-Mã CSS này xác định một thuộc tính cho các đoạn văn (`p`), trong đó nói rằng màu văn bản nên là màu đen. Lưu ý cách đánh vần của người Mỹ: 'color', thay vì colour.
+This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
 
-+ Thay đổi từ 'đen' trong mã CSS thành 'xanh dương'. Bạn sẽ thấy màu văn bản của tất cả các đoạn thay đổi thành màu xanh.
++ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
 
-![ảnh chụp màn hình](images/birthday-edit-css.png)
+![screenshot](images/birthday-edit-css.png)
