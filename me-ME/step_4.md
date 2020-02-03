@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Izazov: dodaj još jedan pasus
+## Challenge: add another paragraph
 
-- Da li možeš, ispod dva postojeća, da dodaš treći pasus teksta na svoju veb-stranicu?
+- Can you add a third paragraph of text to your webpage, below the other two?
 
-Ne zaboravi da tvoj novi pasus treba da počne oznakom `<p>` i da se završi oznakom `</p>`.
+Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
 
-Tvoja veb-stranica bi mogla da izgleda ovako:
+Here's how your webpage might look:
 
 ![screenshot](images/birthday-paragraph.png)
 
-Možeš li u svoj novi pasus da dodaš **podebljan** i <u>podvučen</u> tekst? Za podvučen tekst koristi oznake `<u>` i `</u>`.
+Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
 
 \--- /challenge \---
