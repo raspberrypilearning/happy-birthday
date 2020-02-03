@@ -1,10 +1,10 @@
-## Uvod
+## Introduction
 
-U ovom projektu upoznaćeš se sa HTML-om i CSS-om i naučiti kako da izradiš sopstvenu rođendansku čestitku.
+In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
 
-### Šta ćeš napraviti
+### What you will make
 
-Klikni na dugme da otvoriš rođendansku čestitku:
+Click the button to open the birthday card:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Klikni na dugme da otvoriš rođendansku čestitku:
   <img src="images/birthday-final.png">
 </div>
 
-### Šta ćeš naučiti
+### What you will learn
 
-Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Dizajniranje osnovnih 2D i 3D elemenata](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Dodatne informacije za nastavnike
+### Additional information for educators
 
-Ukoliko je potrebno da odštampate ovaj projekat, koristite [verziju za štampu](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
-Koristite link koji se nalazi u podnožju stranice da pristupite GitHub repozitorijumu za ovaj projekat, koji sadrži sve izvore (uključujući primjer završenog projekta) u 'en/resources' folderu.
+Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
