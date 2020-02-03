@@ -1,10 +1,10 @@
-## はじめに
+## Introduction
 
-このプロジェクトでは、カスタマイズされたバースデーカードの作成方法を学習することで、HTMLとCSSを紹介します。
+In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
 
-### 作るもの
+### What you will make
 
-バースデーカードを開くにはボタンをクリックしてください：
+Click the button to open the birthday card:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@
   <img src="images/birthday-final.png">
 </div>
 
-### あなたが学ぶもの
+### What you will learn
 
-このプロジェクトは、[ラズベリーパイデジタルメイクカリキュラムの以下の要素をカバーします](http://rpf.io/curriculum) ：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [基本的な2Dおよび3Dアセット](https://www.raspberrypi.org/curriculum/design/creator){：target = "_ blank"}を設計します。
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### 教育者のための追加情報
+### Additional information for educators
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/happy-birthday/print)を使用してください。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
-フッターのリンクから、このプロジェクトのGitHubリポジトリにアクセスできます。このリポジトリには、 'en/resources'フォルダ内のすべてのリソース (プロジェクトの完成例を含む) が含まれています。
+Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
