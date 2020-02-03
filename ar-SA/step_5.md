@@ -1,18 +1,18 @@
 ## ما المقصود بـ CSS؟
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+يرمز CSS إلى ** أوراق الأنماط المتتالية (Cascading Style Sheets) ** وهي لغة مستخدمة لتصميم صفحات الويب وجعلها تبدو جميلة.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ يربط هذا الرمز صفحة الويب الخاصة بك بملف CSS - هل يمكنك العثور عليها في `<head>` من مستند HTML:
 
 ![لقطة شاشة](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS يسرد كل **الخصائص** لعلامة معينة.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ اضغط على التبويب `style.css` لرؤية النص البرمجي CSS لصفحة الويب الخاصة بك.
     
     ![لقطة الشاشة](images/birthday-css-tab.png)
 
-+ Find this code:
++ أعثر على النص البرمجي:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+إن النص البرمجي CSS يحدد خاصية للفقرات (` p `)، الذي يقول أن لون النص يجب أن يكون أسود. لاحظ الإملاء الأمريكي لكلمة اللون: "color".
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ تغيير كلمة "أسود" في النص البرمجي لـCSS إلى أزرق "blue". ينبغي أن تشاهد لون نص كل الفقرات يتغير إلى اللون الأزرق.
 
 ![لقطة الشاشة](images/birthday-edit-css.png)
