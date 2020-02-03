@@ -1,10 +1,10 @@
 \--- wyzwanie \---
 
-## Challenge: add more styles
+## Wyzwanie: dodaj więcej stylów
 
-+ Can you make the paragraphs of text orange?
++ Czy możesz zmienić kolor akapitów na pomarańczowy?
 
-+ Can you make the background grey by changing the `body` property?
++ Czy możesz zmienić kolor tła na szary zmieniając właściwości `body`?
 
 ![zrzut ekranu](images/birthday-more-style.png)
 
