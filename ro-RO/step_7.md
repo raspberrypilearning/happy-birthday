@@ -1,45 +1,45 @@
-## Crearea unei felicitări aniversare
+## Making a birthday card
 
-Să folosim ce ai învățat despre HTML și CSS pentru a-ți face propria felicitare aniversară personalizată.
+Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
 
-+ Deschide [acest trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-Am scris mult cod pentru început, dar felicitarea aniversară arată foarte plictisitoare până acum, așa că vei face niște schimbări în codul HTML și CSS.
+We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
 
-+ Dă click pe butonul din fața felicitării și ar trebui să vezi cum se deschide spre exterior.
++ Click the button on the front of the card, and you should see it open to reveal the inside.
 
-![captură de ecran](images/birthday-click.png)
+![screenshot](images/birthday-click.png)
 
-+ Mergi la linia 14 a codului HTML. Încearcă să editezi textul pentru a-ți personaliza felicitarea.
++ Go to line 14 of the HTML code. Try editing the text to customise your card.
 
-![captură de ecran](images/birthday-card-html.png)
+![screenshot](images/birthday-card-html.png)
 
-+ Poți să găsești codul HTML pentru imaginea robotului și să schimbi cuvântul `robot` în `sun` (soare)?
++ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Uită-te pe linia 17 pentru a găsi codul.
-+ Schimbă cuvântul `robot` în `sun` și vei vedea că se schimbă imaginea!
++ Look on line 17 to find the code.
++ Change the word `robot` to `sun`, and you'll see the image change!
 
 ![screenshot](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Poți folosi oricare dintre cuvintele `boy` (băiat), `diamond` (diamant), `dinosaur` (dinozaur), `flowers` (flori), `girl` (fată), `rainbow` (curcubeu), `robot`, `spaceship` (navă spațială), `sun` (soare), `tea` (ceai) sau `trophy` (trofeu) pentru o felicitare aniversare, sau `cracker` (pocnitoare), `elf`, `penguin` (pinguin), `present` (cadou), `reindeer` (ren), `santa` sau `snowman` (om de zăpadă) dacă preferi să faci o felicitare de Crăciun.
 
-You can also edit the CSS code of the birthday card.
+De asemenea, poți edita codul CSS al felicitării tale aniversare.
 
-+ Dă click pe tab-ul `style.css`. Prima parte a codului CSS este destinată stilurilor pentru **exteriorul** felicitării.
++ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
 
-+ Schimbă `background-color` în `lightgreen`.
++ Change the `background-color` to `lightgreen`.
 
-![captură de ecran](images/birthday-card-outside.png)
+![screenshot](images/birthday-card-outside.png)
 
-+ Poți schimba și dimensiunea imaginii. Mergi la codul CSS pentru `#outside-pic` și schimbă `width` (lățimea) și `height` (înălțimea) imaginii din exterior cu `200px` (`px` vine de la pixeli).
++ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
-![captură de ecran](images/birthday-card-size.png)
+![screenshot](images/birthday-card-size.png)
 
-+ Fontul poate fi schimbat și el. Mergi la codul CSS pentru `#outside-title` și schimbă `font-family` la `Comic Sans MS` și `font-size` la `16pt`.
++ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
