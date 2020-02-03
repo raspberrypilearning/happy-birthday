@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Thử thách: thêm phong cách khác
+## Challenge: add more styles
 
-+ Bạn có thể làm cho các đoạn văn bản màu cam không?
++ Can you make the paragraphs of text orange?
 
-+ Bạn có thể làm cho nền trở thành màu xám bằng cách thay đổi thuộc tính của phần `thân` không?
++ Can you make the background grey by changing the `body` property?
 
-![ảnh chụp màn hình](images/birthday-more-style.png)
+![screenshot](images/birthday-more-style.png)
 
 \--- /challenge \---
