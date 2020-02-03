@@ -1,63 +1,63 @@
-## HTML چیست؟
+## What is HTML?
 
-HTML مخفف عبارت **Hypertext Markup Language**، زبان مورد استفاده برای ایجاد صفحات وب. بیایید نگاهی به مثال بزنیم!
+HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
 
-شما برای استفاده از یک وبسایت به نام trinket.io از کد HTML استفاده می کنید.
+You'll be using a website called trinket.io to write HTML code.
 
-+ [این نکته را باز کنید](http://jumpto.cc/web-intro){: target = "_ blank"}.
++ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
-این پروژه باید چنین باشد:
+The project should look like this:
 
-![تصویری](images/birthday-starter.png)
+![screenshot](images/birthday-starter.png)
 
-کد شما که می توانید در سمت چپ ببینید HTML است. در سمت راست نینجا، می توانید صفحه وب را که کد HTML ساخته شده است را ببینید.
+The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
 
-HTML با استفاده از **برچسب ها** برای ساخت صفحات وب. برای این کد HTML در خط 8 کد خود نگاه کنید:
-
-```html
-<p>سلام نام من اندی است</p>
-```
-
-`<p>` نمونه ای از برچسب است و برای **پاراگراف**کوتاه است. شما می توانید یک پاراگراف را با `<p>`و یک پاراگراف را با `</p>`.
-
-+ آیا می توانید تگ های دیگر را مشخص کنید؟
-
-## \--- سقوط - فروپاشی \---
-
-## عنوان: پاسخ
-
-یکی دیگر از برچسب هایی که ممکن است دچار نقص شده باشید `<b>`که به معنای **باجو**:
+HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
 
 ```html
-<b>در حال اجرا</b>
+<p>Hi. My name is Andy.</p>
 ```
 
-در اینجا چند مورد دیگر وجود دارد:
+`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
 
-+ `<html>` و `</html>` علامت شروع و پایان سند HTML است
-+ `<head>` و `</head>` جایی است که چیزهایی مانند CSS می رود (ما بعدا به آن دسترسی خواهیم داشت)
-+ `<body>` و `</body>` جایی است که محتوای وب سایت شما در آن قرار دارد
++ Can you spot any other tags?
 
-![تصویری](images/birthday-head-body.png)
+## \--- collapse \---
 
-\--- /سقوط - فروپاشی \---
+## title: Answer
 
-+ تغییر در یکی از پاراگراف های متن در فایل HTML (در سمت چپ). کلیک کنید **اجرا**، و شما باید تغییر صفحه وب خود را (در سمت راست) را ببینید!
+One other tag you might have spotted is `<b>`, which stands for **bold**:
 
-![تصویری](images/birthday-edit-html.png)
+```html
+<b>running</b>
+```
 
-+ اگر شما را ساخته اند اشتباه و می خواهید را به خنثیسازی همه از تغییرات خود را، شما می توانید با کلیک بر روی **منوی** را فشار دهید و سپس کلیک کنید **تنظیم مجدد**.
+Here are some more:
 
-![تصویری](images/birthday-reset.png)
++ `<html>` and `</html>` mark the start and end of the HTML document
++ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
++ `<body>` and `</body>` is where your website content goes
 
-برای لغو تنها آخرین چیزی که شما انجام دادید، می توانید کلید `Ctrl` و `z` با هم فشار دهید.
+![screenshot](images/birthday-head-body.png)
 
-### برای صرفه جویی در پروژه های خود، به حساب کاربری Trinket نیاز ندارید!
+\--- /collapse \---
 
-اگر حساب کاربری Trinket نداشته باشید، روی فلش **down** کلیک کنید و سپس **لینک**کلیک کنید. این به شما یک لینک می دهد که می توانید آن را ذخیره کنید و بعدا به آن بازگردید. شما باید هر بار که تغییرات را انجام می دهید این کار را انجام دهید، زیرا لینک تغییر خواهد کرد!
++ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
 
-![تصویری](images/birthday-link.png)
+![screenshot](images/birthday-edit-html.png)
 
-اگر حساب کاربری Trinket داشته باشید، ساده ترین راه برای ذخیره صفحه وب شما این است که بر روی دکمه **Remix** در بالای صفحه کلید کلیک کنید. این یک نسخه از شلوار جین در نمایه شما را ذخیره می کند.
++ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
 
-![تصویری](images/birthday-remix.png)
+![screenshot](images/birthday-reset.png)
+
+To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+
+### You don't need a Trinket account to save your projects!
+
+If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+
+![screenshot](images/birthday-link.png)
+
+If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+
+![screenshot](images/birthday-remix.png)
