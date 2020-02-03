@@ -1,25 +1,25 @@
-## Doğum günü kartı yapmak
+## Making a birthday card
 
-Kendi özel doğum günü kartınızı oluşturmak için HTML ve CSS hakkında öğrendiklerinizi kullanalım.
+Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
 
-+ [Bu trinketi](https://trinket.io/html/b33e4f4ca8){:target="_blank"} açın.
++ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-Başlangıç için birçok kod yazdık, ancak doğum günü kartı oldukça sıkıcı görünüyor, bu nedenle HTML ve CSS kodunda bazı değişiklikler yapacaksınız.
+We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
 
-+ Kartın önündeki düğmeye tıkladığınızda, kartın iç kısmının açıldığını görmelisiniz.
++ Click the button on the front of the card, and you should see it open to reveal the inside.
 
-![ekran görüntüsü](images/birthday-click.png)
+![screenshot](images/birthday-click.png)
 
-+ HTML kodunun 14. satırına gidin. Kartınızı özelleştirmek için metni düzenlemeyi deneyin.
++ Go to line 14 of the HTML code. Try editing the text to customise your card.
 
-![ekran görüntüsü](images/birthday-card-html.png)
+![screenshot](images/birthday-card-html.png)
 
-+ Robot resminin HTML kodunu bulup, `robot` kelimesini `güneş` kelimesi ile değiştirebilir misiniz?
++ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Kodu bulmak için 17. satıra bakın.
-+ `robot` kelimesini `güneş` kelimesi ile değiştirdiğinizde resmin de değiştiğini göreceksiniz!
++ Look on line 17 to find the code.
++ Change the word `robot` to `sun`, and you'll see the image change!
 
 ![screenshot](images/birthday-card-sun.png)
 
@@ -29,22 +29,22 @@ You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `r
 
 You can also edit the CSS code of the birthday card.
 
-+ `style.css` sekmesine tıklayın. İlk bölüm, kartın **dış** tarafı için CSS stilleridir.
++ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
 
-+ `background-color` satırındaki değeri `lightgreen` (açık yeşil) ile değiştirin.
++ Change the `background-color` to `lightgreen`.
 
-![ekran görüntüsü](images/birthday-card-outside.png)
+![screenshot](images/birthday-card-outside.png)
 
-+ Bir resmin boyutunu da değiştirebilirsiniz. `#outside-pic` CSS koduna gidin ve dış resmin `width` (genişliğini) ve `height` (yüksekliğini) `200px` (`px`, piksel anlamına gelir) olarak değiştirin.
++ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
-![ekran görüntüsü](images/birthday-card-size.png)
+![screenshot](images/birthday-card-size.png)
 
-+ Yazı fontu da değiştirilebilir. `#outside-title` CSS koduna gidin ve `font-family` değerini `Comic Sans MS` olarak ve `font-size` (font boyutunu da) `16 pt` olarak değiştirin.
++ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
 
 ![screenshot](images/birthday-card-font.png)
 
 You can use other fonts, for example:
 
-+ `<span style="font-family: Arial;">Arial</span>`
++ `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
 + `<span style="font-family: tahoma;">Tahoma</span>`
