@@ -1,10 +1,10 @@
-## Giriş
+## Introduction
 
-Bu projede, kendi doğum günü kartınızı nasıl yapacağınızı öğrenerek HTML ve CSS ile tanışacaksınız.
+In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
 
-### Ne yapacaksınız
+### What you will make
 
-Doğum günü kartını açmak için düğmeye tıklayın:
+Click the button to open the birthday card:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Doğum günü kartını açmak için düğmeye tıklayın:
   <img src="images/birthday-final.png">
 </div>
 
-### Ne öğreneceksiniz
+### What you will learn
 
-Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){@ target = "_ blank"} 'un aşağıdaki bölümünden bilgiler kapsamaktadır:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Basit 2D ve 3D varlıklar tasarlama](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Eğitimciler için ek bilgiler
+### Additional information for educators
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen yazıcıya uygun [sürümü](https://projects.raspberrypi.org/en/projects/happy-birthday/print){: target = "_ blank"} kullanın.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
-Bu projenin ‘en/resources’ klasöründeki tüm kaynakları (örnek bitmiş bir proje de dahil olmak üzere) içeren GitHub Repo'suna erişmek için altbilgideki bağlantıyı kullanın.
+Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
