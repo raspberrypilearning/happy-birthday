@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## 課題：より多くのスタイルを追加する
+## Challenge: add more styles
 
-+ テキストの段落をオレンジ色にすることはできますか？
++ Can you make the paragraphs of text orange?
 
-+ `体` プロパティを変更して背景グレーを作ることはできますか？
++ Can you make the background grey by changing the `body` property?
 
-![スクリーンショット](images/birthday-more-style.png)
+![screenshot](images/birthday-more-style.png)
 
 \--- /challenge \---
