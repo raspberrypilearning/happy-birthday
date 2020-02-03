@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Srećan rođendan
-description: Napravi online rođendansku čestitku na veb-stranici.
+title: Happy birthday
+description: Make an online birthday card on a webpage
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
 interests: art
 technologies: html-css-javascript
@@ -18,18 +18,18 @@ version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: Uvod
+    title: Introduction
   - 
-    title: Šta će ti biti potrebno
+    title: What you will need
   - 
-    title: Šta je HTML?
+    title: What is HTML?
   - 
-    title: 'Izazov: dodaj još jedan pasus'
+    title: 'Challenge: add another paragraph'
   - 
-    title: Šta je CSS?
+    title: What is CSS?
   - 
-    title: 'Izazov: dodaj više stilova'
+    title: 'Challenge: add more styles'
   - 
-    title: Izrada rođendanske čestitke
+    title: Making a birthday card
   - 
-    title: 'Izazov: napravi sopstvenu čestitku'
+    title: 'Challenge: create a personalised card'
