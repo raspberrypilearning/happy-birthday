@@ -1,35 +1,35 @@
 ---
-hero_image: images / happy-birthday.png
-theme: فیروزه
+hero_image: images/happy-birthday.png
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1، design-1، programming-0، phys-comp-0، manufacture-0، community-0
-title: تولدت مبارک
-description: کارت تولد آنلاین را در یک صفحه وب ایجاد کنید
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Happy birthday
+description: Make an online birthday card on a webpage
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
-interests: هنر
+interests: art
 technologies: html-css-javascript
-site_areas: پروژه ها
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: معرفی
+    title: Introduction
   - 
-    title: آنچه شما نیاز دارید
+    title: What you will need
   - 
-    title: HTML چیست؟
+    title: What is HTML?
   - 
-    title: 'چالش: یک پاراگراف دیگر اضافه کنید'
+    title: 'Challenge: add another paragraph'
   - 
-    title: CSS چیست؟
+    title: What is CSS?
   - 
-    title: 'چالش: سبک های بیشتری اضافه کنید'
+    title: 'Challenge: add more styles'
   - 
-    title: ساخت کارت تولد
+    title: Making a birthday card
   - 
-    title: 'چالش: یک کارت شخصی ایجاد کنید'
+    title: 'Challenge: create a personalised card'
