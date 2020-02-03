@@ -1,15 +1,15 @@
-\--- meydan okuma \---
+\--- challenge \---
 
-## Meydan Okuma: başka bir paragraf ekleyin
+## Challenge: add another paragraph
 
-- Web sayfanıza, diğer ikisinin altına üçüncü bir metin paragrafı ekleyebilir misiniz?
+- Can you add a third paragraph of text to your webpage, below the other two?
 
-Yeni paragrafınızın `<p>` etiketi ile başlaması ve `</p>` etiketi ile bitmesi gerektiğini unutmayın.
+Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
 
-İnternet sayfanız şunun gibi gözükmeli:
+Here's how your webpage might look:
 
-![ekran görüntüsü](images/birthday-paragraph.png)
+![screenshot](images/birthday-paragraph.png)
 
-Yeni paragrafınıza **kalın** ve <u>altı çizili</u> metin ekleyebilir misiniz? Altı çizili metinler için `<u>` ve `</u>` etiketlerini kullanın.
+Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
 
 \--- /challenge \---
