@@ -1,15 +1,15 @@
 \--- wyzwanie \---
 
-## Challenge: add another paragraph
+## Wyzwanie: dodaj kolejny akapit
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- Czy możesz dodać trzeci akapit tekstu do swojej strony, poniżej dwóch pozostałych?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+Pamiętaj, że nowy akapit powinien zaczynać się od znacznika `<p>`, a kończyć się znacznikiem ` </p>`.
 
-Here's how your webpage might look:
+Tutaj jest przykład jak może wyglądać twoja strona internetowa:
 
 ![zrzut ekranu](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+Możesz dodać **pogrubienie** i <u>podkreślenie</u> tekstu do swojego nowego akapitu? Użyj znaczników `<u>` i `</u>` żeby uzyskać podkreślony tekst.
 
 \--- /challenge \---
