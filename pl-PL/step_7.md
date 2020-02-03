@@ -1,49 +1,49 @@
-## Making a birthday card
+## Tworzenie kartki urodzinowej
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Wykorzystajmy to, czego nauczyłeś się o HTML i CSS, aby stworzyć własną kartę urodzinową.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Otwórz [ten fragment kodu](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Napisaliśmy trochę kodu, abyś mógł zacząć, ale kartka urodzinowa wygląda jak dotąd dość nudnie, więc wprowadzimy pewne zmiany w kodzie HTML i CSS.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Naciśnij przycisk na przodzie kartki, aby zobaczyć jej wnętrze.
 
 ![zrzut ekranu](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Przejdź do 14 wiersza kodu HTML. Spróbuj edytować tekst, aby spersonalizować kartkę.
 
 ![zrzut ekranu](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Czy potrafisz znaleźć kod HTML dla obrazu robota i zmienić słowo `robot` na `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Spójrz na linię 17, aby znaleźć kod.
++ Zmień słowo `robot` na `sun`, aby zobaczyć zmianę obrazu!
 
-![screenshot](images/birthday-card-sun.png)
+![zrzut ekranu](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Możesz użyć dowolnego z tych słów `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` dla kartki urodzinowej, lub `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, lub `snowman` jeśli wolisz stworzyć kartkę świąteczną.
 
-You can also edit the CSS code of the birthday card.
+Możesz również edytować kod CSS kartki urodzinowej.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Kliknij zakładkę ` style.css `. Pierwsza część to wszystkie style CSS ** na zewnątrz ** kartki.
 
-+ Change the `background-color` to `lightgreen`.
++ Zmień kolor tła `background-color ` na ` lightgreen `.
 
 ![zrzut ekranu](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ Możesz także zmienić rozmiar obrazu. Przejdź do `#outside-pic` kodu CSS i zmień`width` i `height` obrazka zewnętrznego na `200px`(`px` oznacza piksele).
 
 ![zrzut ekranu](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ Czcionkę też możesz zmienić. Przejdź do `#outside-title` kodu CSS i zmień `font-family` na `Comic Sans MS` i `font-size` (rozmiar tekstu) na `16pt`.
 
-![screenshot](images/birthday-card-font.png)
+![zrzut ekranu](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Możesz użyć innych czcionek, na przykład:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
