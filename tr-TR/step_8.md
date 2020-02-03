@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Meydan Okuma: Kişiselleştirilmiş bir kart oluşturun
+## Challenge: create a personalised card
 
-+ Kişiselleştirilmiş bir kart oluşturmak için HTML ve CSS hakkında öğrendiğiniz her şeyi kullanın. Bu bir doğum günü kartı olmak zorunda değil, Yılbaşı kartı veya başka bir şey için de olabilir!
++ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
 
-İşte bir örnek:
+Here's an example:
 
-![ekran görüntüsü](images/birthday-final.png)
+![screenshot](images/birthday-final.png)
 
-[Burada](http://jumpto.cc/colours){:target="_ blank"} daha fazla CSS renk isimlerini bulabilirsiniz.
+You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Kartınızı bitirdikten sonra, birisiyle paylaşabilir veya e-postayla gönderebilirsiniz.
++ Once you've finished your card, you can share or email it to someone.
 
-![ekran görüntüsü](images/birthday-share.png)
+![screenshot](images/birthday-share.png)
 
 \--- /challenge \---
