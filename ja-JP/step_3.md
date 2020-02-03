@@ -1,63 +1,63 @@
-## HTMLとは何ですか？
+## What is HTML?
 
-HTMLの略 **ハイパーテキストマークアップ言語**、ウェブページを作るために使用される言語。例を見てみましょう！
+HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
 
-HTMLコードを書くには、trinket.ioというウェブサイトを使用します。
+You'll be using a website called trinket.io to write HTML code.
 
-+ [この小物](http://jumpto.cc/web-intro){{target = "_ blank"}にしてください。
++ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
-プロジェクトはこのようになります。
+The project should look like this:
 
-![スクリーンショット](images/birthday-starter.png)
+![screenshot](images/birthday-starter.png)
 
-左側に表示されるコードはHTMLです。小物の右側には、HTMLコードが作成したウェブページが表示されます。
+The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
 
-HTMLは **タグ** を使用してWebページを構築します。あなたのコードの8行目でこのHTMLコードを探します：
+HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
 
 ```html
-<p>こんにちは。私の名前はアンディです。</p>
+<p>Hi. My name is Andy.</p>
 ```
 
-`<p>` はタグの例であり、 **段落**略です。あなたは `<p>`で段落を開始し、 `</p>`段落を終了することができます。
+`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
 
-+ あなたは他のタグを見つけることができますか？
++ Can you spot any other tags?
 
 ## \--- collapse \---
 
-## title: 答え
+## title: Answer
 
-あなたが見つけたかもしれない他の1つのタグは `<b>`。これは **太字を表します**：
+One other tag you might have spotted is `<b>`, which stands for **bold**:
 
 ```html
-<b>実行している</b>
+<b>running</b>
 ```
 
-ここにもう少しです：
+Here are some more:
 
-+ `<html>` と `</html>` mark HTML文書の開始と終了
-+ `<head>` と `</head>` はCSSのようなものがどこに行くのかです（これについては後で説明します）
-+ `<body>` と `</body>` はあなたのウェブサイトのコンテンツが行く場所です
++ `<html>` and `</html>` mark the start and end of the HTML document
++ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
++ `<body>` and `</body>` is where your website content goes
 
-![スクリーンショット](images/birthday-head-body.png)
+![screenshot](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ HTMLファイル内のテキストの段落の1つ（左側）を変更します。 **Run**クリックすると、Webページの変更が右側に表示されます。
++ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
 
-![スクリーンショット](images/birthday-edit-html.png)
+![screenshot](images/birthday-edit-html.png)
 
-+ 間違えて変更を元に戻したい場合は、 **メニュー** ボタンをクリックし、 **Reset**クリックします。
++ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
 
-![スクリーンショット](images/birthday-reset.png)
+![screenshot](images/birthday-reset.png)
 
-最後にやったことを元に戻すには、 `Ctrl` と `z` キーを同時に押すことができます。
+To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
 
-### あなたのプロジェクトを保存するためにTrinketアカウントは必要ありません！
+### You don't need a Trinket account to save your projects!
 
-あなたは小物アカウントをお持ちでない場合は、クリックしてください **ダウン** の矢印をクリックし、次に **リンク**。 これにより、保存して後で戻ってくることができるリンクが得られます。 リンクが変更されるため、変更するたびにこれを行う必要があります。
+If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
-![スクリーンショット](images/birthday-link.png)
+![screenshot](images/birthday-link.png)
 
-小銭入れ口座を持っている場合、あなたのウェブページを保存する最も簡単な方法は、小物の上部にある **Remix** ボタンをクリックすることです。これはあなたのプロフィールに装飾品のコピーを保存します。
+If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
 
-![スクリーンショット](images/birthday-remix.png)
+![screenshot](images/birthday-remix.png)
