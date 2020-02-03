@@ -1,15 +1,15 @@
-\--- tantangan \---
+\--- challenge \---
 
-## Tantangan: tambahkan paragraf lain
+## Challenge: add another paragraph
 
-- Dapatkah Anda menambahkan paragraf ketiga teks ke halaman web Anda, di bawah dua lainnya?
+- Can you add a third paragraph of text to your webpage, below the other two?
 
-Ingat bahwa paragraf baru Anda harus dimulai dengan tag `<p>` , dan diakhiri dengan `</p>` tag.
+Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
 
-Inilah tampilan halaman web Anda:
+Here's how your webpage might look:
 
-![tangkapan layar](images/birthday-paragraph.png)
+![screenshot](images/birthday-paragraph.png)
 
-Dapatkah Anda menambahkan **tebal** dan <u>digarisbawahi</u> teks ke paragraf baru Anda? Gunakan tag `<u>` dan `</u>` untuk teks yang digarisbawahi.
+Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
 
-\--- / tantangan \---
+\--- /challenge \---
