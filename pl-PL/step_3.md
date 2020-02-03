@@ -18,46 +18,46 @@ HTML używa **znaczników** do tworzenia stron internetowych. Poszukaj tego kodu
 <p>Cześć. Mam na imię Andy.</p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`<p>` jest przykładem znacznika i jest skrótem od słowa **akapit**. Możesz rozpocząć akapit od `<p>` i zakończyć go za pomocą `</p>`.
 
-+ Can you spot any other tags?
++ Czy możesz dostrzec inne znaczniki?
 
 ## \--- collapse \---
 
 ## title: Odpowiedź
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+Innym znacznikiem jaki mogłeś zauważyć jest `<b>`, co oznacza **pogrubienie**:
 
 ```html
-<b>running</b>
+<b>uruchomione</b>
 ```
 
-Here are some more:
+Oto kilka innych znaczników:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `<html>` i ` </html>` oznaczają początek i koniec dokumentu HTML
++ `<head>` i `</head>` jest miejscem, gdzie znajdują się rzeczy takie jak CSS (dotrzemy do tego później)
++ `<body>` i `</body>` to miejsce, gdzie znajduje się zawartość twojej strony
 
 ![zrzut ekranu](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ Dokonaj zmiany w jednym z akapitów tekstu w pliku HTML (po lewej). Jeśli Klikniesz **Run**, to powinieneś zobaczyć zmianę strony (po prawej)!
 
 ![zrzut ekranu](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ Jeśli popełniłeś błąd i chcesz cofnąć wszystkie zmiany, możesz kliknąć przycisk **menu**, a następnie kliknąć **Reset**.
 
 ![zrzut ekranu](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+Aby cofnąć ostatnią rzecz, którą zrobiłeś, naciśnij klawisze `Ctrl` i `z` jednocześnie.
 
 ### Nie potrzebujesz konta w Trinket, aby zapisać swoje projekty!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. Zobaczysz link, który możesz zapisać i użyć później, aby wrócić do swojego projektu. Musisz to robić za każdym razem, gdy wprowadzisz zmiany, ponieważ link będzie się zmieniał!
+Jeśli nie masz konta Trinket, kliknij **strzałkę w dół**, a następnie kliknij **Link**. Zobaczysz link, który możesz zapisać i użyć później, aby wrócić do swojego projektu. Musisz to robić za każdym razem, gdy wprowadzisz zmiany, ponieważ link będzie się zmieniał!
 
 ![zrzut ekranu](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+Jeśli masz konto Trinket, najprostszym sposobem na zapisanie strony jest kliknięcie przycisku **Remix** na górze trinketa. Spowoduje to zapisanie kopii trinketa na Twoim profilu.
 
 ![zrzut ekranu](images/birthday-remix.png)
