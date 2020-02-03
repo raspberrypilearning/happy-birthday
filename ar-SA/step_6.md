@@ -2,10 +2,10 @@
 
 ## التحدي: إضافة أنماط أخرى
 
-+ Can you make the paragraphs of text orange?
++ هل يمكنك تغيير فقرات النص إلى اللون البرتقالي؟
 
-+ Can you make the background grey by changing the `body` property?
++ هل يمكنك تغيير لون الخلفية إلى اللون الرمادي عن طريق تغيير خاصية `body`؟
 
-![لقطة شاشة](images/birthday-more-style.png)
+![لقطة الشاشة](images/birthday-more-style.png)
 
 \--- /challenge \---
