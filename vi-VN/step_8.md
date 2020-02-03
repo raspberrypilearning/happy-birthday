@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Thử thách: tạo một thiệp cá nhân
+## Challenge: create a personalised card
 
-+ Sử dụng mọi thứ bạn đã học về HTML và CSS để hoàn thành việc tạo một thiệp cá nhân. Và nó không phải là một tấm thiệp sinh nhật, nó có thể là một món quà cho Giáng sinh hoặc bất kỳ dịp nào khác!
++ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
 
-Đây là một ví dụ:
+Here's an example:
 
-![ảnh chụp màn hình](images/birthday-final.png)
+![screenshot](images/birthday-final.png)
 
-Bạn có thể tìm thêm tên màu CSS [tại đây](http://jumpto.cc/colours){:target="_blank"}.
+You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Khi bạn đã hoàn thành thiệp của mình, bạn có thể chia sẻ hoặc gửi email cho ai đó.
++ Once you've finished your card, you can share or email it to someone.
 
-![ảnh chụp màn hình](images/birthday-share.png)
+![screenshot](images/birthday-share.png)
 
 \--- /challenge \---
