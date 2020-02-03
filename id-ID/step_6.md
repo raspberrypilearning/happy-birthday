@@ -1,11 +1,11 @@
-\--- tantangan \---
+\--- challenge \---
 
-## Tantangan: tambahkan lebih banyak gaya
+## Challenge: add more styles
 
-+ Bisakah Anda membuat paragraf teks oranye?
++ Can you make the paragraphs of text orange?
 
-+ Dapatkah Anda membuat latar belakang abu-abu dengan mengubah properti `tubuh`?
++ Can you make the background grey by changing the `body` property?
 
-![tangkapan layar](images/birthday-more-style.png)
+![screenshot](images/birthday-more-style.png)
 
-\--- / tantangan \---
+\--- /challenge \---
