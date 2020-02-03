@@ -1,17 +1,17 @@
-\--- завдання \---
+\--- challenge \---
 
-## Завдання: створити свою листівку
+## Challenge: create a personalised card
 
-+ Використовуйте все, що ви дізналися про HTML та CSS, щоб створити особливу листівку. Це не мусить бути листівка для дня народження, це може бути для Різдва чи для будь-якої причини!
++ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
 
-Тут приклади:
+Here's an example:
 
-![знімок екрану](images/birthday-final.png)
+![screenshot](images/birthday-final.png)
 
-Більше назв кольорів CSS [тут](http://jumpto.cc/colours){:target="_blank"}.
+You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Коли ви закінчите свою листівку, можете поділитися чи надіслати її.
++ Once you've finished your card, you can share or email it to someone.
 
-![скріншот](images/birthday-share.png)
+![screenshot](images/birthday-share.png)
 
 \--- /challenge \---
