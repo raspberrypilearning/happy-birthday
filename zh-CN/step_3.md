@@ -1,63 +1,64 @@
-## 什么是 HTML？
+## HTML 是什么？
 
-HTML 代表**超文本标记语言**，即用于制作网页的语言。让我们来看一个示例！
+HTML就是**超文本标记语言**，这种语言可以用来制作网页。让我们来看一下例子吧！
 
-你将使用一个名为 trinket.io 的网站来编写 HTML 代码。
+您将会使用trinket.io的网站来编写HTML代码。
 
-+ 打开[这个 trinket](http://jumpto.cc/web-intro){:target="_blank"}。
++ 打开[这个trinket](https://trinket.io/html/a0596dc9fb){:target="_blank"}
 
-此项目应如下所示：
+这个项目应该是这样的：
 
 ![screenshot](images/birthday-starter.png)
 
-你在左侧看到的代码就是 HTML。在 trinket 的右侧，你可以看到由 HTML 代码构建的网页。
+您可以在左侧看到的HTML代码。在界面的右侧，您可以看到HTML代码所创建的网页。
 
-HTML 使用**标记**来构建网页。请看你代码第 8 行的这个 HTML 代码：
+HTML 使用 **标签** 构建网页。请查看第8行中的 HTML 代码：
 
 ```html
-<p>Hi.My name is Andy.</p>
+<p>您好。我叫安迪。 </p>
 ```
 
-`<p>` 就是其中一种标记，是**段落**的简写。你可以用 `<p>` 来开始段落，并用 `</p>` 来终止段落。
+`<p>`是标记的示例，是**段落** 的缩写。您可以以`<p>`开头段落，以`</p>` 结束段落。
 
-+ 你能否发现任何其他标记？
++ 您还能发现其他标签吗？
 
 --- collapse ---
 ---
 title: 答案
 ---
-你可能发现的另一个标记是 `<b>`，它代表__粗体__：
+
+您可能会发现的另一个标签是`<b>`，它表示**粗体** ：
 
 ```html
 <b>running</b>
 ```
 
-以下是更多标记：
+以下是一些想法：
 
-+ `<html>` 和 `</html>` 标志着 HTML 文件的起始和结尾
-+ `<head>` 和 `</head>` 是 CSS 等内容所在的地方（我们随后将对此进行讨论）
-+ `<body>` 和 `</body>` 是你的网站内容所在的地方
++ `<html>`和`</html>`标记HTML文档的开始和结束
++ `<head>`和`</head>`是CSS之类的东西（我们稍后会介绍）
++ `<body>`和`</body>`是您网站内容的位置
 
 ![screenshot](images/birthday-head-body.png)
 
 --- /collapse ---
 
-+ 对 HTML 文件内文本的其中一段进行一项更改（左侧）。点击 **Run**（运行），你会看到你的网页有所变动（右侧）！
++ 更改HTML文件中的文本段落之一（在左侧）。点击**Run** ，您应该会看到网页更改（在右侧）！
 
 ![screenshot](images/birthday-edit-html.png)
 
-+ 如果你出了错并希望撤销所有的更改，你可以点击 **menu**（菜单）按钮，然后点击 **Reset**（重置）。
++ 如果输入有误，并且要撤消所有更改，则可以单击**Menu**（菜单）按钮，然后单击**Reset**（重置）。
 
 ![screenshot](images/birthday-reset.png)
 
-要仅仅撤销你进行的最后一项操作，你可以同时按 `Ctrl` 和 `z` 键。
+要撤消您所做的最后一件事，可以同时按`Ctrl`和`z`键。
 
-### 保存项目时无需使用 Trinket 帐户！
+### 您不必注册Trinket帐户来保存项目！
 
-如果你没有 Trinket 帐户，单击**向下**箭头，再单击 **Link**（链接）。由此获得一个链接，你可以进行保存并稍后返回。每次更改时都需要重复以上步骤，因为链接会发生改变！
+如果您没有Trinket帐户，请单击向**下**箭头，然后单击**Link** 链接）。 页面会显示此项目的链接。你可以先保存这个链接，用于以后继续编辑你的项目。 每次您进行更改时，您都需要这样做，因为链接会改变！
 
 ![screenshot](images/birthday-link.png)
 
-如果你有 Trinket 帐户，保存网页最便捷的方式就是点击 trinket 顶部的 **Remix**（混合）按钮。这会在你的资料上保存一份 trinket 的副本。
+如果您有Trinket帐户，保存网页的最简单方法是单击界面顶部的**Remix**按钮。这会将副本保存在您的个人资料中。
 
 ![screenshot](images/birthday-remix.png)

@@ -1,9 +1,9 @@
-## ما ستحتاج إليه
+## ما ستحتاج اليه
 
-### الجهاز
+### الأجهزة
 
-+ جهاز كمبيوتر يدعم الوصول إلى [trinket.io](https://trinket.io){:target="_blank"}
++ جهاز كمبيوتر قادر على الوصول إلى الموقع الإلكتروني [trinket.io](https://trinket.io){:target="_blank"}.
 
-### البرنامج
+### البرمجيات
 
-يُمكن إكمال هذا المشروع في متصفح ويب باستخدام [trinket.io](https://trinket.io){:target="_blank"}.
+هذا المشروع يمكن أن يكتمل في متصفح الويب باستخدام [trinket.io](https://trinket.io){:target="_blank"}.

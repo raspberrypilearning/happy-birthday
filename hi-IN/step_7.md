@@ -1,49 +1,51 @@
-## जन्मदिन का कार्ड बनाना
+## जन्मदिन का एक कार्ड बनाना
 
-अपना स्वयं का जन्मदिन का कार्ड बनाने के लिए HTML और CSS के बारे में सीखी गई बातों का उपयोग करें।
+HTML और CSS के बारे में आपने जो सीखा है, आइये उसका उपयोग जन्मदिन का आपका अपना कस्टम कार्ड बनाने के लिए करते हैं।
 
-+ [यह ट्रिंकेट](http://jumpto.cc/web-card){:target="_blank"} खोलें।
++ [इस ट्रिंकेट](https://trinket.io/html/fd34434874){:target="_blank"} को खोलें |
 
-हमने आपके द्वारा आरंभ करने के लिए बहुत-से कोड लिखे हैं, परन्तु अभी तक जन्मदिन का कार्ड काफ़ी फालतू लगता है, इसलिए आप HTML और CSS कोड में कुछ परिवर्तन करेंगे।
+आरम्भ करने के लिए हमने बहुत सारे कोड लिखे हैं, परन्तु जन्मदिन का कार्ड अब तक बहुत उबाऊ सा प्रतीत हो रहा है, इसलिए आप HTML और CSS कोड में कुछ बदलाव करने जा रहे हैं।
 
-+ कार्ड के सामने की ओर बटन पर क्लिक करें, और आप देखेंगे कि इसके अंदर की चीज़ें दिखाने के लिए यह खुल जाता है।
++ कार्ड के सामने स्थित बटन पर क्लिक करें, और आप इसे खुलकर अंदर का भाग प्रकाशित करते हुए देख पाएंगे ।
 
-![screenshot](images/birthday-click.png)
+![स्क्रीनशॉट](images/birthday-click.png)
 
-+ HTML कोड की लाइन 14 पर जाएँ। अपना कार्ड कस्टमाइज़ करने के लिए टेक्स्ट संपादित करने का प्रयास करें।
++ HTML कोड की लाइन 14 पर जाएं। अपने कार्ड को अनुकूलित करने के लिए पाठ को संपादित करने का प्रयास करें।
 
-![screenshot](images/birthday-card-html.png)
+![स्क्रीनशॉट](images/birthday-card-html.png)
 
-+ क्या आप रोबोट के छवि के लिए HTML कोड ढूँढ़ सकते हैं, और `robot` शब्द को `sun` में परिवर्तित कर सकते हैं?
++ क्या आप रोबोट छवि के लिए HTML कोड खोज सकते हैं, और `robot` शब्द को `sun` में बदल सकते हैं?
 
 --- hints ---
---- hint ---
-+ कोड खोजने के लिए लाइन 17 देखें।
-+ `robot` शब्द को `sun` में परिवर्तित करें, और आप देखेंगे कि छवि बदल गई है!
+ --- hint ---
 
-![screenshot](images/birthday-card-sun.png)
---- /hint ---
---- /hints ---
++ कोड खोजने के लिए लाइन 17 पर देखें।
++ `robot` शब्द को `sun` में बदलें, और आप छवि में परिवर्तन देखेंगे!
 
-आप जन्मदिन के कार्ड के लिए `boy` (लड़का), `diamond` (हीरा), `dinosaur` (डायनोसोर), `flowers` (फूर), `girl` (लड़की), `rainbow` (इंद्रधनुष), `robot` (रोबोट), `spaceship` (अंतरिक्ष यान), `sun` (सूर्य), `tea` (चाय), या `trophy` (ट्रॉफ़ी) में से किसी भी शब्द, या यदि आप क्रिसमस कार्ड बनाना चाहें, तो `cracker` (पटाखा), `elf` (बौना), `penguin` (पेंगुइन), `present` (उपहार), `reindeer` (बारहसिंगा), `santa` (सांता), या `snowman` (हिम मानव) में से किसी भी शब्द का उपयोग कर सकते हैं।
+![स्क्रीनशॉट](images/birthday-card-sun.png)
 
-आप जन्मदिन के कार्ड के CSS कोड को संपादित भी कर सकते हैं।
+--- /hint ------ /hints ---
 
-+ `style.css` के लिए टैब पर क्लिक करें। प्रथम पूर्ण भाग कार्ड के **outside** के लिए CSS स्टाइल का हो सकता है।
+आप इनमें से किसी भी शब्द का उपयोग कर सकते हैं `boy`, `diamond`, `dinosaur`, `flower`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, या `trophy` जन्मदिन कार्ड के लिए, या `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, या `snowman` अगर आप क्रिसमस कार्ड बनाना पसंद करेंगे।
 
-+ `background-color` को `lightgreen` में परिवर्तित करें।
+आप जन्मदिन कार्ड का CSS कोड भी संपादित कर सकते हैं।
 
-![screenshot](images/birthday-card-outside.png)
++ `style.css` के लिए टैब पर क्लिक करें । पहला भाग कार्ड के **बाहर** के CSS styles का है।
 
-+ आपके छवि के आकार में परिवर्तन भी कर सकते हैं। `#outside-pic` CSS कोड पर जाएँ, और बाहरी छवि की `width` (चौड़ाई) और `height` (ऊँचाई) को `200px` (`px` का मतलब पिक्सल है) में बदलें।
++ <color>पृष्ठभूमि-रंग</color> को <color>लाइटग्रीन</color> से बदलें ।
 
-![screenshot](images/birthday-card-size.png)
+![स्क्रीनशॉट](images/birthday-card-outside.png)
 
-+ फॉन्ट को भी बदला जा सकता है। `#outside-title` CSS पर जाएँ और `font-family` को `Comic Sans MS` में बदलें और `font-size` को `16pt` में बदलें।
++ आप एक छवि का आकार भी बदल सकते हैं। `#outside-pic` CSS कोड पर जाएं, और बाहर की छवि के `width` और `height` को `200px` में बदलें (`px` पिक्सल के लिए है)।
 
-![screenshot](images/birthday-card-font.png)
+![स्क्रीनशॉट](images/birthday-card-size.png)
 
-आप अन्य फोंट्स का उपयोग कर सकते हैं, उदाहरण के लिए:
-+ `<span style="font-family: Arial;">arial</span>`
-+ `<span style="font-family: impact;">Impact</span>`
-+ `<span style="font-family: tahoma;">Tahoma</span>`
++ फॉन्ट को भी बदला जा सकता है। `#outside-title` CSS पर जाएं और `font-family` को `Comic Sans MS` और `font-size` को `16pt` में बदलें ।
+
+![स्क्रीनशॉट](images/birthday-card-font.png)
+
+आप अन्य फोंट का उपयोग कर सकते हैं, उदाहरण के लिए:
+
++ `<code> <span style="font-family: Arial;">Arial</span>`</code>
++ `<code><span style="font-family: Impact;">Impact</span>`</code>
++ `<code> <span style="font-family: Arial;">arial</span>`</code>

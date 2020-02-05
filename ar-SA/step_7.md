@@ -1,49 +1,51 @@
 ## تصميم بطاقة عيد ميلاد
 
-لنستخدم ما تعلمتَه عن لغتَي البرمجة HTML وCSS to لنصمِّم بطاقة عيد ميلاد مخصصة.
+دعونا نستخدم ما تعلمته حول HTML و CSS لإنشاء بطاقة عيد ميلاد مخصصة.
 
-+ افتح [بملف trinket هذا](http://jumpto.cc/web-card){:target="_blank"}.
++ افتح [هذا الـ trinket](https://trinket.io/html/bb6d8905b8){:target="_blank"}.
 
-لقد كتبنا الكثير من التعليمات البرمجية لمساعدتك على البدء، لكن تبدو بطاقة عيد الميلاد مملة بعض الشيء، لذا ستقوم بإجراء بعض التغييرات في تعليمات HTML وCSS البرمجية.
+لقد كتبنا الكثير من التعليمات البرمجية للبدء، لكن بطاقة عيد الميلاد تبدو مملة جدًا حتى الآن ، لذلك ستجري بعض التغييرات على النص البرمجي HTML و CSS.
 
-+ انقر فوق الزر الموجود على وجه البطاقة، وستُفتح البطاقة لترى ما بداخلها.
++ انقر فوق الزر الموجود في مقدمة البطاقة، وستراها تُفتح للكشف عن الداخل.
 
-![screenshot](images/birthday-click.png)
+![لقطة الشاشة](images/birthday-click.png)
 
-+ انتقل إلى السطر 14 من تعليمات HTML البرمجية. وحاول تحرير النص لتخصيص البطاقة.
++ انتقل إلى السطر 14 من النص البرمجي HTML. حاول تغيير النص لتخصيص بطاقتك.
 
-![screenshot](images/birthday-card-html.png)
+![لقطة الشاشة](images/birthday-card-html.png)
 
-+ هل يمكنك العثور على تعليمة HTML البرمجية الخاصة بصورة الروبوت، وتغيير الكلمة`robot` إلى `sun`؟
++ هل يمكنك العثور على النص البرمجي HTML لصورة الروبوت، وتغيير كلمة `robot` إلى `sun` ؟
 
 --- hints ---
---- hint ---
-+ انظر إلى السطر 17 لتعثر على التعليمة البرمجية.
-+ غيِّر الكلمة `robot` إلى `sun`، وسترى أن الصورة تغيَّرت!
+ --- hint ---
 
-![screenshot](images/birthday-card-sun.png)
---- /hint ---
---- /hints ---
++ انظر على السطر 17 للعثور على النص البرمجي.
++ قم بتغيير `robot` إلى `sun` و سترى الصورة تتغير!
 
-يمكنك استخدام أي من الكلمات التالية: `boy` أو `diamond` أو `dinosaur` أو `flowers` أو `girl` أو `rainbow` أو `robot` أو `spaceship` أو `sun` أو `tea` أو `trophy` لبطاقة عيد الميلاد، أو يمكنك استخدام `cracker` أو `elf` أو `penguin` أو `present` أو `reindeer` أو `santa` أو `snowman` إذا كنت تريد تصميم بطاقة لعام ميلادي جديد.
+![لقطة الشاشة](images/birthday-card-sun.png)
 
-يمكنك أيضًا تحرير تعليمات CSS البرمجية لبطاقة عيد الميلاد.
+--- /hint ------ /hints ---
 
-+ انقر فوق علامة التبويب `style.css`. يخص الجزء الأول كل أنماط CSS للقيمة **outside** أو الجزء الخارجي للبطاقة.
+يمكنك استخدام أي من الكلمات `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` إذا كنت تفضل عمل بطاقة عيد الميلاد.
 
-+ غيِّر القيمة `background-color` إلى `lightgreen`.
+يمكنك أيضًا تعديل النص البرمجي CSS لبطاقة عيد الميلاد.
 
-![screenshot](images/birthday-card-outside.png)
++ انقر فوق علامة التبويب `style.css`. الجزء الأول هو كل من أنماط CSS للشكل الخارجي **outside** من البطاقة.
 
-+ يمكنك أيضًا تغيير حجم الصور. انتقل إلى التعليمة البرمجية `#outside-pic` في ملف CSS، وغيِّر قيمتَي الخاصيتَين `width` و`height` لأبعاد الصورة الخارجية إلى `200px` (ترمز `px` إلى وحد البكسل).
++ قم بتغيير `background-color` إلى `lightgreen`.
 
-![screenshot](images/birthday-card-size.png)
+![لقطة الشاشة](images/birthday-card-outside.png)
 
-+ يمكن تغيير الخط أيضًا. انتقل إلى التعليمة البرمجية `#outside-title` في ملف CSS وغيِّر القيمة `font-family` إلى `Comic Sans MS` والقيمة `font-size` إلى `16pt`.
++ يمكنك أيضًا تغيير حجم الصورة. اذهب الى `#outside-pic` في النص البرمجي لـCSS, و قم بتغيير `width` و `height` للصورة الخارجية الى `200px` (`إن px` تعني pixels).
 
-![screenshot](images/birthday-card-font.png)
+![لقطة الشاشة](images/birthday-card-size.png)
 
-يمكنك استخدام خطوط أخرى، على سبيل المثال:
-+ `<span style="font-family: Arial;">arial</span>`
++ يمكن تغيير الخط أيضا. اذهب الى `#outside-title` لـCSS و قم بتغيير `font-family` إلى `Comic Sans MS` و ال `font-size` to `16pt`.
+
+![لقطة الشاشة](images/birthday-card-font.png)
+
+يمكنك استخدام خطوط أخرى ، على سبيل المثال:
+
++ `<span style="font-family: Arial;">Arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
 + `<span style="font-family: tahoma;">Tahoma</span>`

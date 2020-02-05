@@ -1,3 +1,4 @@
+---
 hero_image: images/happy-birthday.png
 theme: turquoise
 duration: 2
@@ -6,17 +7,21 @@ ingredient: false
 copyedit: false
 curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: 生日快乐
-description: 学习如何制作一张定制的生日贺卡
+description: 在网页上制作在线生日贺卡
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
-interests: '艺术和设计'
-technologies: html/css
-site_areas: codeclub, webdev
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2017-01-01
 steps:
-- title: 介绍
-- title: 你将需要什么
-- title: 什么是 HTML？
-- title: '挑战：添加另一段落'
-- title: 什么是 CSS？
-- title: '挑战：添加更多样式'
-- title: 制作一张生日贺卡
-- title: '挑战：制作一张个性化贺卡'
+  - title: 介绍
+  - title: 你将需要什么
+  - title: 什么是 HTML？
+  - title: '挑战：添加另一段落'
+  - title: 什么是 CSS？
+  - title: '挑战：添加更多样式'
+  - title: 制作一张生日贺卡
+  - title: '挑战：制作一张个性化贺卡'

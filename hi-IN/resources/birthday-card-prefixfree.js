@@ -1,12 +1,12 @@
-/**
+/ **
  * StyleFix 1.0.3 & PrefixFree 1.0.7
  * @author Lea Verou
  * MIT license
- */
+ * /
 
 (function(){
 
-if(!window.addEventListener) {
+if(!window.addEventListener)
 	return;
 }
 
@@ -40,7 +40,7 @@ var self = window.StyleFix = {
 		process = function() {
 				var css = xhr.responseText;
 				
-				if(css && link.parentNode && (!xhr.status || xhr.status < 400 || xhr.status > 600)) {
+				if(css && link.parentNode && (! xhr.status || xhr.stusus <400 || xhr.status> 600)) {
 					css = self.fix(css, true, link);
 					
 					// Convert relative URLs to absolute, if needed
@@ -59,7 +59,7 @@ var self = window.StyleFix = {
 							else if(/^\?/.test(url)) { // Query-relative
 								return 'url("' + base_query + url + '")';
 							}
-							else {
+							else{
 								// Path-relative
 								return 'url("' + base + url + '")';
 							}
@@ -128,7 +128,7 @@ var self = window.StyleFix = {
 		$('style').forEach(StyleFix.styleElement);
 		
 		// Inline styles
-		$('[style]').forEach(StyleFix.styleAttribute);
+		$('[style]').forEach(StyleFix.styleElement);
 	},
 	
 	register: function(fixer, index) {
@@ -153,16 +153,16 @@ var self = window.StyleFix = {
 	}
 };
 
-/**************************************
+/ **************************************
  * Process styles
- **************************************/
+ ************************************** /
 (function(){
-	setTimeout(function(){
+	setTimeout (function () {
 		$('link[rel="stylesheet"]').forEach(StyleFix.link);
 	}, 10);
 	
-	document.addEventListener('DOMContentLoaded', StyleFix.process, false);
-})();
+	document.addEventListener ('DOMContentLoaded', StyleFix.process, false);
+}) ();
 
 function $(expr, con) {
 	return [].slice.call((con || document).querySelectorAll(expr));
@@ -170,7 +170,7 @@ function $(expr, con) {
 
 })();
 
-/**
+/ **
  * PrefixFree
  */
 (function(root){
@@ -192,7 +192,7 @@ function fix(what, before, after, replacement, css) {
 	return css;
 }
 
-var self = window.PrefixFree = {
+var self = window.StyleFix = {
 	prefixCSS: function(css, raw, element) {
 		var prefix = self.prefix;
 		
@@ -240,7 +240,7 @@ var self = window.PrefixFree = {
 		value = fix('keywords', '(^|\\s)', '(\\s|$)', '$1' + self.prefix + '$2$3', value);
 
 		if(self.valueProperties.indexOf(property) >= 0) {
-			value = fix('properties', '(^|\\s|,)', '($|\\s|,)', '$1'+self.prefix+'$2$3', value);
+			value = fix('keywords', '(^|\\s)', '(\\s|$)', '$1' + self.prefix + '$2$3', value);
 		}
 
 		return value;
@@ -259,9 +259,9 @@ var self = window.PrefixFree = {
 	}
 };
 
-/**************************************
+/ **************************************
  * Properties
- **************************************/
+ ************************************** /
 (function() {
 	var prefixes = {},
 		properties = [],
@@ -272,7 +272,7 @@ var self = window.PrefixFree = {
 	// Why are we doing this instead of iterating over properties in a .style object? Cause Webkit won't iterate over those.
 	var iterate = function(property) {
 		if(property.charAt(0) === '-') {
-			properties.push(property);
+			properties.push(property)
 			
 			var parts = property.split('-'),
 				prefix = parts[1];
@@ -304,7 +304,7 @@ var self = window.PrefixFree = {
 	}
 	else {
 		for(var property in style) {
-			iterate(StyleFix.deCamelCase(property));
+			iterate(StyleFix.deCamelCase(property))
 		}
 	}
 
@@ -344,12 +344,12 @@ var self = window.PrefixFree = {
 		self.properties.push('transform', 'transform-origin');	
 	}
 	
-	self.properties.sort();
+	self.properties.sort ();
 })();
 
-/**************************************
+/ **************************************
  * Values
- **************************************/
+ ************************************** /
 (function() {
 // Values that might need prefixing
 var functions = {
@@ -367,7 +367,7 @@ var functions = {
 	},
 	'cross-fade': {
 		property: 'backgroundImage',
-		params: 'url(a.png), url(b.png), 50%'
+		params: 'url (a.png), url (b.png), 50%'
 	}
 };
 
@@ -432,9 +432,9 @@ for (var keyword in keywords) {
 
 })();
 
-/**************************************
+/ **************************************
  * Selectors and @-rules
- **************************************/
+ ************************************** /
 (function() {
 
 var 
@@ -466,7 +466,7 @@ for(var selector in selectors) {
 	var test = selector + (selectors[selector]? '(' + selectors[selector] + ')' : '');
 		
 	if(!supported(test) && supported(self.prefixSelector(test))) {
-		self.selectors.push(selector);
+		self.selectors.push(selector)
 	}
 }
 
@@ -474,11 +474,11 @@ for(var atrule in atrules) {
 	var test = atrule + ' ' + (atrules[atrule] || '');
 	
 	if(!supported('@' + test) && supported('@' + self.prefix + test)) {
-		self.atrules.push(atrule);
+		self.atrules.push(atrule)
 	}
 }
 
-root.removeChild(style);
+root.removeChild(style)
 
 })();
 
@@ -491,7 +491,7 @@ self.valueProperties = [
 // Add class for current prefix
 root.className += ' ' + self.prefix;
 
-StyleFix.register(self.prefixCSS);
+StyleFix.register(self.prefixCSS)
 
 
 })(document.documentElement);
