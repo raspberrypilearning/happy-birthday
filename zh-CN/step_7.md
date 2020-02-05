@@ -1,49 +1,51 @@
 ## 制作一张生日贺卡
 
-让我们使用学到的 HTML 和 CSS 相关知识来制作你自己的定制生日贺卡。
+让我们使用你已经学到的关于HTML和CSS的知识来制作你自己的自定义生日卡吧。
 
-+ 打开 [这个 trinket](http://jumpto.cc/web-card){:target="_blank"}。
++ 打开 [这个trinket](https://trinket.io/html/1b59f747ec){:target="_blank"}。
 
-我们编写了许多代码来使你们入门，但生日贺卡目前看起来相当无趣，因此你要对 HTML 和 CSS 代码做出一些改动。
+我们已经写了很多代码来帮助您入门，但是到目前为止，生日贺卡看起来很无聊，因此您将对HTML和CSS代码进行一些更改。
 
-+ 点击贺卡封面的按钮，你会看到封面开启，展示出内页。
++ 单击卡正面的按钮，您应该看到它会打开并露出里面的内容。
 
-![screenshot](images/birthday-click.png)
+![截图](images/birthday-click.png)
 
-+ 转向 HTML 代码的第 14 行。尝试编辑文本来使你的贺卡个性化。
++ 转到HTML代码的第14行。尝试编辑文本以自定义您的卡片。
 
-![screenshot](images/birthday-card-html.png)
+![截屏](images/birthday-card-html.png)
 
-+ 你能否找到机器人图片的 HTML 代码，然后把 `robot` 这个词改为 `sun`？
++ 您能找到机器人图像的HTML代码，并更改单词`robot`为`sun` 吗？
 
 --- hints ---
---- hint ---
-+ 请查看第 17 行找到该代码。
-+ 将 `robot` 这个词改为 `sun`，你会发现图片随之改变！
+ --- hint ---
 
-![screenshot](images/birthday-card-sun.png)
---- /hint ---
---- /hints ---
++ 在第17行上查找此代码。
++ 将单词`robot`更改为`sun`，您将看到图像更改！
 
-你的生日贺卡可使用 `boy`、`diamond`、`dinosaur`、`flowers`、​`girl`、`rainbow`、`robot`、`spaceship`、`sun`、`tea` 或 `trophy` 中的任何一个词，如果你想制作一张圣诞贺卡，你可以使用 `cracker`、`elf`、`penguin`、`present`、`reindeer`、`santa` 或 `snowman`。
+![截屏](images/birthday-card-sun.png)
 
-你还可以编辑生日贺卡的 CSS 代码。
+--- /hint ------ /hints ---
 
-+ 点击 `style.css` 选项卡。第一部分是贺卡**外部**的所有 CSS 样式。
+您可以使用任何一个单词`boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, 或`trophy` 生日卡，或`cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, 或`snowman` 如果你希望制作圣诞卡的话。
 
-+ 将 `background-color` 变更为 `lightgreen`。
+您还可以编辑生日贺卡的CSS代码。
 
-![screenshot](images/birthday-card-outside.png)
++ 单击选项卡上的`style.css` 。第一部分是生日卡**外部**的所有CSS样式。
 
-+ 你还可以更改图片的尺寸。转向 `#outside-pic` CSS 代码，将外部图片的 `width` 和 `height` 更改为 `200px`（`px` 指像素）。
++ 更改`background-color`（背景色）至``lightgreen（浅绿色）。
 
-![screenshot](images/birthday-card-size.png)
+![截屏](images/birthday-card-outside.png)
 
-+ 字体也可进行更改。转向 `#outside-title` CSS 并将 `font-family` 更改为 `Comic Sans MS`，`font-size` 更改为 `16pt`。
++ 您还可以更改图像的大小。 转到CSS代码的`＃outside-pic`（外部图像），并更改`width`（宽度）和`height`（高度）外部图像的像素为`200px`（`px`代表像素）。
 
-![screenshot](images/birthday-card-font.png)
+![截屏](images/birthday-card-size.png)
 
-你可以使用其他字体，比如：
-+ `<span style="font-family: Arial;">arial</span>`
++ 字体也可以更改。转到`＃outside-title`（外部标题）CSS并将`font-family`设为`Comic Sans MS`、将`font-size`设为`16pt` 。
+
+![截屏](images/birthday-card-font.png)
+
+您可以使用其他字体，例如：
+
++ `<span style="font-family: Arial;">Arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
 + `<span style="font-family: tahoma;">Tahoma</span>`

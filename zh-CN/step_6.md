@@ -1,9 +1,10 @@
 --- challenge ---
+
 ## 挑战：添加更多样式
 
-+ 你能否使文本段落变为橙色？
++ 您可以将文本的段落设为橙色吗？
 
-+ 你能否通过更改 `body` 属性来使背景变为灰色？
++ 你可以通过更改`body`属性来使背景为灰色吗？
 
 ![screenshot](images/birthday-more-style.png)
 

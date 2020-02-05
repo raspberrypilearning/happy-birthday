@@ -1,25 +1,25 @@
-## भूमिका
+## परिचय
 
-इस प्रोजेक्ट में, आपको जन्मदिन का कार्ड अपना स्वयं का कस्टमाइज़्ड करने के बारे में सिखाकर HTML और CSS से परिचित कराया जाएगा।
+इस परियोजना में, आपका अपना स्वनिर्धारित जन्मदिन कार्ड कैसे बनाया जाये को सीखकर आपको HTML और CSS से परिचित कराया जाएगा।
 
 ### आप क्या बनाएँगे
 
-जन्मदिन का कार्ड खोलने के लिए बटन पर क्लिक करें:
+जन्मदिन कार्ड खोलने के लिए बटन पर क्लिक करें:
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/46cc3d8e83?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/birthday-final.png">
 </div>
 
 ### आप क्या सीखेंगे
 
-यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यचर्या](http://rpf.io/curriculum){:target="_blank"} में से निम्नलिखित गुणों के तत्वों को कवर करता है:
+ये परियोजना [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum){:target="_blank"} के निम्नलिखित तत्वों को सम्मिलित करता है:
 
-+ [आधारभूत 2D और 3D संपदाएँ डिज़ाइन करें](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}।
++ [बुनियादी 2D और 3D सामग्री डिजाइन करें](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}।
 
 ### शिक्षकों के लिए अतिरिक्त जानकारी
 
-यदि आपको यह प्रोजेक्ट प्रिंट करना हो, कृपया [प्रिंटर के अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} का उपयोग करें।
+अगर आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/hi-IN/projects/happy-birthday/print){:target="_blank"} का उपयोग करें।
 
-इस प्रोजेक्ट के लिए GitHub रेपो का उपयोग करने के लिए फुटर में दिए लिंक का उपयोग करें, जिसमें ‘en/resources’ फोल्डर में सभी संसाधन (तैयार प्रोजेक्ट के उदाहरण सहित) शामिल हैं।
+इस परियोजना के GitHub रेपो तक पहुंँचने के लिए फुटर में दिए लिंक का उपयोग करें, जिसके 'hi-IN/resources’ फोल्डर के अंदर सभी संसाधन (एक पूर्ण परियोजना के उदाहरण सहित) हैं।

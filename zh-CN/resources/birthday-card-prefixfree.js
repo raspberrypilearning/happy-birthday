@@ -157,7 +157,7 @@ var self = window.StyleFix = {
  * Process styles
  **************************************/
 (function(){
-	setTimeout(function(){
+	(function(){
 		$('link[rel="stylesheet"]').forEach(StyleFix.link);
 	}, 10);
 	
