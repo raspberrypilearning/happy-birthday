@@ -17,9 +17,9 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: 介绍
+  - title: 简介
   - title: 你将需要什么
-  - title: 什么是 HTML？
+  - title: HTML 是什么
   - title: '挑战：添加另一段落'
   - title: 什么是 CSS？
   - title: '挑战：添加更多样式'

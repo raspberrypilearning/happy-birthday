@@ -8,7 +8,7 @@
 
 ![screenshot](images/birthday-final.png)
 
-您可以在[此处](http://jumpto.cc/colours)找到更多CSS颜色名称{:target="_blank"}。
+您可以在[此处](http://jumpto.cc/colours){:target="_blank"}找到更多CSS颜色名称。
 
 + 一旦您完成了您的卡片，您可以分享或发送电子邮件给某人。
 

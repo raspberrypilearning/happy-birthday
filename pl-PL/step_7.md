@@ -30,7 +30,7 @@ Możesz użyć dowolnego z tych słów `boy`, `diamond`, `dinosaur`, `flowers`, 
 
 Możesz również edytować kod CSS kartki urodzinowej.
 
-+ Kliknij zakładkę `style.css`. Pierwsza część to wszystkie style CSS ** na zewnątrz ** kartki.
++ Kliknij zakładkę `style.css`. Pierwsza część to wszystkie style CSS **na zewnątrz** kartki.
 
 + Zmień kolor tła `background-color` na `lightgreen`.
 

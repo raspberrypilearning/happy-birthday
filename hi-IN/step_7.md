@@ -46,6 +46,6 @@ HTML और CSS के बारे में आपने जो सीखा �
 
 आप अन्य फोंट का उपयोग कर सकते हैं, उदाहरण के लिए:
 
-+ `<code> <span style="font-family: Arial;">Arial</span>`</code>
-+ `<code><span style="font-family: Impact;">Impact</span>`</code>
-+ `<code> <span style="font-family: Arial;">arial</span>`</code>
++ `<span style="font-family: Arial;">Arial</span>`
++ `<span style="font-family: Impact;">Impact</span>`
++ `<span style="font-family: tahoma;">Tahoma</span>`
