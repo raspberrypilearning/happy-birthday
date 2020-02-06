@@ -20,7 +20,7 @@ Możesz znaleźć więcej nazw kolorów CSS [tutaj](http://jumpto.cc/colours){:t
 ***
 Ten projekt został przetłumaczony przez wolontariuszy:
 
-Emilio Kielar
+Emil Kielar
 
 Marcin Sielski
 
