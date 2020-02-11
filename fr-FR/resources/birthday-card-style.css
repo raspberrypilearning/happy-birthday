@@ -1,0 +1,66 @@
+#exterieur {
+  z-index: 1;
+  position: absolute;
+  background-color: lightgray;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: 1s;
+  transform-origin: 0;
+}
+
+.ouvrir-carte {
+  transform: rotateY(90deg);
+}
+
+#titre-exterieur {
+  color: black;
+  font-family: Courier;
+  font-size: 12pt;
+  text-align: center;
+}
+
+#img-exterieur {
+  width: 150px;
+  height: 150px;
+}
+
+#aide-exterieur {
+  color: black;
+  font-family: Courier;
+  font-size: 12pt;
+  text-align: center;
+  padding: 20px;
+}
+
+#interieur {
+  z-index: 0;
+  position: absolute;
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+#titre-interieur {
+  color: black;
+  font-family: Courier;
+  font-size: 12pt;
+  text-align: center;
+}
+
+#img-interieur {
+  width: 50px;
+  height: 150px;
+}
+
+#message {
+  color: black;
+  font-family: Courier;
+  font-size: 12pt;
+  text-align: center;
+}
+
+button {
+  background: silver;
+}
