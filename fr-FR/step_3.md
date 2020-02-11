@@ -18,7 +18,7 @@ HTML utilise des **balises** pour construire des pages web. Trouve ce code HTML 
 <p>Salut, je m'appelle Andy.</p>
 ```
 
-`<p>` est un exemple de balise et est un raccourci pour ** paragraphe ** . Tu peux commencer un paragraphe avec `<p>` et terminer un paragraphe avec `</p>` .
+`<p>` est un exemple de balise et est un raccourci pour **paragraphe** . Tu peux commencer un paragraphe avec `<p>` et terminer un paragraphe avec `</p>` .
 
 + Peux-tu repérer d'autres balises ?
 
