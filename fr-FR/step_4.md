@@ -1,23 +1,15 @@
-## CSS, c'est quoi?
+--- challenge ---
 
-CSS veux dire __Cascading Style Sheets__ (En Francais, page de style en cascade), et c'est le language utilisé pour rendre les page internet plus jolies. Tu peux lier ta page internet avec ton fichier CSS dans le `<head>` de ton document HTML comme ceci:
+## Défi: Ajouter un autre paragraphe
 
-![screenshot](images/birthday-css-link.png)
+- Peux-tu ajouter un troisième paragraphe de texte sur ta page web, sous les deux autres ?
 
-+ CSS liste toutes les __propriétés__ pour un tag en particulier. Clique sur l'onglet 'style.css' pour voir le CSS de ta page.
+Rappelle-toi que ton nouveau paragraphe doit commencer par une balise `<p>`, et se finir par une autre balise `</p>`.
 
-	![screenshot](images/birthday-css-tab.png)
+Voici à quoi doit ressembler ta page web :
 
-+ Trouve ce code:
+![capture d'écran](images/birthday-paragraph.png)
 
-	```
-	p {
-		color: black;
-	}
-	```
+Peux-tu ajouter du texte **en gras** et <u>souligné</u>à ton nouveau paragraphe ? Utilise les balises `<u>` et `</u>` pour souligner le texte.
 
-	Ce code CSS est a une propriété pour les paragraphes, qui va changer la couleur du texte en noir
-
-+ Change le mode 'black' (noir en Francais) dans le CSS, par 'blue' (bleu en Francais). Tu devrais voir la couleur de tous les paragraphes changer en bleu.
-
-	![screenshot](images/birthday-edit-css.png)
+--- /challenge ---

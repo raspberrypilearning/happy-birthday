@@ -1,50 +1,25 @@
 ## Introduction
 
-Dans ce projet, les enfants vont apprendre les tags HTML et les propriétés CSS. Ils apprendront également a editer les tags et propriété pour crée leur propre carte de voeux.
+Dans ce projet, tu découvriras HTML et CSS en apprenant comment faire ta propre carte d'anniversaire personnalisée.
+
+### Ce que tu feras
+
+Clique sur le bouton pour ouvrir la carte d'anniversaire :
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/e996dc0380?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/58c767ac03?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/birthday-final.png">
 </div>
 
-## Ressources en ligne
+### Ce que tu vas apprendre
 
-Nous recommandons l'utilisation de [trinket](https://trinket.io/) pour écrire du HTML et CSS en ligne. Ce projet contient les Trinket suivants:
+Ce projet couvre les éléments des sections suivantes du [Programme Raspberry Pi de création numérique](http://rpf.io/curriculum){:target="_blank"}:
 
-+ ['Intro to HTML and CSS' starting point](https://trinket.io/html/850a678202)
-+ ['Birthday Card' starting point  -- jumpto.cc/web-card](http://jumpto.cc/web-card)
++ [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-Les enfants peuvent aussi se servir d'un trinket vide [(jumpto.cc/trinket-blank)](http://jumpto.cc/trinket-blank) pour ecrire leurs propres HTML et CSS, ou bien ils peuvents utiliser l'exemple suivant [(jumpto.cc/trinket-template)](http://jumpto.cc/trinket-template).
+### Informations supplémentaires pour les éducateurs
 
-Il y a aussi un trinket contenant une solution aux exercices
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/fr-FR/projects/happy-birthday/print){:target="_blank"} .
 
-+ ['Carte d'anniversaire' terminé](https://trinket.io/html/e996dc0380)
-
-## Ressource hors-ligne
-
-Ce projet peut etre [complété hors-ligne](../html-css.html) si besoin. Vous pouvez accéder au ressources du projet en cliquant sur les liesn 'Download Project Materials'. Le lien contient un dossier 'Project Resources', qui contient les ressources pour que les enfants puissent compléter leur projet hors-ligne. Soyez sure que chaque enfant est acces a ces ressources. Ce dossier inclus:
-
-+ intro.html
-+ template/template.html
-+ template/style.css
-+ birthday/BirthdayCard.html
-+ birthday/style.css
-+ birthday/script.js
-+ birthday/10 x .png images
-
-Vous pouvez aussi trouver une version complete des défis de ce projet dans le dossier 'Club Leader Resources', contenant:
-
-+ birthday-finished/BirthdayCardFinished.html
-+ birthday-finished/style.css
-+ birthday-finished/script.js
-+ birthday-finished/rainbow.png
-+ birthday-finished/dinosaur.png
-
-## Objectif de la lesson
-+ Ce projet introduit les tags HTML et les propriétés CSS, et permet aux enfants d'editer du contenu et de le stylisé.
-
-## Défis
-+ "Ajouter un autre paragraphe" - ajouter un tag HTML a un document;
-+ "Ajouter plus de style" - éditer des styles CSS;
-+ "Créer une carte personalisé" - éditer du HTML et CSS pour créer une carte de voeux personalisé.
+Utilisez le lien dans le pied de page pour accéder au dépôt GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'fr-FR/resources'.
