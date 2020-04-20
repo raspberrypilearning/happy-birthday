@@ -1,10 +1,10 @@
-## Introduction
+## Вступ
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+У цьому проекті ти познайомишся із HTML та CSS, навчаючись створювати власну листівку на день народження.
 
-### What you will make
+### Що ти зробиш
 
-Click the button to open the birthday card:
+Натисни кнопку, щоб відкрити вітальну листівку:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Click the button to open the birthday card:
   <img src="images/birthday-final.png">
 </div>
 
-### What you will learn
+### Чому ти навчишся
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Розробка простих 2D та 3D-ресурсів ](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Additional information for educators
+### Додаткова інформація для викладачів
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайся [версією для друку](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Скористайтеся посиланням унизу сторінки, щоб отримати доступ до GitHub-репозиторію для даного проєкту, що містить усі ресурси (включаючи приклад готового проєкту) в папці ‘en/resources’.
