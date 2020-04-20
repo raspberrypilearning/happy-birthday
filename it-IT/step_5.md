@@ -22,6 +22,6 @@ p {
 
 Questo codice CSS determina una proprietà per i paragrafi (`p`), che dice che il colore del testo deve essere nero. Si noti l'ortografia americana: 'color'.
 
-+ Sostituisci la parola 'black' nel codice CSS con 'blue'. Si dovrebbe vedere il colore del testo di tutti i paragrafi cambiare in blu.
++ Sostituisci la parola 'black' nel codice CSS con 'blue'. Si dovrebbe vedere il colore del testo di tutti i paragrafi diventare blu.
 
 ![screenshot](images/birthday-edit-css.png)
