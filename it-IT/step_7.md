@@ -1,49 +1,49 @@
-## Making a birthday card
+## Creare un biglietto d'auguri
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Usiamo quello che hai imparato sull'HTML e su CSS per creare il tuo biglietto d'auguri personalizzato.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Apri [questo trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Abbiamo scritto un sacco di codice per iniziare, ma il biglietto d'auguri sembra abbastanza noioso per ora, quindi potrai fare alcune modifiche al codice HTML e CSS.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Fai clic sul pulsante sulla parte anteriore del biglietto e si aprirà per rivelare l'interno.
 
 ![screenshot](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Vai alla riga 14 del codice HTML. Prova a modificare il testo per personalizzare il tuo biglietto.
 
-![screenshot](images/birthday-card-html.png)
+![schermata](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Riesci a trovare il codice HTML per l'immagine del robot e modificare la parola ` robot ` a ` sole `?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Cerca sulla riga 17 per trovare il codice.
++ Cambia la parola ` robot ` a ` sole ` e vedrai l'immagine cambiare!
 
 ![screenshot](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Puoi usare una qualsiasi delle parole ` ragazzo `, ` diamante `, ` dinosauro `, ` fiori `, ` ragazza `, ` arcobaleno `, ` robot `, ` astronave `, ` sole `, ` tè ` o ` trofeo ` per un biglietto d'auguri o ` cracker `, ` elfo `, ` pinguino `, ` regalo`, ` renna `, ` babbo natale` o ` pupazzo di neve ` se preferisci realizzare una cartolina di Natale.
 
-You can also edit the CSS code of the birthday card.
+Puoi anche modificare il codice CSS del biglietto d'auguri.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Fare clic sulla scheda per ` style.css `. La prima parte è costituita da tutti gli stili CSS per ** l'esterno ** del biglietto.
 
-+ Change the `background-color` to `lightgreen`.
++ Cambia il ` colore di sfondo ` a ` verde chiaro `.
 
 ![screenshot](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ Puoi anche cambiare la dimensione di un'immagine. Vai al codice CSS `#outside-pic` e cambia la `larghezza` e `altezza` dell'immagine esterna a `200px` (`px` sta per pixel).
 
-![screenshot](images/birthday-card-size.png)
+![schermata](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ Anche il carattere può essere cambiato. Vai a ` # titolo esterno ` CSS e modifica la `famiglia di caratteri ` a ` Comic Sans MS ` e la ` dimensione del carattere ` a ` 16pt `.
 
 ![screenshot](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Puoi usare altri caratteri, ad esempio:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
