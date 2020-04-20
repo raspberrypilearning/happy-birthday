@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## Sfida: aggiungi più stili
 
-+ Can you make the paragraphs of text orange?
++ Puoi rendere i paragrafi del testo arancioni?
 
-+ Can you make the background grey by changing the `body` property?
++ Puoi creare lo sfondo grigio cambiando la proprietà `body`?
 
 ![screenshot](images/birthday-more-style.png)
 
