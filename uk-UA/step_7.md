@@ -1,49 +1,49 @@
-## Making a birthday card
+## Створення вітальної листівки
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Давай використаємо те, що ти вже знаєш про HTML та CSS, щоб створити свою власну листівку.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Відкрий [цей trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Ми вже написали для тебе багато коду, але поки листівка виглядає досить нудно, тому тобі потрібно внести деякі зміни в код HTML та CSS.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Натисни кнопку на передній частині листівки, вона повинна відкритися, щоб можна було побачити те, що знаходиться всередині.
 
-![screenshot](images/birthday-click.png)
+![знімок екрана](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Перейди до рядка 14 HTML-коду. Спробуй відредагувати текст, щоб змінити листівку.
 
-![screenshot](images/birthday-card-html.png)
+![знімок екрана](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Зможеш знайти HTML-код для картинки робота і змінити слово `robot` (робот) на `sun` (сонце)?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Знайди рядок 17, щоб побачити код.
++ Зміни слово `robot` на `sun` і ти побачиш як зміниться картинка!
 
-![screenshot](images/birthday-card-sun.png)
+![знімок екрана](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Використовуй будь-яке з наступних слів `boy` (хлопчик), `diamond` (діамант), `dinosaur` (динозавр), `flowers` (квіти), `girl` (дівчинка), `rainbow` (веселка), `robot` (робот), `spaceship` (космічний корабель), `sun` (сонце), `tea` (чай), or `trophy` (кубок) для листівки до дня народження, або `cracker` (печиво), `elf` (ельф), `penguin` (пінгвін), `present` (подарунок), `reindeer` (олень), `santa` (Санта) або `snowman` (сніговик), якщо хочеш зробити різдвяну листівку.
 
-You can also edit the CSS code of the birthday card.
+Також ти можеш редагувати CSS-код листівки.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Натисни на вкладку `style.css`. Перша частина — це всі стилі CSS для **зовнішньої частини (outside)** листівки.
 
-+ Change the `background-color` to `lightgreen`.
++ Зміни `background-color` на `lightgreen`.
 
-![screenshot](images/birthday-card-outside.png)
+![знімок екрана](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ Також ти можеш змінити розмір картинки. Перейди до CSS-коду `#outside-pic` і зміни `width` (ширина) та `height` (висота) зовнішньої картинки на `200px` (`px` означає пікселі).
 
-![screenshot](images/birthday-card-size.png)
+![знімок екрана](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ Можна також змінити шрифт. Перейди до `#outside-title` CSS-коду і зміни `font-family` на `Comic Sans MS` та `font-size` на `16pt`.
 
-![screenshot](images/birthday-card-font.png)
+![знімок екрана](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Ти можеш використовувати інші шрифти, наприклад:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
