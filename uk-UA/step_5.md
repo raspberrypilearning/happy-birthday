@@ -1,18 +1,18 @@
-## What is CSS?
+## Що таке CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS означає **Cascading Style Sheets** (каскадні таблиці стилів). Це мова, яку використовують для стилізації вебсторінок, та для того, щоб зробити їх приваблими.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Цей код пов'язує твою вебсторінку з CSS-файлом — спробуй знайти його в `<head>` HTML-документа:
 
-![screenshot](images/birthday-css-link.png)
+![знімок екрана](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS перераховує всі **властивості** для конкретного тегу.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ Натисни на вкладку `style.css`, щоб побачити код CSS для твоєї вебсторінки.
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![знімок екрана](images/birthday-css-tab.png)
 
-+ Find this code:
++ Знайди цей код:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Цей CSS-код визначає властивість абзаців (`p`), яка показує, що колір тексту має бути чорним. Зверни увагу на американське написання: "color".
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ Зміни слово "black" (чорний) в коді CSS на "blue" (синій). Колір тексту всіх абзаців має змінитися на синій.
 
-![screenshot](images/birthday-edit-css.png)
+![знімок екрана](images/birthday-edit-css.png)
