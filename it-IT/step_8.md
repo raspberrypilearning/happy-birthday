@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: create a personalised card
+## Sfida: crea una cartolina personalizzata
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ Usa tutto ciò che hai imparato su HTML e CSS per completare la creazione di una cartolina personalizzata. E non deve essere un biglietto di compleanno, potrebbe essere uno per gli auguri di Natale o in qualsiasi altra occasione!
 
-Here's an example:
+Ecco un esempio:
 
 ![screenshot](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Trova altri nomi di colori CSS [qua](http://jumpto.cc/colours){:target="_blank"}.
 
-+ Once you've finished your card, you can share or email it to someone.
++ Una volta terminato il biglietto, puoi condividerlo o inviarlo via email a qualcuno.
 
-![screenshot](images/birthday-share.png)
+![schermata](images/birthday-share.png)
 
 \--- /challenge \---
