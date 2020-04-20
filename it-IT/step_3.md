@@ -1,12 +1,12 @@
 ## Cos'è l'HTML?
 
-HTML sta per ** Hypertext Markup Language**, la lingua utilizzata per creare pagine Web. Diamo un'occhiata ad un esempio!
+HTML sta per ** Hypertext Markup Language**, il linguaggio utilizzato per creare pagine Web. Diamo un'occhiata a un esempio!
 
-Utilizzerai un sito Web chiamato trinket.io per scrivere codice HTML.
+Utilizzerai un sito Web chiamato trinket.io per scrivere con il codice HTML.
 
 + Apri [questo trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
-Il progetto dovrebbe assomigliare a questo:
+Il progetto dovrebbe presentarsi così:
 
 ![screenshot](images/birthday-starter.png)
 
