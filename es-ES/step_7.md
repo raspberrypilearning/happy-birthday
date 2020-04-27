@@ -2,7 +2,7 @@
 
 Vamos a usar lo que has aprendido sobre HTML y CSS para crear tu propia tarjeta de cumpleaños personalizada.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Abre [este trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
 Hemos escrito un montón de código para que comiences, pero la tarjeta de cumpleaños hasta este momento parece bastante aburrida, así que vas a hacer algunos cambios en el código HTML y CSS.
 
@@ -21,13 +21,13 @@ Hemos escrito un montón de código para que comiences, pero la tarjeta de cumpl
 + Mira en la línea 17 para encontrar el código.
 + Cambia la palabra `robot` por `sun`, y verás que la imagen cambia!
 
-![screenshot](images/birthday-card-sun.png)
+![captura de pantalla](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Puedes user cualquieras de las palabras siguientes `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, o `trophy` para una tarjeta de cumpleaños, o `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, o `snowman` si prefieres hacer una tarjeta de Navidad.
 
-You can also edit the CSS code of the birthday card.
+También puedes editar el código CSS de la tarjeta de cumpleaños.
 
 + Toca la pestaña de `style.css`. La primera parte son todos los estilos CSS para el **exterior** de la tarjeta.
 
@@ -43,7 +43,7 @@ You can also edit the CSS code of the birthday card.
 
 ![screenshot](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Puedes usar otras fuentes, por ejemplo:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
