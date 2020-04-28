@@ -1,18 +1,18 @@
-## What is CSS?
+## CSS nedir?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS, **Basamaklanmış Stil Katmanları** (Cascading Style Sheets) anlamına gelir, internet sayfalarını şekillendirmek ve güzel görünmelerini sağlamak için kullanılan bir dildir.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Bu kod internet sayfanızı bir CSS dosyasına bağlar - HTML belgesinin içinde `<head>` etiketini bulabilecek misiniz bakalım:
 
-![screenshot](images/birthday-css-link.png)
+![ekran görüntüsü](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS, belirli bir etiketin tüm **özelliklerini** listeler.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ İnternet sayfanızın CSS kodunu görmek için `style.css` sekmesine tıklayın.
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![ekran görüntüsü](images/birthday-css-tab.png)
 
-+ Find this code:
++ Bu kodu bulun:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Bu CSS kodu, paragrafta (`p`) metin renginin siyah olması gerektiğini söyleyen özelliği belirler. 'color' kelimesinin Amerikan İngilizcesinde yazılmış olduğuna dikkat edin.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ CSS kodundaki 'black' kelimesini 'blue' olarak değiştirin. Paragraflarda ki tüm metinlerin renginin maviye döndüğünü görmelisiniz.
 
-![screenshot](images/birthday-edit-css.png)
+![ekran görüntüsü](images/birthday-edit-css.png)
