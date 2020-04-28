@@ -1,63 +1,63 @@
-## What is HTML?
+## HTML nedir?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML, internet sayfaları oluşturmakta kullanılan bir dil olan **Köprü Metni Biçimlendirme Dili** (Hypertext Markup Language) anlamına gelir. Hadi bir örneğe göz atalım!
 
-You'll be using a website called trinket.io to write HTML code.
+HTML kodu yazmak için trinket.io adlı bir internet sitesini kullanacaksınız.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ [Bu trinketi](http://jumpto.cc/web-intro){:target="_blank"} açın.
 
-The project should look like this:
+Proje şu şekilde gözükmeli:
 
-![screenshot](images/birthday-starter.png)
+![ekran görüntüsü](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+Solda görebileceğiniz kod HTML'dir. Trinket'ın sağ tarafında ise, HTML kodunun oluşturduğu internet sayfasını görebilirsiniz.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+HTML, internet sayfaları oluşturmak için **etiketler** kullanır. Yazdığınız kodun 8. satırında bu HTML kodunu arayın:
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p>Merhaba. Benim adım Andy.</p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`<p>` bir etiket örneğidir ve **paragraf** için kısaltmadır. Paragrafı `<p>` ile başlatabilir ve `</p>` ile sonlandırabilirsiniz.
 
-+ Can you spot any other tags?
++ Başka HTML etiketi bulabilir misiniz?
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Cevap
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+Görmüş olabileceğiniz bir diğer etiket `<b>`, **kalın** anlamına gelir:
 
 ```html
 <b>running</b>
 ```
 
-Here are some more:
+Birkaç tane daha etiket:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `<html>` ve `</html>` HTML belgesinin başlangıcını ve sonunu işaret eder
++ `<head>` ve `</head>` CSS gibi şeylerin eklendiği yerdir (daha sonra değineceğiz)
++ `<body>` ve `</body>`, internet sitenizin içeriğinin geçtiği yerdir
 
-![screenshot](images/birthday-head-body.png)
+![ekran görüntüsü](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ HTML dosyasındaki metin paragraflarından birinde (solda) değişiklik yapın. **Çalıştır**'a tıkladığınızda, (sağda) web sayfanızın değiştiğini görmelisiniz!
 
-![screenshot](images/birthday-edit-html.png)
+![ekran görüntüsü](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ Bir hata yaptıysanız ve tüm değişikliklerinizi geri almak istiyorsanız, **menu** düğmesine ve ardından **Reset** düğmesine tıklayabilirsiniz.
 
-![screenshot](images/birthday-reset.png)
+![ekran görüntüsü](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+Sadece yaptığınız son işlemi geri almak için ise, `Ctrl` ve `z` tuşlarına birlikte basabilirsiniz.
 
-### You don't need a Trinket account to save your projects!
+### Projelerinizi kaydetmek için bir Trinket hesabına ihtiyacınız yok!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Bir Trinket hesabınız yoksa, **aşağı** okuna ve ardından **bağlantıya** tıklayın. Bu size kaydedebileceğiniz ve daha sonra geri dönebileceğiniz bir bağlantı verecektir. Her değişiklik yaptığınızda, bağlantı değişeceğinden bunu tekrar yapmanız gerekecektir!
 
-![screenshot](images/birthday-link.png)
+![ekran görüntüsü](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+Eğer bir Trinket hesabınız varsa, internet sayfanızı kaydetmenin en kolay yolu trinket'ın üst kısmındaki **Remix** düğmesine tıklamaktır. Bu trinket'ın bir kopyasını profilinize kaydedecektir.
 
-![screenshot](images/birthday-remix.png)
+![ekran görüntüsü](images/birthday-remix.png)
