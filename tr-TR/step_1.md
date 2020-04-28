@@ -1,10 +1,10 @@
-## Introduction
+## Giriş
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+Bu projede, kendi doğum günü kartınızı nasıl yapacağınızı öğrenerek HTML ve CSS ile tanışacaksınız.
 
-### What you will make
+### Ne yapacaksınız
 
-Click the button to open the birthday card:
+Doğum günü kartını açmak için düğmeye tıklayın:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Click the button to open the birthday card:
   <img src="images/birthday-final.png">
 </div>
 
-### What you will learn
+### Ne öğreneceksiniz
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){@ target = "_ blank"} 'un aşağıdaki bölümünden bilgiler kapsamaktadır:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Basit 2D ve 3D varlıklar tasarlama](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
 
-### Additional information for educators
+### Eğitimciler için ek bilgiler
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürüm](https://projects.raspberrypi.org/en/projects/happy-birthday/print) 'ü kullanın {: target = "_ blank"} .
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Bu projenin ‘en/resources’ klasöründeki tüm kaynakları (örnek bitmiş bir proje de dahil olmak üzere) içeren GitHub Repo'suna erişmek için altbilgideki bağlantıyı kullanın.
