@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## Meydan okuma: daha fazla stil ekleyin
 
-+ Can you make the paragraphs of text orange?
++ Metin paragraflarının rengini turuncu yapabilir misiniz?
 
-+ Can you make the background grey by changing the `body` property?
++ `body` özelliğini değiştirerek arka planı gri yapabilir misiniz?
 
-![screenshot](images/birthday-more-style.png)
+![ekran görüntüsü](images/birthday-more-style.png)
 
 \--- /challenge \---
