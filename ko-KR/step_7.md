@@ -2,7 +2,7 @@
 
 그럼 지금까지 배운 HTML과 CSS를 이용하여 자신만의 생일 카드를 만들어 봅시다.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ [trinket 열기](https://trinket.io/html/b33e4f4ca8){:target="_blank"}
 
 지금까지 많은 코드를 작성했지만, 생일 카드는 지금까지 꽤 지루해 보였으므로 아래와 같이 HTML 및 CSS 코드를 일부 변경해야 합니다.
 
@@ -21,13 +21,13 @@
 + 17번째 줄에 있는 코드를 보세요.
 + `robot`을 `sun`으로 바꾸면, 이미지가 바뀝니다!
 
-![screenshot](images/birthday-card-sun.png)
+![스크린샷](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+`boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` 를 생일 카드에 쓸 수 있으며, `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, `snowman` 를 크리스마스 카드에 쓸 수 있습니다.
 
-You can also edit the CSS code of the birthday card.
+생일 카드의 CSS 코드도 수정해야 합니다.
 
 + `style.css` 탭을 클릭해보세요. 첫번째 부분은 카드**바깥쪽**에 쓰이는 CSS 코드입니다.
 
@@ -41,9 +41,9 @@ You can also edit the CSS code of the birthday card.
 
 + 폰트도 바꿀 수 있습니다.`#outside-title` 에서 `font-family`를 `Comic Sans MS`로, `font-size` 를 `16pt`로 바꿔보세요.
 
-![screenshot](images/birthday-card-font.png)
+![스크린샷](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+다른 폰트를 사용하고 싶으시다면 아래와 같이 코드를 작성하시면 됩니다.
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
