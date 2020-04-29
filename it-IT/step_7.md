@@ -40,7 +40,7 @@ Puoi anche modificare il codice CSS del biglietto d'auguri.
 
 ![schermata](images/birthday-card-size.png)
 
-+ Anche il carattere può essere cambiato. Vai a `# titolo esterno` CSS e modifica la `famiglia di caratteri` a `Comic Sans MS` e la `dimensione del carattere` a `16pt`.
++ Anche il carattere può essere cambiato. Vai a `#outside-title` CSS e modifica la `famiglia di caratteri` a `Comic Sans MS` e la `dimensione del carattere` a `16pt`.
 
 ![schermata](images/birthday-card-font.png)
 
