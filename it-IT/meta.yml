@@ -1,4 +1,5 @@
-hero_image: images/banner.png
+---
+hero_image: images/happy-birthday.png
 theme: turquoise
 duration: 2
 listed: true
@@ -6,8 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Buon compleanno
-description: Scopri come realizzare un biglietto di auguri personalizzato.
-original_url: https://projects.raspberrypi.org/en/projects/happy-birthday
+description: Crea un biglietto d'auguri online su una pagina web
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
 interests: art
 technologies: html-css-javascript
 site_areas: projects
@@ -15,11 +16,12 @@ hardware: ''
 software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
-steps: 
-- title: Introduzione
-- title: "Cos'è l'HTML?"
-- title: 'Sfida: Aggiungi un altro paragrafo'
-- title: "Cos'è il CSS?"
-- title: 'Sfida: Aggiungi più stile'
-- title: Creazione di un biglietto di auguri
-- title: 'Sfida: Crea un biglietto personalizzato'
+steps:
+  - title: Introduzione
+  - title: Di cosa avrai bisogno
+  - title: Cos'è l'HTML?
+  - title: 'Sfida: aggiungi un altro paragrafo'
+  - title: Cos'è il CSS?
+  - title: 'Sfida: aggiungi più stili'
+  - title: Creare un biglietto d'auguri
+  - title: 'Sfida: crea una cartolina personalizzata'

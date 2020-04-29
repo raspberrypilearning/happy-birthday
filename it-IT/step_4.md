@@ -1,23 +1,15 @@
-## Cos’è il CSS?
+--- challenge ---
 
-CSS significa __Cascading Style Sheets__. È il linguaggio utilizzato per lo stile delle pagine Web e renderle più belle. Puoi collegare la pagina Web a un file CSS nell’`<head>` di un documento HTML nel modo seguente:
+## Sfida: aggiungi un altro paragrafo
 
-![screenshot](images/birthday-css-link.png)
+- Riesci ad aggiungere un terzo paragrafo di testo alla tua pagina web, sotto gli altri due?
 
-+ Il CSS elenca tutte le __proprietà__ di un tag particolare. Fai clic sulla scheda "style.css" per visualizzare il CSS della tua pagina Web.
+Ricorda che il tuo nuovo paragrafo dovrebbe iniziare con un tag `<p>` e terminare con tag `</p>`.
 
-	![screenshot](images/birthday-css-tab.png)
+Ecco come dovrebbe apparire la tua pagina web:
 
-+ Trova questo codice:
+![schermata](images/birthday-paragraph.png)
 
-	```
-	p {
-		color: black;
-	}
-	```
+Riesci ad aggiungere testo in **grassetto** e <u>sottolineato</u> al tuo nuovo paragrafo? Usa i tag `<u>` e `</u>` per il testo sottolineato.
 
-	Questo codice CSS attribuisce una proprietà ai paragrafi, ossia che il colore del testo sia nero.
-
-+ Nel CSS, cambia la parola "black" con "blue". Vedrai che il colore del testo di tutti i paragrafi diventerà blu.
-
-	![screenshot](images/birthday-edit-css.png)
+--- /challenge ---
