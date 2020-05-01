@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## チャレンジ：さらに書式を追加する
 
-+ Can you make the paragraphs of text orange?
++ 段落（だんらく）の文字列の色を橙（だいだい）色にすることはできますか？
 
-+ Can you make the background grey by changing the `body` property?
++ `body`の属性（ぞくせい）を変更して背景色を灰色にできますか？
 
-![screenshot](images/birthday-more-style.png)
+![スクリーンショット](images/birthday-more-style.png)
 
 \--- /challenge \---
