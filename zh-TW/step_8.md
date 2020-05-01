@@ -8,7 +8,7 @@
 
 ![截圖](images/birthday-final.png)
 
-你可以在[這裡](http://jumpto.cc/colours)找到更多 CSS 上可用的顏色代碼{:target="_blank"}。
+你可以在[這裡](http://jumpto.cc/colours){:target="_blank"}找到更多 CSS 上可用的顏色代碼。
 
 + 一旦你完成了你的賀卡，你可以分享或透過電子郵件發送給別人。
 
