@@ -25,26 +25,26 @@ HTMLとCSSについて学んできたことを利用して、独自のバース�
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+バースデーカードをつくりたいなら`boy`（少年）、`diamond`（ダイヤモンド）、`dinosaur`（恐竜）、`flowers`（花）、`girl`（少女）、`rainbow`（虹（にじ））、`robot`（ロボット）、`spaceship`（宇宙船）、`sun`（太陽）、`tea`（お茶）、`trophy`（トロフィー）が、クリスマスカードをつくりたいなら、`cracker`（クラッカー）、`elf`（妖精）、`penguin`（ペンギン）、`present`（プレゼント）、`reindeer`（トナカイ）、`santa`（サンタ）、`snowman`(雪だるま)という単語が使えます。
 
-You can also edit the CSS code of the birthday card.
+バースデーカードのCSSコードも編集できます。
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ `style.css`タブを押します。最初の部分はカードの**外側**のためのCSS書式すべてです。
 
-+ Change the `background-color` to `lightgreen`.
++ `background-color`（背景色）を`lightgreen`（薄緑（うすみどり）色）に変更します。
 
-![screenshot](images/birthday-card-outside.png)
+![スクリーンショット](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ 画像の大きさも変更できます。 CSSコードの`#outside-pic`のところに行って、外側の画像の`width`（幅）と`height`（高さ）を`200px`（`px`は画素を表す）に変更します。
 
-![screenshot](images/birthday-card-size.png)
+![スクリーンショット](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ フォントも変更できます。 CSSの`#outside-title`のところに行って、`font-family`を`YuGothic,'Yu Gothic Medium'`に、`font-size`を`16pt`に変更します。
 
-![screenshot](images/birthday-card-font.png)
+![スクリーンショット](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+他のフォントも使えます。例えば：
 
-+ `<span style="font-family: Arial;">arial</span>`
-+ `<span style="font-family: impact;">Impact</span>`
-+ `<span style="font-family: tahoma;">Tahoma</span>`
++ `<span style="font-family: Arial;">エイリアル</span>`
++ `<span style="font-family: impact;">インパクト</span>`
++ `<span style="font-family: tahoma;">タホマ</span>`
