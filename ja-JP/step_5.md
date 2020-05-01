@@ -1,18 +1,18 @@
-## What is CSS?
+## CSSって何？
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSSは**Cascading Style Sheets（カスケーディングスタイルシート）**の略で、ウェブページの体裁（ていさい）を整えて見栄えを良くするのに使われる言語です。
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ このコードは、ウェブページをCSSファイルにひもづけます—それがHTML文書の`<head>`にあるか確認してください：
 
-![screenshot](images/birthday-css-link.png)
+![スクリーンショット](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSSは個別のタグの**属性**（ぞくせい）をすべて示します。
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ `style.css`タブを押すと、ウェブページのCSSコードが表示されます。
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![スクリーンショット](images/birthday-css-tab.png)
 
-+ Find this code:
++ このコードを見つけてみましょう：
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+このCSSコードは、段落（`p`）の属性（ぞくせい）を決定し、文字列の色が黒であることを示します。「color」がアメリカ英語のつづりであることに注意してください。
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ CSSコードの単語「black」を「blue」に変更してみましょう。すべての段落の文字列の色が青色に変わるはずです。
 
-![screenshot](images/birthday-edit-css.png)
+![スクリーンショット](images/birthday-edit-css.png)
