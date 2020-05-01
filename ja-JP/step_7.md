@@ -1,27 +1,27 @@
-## Making a birthday card
+## バースデーカードをつくる
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+HTMLとCSSについて学んできたことを利用して、独自のバースデーカードをつくってみましょう。
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ [このtrinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}を開きます。
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+みなさんがはじめられるようにたくさんのコードを書きましたが、これまでのバースデーカードはかなり退屈なので、HTMLコードとCSSコードを少し変更します。
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ カードの前面にあるボタンを押すと、中が見えるようにカードが開くはずです。
 
-![screenshot](images/birthday-click.png)
+![スクリーンショット](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ HTMLコードの14行目に移動します。文字列を編集してカードを変更してみましょう。
 
-![screenshot](images/birthday-card-html.png)
+![スクリーンショット](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ ロボット画像のHTMLコードを見つけて、`robot`という単語を`sun`に変更できますか？
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ コードを見つけるために17行目を見てください。
++ `robot`という単語を`sun`に変更してください。画像が変わるのがわかります！
 
-![screenshot](images/birthday-card-sun.png)
+![スクリーンショット](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
