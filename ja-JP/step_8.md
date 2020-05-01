@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: create a personalised card
+## チャレンジ：名前が入ったカードをつくる
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ HTMLとCSSについて学んだことをすべて使い、名前の入ったカードを完成させましょう。バースデーカードである必要はなくて、クリスマスや他の機会のためのものかもしれません！
 
-Here's an example:
+次に例を示します：
 
-![screenshot](images/birthday-final.png)
+![スクリーンショット](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+CSSで使う他の色の名前は[ここで](http://jumpto.cc/colours){:target="_blank"}見つけられます。
 
-+ Once you've finished your card, you can share or email it to someone.
++ カードが完成したら、誰かと共有したり電子メールで送ったりできます。
 
-![screenshot](images/birthday-share.png)
+![スクリーンショット](images/birthday-share.png)
 
-\--- /challenge \---
+\--- challenge \---
