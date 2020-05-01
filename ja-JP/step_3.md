@@ -1,63 +1,63 @@
-## What is HTML?
+## HTMLとは何ですか？
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTMLとは **Hypertext Markup Language（ハイパーテキストマークアップ言語）**の略で、ウェブページをつくるのに使う言語です。例を見てみましょう！
 
-You'll be using a website called trinket.io to write HTML code.
+trinket.ioというウェブサイトを使ってHTMLコードを書いていきます。
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ [このtrinket](http://jumpto.cc/web-intro){:target="_blank"}を開いてください。
 
-The project should look like this:
+プロジェクトはこのようになります。
 
-![screenshot](images/birthday-starter.png)
+![スクリーンショット](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+左側に表示されるコードがHTMLです。trinketの右側には、HTMLコードでつくられたウェブページが表示されます。
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+HTMLでは**タグ**を使ってウェブページをつくります。コードの8行目にある次のHTMLコードを探しましょう：
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p>こんにちは。私の名前はアンディです。</p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`<p>`はタグの例であり、**paragraph**段落（だんらく）の略です。`<p>`で段落（だんらく）を開始し、`</p>`で段落（だんらく）を終了します。
 
-+ Can you spot any other tags?
++ 他のタグを見つけられますか？
 
 ## \--- collapse \---
 
-## title: Answer
+## title: 答え
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+見つけられるもうの1つのタグは`<b>`で、これは**bold**太字を表します：
 
 ```html
-<b>running</b>
+<b>ランニング</b>
 ```
 
-Here are some more:
+他にもあります：
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `<html>`と`</html>`はHTML文書の開始と終了を示します。
++ `<head>`と`</head>`にはCSSのようなものが置かれるところです（のちほど説明します）
++ `<body>`と`</body>`にはウェブサイトの内容が置かれます。
 
-![screenshot](images/birthday-head-body.png)
+![スクリーンショット](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ （左側の）HTMLファイルにある段落（だんらく）の文字列を変更してみましょう。 **Run**を押すと、（右側に）変更したウェブページが表示されるはずです。
 
-![screenshot](images/birthday-edit-html.png)
+![スクリーンショット](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ 間違えてしまって変更をすべて元に戻したい場合は、**メニュー**ボタンを押し、**Reset**を押します。
 
-![screenshot](images/birthday-reset.png)
+![スクリーンショット](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+最後にやったことだけを元に戻すには、 `Ctrl`と`z`キーを同時に押します。
 
-### You don't need a Trinket account to save your projects!
+### プロジェクトを保存するのにTrinketアカウントは必要ありません！
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Trinketアカウントをもってない場合は、**下** 矢印を押し、**Link**を押します。 これにより、保存して後で戻ってくることができるリンクが得られます。 リンクが変更されるため、変更するたびにこれを行う必要があります。
 
-![screenshot](images/birthday-link.png)
+![スクリーンショット](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+Trinketアカウントをもってる場合、ウェブページを保存するいちばんかんたんな方法は、trinketの上部にある**Remix**ボタンを押すことです。これにより、プロファイルにtrinketのコピーを保存します。
 
-![screenshot](images/birthday-remix.png)
+![スクリーンショット](images/birthday-remix.png)
