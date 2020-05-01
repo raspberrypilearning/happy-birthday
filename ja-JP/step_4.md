@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## チャレンジ：段落（だんらく）をもうひとつ追加する
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- ウェブページの2つの段落（だんらく）の下に3番目の段落（だんらく）を追加できますか？
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+新しい段落（だんらく）は`<p>`タグで始まり、`</p>`タグで終わることを思い出してください。
 
-Here's how your webpage might look:
+ウェブページは次のようになります：
 
-![screenshot](images/birthday-paragraph.png)
+![スクリーンショット](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+**太字**や<u>下線付き</u>の文字列を新しい段落（だんらく）に追加できますか？下線付き文字列には`<u>`タグと`</u>`タグを使います。
 
-\--- /challenge \---
+\--- challenge \---
