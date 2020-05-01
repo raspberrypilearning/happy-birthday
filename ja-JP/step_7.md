@@ -45,6 +45,6 @@ HTMLとCSSについて学んできたことを利用して、独自のバース�
 
 他のフォントも使えます。例えば：
 
-+ `<span style="font-family: Arial;">エイリアル</span>`
-+ `<span style="font-family: impact;">インパクト</span>`
-+ `<span style="font-family: tahoma;">タホマ</span>`
++ `<span style="font-family: Arial;">arial</span>`
++ `<span style="font-family: impact;">Impact</span>`
++ `<span style="font-family: tahoma;">Tahoma</span>`
