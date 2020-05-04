@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## Repte: afegeix més estils
 
-+ Can you make the paragraphs of text orange?
++ Pots canviar el color dels paràgrafs de text a taronja?
 
-+ Can you make the background grey by changing the `body` property?
++ Pots fer que el fons sigui de color gris canviant una propietat de `body`?
 
-![screenshot](images/birthday-more-style.png)
+![captura de pantalla](images/birthday-more-style.png)
 
 \--- /challenge \---
