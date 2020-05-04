@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: create a personalised card
+## Repte: crea una targeta personalitzada
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ Utilitza tot el que has après sobre HTML i CSS per acabar de fer una targeta personalitzada. I no ha de ser una targeta d'aniversari, pot ser una per a Nadal o qualsevol altra ocasió!
 
-Here's an example:
+Aquí tens un exemple:
 
-![screenshot](images/birthday-final.png)
+![captura de pantalla](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Troba més noms de color CSS [aquí](http://jumpto.cc/colours) {:target="_ blank"}.
 
-+ Once you've finished your card, you can share or email it to someone.
++ Un cop hagis acabat la targeta, pots compartir-la o enviar-la per correu electrònic a qui vulguis.
 
-![screenshot](images/birthday-share.png)
+![captura de pantalla](images/birthday-share.png)
 
 \--- /challenge \---
