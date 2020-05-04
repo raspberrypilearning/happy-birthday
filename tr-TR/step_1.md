@@ -20,6 +20,6 @@ Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:ta
 
 ### Eğitimciler için ek bilgiler
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürüm](https://projects.raspberrypi.org/tr-TR/projects/happy-birthday/print) 'ü kullanın{:target="_blank"} .
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürüm](https://projects.raspberrypi.org/tr-TR/projects/happy-birthday/print){:target="_blank"} 'ü kullanın.
 
 Bu projenin ‘tr-TR/resources’ klasöründeki tüm kaynakları (örnek bitmiş bir proje de dahil olmak üzere) içeren GitHub Repo'suna erişmek için altbilgideki bağlantıyı kullanın.
