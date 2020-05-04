@@ -16,15 +16,14 @@ Hemos escrito un montón de código para que comiences, pero la tarjeta de cumpl
 
 + ¿Puedes encontrar el código HTML para la imagen del robot y cambiar la palabra `robot` a `sun`?
 
---- collapse ---
----
-title: Necesito una pista
----
+--- hints --- --- hint ---
+
 + Mira en la línea 17 para encontrar el código.
 + Cambia la palabra `robot` por `sun`, y verás que la imagen cambia!
 
 ![captura de pantalla](images/birthday-card-sun.png)
---- /collapse ---
+
+--- /hint --- --- /hints ---
 
 Puedes user cualquieras de las palabras siguientes `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, o `trophy` para una tarjeta de cumpleaños, o `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, o `snowman` si prefieres hacer una tarjeta de Navidad.
 
@@ -42,10 +41,10 @@ También puedes editar el código CSS de la tarjeta de cumpleaños.
 
 + También se puede cambiar la fuente. Ve al código CSS `#outside-title` y cambia la `font-family` a `Comic Sans MS` y el `font-size` a `16pt`.
 
-![captura de pantalla](images/birthday-card-font.png)
+![screenshot](images/birthday-card-font.png)
 
 Puedes usar otras fuentes, por ejemplo:
 
-+ `<span style="font-family: Arial;">Arial</span>`
++ `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
 + `<span style="font-family: tahoma;">Tahoma</span>`
