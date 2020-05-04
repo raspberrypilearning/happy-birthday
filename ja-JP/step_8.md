@@ -14,7 +14,7 @@ CSSで使う他の色の名前は[ここで](http://jumpto.cc/colours){:target="
 
 ![スクリーンショット](images/birthday-share.png)
 
---- challenge ---
+--- /challenge ---
 
 ***
 
