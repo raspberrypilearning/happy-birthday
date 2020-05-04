@@ -1,49 +1,49 @@
-## Making a birthday card
+## Fent una targeta d’aniversari
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Utilitzarem el que has après sobre HTML i CSS per elaborar la teva pròpia targeta d’aniversari personalitzada.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Obre [aquest Trinket](https://trinket.io/html/b33e4f4ca8){:target ="_ blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Hem escrit molt de codi per començar, però tot i així la targeta d’aniversari sembla massa avorrida, de manera que faràs alguns canvis al codi HTML i CSS.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Fes clic al botó de la part frontal de la targeta i l'hauries de veure que s'obre per revelar-ne l'interior.
 
-![screenshot](images/birthday-click.png)
+![captura de pantalla](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Vés a la línia 14 del codi HTML. Prova d’editar el text per personalitzar la teva targeta.
 
-![screenshot](images/birthday-card-html.png)
+![captura de pantalla](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ Pots trobar el codi HTML de la imatge del robot i canviar la paraula `robot` a `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Mira a la línia 17 per trobar el codi.
++ Canvia la paraula `robot` per `sun` i veuràs que la imatge canvia!
 
-![screenshot](images/birthday-card-sun.png)
+![captura de pantalla](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Pots fer servir qualsevol de les paraules `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, o bé `trophy` per a una targeta d'aniversari, o `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, o `snowman` si prefereixes fer una felicitació de Nadal.
 
-You can also edit the CSS code of the birthday card.
+També pots editar el codi CSS de la targeta d’aniversari.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Fes clic a la pestanya `style.css`. La primera part són tots els estils CSS de **l'exterior** de la targeta.
 
-+ Change the `background-color` to `lightgreen`.
++ Canvia el `background-color` a `lightgreen`.
 
-![screenshot](images/birthday-card-outside.png)
+![captura de pantalla](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ També pots canviar la mida d’una imatge. Vés al codi CSS `#outside-pic` i canvia l'amplada `width` i l'alçada `height` de la imatge exterior a `200px` (`px` significa píxels).
 
-![screenshot](images/birthday-card-size.png)
+![captura de pantalla](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ El tipus de lletra també es pot canviar. Vés al CSS `#outside-title` i canvia `font-family` a `Comic Sans MS` i la mida de lletra `font-size` a `16pt`.
 
-![screenshot](images/birthday-card-font.png)
+![captura de pantalla](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Pots utilitzar altres tipus de lletra, per exemple:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
