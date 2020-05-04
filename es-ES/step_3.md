@@ -18,7 +18,7 @@ HTML usa **etiquetas** para construir páginas web. Busca este código HTML en l
 <p>Hola. Me llamo Andy.</p>
 ```
 
-`<p>` es un ejemplo de una etiqueta, y es la abreviatura de ** párrafo **. Puedes comenzar un párrafo con `<p>` y finalizar un párrafo con `</p>`.
+`<p>` es un ejemplo de una etiqueta, y es la abreviatura de **párrafo**. Puedes comenzar un párrafo con `<p>` y finalizar un párrafo con ` </p>`.
 
 + ¿Puedes encontrar algunas etiquetas más?
 
@@ -26,7 +26,6 @@ HTML usa **etiquetas** para construir páginas web. Busca este código HTML en l
 ---
 title: Respuesta
 ---
-
 Otra etiqueta que quizás has encontrado es `<b>`, que significa **negrita**:
 
 ```html
@@ -51,7 +50,7 @@ Estos son algunos ejemplos más:
 
 ![captura de pantalla](images/birthday-reset.png)
 
-Para deshacer solo lo último que hiciste, puedes pulsar las teclas `Ctrl` y `z` al mismo tiempo.
+Para deshacer solo lo último que hiciste, puedes pulsar las teclas ` Ctrl` y `z` al mismo tiempo.
 
 ### ¡No necesitas una cuenta de Trinket para guardar tus proyectos!
 

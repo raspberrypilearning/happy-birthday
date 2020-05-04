@@ -16,10 +16,10 @@ Toca el botón para abrir la tarjeta de cumpleaños:
 
 Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Diseño de elementos básicos en 2D y 3D ](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Diseño de elementos básicos en 2D y 3D ](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
 ### Información adicional para los educadores
 
 Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/es-ES/projects/happy-birthday/print){:target="_blank"} .
 
-Usa el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluso un ejemplo de un proyecto terminado) en la carpeta 'en/resources'.
+Usa el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluso un ejemplo de un proyecto terminado) en la carpeta 'es-ES/resources'.
