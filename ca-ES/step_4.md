@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## Repte: afegeix un altre paràgraf
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- Pots afegir un tercer paràgraf de text a la teva pàgina web, per sota dels altres dos?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+Recorda que el nou paràgraf hauria de començar amb una etiqueta `<p>` i ha de finalitzar amb l'etiqueta ` </p>`.
 
-Here's how your webpage might look:
+A continuació es mostra com s'hauria de veure la teva pàgina web:
 
-![screenshot](images/birthday-paragraph.png)
+![captura de pantalla](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+Pots afegir text en **negreta** i <u>subratllat</u> al teu nou paràgraf? Utilitza les etiquetes `<u>` i ` </u>` pel text subratllat.
 
 \--- /challenge \---
