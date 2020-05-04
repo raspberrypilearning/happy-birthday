@@ -1,18 +1,18 @@
-## What is CSS?
+## Què és CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS són les inicials de Cascading Style Sheets i fa referència a **Fulls d'estil en cascada** que és un llenguatge que es fa servir per dissenyar pàgines web i que es vegin bé.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Aquest codi enllaça la teva pàgina web amb un fitxer CSS: mira si el pots trobar al `<head>` del document HTML:
 
-![screenshot](images/birthday-css-link.png)
+![captura de pantalla](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS llista totes les **propietats** per a una etiqueta determinada.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ Fes clic a `style.css` per veure el codi CSS de la teva pàgina web.
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![captura de pantalla](images/birthday-css-tab.png)
 
-+ Find this code:
++ Troba aquest codi:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Aquest codi CSS determina una propietat per als paràgrafs (`p`), que diu que el color del text ha de ser el negre.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ Canvia la paraula "black" al codi CSS per "blue". Hauries de veure que el color del text de tots els paràgrafs canvia al color blau.
 
-![screenshot](images/birthday-edit-css.png)
+![captura de pantalla](images/birthday-edit-css.png)
