@@ -6,19 +6,19 @@ Vamos a usar lo que has aprendido sobre HTML y CSS para crear tu propia tarjeta 
 
 Hemos escrito muchos códigos para que comiences, hasta ahora la tarjeta de cumpleaños se ve bastante aburrida, así que vas a hacer algunos cambios en el código HTML y CSS.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ Haz clic en el botón de la parte frontal de la tarjeta, deberías notar que se abre para ver el interior.
 
 ![captura de pantalla](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ Ve a la línea 14 del código HTML. Prueba editar el texto para personalizar tu tarjeta.
 
 ![captura de pantalla](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ ¿Puedes encontrar el código HTML para la imagen del robot y cambiar la palabra `robot` por `sun`?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
++ Mira en la línea 17 para encontrar el código.
 + Change the word `robot` to `sun`, and you'll see the image change!
 
 ![captura de pantalla](images/birthday-card-sun.png)
