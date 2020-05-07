@@ -22,6 +22,6 @@ p {
 
 Este código CSS determina la propiedad para los párrafos (`p`), que dice que el color del texto debe ser negro.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ En el código CSS, cambia la palabra 'black' por 'blue', deberías ver que cambia el color del texto de todos los párrafos al azul.
 
 ![captura de pantalla](images/birthday-edit-css.png)
