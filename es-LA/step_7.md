@@ -19,7 +19,7 @@ Hemos escrito muchos códigos para que comiences, hasta ahora la tarjeta de cump
 \--- hints \--- \--- hint \---
 
 + Mira en la línea 17 para encontrar el código.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ Cambia la palabra `robot` por `sun` ¡y verás que la imagen cambia!
 
 ![captura de pantalla](images/birthday-card-sun.png)
 
