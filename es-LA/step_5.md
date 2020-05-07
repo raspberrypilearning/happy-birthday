@@ -1,18 +1,18 @@
-## What is CSS?
+## ¿Qué es CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS significa **Hojas de estilo en cascada**, es un lenguaje utilizado para dar estilo a las páginas web y hacer que tengan un mejor aspecto.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ Este código vincula tu página web a un archivo CSS; trata de encontrarlo en el `<head>` del documento HTML:
 
 ![captura de pantalla](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS enumera todas las **propiedades** para una etiqueta en particular.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ Haz clic en la pestaña `style.css` para ver el código CSS para tu página web.
     
     ![captura de pantalla](images/birthday-css-tab.png)
 
-+ Find this code:
++ Encuentra este código:
 
 ```html
 p {
