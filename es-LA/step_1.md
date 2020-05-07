@@ -12,7 +12,7 @@ Haz clic en el botón para abrir la tarjeta de cumpleaños:
   <img src="images/birthday-final.png">
 </div>
 
-### What you will learn
+### Lo que aprenderás
 
 Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
