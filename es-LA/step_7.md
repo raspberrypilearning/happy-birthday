@@ -25,9 +25,9 @@ Hemos escrito muchos códigos para que comiences, hasta ahora la tarjeta de cump
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+Puedes usar cualquiera de las siguientes palabras `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea` o `trophy` para una tarjeta de cumpleaños, o `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa` o `snowman` si prefieres hacer una tarjeta de Navidad.
 
-You can also edit the CSS code of the birthday card.
+También puedes editar el código CSS de la tarjeta de cumpleaños.
 
 + Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
 
