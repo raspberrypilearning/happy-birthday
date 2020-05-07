@@ -20,7 +20,7 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+Este código CSS determina la propiedad para los párrafos (`p`), que dice que el color del texto debe ser negro.
 
 + Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
 
