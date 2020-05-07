@@ -10,7 +10,7 @@ HTML 代表**超文本標記語言（Hypertext Markup Language）**，是個用�
 
 ![截圖](images/birthday-starter.png)
 
-如你所見，在 trinket 視窗左側是 HTML，右邊則是該 HTML 代碼作出來的網頁。
+如你所見，在 trinket 視窗左側是 HTML，右邊則是該 HTML 代碼做出來的網頁。
 
 HTML 使用**標記（tag）**來建構網頁，在你的 HTML 的第 8 行找到以下代碼：
 
