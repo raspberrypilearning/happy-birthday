@@ -4,7 +4,7 @@
 
 + ¿Puedes hacer que los párrafos de texto sean anaranjados?
 
-+ Can you make the background grey by changing the `body` property?
++ ¿Puedes hacer que el fondo sea gris al cambiar la propiedad del `body`?
 
 ![captura de pantalla](images/birthday-more-style.png)
 
