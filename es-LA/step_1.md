@@ -1,10 +1,10 @@
 ## Introduction
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+En este proyecto, conocerás HTML y CSS al aprender cómo hacer tu propia tarjeta de cumpleaños personalizada.
 
-### What you will make
+### Lo que harás
 
-Click the button to open the birthday card:
+Haz clic en el botón para abrir la tarjeta de cumpleaños:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
