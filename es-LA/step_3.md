@@ -44,20 +44,20 @@ Aquí tienes otros ejemplos:
 
 + Haz un cambio en uno de los párrafos del texto en el archivo HTML (a la izquierda). ¡Haz clic en **Ejecutar** y deberías ver el cambio de tu página web (a la derecha)!
 
-![screenshot](images/birthday-edit-html.png)
+![captura de pantalla](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ Si cometiste un error y quieres deshacer todos tus cambios, puedes hacer clic en el **menú** y luego haz clic en **Restablecer**.
 
 ![captura de pantalla](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+Para deshacer solo lo último que hiciste, puedes pulsar las teclas `Ctrl` y `z` al mismo tiempo.
 
-### You don't need a Trinket account to save your projects!
+### ¡No necesitas una cuenta de Trinket para guardar tus proyectos!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Si no tienes una cuenta de Trinket, haz clic en la flecha **abajo** y luego haz clic en **Enlace**. Obtendrás un enlace que podrás guardar y al que podrás regresar más tarde. ¡Deberás hacer esto cada vez que hagas cambios, ya que el enlace cambiará!
 
 ![captura de pantalla](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+Si tienes una cuenta de Trinket, la forma más fácil de guardar tu página web es hacer clic en el botón **Remix** en la parte superior del trinket. Esto guardará una copia del trinket en tu perfil.
 
 ![captura de pantalla](images/birthday-remix.png)
