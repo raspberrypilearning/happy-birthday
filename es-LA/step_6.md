@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## Desafío: añade más estilos
 
 + Can you make the paragraphs of text orange?
 
