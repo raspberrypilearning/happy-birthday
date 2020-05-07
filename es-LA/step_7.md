@@ -1,10 +1,10 @@
-## Making a birthday card
+## Crear una tarjeta de cumpleaños
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Vamos a usar lo que has aprendido sobre HTML y CSS para crear tu propia tarjeta de cumpleaños personalizada.
 
 + Abre [este trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Hemos escrito muchos códigos para que comiences, hasta ahora la tarjeta de cumpleaños se ve bastante aburrida, así que vas a hacer algunos cambios en el código HTML y CSS.
 
 + Click the button on the front of the card, and you should see it open to reveal the inside.
 
