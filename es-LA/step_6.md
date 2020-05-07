@@ -2,7 +2,7 @@
 
 ## Desafío: añade más estilos
 
-+ Can you make the paragraphs of text orange?
++ ¿Puedes hacer que los párrafos de texto sean anaranjados?
 
 + Can you make the background grey by changing the `body` property?
 
