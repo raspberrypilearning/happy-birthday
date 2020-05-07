@@ -6,6 +6,6 @@
 
 + Can you make the background grey by changing the `body` property?
 
-![screenshot](images/birthday-more-style.png)
+![captura de pantalla](images/birthday-more-style.png)
 
 \--- /challenge \---
