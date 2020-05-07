@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## Desafío: añade otro párrafo
 
 - Can you add a third paragraph of text to your webpage, below the other two?
 
