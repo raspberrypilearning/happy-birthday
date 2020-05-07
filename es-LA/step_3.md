@@ -20,29 +20,29 @@ HTML usa **etiquetas** para construir páginas web. Busca este código HTML en l
 
 `<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
 
-+ Can you spot any other tags?
++ ¿Puedes encontrar otras etiquetas?
 
 ## \--- collapse \---
 
 ## title: Respuesta
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+Otra etiqueta que quizás has encontrado es `<b>`, que significa **negrita**:
 
 ```html
-<b>running</b>
+<b>correr</b>
 ```
 
-Here are some more:
+Aquí tienes otros ejemplos:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `<html>` y ` </html>` marcan el inicio y el final del documento HTML
++ `<head>` y ` </head>` es donde se ponen cosas como CSS (hablaremos de eso más adelante)
++ `<body>` y ` </body>` es donde se pone el contenido de tu sitio web
 
 ![captura de pantalla](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ Haz un cambio en uno de los párrafos del texto en el archivo HTML (a la izquierda). ¡Haz clic en **Ejecutar** y deberías ver el cambio de tu página web (a la derecha)!
 
 ![screenshot](images/birthday-edit-html.png)
 
