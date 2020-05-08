@@ -16,7 +16,7 @@ Haz clic en el botón para abrir la tarjeta de cumpleaños:
 
 Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Diseño de elementos básicos en 2D y 3D ](https://www.raspberrypi.org/curriculum/design/creator) {: target = "_ blank"}.
++ [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
 
 ### Información adicional para educadores
 
