@@ -39,11 +39,11 @@ También puedes editar el código CSS de la tarjeta de cumpleaños.
 
 ![captura de pantalla](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ También se puede cambiar la fuente. Ve al código CSS `#outside-title` y cambia la `font-family` a `Comic Sans MS` y el `font-size` a `16pt`.
 
-![screenshot](images/birthday-card-font.png)
+![captura de pantalla](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+Puedes usar otras fuentes, por ejemplo:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
