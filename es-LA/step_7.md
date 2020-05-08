@@ -29,13 +29,13 @@ Puedes usar cualquiera de las siguientes palabras `boy`, `diamond`, `dinosaur`, 
 
 También puedes editar el código CSS de la tarjeta de cumpleaños.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ Toca la pestaña de `style.css`. La primera parte son todos los estilos CSS para el **exterior** de la tarjeta.
 
-+ Change the `background-color` to `lightgreen`.
++ Cambia `background-color` a `lightgreen`.
 
 ![captura de pantalla](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ También puedes cambiar el tamaño de la imagen. Ve al código CSS `#outside-pic` y cambia el `width` y la `height` de la imagen exterior a `200px` (`px` representa píxeles).
 
 ![captura de pantalla](images/birthday-card-size.png)
 
