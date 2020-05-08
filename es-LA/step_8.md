@@ -10,7 +10,7 @@ Aquí tienes un ejemplo:
 
 Puedes encontrar más nombres de colores de CSS [aquí](http://jumpto.cc/colours) {: target = "_ blank"}.
 
-+ Once you've finished your card, you can share or email it to someone.
++ Cuando hayas terminado tu tarjeta, puedes compartirla o enviarla por correo electrónico a alguien.
 
 ![captura de pantalla](images/birthday-share.png)
 
