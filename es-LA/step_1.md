@@ -1,4 +1,4 @@
-## Introduction
+## Introducción
 
 En este proyecto, conocerás HTML y CSS al aprender cómo hacer tu propia tarjeta de cumpleaños personalizada.
 
