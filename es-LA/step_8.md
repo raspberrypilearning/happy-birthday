@@ -8,7 +8,7 @@ Aquí tienes un ejemplo:
 
 ![captura de pantalla](images/birthday-final.png)
 
-Puedes encontrar más nombres de colores de CSS [aquí](http://jumpto.cc/colours) {: target = "_ blank"}.
+Puedes encontrar más nombres de colores de CSS [aquí](http://jumpto.cc/colours){: target = "_ blank"}.
 
 + Cuando hayas terminado tu tarjeta, puedes compartirla o enviarla por correo electrónico a alguien.
 
