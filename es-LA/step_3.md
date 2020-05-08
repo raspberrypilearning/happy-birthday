@@ -34,8 +34,8 @@ Otra etiqueta que quizás has encontrado es `<b>`, que significa **negrita**:
 
 Aquí tienes otros ejemplos:
 
-+ `<html>` y ` </html>` marcan el inicio y el final del documento HTML
-+ `<head>` y ` </head>` es donde se ponen cosas como CSS (hablaremos de eso más adelante)
++ `<html>` y `</html>` marcan el inicio y el final del documento HTML
++ `<head>` y `</head>` es donde se ponen cosas como CSS (hablaremos de eso más adelante)
 + `<body>` y `</body>` es donde se pone el contenido de tu sitio web
 
 ![captura de pantalla](images/birthday-head-body.png)
