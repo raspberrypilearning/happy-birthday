@@ -18,7 +18,7 @@ HTML usa **etiquetas** para construir páginas web. Busca este código HTML en l
 <p>Hola. Me llamo Andy.</p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`<p>` es el ejemplo de una etiqueta y es la abreviatura de **párrafo**. Puedes comenzar un párrafo con `<p>` y finalizar un párrafo con `</p>`.
 
 + ¿Puedes encontrar otras etiquetas?
 
@@ -36,7 +36,7 @@ Aquí tienes otros ejemplos:
 
 + `<html>` y ` </html>` marcan el inicio y el final del documento HTML
 + `<head>` y ` </head>` es donde se ponen cosas como CSS (hablaremos de eso más adelante)
-+ `<body>` y ` </body>` es donde se pone el contenido de tu sitio web
++ `<body>` y `</body>` es donde se pone el contenido de tu sitio web
 
 ![captura de pantalla](images/birthday-head-body.png)
 
