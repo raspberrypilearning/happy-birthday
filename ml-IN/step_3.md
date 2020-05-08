@@ -1,10 +1,10 @@
-## What is HTML?
+## എന്താണ് HTML?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML എന്നാൽ ** ഹൈപ്പർ‌ടെക്സ്റ്റ് മാർ‌ക്കപ്പ് ലാംഗ്വേജ് **, വെബ്‌പേജുകൾ നിർമ്മിക്കാൻ ഉപയോഗിക്കുന്ന ഭാഷ. നമുക്ക് ഒരു ഉദാഹരണം നോക്കാം!
 
 You'll be using a website called trinket.io to write HTML code.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ [ ഈ ട്രിങ്കറ്റ് തുറക്കുക ](http://jumpto.cc/web-intro) 
 
 The project should look like this:
 
