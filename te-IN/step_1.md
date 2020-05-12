@@ -1,10 +1,10 @@
-## Introduction
+## ఇంట్రొడక్షన్
 
-In this project, you'll be introduced to HTML and CSS by learning how to make your own customised birthday card.
+ఈ ప్రాజెక్ట్‌లో, మీ స్వంత అనుకూలీకరించిన పుట్టినరోజు కార్డును ఎలా తయారు చేయాలో నేర్చుకోవడం ద్వారా మీరు HTML మరియు CSS కి పరిచయం చేయబడతారు.
 
-### What you will make
+### మీరు ఏమి చేయబోతున్నారు
 
-Click the button to open the birthday card:
+పుట్టినరోజు కార్డు తెరవడానికి, బటన్ క్లిక్ చేయండి:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c3d52cf65c?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -14,11 +14,11 @@ Click the button to open the birthday card:
 
 ### What you will learn
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+ఈ ప్రాజెక్ట్ [ రాస్ప్బెర్రీ పై డిజిటల్ మేకింగ్ కరికులం ](http://rpf.io/curriculum) {: target = "_ blank"} యొక్క క్రింది చూపిన విభాగం నుండి అంశాలను కవర్ చేస్తుంది:
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Additional information for educators
+### అధ్యాపకులకు అదనపు సమాచారం
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
 
