@@ -18,18 +18,18 @@ version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: పరిచయం లేదా ఇంట్రొడక్షన్
   - 
-    title: What you will need
+    title: మీకు అవసరమైన విషయాలు
   - 
-    title: What is HTML?
+    title: HTML అంటే ఏమిటి?
   - 
-    title: 'Challenge: add another paragraph'
+    title: 'ఛాలెంజ్: మరొక పేరాను జోడించండి'
   - 
-    title: What is CSS?
+    title: CSS అంటే ఏమిటి?
   - 
-    title: 'Challenge: add more styles'
+    title: 'ఛాలెంజ్: మరికొన్ని స్టైల్లు జోడించండి'
   - 
-    title: Making a birthday card
+    title: పుట్టినరోజు కార్డు తయారు విధానం
   - 
     title: 'Challenge: create a personalised card'
