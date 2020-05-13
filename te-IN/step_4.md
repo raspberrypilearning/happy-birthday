@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## ఛాలెంజ్: మరొక పేరాను జోడించండి
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- మీ వెబ్‌పేజీకి మూడవ పేరా వచనాన్ని మిగతా రెండింటి క్రింద చేర్చగలరా?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+మీ క్రొత్త పేరా `<p>` ట్యాగ్‌తో ప్రారంభమై, ` </p>` ట్యాగ్ తో ముగుస్తుందని గుర్తుంచుకోండి.
 
-Here's how your webpage might look:
+మీ వెబ్‌పేజీ ఎలా ఉంటుందో ఇక్కడ చూడండి:
 
-![screenshot](images/birthday-paragraph.png)
+![స్క్రీన్ షాట్](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+మీరు ** బోల్డ్‌ను ** మరియు <u> అండర్లైన్ </u> మీ క్రొత్త పేరాకు జోడించగలరా? `<u>` మరియు ` </u>` అండర్లైన్ చేసిన వచనం కోసం ట్యాగ్‌లు.
 
 \--- /challenge \---
