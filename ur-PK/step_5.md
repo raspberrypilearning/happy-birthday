@@ -1,27 +1,27 @@
-## What is CSS?
+## CSS کیا ہے؟
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS ایک کوڈنگ لینگویج ہے جوہ ویبپگس کو سٹائل کرتا ہے اور انکو خوبصورت بناتا ہے۔
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ یہ کوڈ آپکے CSS فائل کو HTML می ڈالتا ہے—دکھے اگر اپ اس کوڈ کو اپنے HTML فائل می ڈھونڈ سکتے ہے:
 
-![screenshot](images/birthday-css-link.png)
+![سکرین شاٹ](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS ایک خاص ٹیگ کے لئے تمام خصوصیات کی فہرست دیتا ہے۔
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ style.css بٹن پر کلک کیجیے اپنا CSS کوڈ کو دیکھ نے کیلیے۔
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![سکرین شاٹ](images/birthday-css-tab.png)
 
-+ Find this code:
++ اس کوڈ کو دھند یہ:
 
 ```html
-p {
-    color: black;
-}
+}p
+  ;color:black
+{            
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+یہ CSS کوڈ پیراگر (p) کے لئے ایک پراپرٹی کا تعین کرتا ہے، اور اسکا یہ مطلب ہے کے متن کا رنگ سیاہ ہونا چاہئے۔ اپ دیکھ سکتے ہے کے ہم امریکن انگریزی ہجے کا استمال کر رہے ہیں 'color' الفاظ لکھنے کے لئے۔ 
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ کسس می 'black' الفاظ کو 'blue' می بدل دیجیے۔ آپ کو تمام پیراگراف کا متن نیلے رنگ میں تبدیل دیکھنا چاہئے۔ 
 
-![screenshot](images/birthday-edit-css.png)
+![سکرین شاٹ](images/birthday-edit-css.png)
