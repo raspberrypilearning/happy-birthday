@@ -1,18 +1,18 @@
-## What is CSS?
+## CSS అంటే ఏమిటి?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS అంటే ** క్యాస్కేడింగ్ స్టైల్ షీట్లు **, మరియు ఇది వెబ్‌పేజీలను శైలి చేయడానికి మరియు వాటిని చక్కా కనిపించేలా చేసే భాష.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ ఈ కోడ్ మీ వెబ్‌పేజీని CSS ఫైల్‌కు లింక్ చేస్తుంది - మీరు దీన్ని HTML పేజీ యొక్క `<head>` లో దీన్ని చూడవచ్చు:
 
-![screenshot](images/birthday-css-link.png)
+![స్క్రీన్ షాట్](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+CSS ప్రత్యేక ట్యాగ్ యొక్క అన్ని ** లక్షణాలను ** చూపిస్తుంది.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ మీ వెబ్‌పేజీలో CSS కోడ్‌ను చూడటానికి ` style.css` టాబ్ పై క్లిక్ చేయండి.
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![స్క్రీన్ షాట్](images/birthday-css-tab.png)
 
-+ Find this code:
++ ఈ కోడ్‌ను కనుగొనండి:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+ఈ CSS కోడ్ పేరాగ్రాఫ్‌ల కోసం ఒక లక్షణాని నిర్ణయిస్తుంది ( < 0> p < /0>), ఇది టెక్స్ట్ రంగు నల్లగా ఉండాలి అని చెబుతుంది.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ CSS కోడ్‌లోని 'black' అనే పదాన్ని 'blue' గా మార్చండి. మీరు అన్ని పేరాగ్రాఫ్‌ల యొక్క టెక్స్ట్ రంగు నీలం రంగులోకి మారడాన్ని చూడవచ్చు.
 
-![screenshot](images/birthday-edit-css.png)
+![స్క్రీన్ షాట్](images/birthday-edit-css.png)
