@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## ఛాలెంజ్: మరికొన్ని స్టైల్లు జోడించండి
 
-+ Can you make the paragraphs of text orange?
++ మీరు పేరాగ్రాఫ్‌ టెక్స్ట ని నారింజ (orange) రంగుకు మార్చగలరా?
 
-+ Can you make the background grey by changing the `body` property?
++ `body` ని మార్చడం ద్వారా మీరు వెనుక రంగు బూడిద (grey) రంగులో చూపించగలరా?
 
-![screenshot](images/birthday-more-style.png)
+![స్క్రీన్ షాట్](images/birthday-more-style.png)
 
 \--- /challenge \---
