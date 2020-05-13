@@ -1,25 +1,25 @@
-## Making a birthday card
+## పుట్టినరోజు కార్డు తయారు విధానం
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+మీ స్వంత కస్టమ్ పుట్టినరోజు కార్డును తయారు చేయడానికి మీరు HTML మరియు CSS గురించి నేర్చుకున్న వాటిని ఉపయోగిద్దాం.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ ఈ [ ట్రింకెట్ ](https://trinket.io/html/b33e4f4ca8) తెరవండి {:target="_blank"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+మీరు ప్రారంభించడానికి మేము చాలా కోడ్ వ్రాసాము, కానీ పుట్టినరోజు కార్డు ఇప్పటివరకు చాలా బోరింగ్‌గా ఉంది, కాబట్టి మీరు HTML మరియు CSS కోడ్‌లో కొన్ని మార్పులు చేయబోతున్నారు.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ కార్డు లోపల ఏమి ఉందో చూడటానికి, కార్డు ముందు భాగంలో ఉన్న బటన్‌ను క్లిక్ చేయండి.
 
 ![screenshot](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ HTML కోడ్ యొక్క 14 వ పంక్తికి వెళ్ళండి. మీ కార్డును అనుకూలీకరించడానికి వచనాన్ని సవరించడానికి ప్రయత్నించండి.
 
 ![screenshot](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ మీరు రోబోట్ చిత్రం HTML కోడ్‌ను కనుగొని, ` robot ` అనే పదాన్ని ` sun ` కు మార్చగలరా?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ కోడ్‌ను కనుగొనడానికి 17 వ పంక్తిలో చూడండి.
++ ` robot `అనే పదాన్ని ` sun ` కి మార్పు చేసిన తర్వాత మీ చిత్రం మార్పును చూస్తారు!
 
 ![screenshot](images/birthday-card-sun.png)
 
