@@ -1,63 +1,67 @@
-## What is HTML?
+## HTML کیا ہے؟ 
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML کا مطلب ہائپر ٹیکسٹ مارکاپ لینگویج. یہ وہ کوڈنگ لینگویج ہے کیسے ویب سائٹ بنایا جاتا ہے۔ آئیے ایک مثال ملاحظہ کریں!
 
-You'll be using a website called trinket.io to write HTML code.
+اپ HTML کو ایک ویب سائٹ می لکھ گئی جو trinket.io کا استمال کرتا ہے۔
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ اس ترنکیٹ کو کھولیں 
 
-The project should look like this:
+اس منصوبے ایسا لگتا ہے۔
 
-![screenshot](images/birthday-starter.png)
+![سکرین شاٹ](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+آپ کے بائیں طرف کوڈ نظر آنے والا HTML ہے۔ ٹرنکیٹ کے دائیں طرف ، آپ وہ ویبپگے دیکھ سکتے ہیں جو HTML کوڈ نے بنایا ہے۔
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+ویبپگس بنانے می HTML ٹیگز کا استمال کر تا ہے۔ اپنے کوڈ کی لائن 8 پر اس HTML کوڈ کوdekhye کریں:
 
 ```html
 <p>Hi. My name is Andy.</p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+ٹیگ کی ایک مثال ہے اور اس کا یہ مطلب ہے کے یہ پیراگراف ہے۔ اپ ایک پیراگراف کو 
 
-+ Can you spot any other tags?
+سے شرو کر سکتے ہے اور 
+
+سے ختم۔
+
++ کیا اپ دوسرے ٹیگز ڈھونڈھ سکتے ہے?
 
 ## \--- collapse \---
 
-## title: Answer
+## عنوان: جواب
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+اپ نے ایک ٹیگ دیکھا ہو گا جو ** ہے جسکا مطلب بولڈ ہے۔</p> 
 
 ```html
 <b>running</b>
 ```
 
-Here are some more:
+یہاں کچھ اور ہیں:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++  اور بھی ہو گا جس کا مطلب HTML کا شروع کریں اور اس کا خاتمہ۔ 
++ بھی ہو گا جس می CSS جیسے فائلز ڈالے جاتے ہے۔ ہم اس کے بارے میں بعد میں بات کریں گے۔ 
++  اور بھی ہو گا جس کے درمیان آپ کی ساری تحریر داخل کردی گئی ہے۔ 
 
-![screenshot](images/birthday-head-body.png)
+![سکرین شاٹ](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ بائیں طرف HTML فائلوں میں متن کے ایک پیراگراف میں سے ایک میں تبدیلی کریں۔ Run کلک کلجیۓ اور دائیں طرف ویب پیج میں اپنی تبدیلیاں دیکھیں۔ 
 
-![screenshot](images/birthday-edit-html.png)
+![سکرین شاٹ](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ اگر آپ نے کوئی غلطی کی ہے اور اپنی تمام تبدیلیوں کو کالعدم کرنا چاہتے ہیں تو، آپ Menu کلک کر سکتے ہیں اور پھر Reset کلک کریں۔ 
 
-![screenshot](images/birthday-reset.png)
+![سکرین شاٹ](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+آپ کو بدلا ہوا آخری چیز کو کالعدم کرنے کے ل CTRL اور z بٹن کو ساتھ دبے۔ 
 
-### You don't need a Trinket account to save your projects!
+### آپکو اپنے منصوبے کو سوۓ کرنے کیلی trinket.io پر اکاؤنٹ کے ضرورت نہیں ہے
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+اگر آپکے پاسس trinket.io پر اکاؤنٹ نہیں ہے ٹوہ فر آپ نیچے تیر بٹن پر کلک کر سکتے ہے اور پھر Link پر کلک کریں۔ اس سے آپ کو ایک لنک ملے گا جہاں آپ اپنے کام کو بچا کر واپس آسکیں گے۔ جب بھی آپ تبدیلیاں کریں گے آپ کو یہ کرنے کی ضرورت ہوگی، کیوں کہ لنک بدلے گا!
 
-![screenshot](images/birthday-link.png)
+![سکرین شاٹ](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+اگر آپ کے پاس trinket.io اکاؤنٹ ہے تو، اپنے ویب پیج کو محفوظ کرنے کا آسان ترین طریقہ یہ ہے کہ ٹرنکیٹ کے اوپر حصے پر Remix بٹن پر کلک کریں۔ اس سے آپ کے پروفائل پر ٹرنکیٹ کی ایک کاپی محفوظ ہوجائے گی۔
 
-![screenshot](images/birthday-remix.png)
+![سکرین شاٹ](images/birthday-remix.png)
