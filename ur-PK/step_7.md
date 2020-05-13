@@ -1,49 +1,49 @@
-## Making a birthday card
+## سالگرہ کا کارڈ بنانا
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+چلے جو ہمنے HTML اور CSS کے بارے می سکھا ہے اسکو اپنا خود کا سالگرہ کارڈ بنانے می استعمال کرتے ہے۔
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ {"Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank اس کو کھولے 
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+آپ کو شروع کرنے کے لئے ہم نے بہت سارے کوڈ لکھے ہیں ، لیکن سالگرہ کا کارڈ ابھی تک کافی بورنگ نظر آتا ہے، لہذا آپ HTML اور CSS کوڈ میں کچھ تبدیلیاں کرنے جارہے ہیں۔
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ کارڈ کے اگلے حصے کے بٹن پر کلک کریں، اور آپ کو اندر ظاہر کرنے کے لئے اسے کھلا دیکھنا چاہئے۔
 
-![screenshot](images/birthday-click.png)
+![سکرین شاٹ](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ HTML کوڈ کے 14 نمبر پر جائیں۔ متن میں ترمیم کرنے کی کوشش کریں۔
 
-![screenshot](images/birthday-card-html.png)
+![سکرین شاٹ](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ کیا آپ روبوٹ کی شبیہہ کے لئے HTML کوڈ دھند کرسکتے ہیں، اور لفظ robot کو sun میں تبدیل کرسکتے ہیں؟
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ کوڈ تلاش کرنے کے لئے لائن 17 پر نظر ڈالیں۔
++ لفظ robot کو تبدیل کریں sun سورج، اور آپ کو تصویر کی تبدیلی نظر آئے گی!
 
-![screenshot](images/birthday-card-sun.png)
+![سکرین شاٹ](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+ان الفاظوں می سے بھی کسی الفاظ اپ استمال کر سکتے ہے boy ،diamond ،dinosaur ،flowers ،girl ،rainbow ،robot ،spaceship ،sun ،tea یا trophy ایک سالگرہ کارڈ کے لئے۔ اگر آپ کرسمس کارڈ بنانا پسند کریں گے ٹوہ فر یہ الفاظ اپ استمال کرسکتے ہے cracker ،elf ،penguin ،present ،reindeer ،santa ،snowman۔ 
 
-You can also edit the CSS code of the birthday card.
+آپ سالگرہ کارڈ کے CSS کوڈ میں بھی ترمیم کرسکتے ہیں۔
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ style.css کے بٹن پر کلک کیجیے۔ پھیلا پارٹ پورا CSS کا 'outside' کیلیے ہے۔ 
 
-+ Change the `background-color` to `lightgreen`.
++ background-color کو lightgreen می بدلے
 
-![screenshot](images/birthday-card-outside.png)
+![سکرین شاٹ](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ آپ کسی تصویر کا سائز بھی تبدیل کرسکتے ہیں۔ outside-pic# جو CSS کوڈ می ہے، اسمے 'width' اور 'height' کو 200px کر دیجیے (px کا مطلب پکسل)۔
 
-![screenshot](images/birthday-card-size.png)
+![سکرین شاٹ](images/birthday-card-size.png)
 
 + The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
 
-![screenshot](images/birthday-card-font.png)
+![سکرین شاٹ](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+آپ دوسرے فونٹس استعمال کرسکتے ہیں ، مثال کے طور پر:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
