@@ -1,63 +1,63 @@
-## What is HTML?
+## HTML అంటే ఏమిటి?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML అంటే ** హైపర్‌టెక్స్ట్ మార్కప్ లాంగ్వేజ్ **, వెబ్‌పేజీలను తయారు చేయడానికి ఉపయోగించే భాష. ఒక ఉదాహరణ చూద్దాం!
 
-You'll be using a website called trinket.io to write HTML code.
+మీరు HTML కోడ్ రాయడానికి trinket.io అనే వెబ్‌సైట్‌ను ఉపయోగిస్తున్నారు.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ ఈ [trinket](http://jumpto.cc/web-intro){:target="_blank"} తెరవండి.
 
-The project should look like this:
+ప్రాజెక్ట్ ఇలా ఉండాలి:
 
-![screenshot](images/birthday-starter.png)
+![స్క్రీన్ షాట్](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+మీరు ఎడమవైపు చూడగలిగే కోడ్ HTML. ట్రింకెట్ యొక్క కుడి వైపున, మీరు HTML కోడ్ చేసిన వెబ్‌పేజీని చూడవచ్చు.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+వెబ్‌పేజీలను నిర్మించడానికి, HTML **tags** ఉపయోగిస్తుంది. మీ కోడ్ యొక్క 8 వ పంక్తిలో ఈ HTML క కోసం చూడండి:
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p> హాయ్. నా పేరు ఆండీ. </p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+< p > పేరా కోసం ఉపయోగించే ట్యాగ్ యొక్క ఉదాహరణ. ఇది పేరా ప్రారంభించడానికి < p >, ఇది పేరా ముగియడానికి < /p>.
 
-+ Can you spot any other tags?
++ మీరు ఇతర ట్యాగ్‌లను గుర్తించగలరా?
 
 ## \--- collapse \---
 
-## title: Answer
+## శీర్షిక: సమాధానం
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+మీరు గుర్తించిన మరొక ట్యాగ్ `<b>`, ఇది ** బోల్డ్ **:
 
 ```html
-<b>running</b>
+<b> running </b>
 ```
 
-Here are some more:
+ఇక్కడ మరికొన్ని ఉదాహరణలు:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `<html>` మరియు ` </html>` HTML పత్రం యొక్క ప్రారంభ మరియు ముగింపును గుర్తించండి
++ `<head>` మరియు ` </head>` CSS వంటి అంశాలు వెళ్లే చోట (దీని గురించి తరువాత వివరంగా తెలుసుకుంటాము)
++ `<body>` మరియు ` </body>` మీ వెబ్‌సైట్ కంటెంట్ ఇక్కడ వెళుతుంది
 
-![screenshot](images/birthday-head-body.png)
+![స్క్రీన్ షాట్](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ HTML ఫైల్ (ఎడమవైపు) లోని టెక్స్ట్ యొక్క పేరాగ్రాఫ్లలో ఒకదానికి మార్పు చేయండి, ** Run ** క్లిక్ చేయండి. మీరు మీ వెబ్‌పేజీ మార్పును చూడగలరు (కుడివైపు)!
 
-![screenshot](images/birthday-edit-html.png)
+![స్క్రీన్ షాట్](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ మీరు పొరపాటు చేసి, మీ అన్ని మార్పులను undo చేయాలనుకుంటే, మీరు **menu** క్లిక్చే సిన తరువాత **Reset** క్లిక్ చేయండి.
 
-![screenshot](images/birthday-reset.png)
+![స్క్రీన్ షాట్](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+మీరు చేసిన చివరి పనిని undo చేయడానికి, `Ctrl` మరియు `z` కీలు కలిసి నొక్కవచ్చు.
 
-### You don't need a Trinket account to save your projects!
+### మీ ప్రాజెక్ట్‌లను సేవ్ చేయడానికి మీకు ట్రింకెట్ ఖాతా అవసరం లేదు!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+మీకు ట్రింకెట్ ఖాతా లేకపోతే, ** క్రింద లింక్ క్లిక్ చేయండి **. ఇది మీకు సేవ్ చేయగల లింక్‌ను ఇస్తుంది మరియు తరువాత తిరిగి రావచ్చు. మీరు మార్పులు చేసిన ప్రతిసారీ మీరు దీన్ని చేయాలి, ఎందుకంటే లింక్ మారుతుంది!
 
-![screenshot](images/birthday-link.png)
+![స్క్రీన్ షాట్](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+మీకు ట్రింకెట్ ఖాతా ఉంటే, మీ వెబ్‌పేజీని సేవ్ చేయడానికి సులభమైన మార్గం ట్రింకెట్ పైన ఉన్న ** రీమిక్స్ బటన్ క్లిక్ చేయడం **. ఇది మీ ప్రొఫైల్‌లో ట్రింకెట్ కాపీని సేవ్ చేస్తుంది.
 
-![screenshot](images/birthday-remix.png)
+![స్క్రీన్ షాట్](images/birthday-remix.png)
