@@ -6,9 +6,9 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Happy birthday
-description: Make an online birthday card on a webpage
-original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+title: سالگرہ مبارک
+description: ویب پیج پر سالگرہ کا ایک آن لائن کارڈ بنائیں
+original_url: "https://codeclubprojects.org/en-GB/webdev/happy-birthday\n"
 interests: art
 technologies: html-css-javascript
 site_areas: projects
@@ -18,18 +18,18 @@ version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: تعارف
   - 
-    title: What you will need
+    title: آپ کو کس چیز کی ضرورت ہو گی؟
   - 
-    title: What is HTML?
+    title: "HTML کیا ہے؟\n"
   - 
-    title: 'Challenge: add another paragraph'
+    title: 'چیلنج: دوسرا پیراگراف لکھیں'
   - 
-    title: What is CSS?
+    title: "CSS کیا ہے؟\n"
   - 
-    title: 'Challenge: add more styles'
+    title: 'چیلنج: مزید سٹائل شامل کریں'
   - 
-    title: Making a birthday card
+    title: سالگرہ کا کارڈ بنانا
   - 
-    title: 'Challenge: create a personalised card'
+    title: 'چیلنج: ایک ذاتی کارڈ بنائیں'
