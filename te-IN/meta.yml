@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Happy birthday
-description: Make an online birthday card on a webpage
+title: జన్మదిన శుభాకాంక్షలు
+description: ఈ వెబ్‌పేజీలో, మీరు ఒక ఆన్‌లైన్ పుట్టినరోజు కార్డు చేయవచ్చు
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
 interests: art
 technologies: html-css-javascript
@@ -32,4 +32,4 @@ steps:
   - 
     title: పుట్టినరోజు కార్డు తయారు విధానం
   - 
-    title: 'Challenge: create a personalised card'
+    title: 'ఛాలెంజ్: వ్యక్తిగతీకరించిన కార్డును సృష్టించండి'
