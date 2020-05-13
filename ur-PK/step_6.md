@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## چیلنج: مزید سٹائل شامل کریں
 
-+ Can you make the paragraphs of text orange?
++ کیا اپ پیراگراف کا متن کا رنگ کو اورینج می بدل سکتے ہے؟
 
-+ Can you make the background grey by changing the `body` property?
++ کیا اپ CSS کے body پراپرٹی کو استمال کرکے پسمنظر کو سرمئی می بدل سکتے ہے؟
 
-![screenshot](images/birthday-more-style.png)
+![سکرین شاٹ](images/birthday-more-style.png)
 
 \--- /challenge \---
