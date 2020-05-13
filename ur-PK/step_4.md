@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## چیلنج: دوسرا پیراگراف لکھیں
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- کیا آپ اپنے ویب پیج پر متن کا تیسرا پیراگراف شامل کرسکتے ہیں، دوسرے دو کے نیچے؟
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+یاد رکھے کے پیراگراف < p > سے شرو ہوتا اور< p/ > کے ساتھ ختم ہوتا ہے۔ 
 
-Here's how your webpage might look:
+اپکا ویبپگے کچھ ایسے دیکھ سکتا ہے:
 
-![screenshot](images/birthday-paragraph.png)
+![سکرین شاٹ](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+کیا آپ اپنے نئے پیراگراف میں اس لفظ کوبولڈ اور انڈرلائن کر سکتے ہیں؟ انڈرلائن کرنے کیلیے <u> اور <u/> ٹیگز کا استمال کیجیے۔
 
 \--- /challenge \---
