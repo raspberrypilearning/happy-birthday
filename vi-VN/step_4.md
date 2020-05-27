@@ -1,15 +1,15 @@
-\--- challenge \---
+\--- thử thách \---
 
-## Challenge: add another paragraph
+## Thử thách: thêm một đoạn khác
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- Bạn có thể thêm một đoạn văn bản thứ ba vào trang web của bạn, phía bên dưới hai đoạn văn bản trước không?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+Hãy nhớ rằng đoạn mới của bạn nên bắt đầu bằng thẻ `<p>` và kết thúc bằng `</p>`.
 
-Here's how your webpage might look:
+Trang web của bạn có thể trông giống như dưới đây:
 
-![screenshot](images/birthday-paragraph.png)
+![ảnh chụp màn hình](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+Bạn có thể thêm **in đậm** và <u>gạch chân</u> văn bản đến đoạn mới của bạn không? Sử dụng thẻ `<u>` và `</u>` cho gạch chân.
 
 \--- /challenge \---
