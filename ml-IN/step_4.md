@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: add another paragraph
+## വെല്ലുവിളി: മറ്റൊരു ഖണ്ഡിക ചേർക്കുക
 
-- Can you add a third paragraph of text to your webpage, below the other two?
+- താങ്കളുടെ വെബ് പേജിൽ രണ്ടാമത്തെ ഖണ്ഡികയുടെ താഴെയായി മൂന്നാമത്തെ ഖണ്ഡിക ചേർക്കാൻ കഴിയുമോ?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+താങ്കളുടെ പുതിയ ഖണ്ഡിക ഒരു `<p>` ടാഗിൽ ആരംഭിച്ച് ` </p>` ടാഗിൽ അവസാനിക്കണമെന്ന് ഓർമ്മിക്കുക.
 
-Here's how your webpage might look:
+താങ്കളുടെ വെബ്‌പേജ് എങ്ങനെ കാണപ്പെടുമെന്നത് ഇതാ:
 
-![screenshot](images/birthday-paragraph.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-paragraph.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+താങ്കളുടെ പുതിയ ഖണ്ഡികയിലെ ഏതാനും വാക്കുകൾക്ക് ** Bold ** ഓ <u> underlined </u> ചേർക്കാൻ കഴിയുമോ? അടിവരയിട്ട വാചകത്തിനായുള്ള ടാഗുകൾ `<u>`ഉം`</u>`.
 
 \--- /challenge \---
