@@ -1,49 +1,49 @@
-## Making a birthday card
+## ഒരു ജന്മദിന കാർഡ് ഉണ്ടാക്കുന്നു
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+നിങ്ങളുടെ സ്വന്തം ഇഷ്‌ടാനുസൃത ജന്മദിന കാർഡ് നിർമ്മിക്കുന്നതിന് HTML, CSS എന്നിവയെക്കുറിച്ച് നിങ്ങൾ പഠിച്ച കാര്യങ്ങൾ ഉപയോഗിക്കാം.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ ഈ [ ട്രിങ്കറ്റ് ](https://trinket.io/html/b33e4f4ca8) തുറക്കുക.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+താങ്കൾക്ക് ഒരു തുടക്കം ലഭിക്കാനായി ഞങ്ങൾ ധാരാളം കോഡ് എഴുതിയിട്ടുണ്ടെങ്കിലും, ഈ ജന്മദിന കാർഡ് ഇതുവരെ വളരെ ബോറടിപ്പിക്കുന്നതായി തോന്നുന്നു, അതിനാൽ താങ്കൾ HTML, CSS കോഡിൽ ചില മാറ്റങ്ങൾ വരുത്താൻ പോകുന്നു.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ കാർഡിന്റെ മുൻവശത്തുള്ള ബട്ടൺ ക്ലിക്കുചെയ്യുക, അപ്പോൾ അകത്തെ വിവരങ്ങൾ വെളിപ്പെടുത്തുന്നതിനായി അത് തുറക്കുന്നതുപോലെ കാണും.
 
-![screenshot](images/birthday-click.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ HTML കോഡിന്റെ 14-ാം വരിയിലേക്ക് പോകുക. നിങ്ങളുടെ കാർഡ് ഇഷ്‌ടാനുസൃതമാക്കാൻ വാചകം എഡിറ്റുചെയ്യാൻ ശ്രമിക്കുക.
 
-![screenshot](images/birthday-card-html.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ താങ്കൾക്ക് റോബോട്ട് ഇമേജിന്റെ HTML കോഡ് കണ്ടെത്താനും `റോബോട്ട്` എന്ന പദം `സൂര്യൻ` ലേക്ക് മാറ്റാനും കഴിയുമോ?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ കോഡ് കണ്ടെത്താൻ 17-ാം വരിയിൽ നോക്കുക.
++ `റോബോട്ട് ` എന്ന വാക്ക് `സൂര്യൻ` ലേക്ക് മാറ്റുക, ഇമേജ് മാറ്റം താങ്കൾക്ക് കാണാം!
 
-![screenshot](images/birthday-card-sun.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+ഒരു ജന്മദിനാശംസാ കാർഡിൽ `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` പോലുള്ള വാക്കുകൾ ഉപയോഗിക്കാം `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, ഒരു ക്രിസ്മസ് കാർഡ് നിർമ്മിക്കാൻ ആഗ്രഹിക്കുന്നുവെങ്കിൽ. `snowman` ഉപയോഗിക്കാം.
 
-You can also edit the CSS code of the birthday card.
+ജന്മദിന കാർഡിന്റെ CSS കോഡും നിങ്ങൾക്ക് എഡിറ്റുചെയ്യാനാകും.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ ` style.css ` എന്നതിനായി ടാബിൽ ക്ലിക്കുചെയ്യുക. ആദ്യ ഭാഗത്തു കാർഡിന്റെ **outside** CSS സ്റ്റൈൽ ആണ് ഉള്ളത്.
 
-+ Change the `background-color` to `lightgreen`.
++ ` പശ്ചാത്തല വർണ്ണം` `lightgreen` ലേക്ക് മാറ്റുക.
 
-![screenshot](images/birthday-card-outside.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ താങ്കൾക്ക് ഇമേജിന്റെ വലുപ്പം മാറ്റാനും കഴിയുന്നതാണ്: `#outside-pic` CSS കോഡിലേക്കു പോയിട്ട്, പുറമെ ഉള്ള ഇമേജിന്റെ `width` and `height` `200px`ലേക്ക് മാറ്റുക(`px` പിക്സലുകളെ സൂചിപ്പിക്കുന്നു).
 
-![screenshot](images/birthday-card-size.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ ഫോണ്ട് മാറ്റാനും കഴിയും.`#outside-title` CSS ലേക്ക് പോയിട്ട് `font-family` `Comic Sans MS` ലേക്കും കൂടാതെ `font-size` `16pt` ലേക്കും മാറ്റുക.
 
-![screenshot](images/birthday-card-font.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+താങ്കൾക്ക് മറ്റ് ഫോണ്ടുകളും ഉപയോഗിക്കാം, ഉദാഹരണത്തിന്:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
