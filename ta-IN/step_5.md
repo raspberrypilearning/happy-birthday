@@ -22,6 +22,6 @@ p {
 
 This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ CSS குறியீட்டில் உள்ள 'black' என்ற வார்த்தையை 'blue' என்று மாற்றவும். எல்லா பத்திகளில் உள்ள உரையின் நிறமும் நீல நிறமாக மாறுவதை நீங்கள் காண முடியும்.
 
 ![screenshot](images/birthday-edit-css.png)
