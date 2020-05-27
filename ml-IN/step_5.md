@@ -1,18 +1,18 @@
-## What is CSS?
+## എന്താണ് CSS?
 
-CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
+CSS എന്നാൽ ** കാസ്കേഡിംഗ് സ്റ്റൈൽ ഷീറ്റുകൾ **, കൂടാതെ വെബ്‌പേജുകൾ‌ സ്റ്റൈൽ‌ ചെയ്യുന്നതിനും അവ മനോഹരമാക്കുന്നതിനും ഉപയോഗിക്കുന്ന ഒരു ഭാഷയാണിത്.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
++ ഈ കോഡ് നിങ്ങളുടെ വെബ്‌പേജിനെ ഒരു CSS ഫയലിലേക്ക് ലിങ്കുചെയ്യുന്നു - HTML ഡോക്യൂമെന്റിന്റെ `<head>` ൽ താങ്കൾക്ക് ഇത് കണ്ടെത്താൻ കഴിയുമോയെന്ന് കാണുക:
 
-![screenshot](images/birthday-css-link.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-css-link.png)
 
-CSS lists all of the **properties** for a particular tag.
+ഒരു പ്രത്യേക ടാഗിന്റെ എല്ലാ** പ്രോപ്പർട്ടികളും** CSS ലിസ്റ്റ് ചെയ്യുന്നു.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
++ താങ്കളുടെ വെബ്‌പേജിനായുള്ള CSS കോഡ് കാണുന്നതിന് ` style.css ` ടാബ് ക്ലിക്കുചെയ്യുക.
     
-    ![screenshot](images/birthday-css-tab.png)
+    ![സ്‌ക്രീൻഷോട്ട്](images/birthday-css-tab.png)
 
-+ Find this code:
++ ഈ കോഡ് കാണുക:
 
 ```html
 p {
@@ -20,8 +20,8 @@ p {
 }
 ```
 
-This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+ഈ CSS കോഡ് ഖണ്ഡികകൾ‌ക്കായുള്ള ഒരു പ്രോപ്പർ‌ട്ടി നിർ‌ണ്ണയിക്കുന്നു (` p `), ഇത് വാചകത്തിന്റെ നിറം കറുത്തതായിരിക്കണമെന്ന് പറയുന്നു. അമേരിക്കൻ സ്പെല്ലിങ് ശ്രദ്ധിക്കുക: 'color'.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
++ CSS കോഡിലെ 'black' എന്ന പദം 'blue' എന്നാക്കി മാറ്റുക. എല്ലാ ഖണ്ഡികകളുടെയും നിറം നീലയായി മാറുന്നത് താങ്കൾക്ക് കാണും.
 
-![screenshot](images/birthday-edit-css.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-edit-css.png)
