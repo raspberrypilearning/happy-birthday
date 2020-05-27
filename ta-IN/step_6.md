@@ -6,6 +6,6 @@
 
 + Can you make the background grey by changing the `body` property?
 
-![screenshot](images/birthday-more-style.png)
+![திரைப்பிடிப்பு](images/birthday-more-style.png)
 
 \--- /challenge \---
