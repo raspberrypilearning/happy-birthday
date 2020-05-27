@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: create a personalised card
+## വെല്ലുവിളി: ഒരു വ്യക്തിഗതമായ കാർഡ് നിര്‍മ്മിക്കുക
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ ഒരു വ്യക്തിഗത കാർഡ് നിർമ്മിക്കുന്നതിന് HTML, CSS എന്നിവയെക്കുറിച്ച് താങ്കൾ പഠിച്ചതെല്ലാം ഉപയോഗിക്കുക. അത് ഒരു ജന്മദിന കാർഡ് ആയിരിക്കണമെന്നില്ല, അത് ക്രിസ്മസിന് അല്ലെങ്കിൽ മറ്റേതെങ്കിലും അവസരത്തിന് വേണ്ടി ആകാം!
 
-Here's an example:
+ഒരു ഉദാഹരണം:
 
-![screenshot](images/birthday-final.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+കൂടുതൽ CSS കളറുകൾ [ഇവിടെ കണ്ടെത്തുക](http://jumpto.cc/colours).
 
-+ Once you've finished your card, you can share or email it to someone.
++ കാർഡ് പൂർത്തിയാക്കിക്കഴിഞ്ഞാൽ, താങ്കൾക്ക് അത് മറ്റൊരാൾക്ക് പങ്കിടാനോ ഇമെയിൽ ചെയ്യാനോ കഴിയും.
 
-![screenshot](images/birthday-share.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-share.png)
 
 \--- /challenge \---
