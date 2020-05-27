@@ -1,63 +1,63 @@
-## What is HTML?
+## HTML là gì?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML là viết tắt của **Hypertext Markup Language**, ngôn ngữ được sử dụng để tạo các trang web. Hãy xem một ví dụ!
 
-You'll be using a website called trinket.io to write HTML code.
+Bạn sẽ sử dụng một trang web có tên là trinket.io để viết mã HTML.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Mở [trinket này](http://jumpto.cc/web-intro) {:target ="_trống"}.
 
-The project should look like this:
+Dự án sẽ trông giống như thế này:
 
-![screenshot](images/birthday-starter.png)
+![ảnh chụp màn hình](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+Mã mà bạn có thể thấy ở bên trái là HTML. Ở bên phải của trinket, bạn có thể thấy trang web mà mã HTML đã tạo.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
-
-```html
-<p>Hi. My name is Andy.</p>
-```
-
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
-
-+ Can you spot any other tags?
-
-## \--- collapse \---
-
-## title: Answer
-
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+HTML sử dụng **thẻ** để xây dựng trang web. Tìm mã HTML này trên dòng 8 của mã của bạn:
 
 ```html
-<b>running</b>
+<p>Xin chào. Tôi tên là Andy.</p>
 ```
 
-Here are some more:
+`<p>` là một ví dụ về thẻ và là viết tắt của **paragraph**. Bạn có thể bắt đầu một đoạn bằng `<p>` và kết thúc một đoạn bằng `</p>`.
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ Bạn có thể thấy thẻ nào khác không?
 
-![screenshot](images/birthday-head-body.png)
+## \--- sụp đổ \---
 
-\--- /collapse \---
+## tiêu đề: Trả lời
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
+Một thẻ khác bạn có thể đã phát hiện là `<b>`, viết tắt của **bold**:
 
-![screenshot](images/birthday-edit-html.png)
+```html
+<b>chạy</b>
+```
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
+Dưới đây là một số chi tiết khác:
 
-![screenshot](images/birthday-reset.png)
++ `<html>` và `</html>` đánh dấu điểm bắt đầu và kết thúc của tài liệu HTML
++ `<head>` và `</head>` là nơi những thứ như CSS đi (chúng ta sẽ nói đến việc đó sau)
++ `<body>` và `</body>` là nơi nội dung trang web của bạn đi đến
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+![ảnh chụp màn hình](images/birthday-head-body.png)
 
-### You don't need a Trinket account to save your projects!
+\--- /sụp đổ \---
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
++ Thay đổi một trong các đoạn văn bản trong tệp HTML (ở bên trái). Nhấp vào **Run** và bạn sẽ thấy trang web của mình thay đổi (ở bên phải)!
 
-![screenshot](images/birthday-link.png)
+![ảnh chụp màn hình](images/birthday-edit-html.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
++ Nếu bạn vô tình mắc lỗi và muốn hủy tất cả các thay đổi của mình, bạn có thể nhấp vào **menu** và sau đó nhấp vào **Reset**.
 
-![screenshot](images/birthday-remix.png)
+![ảnh chụp màn hình](images/birthday-reset.png)
+
+Nếu chỉ muốn hủy việc cuối cùng bạn đã làm, bạn có thể nhấn các phím `Ctrl` và `z` chung với nhau.
+
+### Bạn không cần tài khoản Trinket để lưu dự án của bạn!
+
+Nếu bạn không có tài khoản Trinket, hãy nhấp vào mũi tên </strong>xuống</strong> và nhấp vào **Link</0>. Bạn sẽ được tạo cho một liên kết mà bạn có thể lưu lại và vào lại sau. Bạn sẽ cần phải làm điều này mỗi khi bạn tạo thay đổi, vì liên kết sẽ thay đổi!</p> 
+
+![ảnh chụp màn hình](images/birthday-link.png)
+
+Nếu bạn có tài khoản Trinket, cách dễ nhất để lưu trang web của bạn là nhấp vào nút **Remix** trên đỉnh của trinket. Điều này sẽ lưu một bản sao của trinket trên hồ sơ của bạn.
+
+![ảnh chụp màn hình](images/birthday-remix.png)
