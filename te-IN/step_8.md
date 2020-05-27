@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: create a personalised card
+## ఛాలెంజ్: వ్యక్తిగతీకరించిన కార్డును సృష్టించండి
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ వ్యక్తిగతీకరించిన కార్డ్‌ను పూర్తి చేయడానికి మీరు HTML మరియు CSS గురించి నేర్చుకున్న ప్రతిదాన్ని ఉపయోగించండి. మరియు ఇది పుట్టినరోజు కార్డు కానవసరం లేదు, ఇది క్రిస్మస్ కోసం లేదా మరేదైనా సందర్భం కావచ్చు!
 
-Here's an example:
+ఇక్కడ ఒక ఉదాహరణ:
 
-![screenshot](images/birthday-final.png)
+![స్క్రీన్ షాట్](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+మీరు ఇక్కడ మరిన్ని CSS రంగు పేర్లను కనుగొనవచ్చు [ here ](http://jumpto.cc/colours) {:target="_blank"}.
 
-+ Once you've finished your card, you can share or email it to someone.
++ మీరు మీ కార్డును పూర్తి చేసిన తర్వాత, మీరు దానిని ఎవరికైనా పంపవచ్చు లేదా ఇమెయిల్ చేయవచ్చు.
 
-![screenshot](images/birthday-share.png)
+![స్క్రీన్ షాట్](images/birthday-share.png)
 
 \--- /challenge \---
