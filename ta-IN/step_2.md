@@ -1,9 +1,9 @@
-## What you will need
+## உங்களுக்கு தேவையானவை
 
-### Hardware
+### வன்பொருள் (ஹார்டுவேர்)
 
-+ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
++ [trinket.io](https://trinket.io){:target="_blank"} - ஐ அணுகக்கூடிய ஒரு கணினி
 
-### Software
+### மென்பொருள் (சாஃப்ட்வேர்)
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
+இந்த திட்டத்தை [trinket.io](https://trinket.io){:target="_blank"} - ஐ பயன்படுத்தி வலை உலாவியில் முடிக்க முடியும்.
