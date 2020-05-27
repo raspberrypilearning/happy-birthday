@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: add more styles
+## വെല്ലുവിളി: കൂടുതൽ സ്റ്റൈലുകൾ ചേർക്കുക
 
-+ Can you make the paragraphs of text orange?
++ ഖണ്ഡികകളുടെ നിറം ഓറഞ്ച് ആക്കാമോ?
 
-+ Can you make the background grey by changing the `body` property?
++ `body` പ്രോപ്പർട്ടി മാറ്റിക്കൊണ്ട് താങ്കൾക്ക് പശ്ചാത്തലം ചാര നിറമാക്കാമോ?
 
-![screenshot](images/birthday-more-style.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-more-style.png)
 
 \--- /challenge \---
