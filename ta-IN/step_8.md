@@ -4,14 +4,14 @@
 
 + Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
 
-Here's an example:
+இங்கே ஓர் எடுத்துக்காட்டு கொடுக்கப்பட்டுள்ளது:
 
-![screenshot](images/birthday-final.png)
+![திரைப்பிடிப்பு](images/birthday-final.png)
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+மேலும் பல CSS வண்ண பெயர்களை [இங்கே](http://jumpto.cc/colours){:target="_blank"} காணலாம்.
 
-+ Once you've finished your card, you can share or email it to someone.
++ உங்கள் அட்டையை முடித்தவுடன், அதை ஒருவருக்கு பகிரலாம் அல்லது மின்னஞ்சல் செய்யலாம்.
 
-![screenshot](images/birthday-share.png)
+![திரைப்பிடிப்பு](images/birthday-share.png)
 
 \--- /challenge \---
