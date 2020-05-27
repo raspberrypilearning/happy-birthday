@@ -6,7 +6,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Happy birthday
+title: பிறந்தநாள் வாழ்த்துக்கள்
 description: Make an online birthday card on a webpage
 original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
 interests: art
@@ -22,14 +22,14 @@ steps:
   - 
     title: What you will need
   - 
-    title: What is HTML?
+    title: HTML என்றால் என்ன?
   - 
-    title: 'Challenge: add another paragraph'
+    title: 'சவால்: மற்றொரு பத்தி சேர்க்கவும்'
   - 
-    title: What is CSS?
+    title: CSS என்றால் என்ன?
   - 
     title: 'Challenge: add more styles'
   - 
-    title: Making a birthday card
+    title: பிறந்தநாள் அட்டையை உருவாக்குதல்
   - 
     title: 'Challenge: create a personalised card'
