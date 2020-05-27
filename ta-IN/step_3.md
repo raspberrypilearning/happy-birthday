@@ -52,7 +52,7 @@ Here are some more:
 
 To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
 
-### You don't need a Trinket account to save your projects!
+### உங்கள் திட்டங்களை சேமிக்க உங்களுக்கு Trinket கணக்கு தேவையில்லை!
 
 If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
 
