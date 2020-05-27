@@ -8,11 +8,11 @@
 
 + కార్డు లోపల ఏమి ఉందో చూడటానికి, కార్డు ముందు భాగంలో ఉన్న బటన్‌ను క్లిక్ చేయండి.
 
-![screenshot](images/birthday-click.png)
+![స్క్రీన్ షాట్](images/birthday-click.png)
 
 + HTML కోడ్ యొక్క 14 వ పంక్తికి వెళ్ళండి. మీ కార్డును అనుకూలీకరించడానికి వచనాన్ని సవరించడానికి ప్రయత్నించండి.
 
-![screenshot](images/birthday-card-html.png)
+![స్క్రీన్ షాట్](images/birthday-card-html.png)
 
 + మీరు రోబోట్ చిత్రం HTML కోడ్‌ను కనుగొని, ` robot ` అనే పదాన్ని ` sun ` కు మార్చగలరా?
 
@@ -21,29 +21,30 @@
 + కోడ్‌ను కనుగొనడానికి 17 వ పంక్తిలో చూడండి.
 + ` robot `అనే పదాన్ని ` sun ` కి మార్పు చేసిన తర్వాత మీ చిత్రం మార్పును చూస్తారు!
 
-![screenshot](images/birthday-card-sun.png)
+![స్క్రీన్ షాట్](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+మీరు పుట్టినరోజు కార్డు కోసం ఈ పదాలలో దేనినైనా ఉపయోగించవచ్చు `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, `trophy`. మీరు క్రిస్మస్ కార్డు తయారు చేయాలనుకుంటే ఈ పదాలను ఉపయోగించండి `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman`.
 
-You can also edit the CSS code of the birthday card.
+మీరు పుట్టినరోజు కార్డు యొక్క CSS కోడ్‌ను కూడా సవరించవచ్చు.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ ` style.css` కోసం టాబ్‌పై క్లిక్ చేయండి. మొదటి భాగం ** వెలుపల** ఉన్న కార్డు యొక్ అన్ని CSS శైలులు.
 
-+ Change the `background-color` to `lightgreen`.
++ `background-color` రంగును ` lightgreen ` కు మార్చండి.
 
-![screenshot](images/birthday-card-outside.png)
+![స్క్రీన్ షాట్](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ మీరు చిత్రం పరిమాణాన్ని కూడా మార్చవచ్చు. `#outside-pic` CSS కోడ్ కి వెళ్లి , బయటి చిత్రం `width<code> 
+( వెడల్పు) మరియు <code>height` (ఎత్తు ) ను ` 200px ` కు మార్చడి (<0> px </code> అంటే పిక్సెల్‌లు).
 
-![screenshot](images/birthday-card-size.png)
+![స్క్రీన్ షాట్](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ ఫాంట్(font ) ‌ను కూడ మార్చవచ్చు. `#outside-title` CSS కోడ్ కి వెళ్లి `font-family` ను `Comic Sans MS` మరియు `font-size` ు `16pt` మార్చవచ్చు.
 
-![screenshot](images/birthday-card-font.png)
+![స్క్రీన్ షాట్](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+మీరు ఇతర ఫాంట్‌లను ఉపయోగించవచ్చు, ఉదాహరణకు:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
