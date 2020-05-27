@@ -20,6 +20,6 @@ Ez a projekt a [Raspberry Pi Digitális Alkotás Tanterv](http://rpf.io/curricul
 
 ### További információk oktatóknak
 
-Ha ki szeretnéd nyomtatni ezt a projektet, kérjük, használd a [nyomtatóbarát verziót](https://projects.raspberrypi.org/hu-HU/projects/happy-birthday/print) {:target="_blank"} .
+Ha ki szeretnéd nyomtatni ezt a projektet, kérjük, használd a [nyomtatóbarát verziót](https://projects.raspberrypi.org/hu-HU/projects/happy-birthday/print){:target="_blank"} .
 
 A láblécben található linkkel elérheted ennek a projektnek a Github repóját, amely tartalmazza az összes forrást (köztük egy teljes példaprojektet) az "hu-HU/resources" mappában.
