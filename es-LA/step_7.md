@@ -1,0 +1,51 @@
+## Crear una tarjeta de cumpleaños
+
+Vamos a usar lo que has aprendido sobre HTML y CSS para crear tu propia tarjeta de cumpleaños personalizada.
+
++ Abre [este trinket](https://trinket.io/html/48e24c2f54){:target="_blank"}.
+
+Hemos escrito muchos códigos para que comiences, hasta ahora la tarjeta de cumpleaños se ve bastante aburrida, así que vas a hacer algunos cambios en el código HTML y CSS.
+
++ Haz clic en el botón de la parte frontal de la tarjeta, deberías notar que se abre para ver el interior.
+
+![captura de pantalla](images/birthday-click.png)
+
++ Ve a la línea 14 del código HTML. Prueba editar el texto para personalizar tu tarjeta.
+
+![captura de pantalla](images/birthday-card-html.png)
+
++ ¿Puedes encontrar el código HTML para la imagen del robot y cambiar la palabra `robot` por `sun`?
+
+--- hints ---
+ --- hint ---
+
++ Mira en la línea 17 para encontrar el código.
++ Cambia la palabra `robot` por `sun` ¡y verás que la imagen cambia!
+
+![captura de pantalla](images/birthday-card-sun.png)
+
+--- /hint ------ /hints ---
+
+Puedes usar cualquiera de las siguientes palabras `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea` o `trophy` para una tarjeta de cumpleaños, o `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa` o `snowman` si prefieres hacer una tarjeta de Navidad.
+
+También puedes editar el código CSS de la tarjeta de cumpleaños.
+
++ Toca la pestaña de `style.css`. La primera parte son todos los estilos CSS para el **exterior** de la tarjeta.
+
++ Cambia `background-color` a `lightgreen`.
+
+![captura de pantalla](images/birthday-card-outside.png)
+
++ También puedes cambiar el tamaño de la imagen. Ve al código CSS `#outside-pic` y cambia el `width` y la `height` de la imagen exterior a `200px` (`px` representa píxeles).
+
+![captura de pantalla](images/birthday-card-size.png)
+
++ También se puede cambiar la fuente. Ve al código CSS `#outside-title` y cambia la `font-family` a `Comic Sans MS` y el `font-size` a `16pt`.
+
+![captura de pantalla](images/birthday-card-font.png)
+
+Puedes usar otras fuentes, por ejemplo:
+
++ `<span style="font-family: Arial;">arial</span>`
++ `<span style="font-family: impact;">Impact</span>`
++ `<span style="font-family: tahoma;">Tahoma</span>`

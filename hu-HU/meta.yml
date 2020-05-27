@@ -1,0 +1,27 @@
+---
+hero_image: images/happy-birthday.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Boldog születésnapot
+description: Készíts online születésnapi kártyát egy weboldalon
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2017-01-01
+steps:
+  - title: Bevezetés
+  - title: Mire lesz szükséged
+  - title: Mi a HTML?
+  - title: 'Kihívás: adj hozzá egy másik bekezdést'
+  - title: Mi a CSS?
+  - title: 'Kihívás: adj hozzá több stílust'
+  - title: Születésnapi képeslap készítése
+  - title: 'Kihívás: készíts személyre szabott képeslapot'
