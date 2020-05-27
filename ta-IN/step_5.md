@@ -4,7 +4,7 @@ CSS stands for **Cascading Style Sheets**, and it is a language used to style we
 
 + This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
 
-![screenshot](images/birthday-css-link.png)
+![திரைப்பிடிப்பு](images/birthday-css-link.png)
 
 CSS lists all of the **properties** for a particular tag.
 
