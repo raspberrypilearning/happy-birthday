@@ -2,13 +2,13 @@
 
 HTML എന്നാൽ ** ഹൈപ്പർ‌ടെക്സ്റ്റ് മാർ‌ക്കപ്പ് ലാംഗ്വേജ് **, വെബ്‌പേജുകൾ നിർമ്മിക്കാൻ ഉപയോഗിക്കുന്ന ഭാഷ. നമുക്ക് ഒരു ഉദാഹരണം നോക്കാം!
 
-You'll be using a website called trinket.io to write HTML code.
+Trinket.io എന്ന വെബ്‌സൈറ്റ് ആയിരിക്കും, താങ്കൾ HTML കോഡ് എഴുതാൻ ഉപയോഗിക്കുക.
 
 + [ ഈ ട്രിങ്കറ്റ് തുറക്കുക](http://jumpto.cc/web-intro)
 
 പ്രോജക്റ്റ് ഇതുപോലെ ആയിരിക്കണം:
 
-![screenshot](images/birthday-starter.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-starter.png)
 
 നിങ്ങൾക്ക് ഇടതുവശത്ത് കാണാൻ കഴിയുന്ന കോഡ് HTML ആണ്. ട്രിങ്കറ്റിന്റെ വലതുവശത്ത്, HTML കോഡ് നിർമ്മിച്ച വെബ്‌പേജ് നിങ്ങൾക്ക് കാണാൻ കഴിയും.
 
@@ -18,46 +18,46 @@ You'll be using a website called trinket.io to write HTML code.
 <p>Hi. My name is Andy.</p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`<p>` ഒരു ടാഗിന്റെ ഉദാഹരണമാണ്. ** പാരഗ്രാഫിന്റെ ഹ്രസ്വരൂപമാണ് ഇത്**. നിങ്ങൾക്ക് `<p>` ഉപയോഗിച്ച് ഒരു ഖണ്ഡിക ആരംഭിക്കാനും `</p>` ഉപയോഗിച്ച് ഒരു ഖണ്ഡിക അവസാനിപ്പിക്കാനും കഴിയും.
 
-+ Can you spot any other tags?
++ നിങ്ങൾക്ക് മറ്റേതെങ്കിലും ടാഗുകൾ കണ്ടെത്താൻ കഴിയുമോ?
 
 ## \--- collapse \---
 
-## title: Answer
+## ശീർഷകം: ഉത്തരം
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+നിങ്ങൾ കണ്ടെത്തിയ മറ്റൊരു ടാഗ് `<b>` ആണ്, ഇത് ** ബോൾഡിനെ സൂചിപ്പിക്കുന്നു **:
 
 ```html
-<b>running</b>
+<b> പ്രവർത്തിക്കുന്നു </b>
 ```
 
-Here are some more:
+കുറച്ച് കൂടി കാര്യങ്ങൾ ഇതാ:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `<html>` ` ഉം </html>` ഉം, HTML ഡോക്യൂമെന്റിന്റെ ആരംഭവും അവസാനവും അടയാളപ്പെടുത്തുന്നു
++ `<head>` ഉം` </head>`ഉം, CSS പോലുള്ള കാര്യങ്ങൾ രേഖപ്പെടുത്തുന്നത്തിനു വേണ്ടി ഉപയോഗിക്കുന്നു് (നമുക്കതു പിന്നീട് പരിശോധിക്കാം)
++ `<body>` യും ` </body>` യും, താങ്കളുടെ വെബ്സൈറ്റിന്റെ ഉള്ളടക്കം രേഖപ്പെടുത്തുന്നത്തിനു വേണ്ടി ഉപയോഗിക്കുന്നു്
 
-![screenshot](images/birthday-head-body.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ ഇടതുവശത്തുള്ള HTML ഫയലിലെ വാചകത്തിന്റെ ഒരു ഖണ്ഡികയിൽ മാറ്റം വരുത്തുക. ** Run ** ബട്ടൺ ക്ലിക്കുചെയ്യുക, നിങ്ങളുടെ വെബ്‌പേജിൽ വന്ന മാറ്റം വലതുവശത്ത് കാണാൻ സാധിക്കും!
 
-![screenshot](images/birthday-edit-html.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ താങ്കൾ ഒരു തെറ്റ് വരുത്തിയെന്നിരിക്കട്ടെ, താങ്കൾ ഉണ്ടാക്കിയ എല്ലാ മാറ്റങ്ങളും പഴയപടിയാക്കാൻ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, താങ്കൾക്ക് ** Menu ** ബട്ടൺ ക്ലിക്കുചെയ്യാം. തുടർന്ന് ** Reset ** ബട്ടൺ ക്ലിക്കുചെയ്യുക.
 
-![screenshot](images/birthday-reset.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+താങ്കൾ അവസാനമായി ചെയ്‌ത മാറ്റങ്ങൾ പഴയപടിയാക്കാൻ, താങ്കൾക്ക് ` Ctrl ` ഒപ്പം ` z ` കീകൾ ഒരുമിച്ച് അമർത്താം.
 
-### You don't need a Trinket account to save your projects!
+### നിങ്ങളുടെ പ്രോജക്റ്റുകൾ സംരക്ഷിക്കുന്നതിന് നിങ്ങൾക്ക് ഒരു ട്രിങ്കറ്റ് അക്കൗണ്ട് ആവശ്യമില്ല!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+താങ്കൾക്ക് ഒരു ട്രിങ്കറ്റ് അക്കൗണ്ട് ഇല്ലെങ്കിൽ, **Down** ആരോ ക്ലിക്ക് ചെയ്തതിനു ശേഷം, കാണുന്ന ലിങ്കിൽ ക്ലിക്കുചെയ്യുക. ഇത് നിങ്ങൾക്ക് നൽകുന്ന ലിങ്ക് ഉപയോഗിച്ച് പിന്നീട് തിരികെ വരാൻ കഴിയും. താങ്കൾ മാറ്റങ്ങൾ വരുത്തുമ്പോഴെല്ലാം ഈ പ്രക്രിയ വീണ്ടും ആവർത്തിക്കേണ്ടതുണ്ട്!
 
-![screenshot](images/birthday-link.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+നിങ്ങൾക്ക് ഒരു ട്രിങ്കറ്റ് അക്കൗണ്ട് ഉണ്ടെങ്കിൽ,നിങ്ങളുടെ വെബ്‌പേജ് സംരക്ഷിക്കാനുള്ള എളുപ്പവഴി ട്രിങ്കറ്റിന്റെ മുകളിലുള്ള **Remix** ബട്ടൺ ക്ലിക്കുചെയ്യുക എന്നതാണ്.ഇത് നിങ്ങളുടെ പ്രൊഫൈലിൽ ട്രിങ്കറ്റിന്റെ ഒരു പകർപ്പ് സംരക്ഷിക്കും.
 
-![screenshot](images/birthday-remix.png)
+![സ്‌ക്രീൻഷോട്ട്](images/birthday-remix.png)
