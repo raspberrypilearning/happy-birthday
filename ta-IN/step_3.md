@@ -24,7 +24,7 @@ HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your 
 
 ## \--- collapse \---
 
-## title: Answer
+## பதில்
 
 One other tag you might have spotted is `<b>`, which stands for **bold**:
 
