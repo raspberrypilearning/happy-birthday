@@ -1,16 +1,16 @@
-## What is HTML?
+## HTML என்றால் என்ன?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML என்பது **Hypertext Markup Language** மொழியைக் குறிக்கிறது, இது வலைப்பக்கங்களை உருவாக்க பயன்படும் மொழி. ஒரு உதாரணத்தைப் பார்ப்போம்!
 
-You'll be using a website called trinket.io to write HTML code.
+HTML குறியீட்டை எழுத trinket.io என்ற வலைத்தளத்தைப் பயன்படுத்துவீர்கள்.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ [இந்த trinket இணையதள இணைப்பை](http://jumpto.cc/web-intro){:target="_blank"} திறக்கவும்.
 
-The project should look like this:
+இந்த திட்டம் இதுபோன்றதாக இருக்கும்:
 
-![screenshot](images/birthday-starter.png)
+![திரைப்பிடிப்பு](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+இடதுபுறத்தில் நீங்கள் காணக்கூடிய குறியீடு HTML ஆகும். வலதுபுறத்தில், HTML குறியீடு உருவாக்கிய வலைப்பக்கத்தைக் காணலாம்.
 
 HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
 
