@@ -1,4 +1,4 @@
-## What is CSS?
+## CSS என்றால் என்ன?
 
 CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
 
