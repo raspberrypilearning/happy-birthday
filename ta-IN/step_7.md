@@ -12,7 +12,7 @@ We've written a lot of code to get you started, but the birthday card looks pret
 
 + Go to line 14 of the HTML code. Try editing the text to customise your card.
 
-![screenshot](images/birthday-card-html.png)
+![திரைப்பிடிப்பு](images/birthday-card-html.png)
 
 + Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
 
