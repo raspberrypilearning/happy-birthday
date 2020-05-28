@@ -6,26 +6,26 @@
 
 நீங்கள் தொடங்குவதற்கு நாங்கள் நிறைய குறியீடுகளை எழுதியுள்ளோம், ஆனால் பிறந்தநாள் அட்டை இதுவரை மிகவும் சாதாரணமாக இருக்கிறது, எனவே நீங்கள் HTML மற்றும் CSS குறியீட்டில் சில மாற்றங்களைச் செய்யப் போகிறீர்கள்.
 
-+ Click the button on the front of the card, and you should see it open to reveal the inside.
++ அட்டையின் முன்பக்கத்தில் உள்ள பொத்தானைக் கிளிக் செய்க, உள்ளே இருப்பதை வெளிப்படுத்த அது திறப்பதைப் பார்க்கலாம்.
 
 ![திரைப்பிடிப்பு](images/birthday-click.png)
 
-+ Go to line 14 of the HTML code. Try editing the text to customise your card.
++ உங்கள் அட்டையைத் தனிப்பயனாக்க HTML குறியீட்டின் 14 வது வரிக்குச் சென்று உரையை மாற்றிப் பார்க்கவும்.
 
 ![திரைப்பிடிப்பு](images/birthday-card-html.png)
 
-+ Can you find the HTML code for the robot image, and change the word `robot` to `sun`?
++ உங்களால் ரோபோ படத்திற்கான HTML குறியீட்டைக் கண்டுபிடித்து, `robot` என்ற வார்த்தையை `sun` என மாற்ற முடியுமா?
 
 \--- hints \--- \--- hint \---
 
-+ Look on line 17 to find the code.
-+ Change the word `robot` to `sun`, and you'll see the image change!
++ குறியீட்டைக் கண்டுபிடிக்க 17 வது வரியில் பாருங்கள்.
++ `robot` என்ற வார்த்தையை `sun` என மாற்றவும், பின்பு படம் மாறுவதைக் காண்பீர்கள்!
 
-![screenshot](images/birthday-card-sun.png)
+![திரைப்பிடிப்பு](images/birthday-card-sun.png)
 
 \--- /hint \--- \--- /hints \---
 
-You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
+நீங்கள் பிறந்தநாள் அட்டைக்கு பின்வரும் சொற்களில் எதை வேண்டுமானாலும் பயன்படுத்தலாம் `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, `trophy`, அல்லது நீங்கள் ஒரு கிறிஸ்துமஸ் அட்டையை உருவாக்க விரும்பினால் பின்வரும் சொற்களில் எதை வேண்டுமானாலும் பயன்படுத்தலாம் `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, `snowman`.
 
 You can also edit the CSS code of the birthday card.
 
