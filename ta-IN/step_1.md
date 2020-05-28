@@ -14,12 +14,12 @@
 
 ### நீங்கள் என்ன கற்றுக் கொள்வீர்கள்
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+இந்த திட்டம் [Raspberry Pi இலக்கமுறை உருவாக்கம் பாடத்திட்டத்தின்](http://rpf.io/curriculum){:target="_blank"} பின்வரும் இழைகளின் கூறுகளை உள்ளடக்கியது:
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
 ### கல்வியாளர்களுக்கான கூடுதல் தகவல்கள்
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target="_blank"} .
+இந்த திட்டத்தை நீங்கள் அச்சிட வேண்டுமானால், தயவுசெய்து [printer-friendly version](https://projects.raspberrypi.org/en/projects/happy-birthday/print){:target = "_ blank"} ஐப் பயன்படுத்தவும்.
 
-Use the link in the footer to access the GitHub repo for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+இந்த திட்டத்திற்கான GitHub களஞ்சியத்தை அணுக அடிக்குறிப்பில் உள்ள இணைப்பைப் பயன்படுத்தவும், இதில் அனைத்து வளங்களும் (எடுத்துக்காட்டுக்காக பூர்த்தி செய்யப்பட்ட திட்டங்களுடன்) 'en / resources' என்கின்ற கோப்புறையில் வைக்கப்பட்டுள்ளது.
