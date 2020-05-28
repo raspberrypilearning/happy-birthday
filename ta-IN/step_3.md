@@ -32,9 +32,9 @@ One other tag you might have spotted is `<b>`, which stands for **bold**:
 <b>running</b>
 ```
 
-Here are some more:
+மேலும் சில இங்கே கொடுக்கப்பட்டுள்ளது:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
++ `<html>` மற்றும் ` </html>` HTML ஆவணத்தின் தொடக்கத்தையும் முடிவையும் குறிக்கின்றது
 + `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
 + `<body>` and `</body>` is where your website content goes
 
