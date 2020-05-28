@@ -37,11 +37,11 @@ You can also edit the CSS code of the birthday card.
 
 + You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
-![screenshot](images/birthday-card-size.png)
+![திரைப்பிடிப்பு](images/birthday-card-size.png)
 
 + The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
 
-![screenshot](images/birthday-card-font.png)
+![திரைப்பிடிப்பு](images/birthday-card-font.png)
 
 You can use other fonts, for example:
 
