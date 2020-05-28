@@ -1,6 +1,6 @@
-## Making a birthday card
+## பிறந்தநாள் அட்டையை உருவாக்குதல்
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+உங்கள் சொந்த தனிப்பயனாக்கப்பட்ட பிறந்தநாள் அட்டையை உருவாக்க HTML மற்றும் CSS பற்றி நீங்கள் கற்றுக்கொண்டதைப் பயன்படுத்தலாம்.
 
 + Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
 
