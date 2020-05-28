@@ -20,7 +20,7 @@ steps:
   - 
     title: அறிமுகம்
   - 
-    title: What you will need
+    title: உங்களுக்கு தேவையானவை
   - 
     title: HTML என்றால் என்ன?
   - 
@@ -28,8 +28,8 @@ steps:
   - 
     title: CSS என்றால் என்ன?
   - 
-    title: 'Challenge: add more styles'
+    title: 'சவால்: மேலும் சில பாணிகளைச் சேர்க்கவும்'
   - 
     title: பிறந்தநாள் அட்டையை உருவாக்குதல்
   - 
-    title: 'Challenge: create a personalised card'
+    title: 'சவால்: தனிப்பயனாக்கப்பட்ட அட்டையை உருவாக்கவும்'
