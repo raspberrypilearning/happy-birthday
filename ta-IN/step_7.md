@@ -2,13 +2,13 @@
 
 உங்கள் சொந்த தனிப்பயனாக்கப்பட்ட பிறந்தநாள் அட்டையை உருவாக்க HTML மற்றும் CSS பற்றி நீங்கள் கற்றுக்கொண்டதைப் பயன்படுத்தலாம்.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ [இந்த trinket இணையதள இணைப்பை](https://trinket.io/html/b33e4f4ca8){:target="_blank"} திறக்கவும்.
 
 We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
 
 + Click the button on the front of the card, and you should see it open to reveal the inside.
 
-![screenshot](images/birthday-click.png)
+![திரைப்பிடிப்பு](images/birthday-click.png)
 
 + Go to line 14 of the HTML code. Try editing the text to customise your card.
 
