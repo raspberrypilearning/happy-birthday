@@ -2,7 +2,7 @@
 
 ## சவால்: தனிப்பயனாக்கப்பட்ட அட்டையை உருவாக்கவும்
 
-+ Use everything you've learnt about HTML and CSS to finish making a personalised card. And it doesn't have to be a birthday card, it could be one for Christmas or any other occasion!
++ நீங்கள் HTML மற்றும் CSS பற்றி கற்றுக்கொண்ட அனைத்தையும் பயன்படுத்தி தனிப்பயனாக்கப்பட்ட அட்டையை உருவாக்கவும். அது பிறந்தநாள் அட்டையாக இருக்க வேண்டிய அவசியமில்லை, இது கிறிஸ்துமஸ் அல்லது வேறு எந்த சந்தர்ப்பத்திலாவது பயன்படுமாறு அமைக்கலாம்!
 
 இங்கே ஓர் எடுத்துக்காட்டு கொடுக்கப்பட்டுள்ளது:
 
