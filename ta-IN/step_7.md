@@ -35,11 +35,11 @@
 
 ![திரைப்பிடிப்பு](images/birthday-card-outside.png)
 
-+ நீங்கள் ஒரு படத்தின் அளவையும் மாற்றலாம். Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ நீங்கள் ஒரு படத்தின் அளவையும் மாற்றலாம். CSS குறியீட்டில் `#outside-pic` ஐ தேர்வு செய்து, வெளியில் உள்ள படத்தின் `width` மற்றும் `height` பண்புகளை `200px` என மாற்றவும். (`px` என்பது பிக்சல் அளவைக் குறிக்கிறது).
 
 ![திரைப்பிடிப்பு](images/birthday-card-size.png)
 
-+ The font can be changed too. Go to the `#outside-title` CSS and change the `font-family` to `Comic Sans MS` and the `font-size` to `16pt`.
++ எழுத்துருவையும் மாற்றலாம். CSS குறியீட்டில் `#outside-title`ஐ தேர்வு செய்து `font-family` ஐ `Comic Sans MS` எனவும் `font-size` ஐ `16pt` எனவும் மாற்றவும்.
 
 ![திரைப்பிடிப்பு](images/birthday-card-font.png)
 
