@@ -27,15 +27,15 @@
 
 நீங்கள் பிறந்தநாள் அட்டைக்கு பின்வரும் சொற்களில் எதை வேண்டுமானாலும் பயன்படுத்தலாம் `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, `trophy`, அல்லது நீங்கள் ஒரு கிறிஸ்துமஸ் அட்டையை உருவாக்க விரும்பினால் பின்வரும் சொற்களில் எதை வேண்டுமானாலும் பயன்படுத்தலாம் `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, `snowman`.
 
-You can also edit the CSS code of the birthday card.
+பிறந்தநாள் அட்டையின் CSS குறியீட்டையும் நீங்கள் திருத்தலாம்.
 
-+ Click on the tab for `style.css`. The first part is all of the CSS styles for the **outside** of the card.
++ `style.css` ஐ கிளிக் செய்க. முதல் பகுதி அட்டையின் **வெளியில்** உள்ள அனைத்து CSS பாணிகளும் ஆகும்.
 
-+ Change the `background-color` to `lightgreen`.
++ `background-color` ஐ `lightgreen` நிறத்திற்கு மாற்றவும்.
 
 ![திரைப்பிடிப்பு](images/birthday-card-outside.png)
 
-+ You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
++ நீங்கள் ஒரு படத்தின் அளவையும் மாற்றலாம். Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
 ![திரைப்பிடிப்பு](images/birthday-card-size.png)
 
@@ -43,7 +43,7 @@ You can also edit the CSS code of the birthday card.
 
 ![திரைப்பிடிப்பு](images/birthday-card-font.png)
 
-You can use other fonts, for example:
+நீங்கள் மற்ற எழுத்துருவையும் பயன்படுத்தலாம், எடுத்துக்காட்டாக:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
