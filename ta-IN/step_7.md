@@ -4,7 +4,7 @@
 
 + [இந்த trinket இணையதள இணைப்பை](https://trinket.io/html/b33e4f4ca8){:target="_blank"} திறக்கவும்.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+நீங்கள் தொடங்குவதற்கு நாங்கள் நிறைய குறியீடுகளை எழுதியுள்ளோம், ஆனால் பிறந்தநாள் அட்டை இதுவரை மிகவும் சாதாரணமாக இருக்கிறது, எனவே நீங்கள் HTML மற்றும் CSS குறியீட்டில் சில மாற்றங்களைச் செய்யப் போகிறீர்கள்.
 
 + Click the button on the front of the card, and you should see it open to reveal the inside.
 
@@ -33,7 +33,7 @@ You can also edit the CSS code of the birthday card.
 
 + Change the `background-color` to `lightgreen`.
 
-![screenshot](images/birthday-card-outside.png)
+![திரைப்பிடிப்பு](images/birthday-card-outside.png)
 
 + You can also change the size of an image. Go to the `#outside-pic` CSS code, and change the `width` and `height` of the outside image to `200px` (`px` stands for pixels).
 
