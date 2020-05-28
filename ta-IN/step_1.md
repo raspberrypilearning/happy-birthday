@@ -16,7 +16,7 @@
 
 இந்த திட்டம் [Raspberry Pi இலக்கமுறை உருவாக்கம் பாடத்திட்டத்தின்](http://rpf.io/curriculum){:target="_blank"} பின்வரும் இழைகளின் கூறுகளை உள்ளடக்கியது:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [ அடிப்படையான 2D மற்றும் 3D மாதிரிகளை வடிவமைக்கவும்](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
 ### கல்வியாளர்களுக்கான கூடுதல் தகவல்கள்
 
