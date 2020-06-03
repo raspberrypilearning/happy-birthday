@@ -1,10 +1,10 @@
 ## Làm một tấm thiệp sinh nhật
 
-Let's use what you've learnt about HTML and CSS to make your own custom birthday card.
+Hãy sử dụng những gì bạn đã học về HTML và CSS để tạo thiệp sinh nhật tùy nhu cầu của riêng bạn.
 
-+ Open [this trinket](https://trinket.io/html/b33e4f4ca8){:target="_blank"}.
++ Mở [trinket này](https://trinket.io/html/b33e4f4ca8) {:target ="_trống"}.
 
-We've written a lot of code to get you started, but the birthday card looks pretty boring so far, so you're going to make some changes to the HTML and CSS code.
+Chúng tôi đã chuẩn bị sẵn nhiều mã để giúp bạn bắt đầu, nhưng tấm thiệp này trông khá nhàm chán, vì vậy bạn sẽ thực hiện một số thay đổi đối với mã HTML và CSS.
 
 + Nhấp vào nút ở mặt trước của thiệp và bạn sẽ thấy mã nguồn bên trong.
 
@@ -35,15 +35,15 @@ Bạn cũng có thể chỉnh sửa mã CSS của thiệp sinh nhật.
 
 ![ảnh chụp màn hình](hình ảnh / sinh nhật-thẻ-bên ngoài.png)
 
-+ You can also change the size of an image. Chuyển đến mã CSS của `#bên ngoài pic` và thay đổi `độ rộng` và `chiều cao` của hình ảnh bên ngoài đến `200px` (`px` là viết tắt của pixel).
++ Bạn cũng có thể thay đổi kích thước của một hình ảnh. Chuyển đến mã CSS của `#bên ngoài pic` và thay đổi `độ rộng` và `chiều cao` của hình ảnh bên ngoài đến `200px` (`px` là viết tắt của pixel).
 
-![screenshot](hình ảnh / thẻ sinh nhật-size.png)
+![ảnh chụp màn hình](hình ảnh / thẻ sinh nhật-size.png)
 
 + Phông chữ cũng có thể được thay đổi. Chuyển đến mã CSS `#bên ngoài tiêu đề` và thay đổi `dòng phông chữ` đến `Comic Sans MS` và `cỡ chữ` đến `16pt`.
 
 ![ảnh chụp màn hình](hình ảnh / sinh nhật-thẻ-font.png)
 
-You can use other fonts, for example:
+Bạn có thể sử dụng các phông chữ khác, ví dụ:
 
 + `<span style="font-family: Arial;">arial</span>`
 + `<span style="font-family: impact;">Impact</span>`
