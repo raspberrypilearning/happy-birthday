@@ -1,63 +1,63 @@
-## What is HTML?
+## Ce este HTML?
 
-HTML stands for **Hypertext Markup Language**, the language used to make webpages. Let's have a look at an example!
+HTML este prescurtarea de la **Hypertext Markup Language**, limbajul folosit pentru a crea pagini web. Iată un exemplu!
 
-You'll be using a website called trinket.io to write HTML code.
+Vei folosi un website numit trinket.io pentru a scrie cod HTML.
 
-+ Open [this trinket](http://jumpto.cc/web-intro){:target="_blank"}.
++ Deschide [acest trinket](http://jumpto.cc/web-intro){:target="_blank"}.
 
-The project should look like this:
+Proiectul ar trebui să arate astfel:
 
-![screenshot](images/birthday-starter.png)
+![captură de ecran](images/birthday-starter.png)
 
-The code that you can see on the left is HTML. On the right of the trinket, you can see the webpage that the HTML code has made.
+Codul pe care îl vezi în stânga este HTML. În dreapta trinket-ului, poți vedea pagina web pe care codul HTML a creat-o.
 
-HTML uses **tags** to build webpages. Look for this HTML code on line 8 of your code:
+HTML folosește **etichete** pentru a construi pagini web. Caută codul HTML de pe linia 8 a codului tău:
 
 ```html
-<p>Hi. My name is Andy.</p>
+<p>Salut. Numele meu este Andrei.</p>
 ```
 
-`<p>` is an example of a tag, and is short for **paragraph**. You can start a paragraph with `<p>`, and end a paragraph with `</p>`.
+`<p>` este un exemplu de etichetă și este prescurtarea de la **paragraf**. Poți începe un paragraf cu `<p>` și să închei un paragraf cu `</p>`.
 
-+ Can you spot any other tags?
++ Poți găsi alte etichete?
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Răspuns
 
-One other tag you might have spotted is `<b>`, which stands for **bold**:
+O altă etichetă pe care s-ar fi putut să o observi este `<b>`, care vine de la **bold** (în engleză, îndrăzneț):
 
 ```html
 <b>running</b>
 ```
 
-Here are some more:
+Iată câteva în plus:
 
-+ `<html>` and `</html>` mark the start and end of the HTML document
-+ `<head>` and `</head>` is where stuff like CSS goes (we'll get to that later)
-+ `<body>` and `</body>` is where your website content goes
++ `<html>` și `</html>` marchează începutul și sfârșitul unui document HTML
++ `<head>` și `</head>` marchează locul pentru lucrurile precum CSS (vom ajunge la asta mai târziu)
++ `<body>` și `</body>` reprezintă locul pentru conținutul paginii tale web
 
-![screenshot](images/birthday-head-body.png)
+![captură de ecran](images/birthday-head-body.png)
 
 \--- /collapse \---
 
-+ Make a change to one of the paragraphs of text in the HTML file (on the left). Click **Run**, and you should see your webpage change (on the right)!
++ Fă o modificare la unul dintre paragrafele din fișierul HTML (din stânga). Dă click pe **Run** și vei putea vedea cum pagina ta web se schimbă (în dreapta)!
 
-![screenshot](images/birthday-edit-html.png)
+![captură de ecran](images/birthday-edit-html.png)
 
-+ If you have made a mistake and want to undo all of your changes, you can click the **menu** button and then click **Reset**.
++ Dacă ai făcut o greșeală și vrei să anulezi toate modificările, poți da click pe butonul **menu** iar apoi pe **Reset**.
 
-![screenshot](images/birthday-reset.png)
+![captură de ecran](images/birthday-reset.png)
 
-To undo just the last thing you did, you can press the `Ctrl` and `z` keys together.
+Pentru a anula doar ultima acțiune, poți apăsa simultan tastele `Ctrl` și `Z`.
 
-### You don't need a Trinket account to save your projects!
+### Nu ai nevoie de un cont Trinket pentru a-ți salva proiectele!
 
-If you don't have a Trinket account, click the **down** arrow and then click **Link**. This will give you a link that you can save and come back to later. You'll need to do this every time you make changes, as the link will change!
+Dacă nu ai un cont Trinket, dă click pe săgeata **jos**, iar mai apoi pe **Link**. Acest lucru îți va oferi un link pe care îl poți salva și la care poți reveni mai târziu. Va trebui să faci acest lucru de fiecare dată când faci modificări, deoarece link-ul se va schimba!
 
-![screenshot](images/birthday-link.png)
+![captură de ecran](images/birthday-link.png)
 
-If you have a Trinket account, the easiest way to save your webpage is to click the **Remix** button on the top of the trinket. This will save a copy of the trinket on your profile.
+Dacă ai un cont Trinket, cea mai ușoară modalitate de a-ți salva pagina web este de a da click pe butonul **Remix** din partea de sus a trinket-ului. Acesta va salva o copie a trinket-ului pe profilul tău.
 
-![screenshot](images/birthday-remix.png)
+![captură de ecran](images/birthday-remix.png)
