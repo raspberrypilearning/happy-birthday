@@ -1,0 +1,27 @@
+---
+hero_image: images/happy-birthday.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: இனிய பிறந்தநாள் வாழ்த்துக்கள்
+description: வலைப்பக்கத்தில் நிகழ்நிலையில் ஒரு பிறந்தநாள் அட்டையை உருவாக்கவும்
+original_url: https://codeclubprojects.org/en-GB/webdev/happy-birthday
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2017-01-01
+steps:
+  - title: அறிமுகம்
+  - title: உங்களுக்கு தேவையானவை
+  - title: HTML என்றால் என்ன?
+  - title: 'சவால்: மற்றொரு பத்தி சேர்க்கவும்'
+  - title: CSS என்றால் என்ன?
+  - title: 'சவால்: மேலும் சில பாணிகளைச் சேர்க்கவும்'
+  - title: பிறந்தநாள் அட்டையை உருவாக்குதல்
+  - title: 'சவால்: தனிப்பயனாக்கப்பட்ட அட்டையை உருவாக்கவும்'
