@@ -14,7 +14,7 @@ Na zobrazenie narodeninového pozdravu klikni na tlačidlo:
 
 ### Čo sa naučíš
 
-Tento projekt pokrýva časti z nasledujúcich zdrojov kurikula [Raspberry Pi Digital Making](http://rpf.io/curriculum){:target="_blank"}:
+Tento projekt pokrýva časti z nasledujúcich zdrojov kurikula [Raspberry Pi Digital Making](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Základy dizajnu v 2D a 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

@@ -14,7 +14,7 @@ Clicia'r botwm i agor y garden pen-blwydd:
 
 ### Beth fyddi di'n ei ddysgu
 
-Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Creu Digidol Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Creu Digidol Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Dylunio elfennau sylfaenol yn 2D a 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

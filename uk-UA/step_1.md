@@ -14,7 +14,7 @@
 
 ### Чому ти навчишся
 
-Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Розробка простих 2D та 3D-ресурсів ](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

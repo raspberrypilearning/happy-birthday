@@ -14,7 +14,7 @@ Klikk på knappen for å åpne bursdagskortet:
 
 ### Hva du vil lære
 
-Dette prosjektet dekker elementer fra følgende deler av [Raspberry Pi Digital Skaper Læreplan](http://rpf.io/curriculum){:target="_blank"}:
+Dette prosjektet dekker elementer fra følgende deler av [Raspberry Pi Digital Skaper Læreplan](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Utforme grunnleggende 2D og 3D elementer](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

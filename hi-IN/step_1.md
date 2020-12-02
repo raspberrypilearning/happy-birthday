@@ -14,7 +14,7 @@
 
 ### आप क्या सीखेंगे
 
-ये परियोजना [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum){:target="_blank"} के निम्नलिखित तत्वों को सम्मिलित करता है:
+ये परियोजना [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](https://rpf.io/curriculum){:target="_blank"} के निम्नलिखित तत्वों को सम्मिलित करता है:
 
 + [बुनियादी 2D और 3D सामग्री डिजाइन करें](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}।
 

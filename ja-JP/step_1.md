@@ -14,7 +14,7 @@
 
 ### 学ぶこと
 
-このプロジェクトは、[Raspberry Piデジタル・メイキング・カリキュラム](http://rpf.io/curriculum){:target="_blank"}の以下の項目を学びます：
+このプロジェクトは、[Raspberry Piデジタル・メイキング・カリキュラム](https://rpf.io/curriculum){:target="_blank"}の以下の項目を学びます：
 
 + [基本的な2Dおよび3Dアセット](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}の設計
 

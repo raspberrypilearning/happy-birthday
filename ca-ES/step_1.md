@@ -14,7 +14,7 @@ Fes clic al botó per obrir la targeta d'aniversari:
 
 ### Què aprendràs
 
-Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Disseny elemental en 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
