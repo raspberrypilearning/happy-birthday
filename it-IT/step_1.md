@@ -14,7 +14,7 @@ Fai clic sul pulsante per aprire il biglietto d'auguri:
 
 ### Che cosa imparerai
 
-Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Risorse base di progettazione 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

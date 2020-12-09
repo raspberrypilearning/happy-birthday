@@ -14,7 +14,7 @@ Clique sur le bouton pour ouvrir la carte d'anniversaire :
 
 ### Ce que tu vas apprendre
 
-Ce projet couvre les éléments des sections suivantes du [Programme Raspberry Pi de création numérique](http://rpf.io/curriculum){:target="_blank"}:
+Ce projet couvre les éléments des sections suivantes du [Programme Raspberry Pi de création numérique](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

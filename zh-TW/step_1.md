@@ -14,7 +14,7 @@
 
 ### 你會學到︰
 
-本專案涵蓋了 [Raspberry Pi 數位創造課程](http://rpf.io/curriculum){:target="_blank"}的以下部分：
+本專案涵蓋了 [Raspberry Pi 數位創造課程](https://rpf.io/curriculum){:target="_blank"}的以下部分：
 
 + [設計基本的 2D 和 3D 物品](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}。
 
