@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: Вступ
-  - title: Що тобі знадобиться
-  - title: Що таке HTML?
-  - title: 'Завдання: додати ще один абзац'
-  - title: Що таке CSS?
-  - title: 'Завдання: додати більше стилів'
-  - title: Створення вітальної листівки
-  - title: 'Завдання: створити персоналізовану листівку'
+- title: Вступ
+- title: Що тобі знадобиться
+  completion: engaged
+- title: Що таке HTML?
+- title: 'Завдання: додати ще один абзац'
+- title: Що таке CSS?
+- title: 'Завдання: додати більше стилів'
+- title: Створення вітальної листівки
+  completion: internal
+- title: 'Завдання: створити персоналізовану листівку'

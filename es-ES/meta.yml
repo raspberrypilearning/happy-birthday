@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: Lo que necesitarás
-  - title: '¿Qué es HTML?'
-  - title: 'Desafío: añadir otro párrafo'
-  - title: '¿Qué es CSS?'
-  - title: 'Desafío: añadir más estilos'
-  - title: Crea una tarjeta de cumpleaños
-  - title: 'Desafío: crea una tarjeta personalizada'
+- title: Introducción
+- title: Lo que necesitarás
+  completion: engaged
+- title: "¿Qué es HTML?"
+- title: 'Desafío: añadir otro párrafo'
+- title: "¿Qué es CSS?"
+- title: 'Desafío: añadir más estilos'
+- title: Crea una tarjeta de cumpleaños
+  completion: internal
+- title: 'Desafío: crea una tarjeta personalizada'

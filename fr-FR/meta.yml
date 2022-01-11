@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: Introduction
-  - title: Ce dont tu auras besoin
-  - title: Qu'est-ce que le HTML ?
-  - title: 'Défi: Ajouter un autre paragraphe'
-  - title: Qu'est-ce que le CSS ?
-  - title: 'Défi: Ajouter plus de styles'
-  - title: Faire une carte d'anniversaire
-  - title: 'Défi: Créer une carte personnalisée'
+- title: Introduction
+- title: Ce dont tu auras besoin
+  completion: engaged
+- title: Qu'est-ce que le HTML ?
+- title: 'Défi: Ajouter un autre paragraphe'
+- title: Qu'est-ce que le CSS ?
+- title: 'Défi: Ajouter plus de styles'
+- title: Faire une carte d'anniversaire
+  completion: internal
+- title: 'Défi: Créer une carte personnalisée'

@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: Wat heb je nodig
-  - title: Wat is HTML?
-  - title: 'Uitdaging: voeg een nieuwe alinea toe'
-  - title: Wat is CSS?
-  - title: 'Uitdaging: voeg meer stijlen toe'
-  - title: Een verjaardagskaart maken
-  - title: 'Uitdaging: een persoonlijke kaart maken'
+- title: Inleiding
+- title: Wat heb je nodig
+  completion: engaged
+- title: Wat is HTML?
+- title: 'Uitdaging: voeg een nieuwe alinea toe'
+- title: Wat is CSS?
+- title: 'Uitdaging: voeg meer stijlen toe'
+- title: Een verjaardagskaart maken
+  completion: internal
+- title: 'Uitdaging: een persoonlijke kaart maken'

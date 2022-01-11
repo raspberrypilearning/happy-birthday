@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: Sissejuhatus
-  - title: Mida sul vaja on
-  - title: Mis on HTML?
-  - title: 'Väljakutse: lisa veel üks ​​lõik'
-  - title: Mis on CSS?
-  - title: 'Väljakutse: lisa rohkem stiile'
-  - title: Sünnipäevakaardi tegemine
-  - title: 'Väljakutse: loo isikupärane kaart'
+- title: Sissejuhatus
+- title: Mida sul vaja on
+  completion: engaged
+- title: Mis on HTML?
+- title: 'Väljakutse: lisa veel üks ​​lõik'
+- title: Mis on CSS?
+- title: 'Väljakutse: lisa rohkem stiile'
+- title: Sünnipäevakaardi tegemine
+  completion: internal
+- title: 'Väljakutse: loo isikupärane kaart'

@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: Introduzione
-  - title: Di cosa avrai bisogno
-  - title: Cos'è l'HTML?
-  - title: 'Sfida: aggiungi un altro paragrafo'
-  - title: Cos'è il CSS?
-  - title: 'Sfida: aggiungi più stili'
-  - title: Creare un biglietto d'auguri
-  - title: 'Sfida: crea una cartolina personalizzata'
+- title: Introduzione
+- title: Di cosa avrai bisogno
+  completion: engaged
+- title: Cos'è l'HTML?
+- title: 'Sfida: aggiungi un altro paragrafo'
+- title: Cos'è il CSS?
+- title: 'Sfida: aggiungi più stili'
+- title: Creare un biglietto d'auguri
+  completion: internal
+- title: 'Sfida: crea una cartolina personalizzata'

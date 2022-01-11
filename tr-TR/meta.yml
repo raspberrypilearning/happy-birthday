@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: Giriş
-  - title: Nelere ihtiyacınız olacak
-  - title: HTML nedir?
-  - title: 'Meydan Okuma: başka bir paragraf ekleyin'
-  - title: CSS nedir?
-  - title: 'Meydan okuma: daha fazla stil ekleyin'
-  - title: Doğum günü kartı yapmak
-  - title: 'Meydan Okuma: Kişiselleştirilmiş bir kart oluşturun'
+- title: Giriş
+- title: Nelere ihtiyacınız olacak
+  completion: engaged
+- title: HTML nedir?
+- title: 'Meydan Okuma: başka bir paragraf ekleyin'
+- title: CSS nedir?
+- title: 'Meydan okuma: daha fazla stil ekleyin'
+- title: Doğum günü kartı yapmak
+  completion: internal
+- title: 'Meydan Okuma: Kişiselleştirilmiş bir kart oluşturun'
