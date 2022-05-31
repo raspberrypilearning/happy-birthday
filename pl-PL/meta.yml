@@ -17,11 +17,15 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: Wprowadzenie
-  - title: Czego będziesz potrzebować
-  - title: Co to jest HTML?
-  - title: 'Wyzwanie: dodaj kolejny akapit'
-  - title: Co to jest CSS?
-  - title: 'Wyzwanie: dodaj więcej stylów'
-  - title: Tworzenie kartki urodzinowej
-  - title: 'Wyzwanie: utwórz spersonalizowaną kartkę'
+- title: Wprowadzenie
+- title: Czego będziesz potrzebować
+- title: Co to jest HTML?
+- title: 'Wyzwanie: dodaj kolejny akapit'
+- title: Co to jest CSS?
+  completion:
+  - engaged
+- title: 'Wyzwanie: dodaj więcej stylów'
+- title: Tworzenie kartki urodzinowej
+  completion:
+  - internal
+- title: 'Wyzwanie: utwórz spersonalizowaną kartkę'

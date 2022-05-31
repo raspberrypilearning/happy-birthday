@@ -1,3 +1,4 @@
+---
 hero_image: images/happy-birthday.png
 theme: turquoise
 duration: 2
@@ -15,12 +16,16 @@ hardware: ''
 software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Cyflwyniad
 - title: Beth fyddi di ei angen
 - title: Beth yw HTML?
 - title: 'Her: ychwanegu paragraff arall'
 - title: Beth yw CSS?
+  completion:
+  - engaged
 - title: 'Her: ychwanegu mwy o steiliau'
 - title: Gwneud carden pen-blwydd
+  completion:
+  - internal
 - title: 'Her: creu carden unigryw'

@@ -17,11 +17,15 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: 소개
-  - title: 준비물
-  - title: HTML이란 무엇인가요?
-  - title: '과제: 다른 문단 추가'
-  - title: CSS란 무엇인가요?
-  - title: '과제: 더 많은 스타일 추가하기'
-  - title: 생일 카드 만들기
-  - title: '과제: 자신만의 카드 만들기'
+- title: 소개
+- title: 준비물
+- title: HTML이란 무엇인가요?
+- title: '과제: 다른 문단 추가'
+- title: CSS란 무엇인가요?
+  completion:
+  - engaged
+- title: '과제: 더 많은 스타일 추가하기'
+- title: 생일 카드 만들기
+  completion:
+  - internal
+- title: '과제: 자신만의 카드 만들기'

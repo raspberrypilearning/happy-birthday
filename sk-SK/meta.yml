@@ -17,11 +17,15 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: Úvod
-  - title: Čo budeš potrebovať
-  - title: Čo je HTML?
-  - title: 'Výzva: pridaj ďalší odsek'
-  - title: Čo je CSS?
-  - title: 'Výzva: pridaj ďalšie štýly'
-  - title: Tvorba narodeninového pozdravu
-  - title: 'Výzva: vytvor pozdrav podľa tvojich vlastných predstáv'
+- title: Úvod
+- title: Čo budeš potrebovať
+- title: Čo je HTML?
+- title: 'Výzva: pridaj ďalší odsek'
+- title: Čo je CSS?
+  completion:
+  - engaged
+- title: 'Výzva: pridaj ďalšie štýly'
+- title: Tvorba narodeninového pozdravu
+  completion:
+  - internal
+- title: 'Výzva: vytvor pozdrav podľa tvojich vlastných predstáv'

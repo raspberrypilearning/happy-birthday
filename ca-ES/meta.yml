@@ -17,11 +17,15 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: Introducció
-  - title: Què necessitaràs
-  - title: Què és HTML?
-  - title: 'Repte: afegeix un altre paràgraf'
-  - title: Què és CSS?
-  - title: 'Repte: afegeix més estils'
-  - title: Fent una targeta d’aniversari
-  - title: 'Repte: crea una targeta personalitzada'
+- title: Introducció
+- title: Què necessitaràs
+- title: Què és HTML?
+- title: 'Repte: afegeix un altre paràgraf'
+- title: Què és CSS?
+  completion:
+  - engaged
+- title: 'Repte: afegeix més estils'
+- title: Fent una targeta d’aniversari
+  completion:
+  - internal
+- title: 'Repte: crea una targeta personalitzada'

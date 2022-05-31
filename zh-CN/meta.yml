@@ -17,11 +17,15 @@ software: html-css-javascript
 version: 4
 last_tested: 2017-01-01
 steps:
-  - title: 简介
-  - title: 你将需要什么
-  - title: HTML 是什么?
-  - title: '挑战：添加另一段落'
-  - title: 什么是 CSS？
-  - title: '挑战：添加更多样式'
-  - title: 制作一张生日贺卡
-  - title: '挑战：制作一张个性化贺卡'
+- title: 简介
+- title: 你将需要什么
+- title: HTML 是什么?
+- title: 挑战：添加另一段落
+- title: 什么是 CSS？
+  completion:
+  - engaged
+- title: 挑战：添加更多样式
+- title: 制作一张生日贺卡
+  completion:
+  - internal
+- title: 挑战：制作一张个性化贺卡
