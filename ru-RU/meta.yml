@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Введение
 - title: Что тебе понадобится
-  completion: engaged
 - title: Что такое HTML?
 - title: 'Задача: добавить ещё один абзац'
 - title: Что такое CSS?
+  completion:
+  - engaged
 - title: 'Задача: добавить больше стилей'
 - title: Создание открытки ко дню рождения
-  completion: internal
+  completion:
+  - internal
 - title: 'Задача: создать персонализированную открытку'

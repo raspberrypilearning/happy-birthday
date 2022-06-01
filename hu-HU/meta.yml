@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Bevezetés
 - title: Amire szükséged lesz
-  completion: engaged
 - title: Mi a HTML?
 - title: 'Kihívás: adj hozzá egy másik bekezdést'
 - title: Mi a CSS?
+  completion:
+  - engaged
 - title: 'Kihívás: adj hozzá több stílust'
 - title: Születésnapi képeslap készítése
-  completion: internal
+  completion:
+  - internal
 - title: 'Kihívás: készíts személyre szabott képeslapot'

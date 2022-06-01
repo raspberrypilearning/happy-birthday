@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: 简介
 - title: 你将需要什么
-  completion: engaged
 - title: HTML 是什么?
 - title: 挑战：添加另一段落
 - title: 什么是 CSS？
+  completion:
+  - engaged
 - title: 挑战：添加更多样式
 - title: 制作一张生日贺卡
-  completion: internal
+  completion:
+  - internal
 - title: 挑战：制作一张个性化贺卡

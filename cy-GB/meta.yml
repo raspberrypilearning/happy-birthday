@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Cyflwyniad
 - title: Beth fyddi di ei angen
-  completion: engaged
 - title: Beth yw HTML?
 - title: 'Her: ychwanegu paragraff arall'
 - title: Beth yw CSS?
+  completion:
+  - engaged
 - title: 'Her: ychwanegu mwy o steiliau'
 - title: Gwneud carden pen-blwydd
-  completion: internal
+  completion:
+  - internal
 - title: 'Her: creu carden unigryw'

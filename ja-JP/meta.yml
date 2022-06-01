@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: はじめに
 - title: 必要なもの
-  completion: engaged
 - title: HTMLって何？
 - title: チャレンジ：段落（だんらく）をもうひとつ追加する
 - title: CSSって何？
+  completion:
+  - engaged
 - title: チャレンジ：さらに書式を追加する
 - title: バースデーカードをつくる
-  completion: internal
+  completion:
+  - internal
 - title: チャレンジ：名前が入ったカードをつくる

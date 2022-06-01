@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Wprowadzenie
 - title: Czego będziesz potrzebować
-  completion: engaged
 - title: Co to jest HTML?
 - title: 'Wyzwanie: dodaj kolejny akapit'
 - title: Co to jest CSS?
+  completion:
+  - engaged
 - title: 'Wyzwanie: dodaj więcej stylów'
 - title: Tworzenie kartki urodzinowej
-  completion: internal
+  completion:
+  - internal
 - title: 'Wyzwanie: utwórz spersonalizowaną kartkę'

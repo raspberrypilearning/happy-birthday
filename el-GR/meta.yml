@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
 - title: Τι θα χρειαστείς
-  completion: engaged
 - title: Τι είναι η HTML
 - title: 'Πρόκληση: πρόσθεσε μία ακόμη παράγραφο'
 - title: Τι είναι η CSS
+  completion:
+  - engaged
 - title: 'Πρόκληση: πρόσθεσε περισσότερα στυλ'
 - title: Δημιουργία κάρτας γενεθλίων
-  completion: internal
+  completion:
+  - internal
 - title: 'Πρόκληση: Δημιούργησε μια εξατομικευμένη κάρτα'

@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Einleitung
 - title: Was du brauchen wirst
-  completion: engaged
 - title: Was ist HTML?
 - title: 'Aufgabe: Füge einen weiteren Absatz hinzu'
 - title: Was ist CSS?
+  completion:
+  - engaged
 - title: 'Aufgabe: Füge weitere Stile hinzu'
 - title: Eine Geburtstagskarte erstellen
-  completion: internal
+  completion:
+  - internal
 - title: 'Aufgabe: Erstelle eine personalisierte Karte'

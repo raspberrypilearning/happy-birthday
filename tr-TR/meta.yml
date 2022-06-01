@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Giriş
 - title: Nelere ihtiyacınız olacak
-  completion: engaged
 - title: HTML nedir?
 - title: 'Meydan Okuma: başka bir paragraf ekleyin'
 - title: CSS nedir?
+  completion:
+  - engaged
 - title: 'Meydan okuma: daha fazla stil ekleyin'
 - title: Doğum günü kartı yapmak
-  completion: internal
+  completion:
+  - internal
 - title: 'Meydan Okuma: Kişiselleştirilmiş bir kart oluşturun'

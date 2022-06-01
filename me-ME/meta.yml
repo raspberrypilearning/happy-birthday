@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Uvod
 - title: Šta će ti biti potrebno
-  completion: engaged
 - title: Šta je HTML?
 - title: 'Izazov: dodaj još jedan pasus'
 - title: Šta je CSS?
+  completion:
+  - engaged
 - title: 'Izazov: dodaj više stilova'
 - title: Izrada rođendanske čestitke
-  completion: internal
+  completion:
+  - internal
 - title: 'Izazov: napravi sopstvenu čestitku'

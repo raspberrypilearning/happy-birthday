@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Introducción
 - title: Lo que necesitarás
-  completion: engaged
 - title: "¿Qué es HTML?"
 - title: 'Desafío: añade otro párrafo'
 - title: "¿Qué es CSS?"
+  completion:
+  - engaged
 - title: 'Desafío: añade más estilos'
 - title: Crear una tarjeta de cumpleaños
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafío: crea una tarjeta personalizada'

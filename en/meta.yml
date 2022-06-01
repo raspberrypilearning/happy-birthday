@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: What you will need
-  completion: engaged
 - title: What is HTML?
 - title: 'Challenge: add another paragraph'
 - title: What is CSS?
+  completion:
+  - engaged
 - title: 'Challenge: add more styles'
 - title: Making a birthday card
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: create a personalised card'

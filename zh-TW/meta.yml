@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: 介紹
 - title: 你需要些什麼
-  completion: engaged
 - title: HTML 是什麼？
 - title: 挑戰：添加另一個段落
 - title: CSS 是什麼？
+  completion:
+  - engaged
 - title: 挑戰：添加更多樣式
 - title: 做個生日卡片
-  completion: internal
+  completion:
+  - internal
 - title: 挑戰：創作個性化卡片

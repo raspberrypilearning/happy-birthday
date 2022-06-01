@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Úvod
 - title: Čo budeš potrebovať
-  completion: engaged
 - title: Čo je HTML?
 - title: 'Výzva: pridaj ďalší odsek'
 - title: Čo je CSS?
+  completion:
+  - engaged
 - title: 'Výzva: pridaj ďalšie štýly'
 - title: Tvorba narodeninového pozdravu
-  completion: internal
+  completion:
+  - internal
 - title: 'Výzva: vytvor pozdrav podľa tvojich vlastných predstáv'

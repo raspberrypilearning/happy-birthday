@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Вступ
 - title: Що тобі знадобиться
-  completion: engaged
 - title: Що таке HTML?
 - title: 'Завдання: додати ще один абзац'
 - title: Що таке CSS?
+  completion:
+  - engaged
 - title: 'Завдання: додати більше стилів'
 - title: Створення вітальної листівки
-  completion: internal
+  completion:
+  - internal
 - title: 'Завдання: створити персоналізовану листівку'

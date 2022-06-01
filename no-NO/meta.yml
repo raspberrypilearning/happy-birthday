@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Introduksjon
 - title: Dette trenger du
-  completion: engaged
 - title: Hva er HTML?
 - title: 'Utfordring: Legg til et nytt avsnitt'
 - title: Hva er CSS?
+  completion:
+  - engaged
 - title: 'Utfordring: Legg til flere stiler'
 - title: Lage et bursdagskort
-  completion: internal
+  completion:
+  - internal
 - title: 'Utfordring: Lag et personlig kort'

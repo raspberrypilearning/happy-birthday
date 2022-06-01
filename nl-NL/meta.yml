@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Inleiding
 - title: Wat heb je nodig
-  completion: engaged
 - title: Wat is HTML?
 - title: 'Uitdaging: voeg een nieuwe alinea toe'
 - title: Wat is CSS?
+  completion:
+  - engaged
 - title: 'Uitdaging: voeg meer stijlen toe'
 - title: Een verjaardagskaart maken
-  completion: internal
+  completion:
+  - internal
 - title: 'Uitdaging: een persoonlijke kaart maken'

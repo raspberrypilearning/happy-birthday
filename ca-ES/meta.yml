@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Introducció
 - title: Què necessitaràs
-  completion: engaged
 - title: Què és HTML?
 - title: 'Repte: afegeix un altre paràgraf'
 - title: Què és CSS?
+  completion:
+  - engaged
 - title: 'Repte: afegeix més estils'
 - title: Fent una targeta d’aniversari
-  completion: internal
+  completion:
+  - internal
 - title: 'Repte: crea una targeta personalitzada'

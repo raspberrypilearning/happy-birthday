@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Introduzione
 - title: Di cosa avrai bisogno
-  completion: engaged
 - title: Cos'è l'HTML?
 - title: 'Sfida: aggiungi un altro paragrafo'
 - title: Cos'è il CSS?
+  completion:
+  - engaged
 - title: 'Sfida: aggiungi più stili'
 - title: Creare un biglietto d'auguri
-  completion: internal
+  completion:
+  - internal
 - title: 'Sfida: crea una cartolina personalizzata'

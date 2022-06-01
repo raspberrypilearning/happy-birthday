@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: ആമുഖം
 - title: താങ്കൾക്ക് വേണ്ടത്
-  completion: engaged
 - title: എന്താണ് HTML?
 - title: 'വെല്ലുവിളി: മറ്റൊരു ഖണ്ഡിക ചേർക്കുക'
 - title: എന്താണ് CSS?
+  completion:
+  - engaged
 - title: 'വെല്ലുവിളി: കൂടുതൽ ശൈലികൾ ചേർക്കുക'
 - title: ഒരു ജന്മദിന കാർഡ് ഉണ്ടാക്കുന്നു
-  completion: internal
+  completion:
+  - internal
 - title: 'വെല്ലുവിളി: ഒരു വ്യക്തിഗതമായ കാർഡ് നിര്‍മ്മിക്കുക'

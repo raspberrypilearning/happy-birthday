@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: المقدمة
 - title: ما ستحتاج إليه
-  completion: engaged
 - title: ما المقصود بـ HTML؟
 - title: 'التحدي: إضافة فقرة أخرى'
 - title: ما المقصود بـ CSS؟
+  completion:
+  - engaged
 - title: 'التحدي: إضافة أنماط أخرى'
 - title: تصميم بطاقة عيد ميلاد
-  completion: internal
+  completion:
+  - internal
 - title: 'التحدي: إنشاء بطاقة خاصة'
