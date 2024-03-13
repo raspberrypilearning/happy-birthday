@@ -4,12 +4,8 @@
 
 Here's an example:
 
-![screenshot](images/birthday-final.png)
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/happy-birthday-complete" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
-
-+ Once you've finished your card, you can share or email it to someone.
-
-![screenshot](images/birthday-share.png)
 
 --- /challenge ---
