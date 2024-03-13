@@ -2,26 +2,59 @@
 
 CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
 
-+ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
+This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
 
-![screenshot](images/birthday-css-link.png)
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 3
+line_highlights: 4
+---
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+--- /code ---
 
 CSS lists all of the **properties** for a particular tag.
 
 + Click on the `style.css` tab to see the CSS code for your webpage.
 
-	![screenshot](images/birthday-css-tab.png)
+![screenshot](images/birthday-css-tab.png)
 
 + Find this code:
 
-```html
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 4
+line_highlights: 
+---
 p {
 	color: black;
 }
-```
+--- /code ---
 
 This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
 
-+ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
+--- task ---
 
-![screenshot](images/birthday-edit-css.png)
+Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue, when you click on **Run**.
+
+--- code ---
+---
+language: css
+filename: style.css.html
+line_numbers: true
+line_number_start: 4
+line_highlights: 5
+---
+p {
+  color: blue;  
+}
+--- /code ---
+
+--- /task ---
