@@ -27,7 +27,7 @@ Go to line 14 of the HTML code. Try editing the text to customise your card.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 12
+line_number_start: 13
 line_highlights: 14
 ---
       <p id="outside-title">

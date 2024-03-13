@@ -19,11 +19,17 @@ line_highlights: 4
 
 CSS lists all of the **properties** for a particular tag.
 
-+ Click on the `style.css` tab to see the CSS code for your webpage.
+--- task ---
+
+Click on the `style.css` file on the left to see the CSS code for your webpage.
 
 ![screenshot](images/birthday-css-tab.png)
 
-+ Find this code:
+--- /task ---
+
+--- task ---
+
+Find this code:
 
 --- code ---
 ---
@@ -37,6 +43,9 @@ p {
 	color: black;
 }
 --- /code ---
+
+--- /task ---
+
 
 This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
 
