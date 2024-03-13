@@ -1,13 +1,27 @@
---- challenge ---
-## Challenge: add another paragraph
-- Can you add a third paragraph of text to your webpage, below the other two?
+## What is CSS?
 
-Remember that your new paragraph should start with a `<p>` tag, and end with `</p>` tag.
+CSS stands for **Cascading Style Sheets**, and it is a language used to style webpages and make them look nice.
 
-Here's how your webpage might look:
++ This code links your webpage to a CSS file — see if you can find it in the `<head>` of the HTML document:
 
-![screenshot](images/birthday-paragraph.png)
+![screenshot](images/birthday-css-link.png)
 
-Can you add **bold** and <u>underlined</u> text to your new paragraph? Use `<u>` and `</u>` tags for underlined text.
+CSS lists all of the **properties** for a particular tag.
 
---- /challenge ---
++ Click on the `style.css` tab to see the CSS code for your webpage.
+
+	![screenshot](images/birthday-css-tab.png)
+
++ Find this code:
+
+```html
+p {
+	color: black;
+}
+```
+
+This CSS code determines a property for paragraphs (`p`), which says that the text colour should be black. Notice the American spelling: 'color'.
+
++ Change the word 'black' in the CSS code to 'blue'. You should see the text colour of all paragraphs change to blue.
+
+![screenshot](images/birthday-edit-css.png)
