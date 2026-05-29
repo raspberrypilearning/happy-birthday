@@ -67,6 +67,7 @@ line_highlights: 17
 --- /hint ---
 --- /hints ---
 
+
 You can use any of the words `boy`, `diamond`, `dinosaur`, `flowers`, `girl`, `rainbow`, `robot`, `spaceship`, `sun`, `tea`, or `trophy` for a birthday card, or `cracker`, `elf`, `penguin`, `present`, `reindeer`, `santa`, or `snowman` if you would prefer to make a Christmas card.
 
 You can also edit the CSS code of the birthday card.
